@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>T4C/Neerya - Filtreur d'Items</title>
+    <style>
+        body {
+            width: 95%;
+            margin: 0 auto;
+            padding: 20px;
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+        }
+
+        .stats-group {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .stat-input {
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+        }
+
+        .stat-input label {
+            font-weight: bold;
+            font-size: 14px;
+        }
+
+        .stat-input input {
+            width: 80px;
+            padding: 8px;
+            font-size: 16px;
+        }
+
+        .stat-input select {
+            width: 180px;
+            padding: 8px;
+            font-size: 16px;
+        }
+
+        .category-group {
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        .category-group label {
+            font-weight: bold;
+            margin-right: 10px;
+        }
+
+        .category-group select {
+            padding: 8px;
+            font-size: 16px;
+            min-width: 200px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            font-size: 13px;
+        }
+
+        table thead {
+            background-color: #f0f0f0;
+            position: sticky;
+            top: 0;
+        }
+
+        table th,
+        table td {
+            border: 1px solid #ddd;
+            padding: 10px;
+            text-align: left;
+        }
+
+        table th {
+            font-weight: bold;
+        }
+
+        table tbody tr:hover {
+            background-color: #f9f9f9;
+        }
+
+        .message {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #f9f9f9;
+            border-left: 4px solid #999;
+        }
+    </style>
+</head>
+
+<body>
+    <h1 style="text-align: center;">T4C builder Neerya</h1>
+
+    <div class="stats-group">
+        <div class="stat-input">
+            <label for="classe">Renaissance</label>
+            <select id="classe">
+                <option value="humain">Humain</option>
+                <option value="renaissance1">Renaissance 1</option>
+                <option value="renaissance2">Renaissance 2</option>
+            </select>
+        </div>
+        <div class="stat-input">
+            <label for="force">Force</label>
+            <input type="number" id="force_req" min="0" value="0">
+        </div>
+        <div class="stat-input">
+            <label for="endurance">Endurance</label>
+            <input type="number" id="endurance_req" min="0" value="0">
+        </div>
+        <div class="stat-input">
+            <label for="dexterite">Dextérité</label>
+            <input type="number" id="dexterite_req" min="0" value="0">
+        </div>
+        <div class="stat-input">
+            <label for="sagesse">Sagesse</label>
+            <input type="number" id="sagesse_req" min="0" value="0">
+        </div>
+        <div class="stat-input">
+            <label for="intelligence">Intelligence</label>
+            <input type="number" id="intelligence_req" min="0" value="0">
+        </div>
+        <div class="stat-input">
+            <label for="niveau">Niveau</label>
+            <input type="text" id="niveau" readonly style="background-color: #f0f0f0; cursor: default;">
+        </div>
+        <div class="stat-input">
+            <label for="points_restants">Points restants</label>
+            <input type="text" id="points_restants" readonly style="background-color: #f0f0f0; cursor: default;">
+        </div>
+    </div>
+
+    <div class="category-group">
+        <label for="category">Catégorie</label>
+        <select id="category">
+            <option value="">-- Sélectionner une catégorie --</option>
+            <option value="sorts">Sorts</option>
+            <option value="competences">Compétences</option>
+            <option value="arcs">Arc et Flèches</option>
+            <option value="melees">Armes de Mêlée</option>
+            <option value="robes">Robes</option>
+            <option value="capes">Capes</option>
+            <option value="bijoux">Bijoux et Orbes</option>
+        </select>
+    </div>
+
+    <div id="results"></div>
+
+    <script>
+        const classeSelect = document.getElementById('classe');
+        const niveauInput = document.getElementById('niveau');
+        const pointsRestantsInput = document.getElementById('points_restants');
+
+        const statsInputs = {
+            force: document.getElementById('force_req'),
+            endurance: document.getElementById('endurance_req'),
+            dexterite: document.getElementById('dexterite_req'),
+            sagesse: document.getElementById('sagesse_req'),
+            intelligence: document.getElementById('intelligence_req')
+        };
+
+        const categorySelect = document.getElementById('category');
+        const resultsDiv = document.getElementById('results');
+
+        // Configuration des classes
+        const classes = {
+            humain: { base: 20, nom: 'Humain' },
+            renaissance1: { base: 25, nom: 'Renaissance 1' },
+            renaissance2: { base: 30, nom: 'Renaissance 2' }
+        };
+
+        // Stats toujours présentes, quelle que soit la catégorie
+        const statColumns = ['force_req', 'endurance_req', 'dexterite_req', 'sagesse_req', 'intelligence_req'];
+
+        // Colonnes par catégorie (dans cet ordre)
+        const categoryColumns = {
+            sorts: ['element', 'nom', 'unique_neerya', 'niveau', ...statColumns, 'mana', 'prerequis', 'pc', 'prix', 'informations', 'obtention'],
+            competences: ['nom', 'unique_neerya', 'niveau', ...statColumns, 'prerequis', 'pc', 'prix', 'informations', 'obtention'],
+            arcs: ['sous_type', 'nom', 'unique_neerya', 'niveau', ...statColumns, 'degats_min', 'degats_max', 'vitesse', 'prix', 'bonus', 'obtention'],
+            melees: ['classe', 'nom', 'unique_neerya', 'niveau', ...statColumns, 'degats_min', 'degats_max', 'vitesse', 'prix', 'informations', 'obtention'],
+            robes: ['nom', 'unique_neerya', 'niveau', ...statColumns, 'armure', 'prix', 'informations', 'obtention'],
+            capes: ['nom', 'unique_neerya', 'niveau', ...statColumns, 'armure', 'prix', 'informations', 'obtention'],
+            bijoux: ['nom', 'unique_neerya', 'niveau', ...statColumns, 'prix', 'informations', 'obtention']
+        };
+
+        // Libellés d'affichage des colonnes
+        const columnLabels = {
+            element: 'Élément',
+            nom: 'Nom',
+            unique_neerya: 'Unique Neerya',
+            niveau: 'Niveau',
+            force_req: 'For',
+            endurance_req: 'End',
+            dexterite_req: 'Dex',
+            sagesse_req: 'Sag',
+            intelligence_req: 'Int',
+            mana: 'Mana',
+            prerequis: 'Prérequis',
+            pc: 'PC',
+            prix: 'Prix',
+            informations: 'Informations',
+            obtention: 'Obtention',
+            sous_type: 'Type',
+            degats_min: 'Dégâts min',
+            degats_max: 'Dégâts max',
+            vitesse: 'Vitesse',
+            bonus: 'Bonus',
+            classe: 'Classe',
+            armure: 'CA'
+        };
+
+        // Charger les données
+        const dataCache = {};
+
+        async function loadData(category) {
+            if (dataCache[category]) {
+                return dataCache[category];
+            }
+
+            try {
+                const response = await fetch(`${category}.json?t=${Date.now()}`, { cache: 'no-store' });
+                if (!response.ok) throw new Error(`Impossible de charger ${category}.json`);
+                const data = await response.json();
+                dataCache[category] = Array.isArray(data) ? data : [data];
+                return dataCache[category];
+            } catch (error) {
+                console.error(error);
+                resultsDiv.innerHTML = `<div class="message">Erreur : ${error.message}</div>`;
+                return null;
+            }
+        }
+
+        function getStats() {
+            return {
+                force: parseInt(statsInputs.force.value) || 0,
+                endurance: parseInt(statsInputs.endurance.value) || 0,
+                dexterite: parseInt(statsInputs.dexterite.value) || 0,
+                sagesse: parseInt(statsInputs.sagesse.value) || 0,
+                intelligence: parseInt(statsInputs.intelligence.value) || 0
+            };
+        }
+
+        function computeLevelInfo(stats, classe) {
+            const classConfig = classes[classe];
+            const statValues = Object.values(stats);
+            const total = statValues.reduce((a, b) => a + b, 0);
+
+            // 5 points de stat au-dessus de la base = 1 niveau (le 1er point excédentaire fait déjà monter de niveau)
+            const excess = Math.max(0, total - classConfig.base * statValues.length);
+            const level = 1 + Math.ceil(excess / 5);
+
+            // Points manquants pour atteindre le prochain niveau
+            const remainder = (5 - (excess % 5)) % 5;
+
+            return { level, remainder };
+        }
+
+        function calculateLevel() {
+            const classe = classeSelect.value;
+            const stats = getStats();
+            const { level, remainder } = computeLevelInfo(stats, classe);
+            niveauInput.value = level;
+            pointsRestantsInput.value = remainder;
+        }
+
+        function fillStatsWithBase() {
+            const classe = classeSelect.value;
+            const baseValue = classes[classe].base;
+
+            Object.values(statsInputs).forEach(input => {
+                input.value = baseValue;
+            });
+
+            calculateLevel();
+            updateResults();
+        }
+
+        function doesMeetRequirements(item, stats, playerLevel) {
+            // Vérifier le niveau
+            if (item.niveau !== undefined && item.niveau !== null && item.niveau > 0) {
+                if (playerLevel < item.niveau) {
+                    return false;
+                }
+            }
+
+            // Vérifier chaque stat (force, endurance, dexterite, sagesse, intelligence)
+            const statNames = ['force', 'endurance', 'dexterite', 'sagesse', 'intelligence'];
+
+            for (const statName of statNames) {
+                const required = item[`${statName}_req`];
+                // Si le champ existe et a une valeur > 0, vérifier les stats de l'utilisateur
+                if (required !== undefined && required !== null && required > 0) {
+                    if (stats[statName] < required) {
+                        return false;
+                    }
+                }
+            }
+            return true;
+        }
+
+        function normalizeItem(item, columns) {
+            // Créer un objet avec toutes les colonnes de la catégorie
+            const normalized = {};
+
+            columns.forEach(col => {
+                if (statColumns.includes(col) || col === 'niveau') {
+                    // Stats et niveau : toujours présents, 0 par défaut si absent
+                    normalized[col] = item[col] !== undefined && item[col] !== null ? item[col] : 0;
+                } else {
+                    normalized[col] = item[col] !== undefined ? item[col] : '';
+                }
+            });
+
+            return normalized;
+        }
+
+        async function updateResults() {
+            const category = categorySelect.value;
+
+            if (!category) {
+                resultsDiv.innerHTML = '';
+                return;
+            }
+
+            const data = await loadData(category);
+            if (!data) return;
+
+            if (data.length === 0) {
+                resultsDiv.innerHTML = '<div class="message">Aucune donnée pour cette catégorie.</div>';
+                return;
+            }
+
+            const stats = getStats();
+            const playerLevel = computeLevelInfo(stats, classeSelect.value).level;
+
+            const filtered = data.filter(item => doesMeetRequirements(item, stats, playerLevel));
+
+            if (filtered.length === 0) {
+                resultsDiv.innerHTML = '<div class="message">Aucun item trouvé avec ces statistiques et ce niveau.</div>';
+                return;
+            }
+
+            // Créer le tableau avec les colonnes de la catégorie
+            const columns = categoryColumns[category] || statColumns;
+
+            let html = '<table><thead><tr>';
+            columns.forEach(col => {
+                html += `<th>${columnLabels[col] || col}</th>`;
+            });
+            html += '</tr></thead><tbody>';
+
+            filtered.forEach(item => {
+                const normalized = normalizeItem(item, columns);
+                html += '<tr>';
+                columns.forEach(col => {
+                    const value = normalized[col];
+                    let displayValue = value;
+
+                    // Formater les valeurs spéciales
+                    if (col === 'unique_neerya') {
+                        displayValue = value === true ? 'Oui' : 'Non';
+                    } else if (Array.isArray(value)) {
+                        displayValue = value.join(', ');
+                    } else if (value === '' || value === null) {
+                        displayValue = '-';
+                    }
+
+                    html += `<td>${displayValue}</td>`;
+                });
+                html += '</tr>';
+            });
+
+            html += '</tbody></table>';
+            resultsDiv.innerHTML = html;
+        }
+
+        // Event listeners
+        Object.values(statsInputs).forEach(input => {
+            input.addEventListener('change', () => {
+                calculateLevel();
+                updateResults();
+            });
+            input.addEventListener('input', () => {
+                calculateLevel();
+                updateResults();
+            });
+        });
+
+        classeSelect.addEventListener('change', () => {
+            fillStatsWithBase();
+        });
+
+        categorySelect.addEventListener('change', updateResults);
+
+        // Initialiser avec les valeurs de base d'Humain
+        fillStatsWithBase();
+    </script>
+</body>
+
+</html>
