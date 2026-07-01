@@ -1,0 +1,287 @@
+<tr class="row7 odd" role="row">
+		<td class="col0 sorting_1">Casse-tête</td><td class="col1">60</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">56</td><td class="col6">32-51</td><td class="col7">835</td><td class="col8"> </td><td class="col9">Cap dex : 216 <br>
++10 en force <br>
+-5 en sagesse <br>
+-5 en intelligence</td><td class="col10">Docteur Vertebrus (Asile-Arakas)</td><td class="col11"><a href="/wiki/_detail/objets/terre/447.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:447.png"><img src="/wiki/_media/objets/terre/447.png?w=60&amp;h=60&amp;tok=43ffd3" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row28 even" role="row">
+		<td class="col0 sorting_1">Etoile de l'aube</td><td class="col1">210</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">169</td><td class="col6">181-275</td><td class="col7">816</td><td class="col8">9.227.640</td><td class="col9">Cap dex : 183 <br>
+Dégâts sur morts-vivants: 209-316 <br>
++50% en Attaque</td><td class="col10">Stoneheim</td><td class="col11"><a href="/wiki/_detail/objets/terre/4.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:4.png"><img src="/wiki/_media/objets/terre/4.png?w=60&amp;h=60&amp;tok=659fed" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row34 odd" role="row">
+		<td class="col0 sorting_1">Fléau antique des Hauts Elfes</td><td class="col1">260</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">206</td><td class="col6">199-311</td><td class="col7">816</td><td class="col8"> </td><td class="col9">Cap dex : 183 <br>
+Dégâts sur morts-vivants: 229-358 <br>
++50% en Attaque</td><td class="col10">Markrsh P'Tangh</td><td class="col11"><a href="/wiki/_detail/objets/terre/4.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:4.png"><img src="/wiki/_media/objets/terre/4.png?w=60&amp;h=60&amp;tok=659fed" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row35 even" role="row">
+		<td class="col0 sorting_1">Fléau antique des Hauts Elfes divin</td><td class="col1">260</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">206</td><td class="col6">229-357</td><td class="col7">816</td><td class="col8"> </td><td class="col9">Cap dex : 183 <br>
+Lance un sort mono cible de terre, air ou lumière (en fonction de votre puissance la plus haute) en attaquant <br>
+<br>
++10 en puissance terre/air/lumière<br>
++50% attaque </td><td class="col10">Amélioration points d'instance </td><td class="col11"><a href="/wiki/_detail/objets/terre/4.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:4.png"><img src="/wiki/_media/objets/terre/4.png?w=60&amp;h=60&amp;tok=659fed" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row36 odd" role="row">
+		<td class="col0 sorting_1">Fléau d'armes ancien</td><td class="col1">260</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">206</td><td class="col6">133-207</td><td class="col7">816</td><td class="col8">360.269</td><td class="col9">Cap dex : 183 <br>
+Dégâts sur morts-vivants: 153-238</td><td class="col10">Sigered Heavyhammer (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/4.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:4.png"><img src="/wiki/_media/objets/terre/4.png?w=60&amp;h=60&amp;tok=659fed" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row37 even" role="row">
+		<td class="col0 sorting_1">Fléau d'armes ancien béni</td><td class="col1">260</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">206</td><td class="col6">153-238</td><td class="col7">816</td><td class="col8">1.080.807</td><td class="col9">Cap dex : 183 <br>
+Dégâts sur morts-vivants: 176-274 <br>
++15% en Attaque</td><td class="col10">Sigered Heavyhammer (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/4.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:4.png"><img src="/wiki/_media/objets/terre/4.png?w=60&amp;h=60&amp;tok=659fed" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row38 odd" role="row">
+		<td class="col0 sorting_1">Fléau d'armes ancien sacré</td><td class="col1">260</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">206</td><td class="col6">173-269</td><td class="col7">816</td><td class="col8">3.602.690</td><td class="col9">Cap dex : 183 <br>
+Dégâts sur morts-vivants: 199-310 <br>
++30% en Attaque</td><td class="col10">Xvart l'agaçant (Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/4.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:4.png"><img src="/wiki/_media/objets/terre/4.png?w=60&amp;h=60&amp;tok=659fed" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row23 even" role="row">
+		<td class="col0 sorting_1">Fléau d'armes du Soleil</td><td class="col1">140</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">201</td><td class="col6">79-120</td><td class="col7">816</td><td class="col8">Drop</td><td class="col9">Cap dex : 183 <br>
+Dégâts sur morts-vivants: ? <br>
++10 Puissance lumière <br>
++10 Résistance nécromancie <br>
++10 Sagesse</td><td class="col10">Iles Ethérées: Purificateurs <br>
+ <br>
+Coffre verrouillé, égoûts de Spellshore (clef droppée par les squelettes de la carrière)</td><td class="col11"><a href="/wiki/_detail/objets/terre/280.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:280.png"><img src="/wiki/_media/objets/terre/280.png?w=60&amp;h=60&amp;tok=d0e9a7" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row24 odd" role="row">
+		<td class="col0 sorting_1">Fléau d'armes du Soleil parfait</td><td class="col1">140</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">201</td><td class="col6">79-120</td><td class="col7">816</td><td class="col8"> </td><td class="col9">Cap dex : 183 <br>
+Dégâts sur morts-vivants: ? <br>
++50% en Attaque <br>
++10 Puissance lumière <br>
++10 Résistance nécromancie <br>
++10 Sagesse</td><td class="col10">10 points d'instance SH NM + Fléau d'armes du Soleil</td><td class="col11"><a href="/wiki/_detail/objets/terre/280.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:280.png"><img src="/wiki/_media/objets/terre/280.png?w=60&amp;h=60&amp;tok=d0e9a7" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row29 even" role="row">
+		<td class="col0 sorting_1">Fléau d'armes en mithril</td><td class="col1">210</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">169</td><td class="col6">121-183</td><td class="col7">816</td><td class="col8">230.691</td><td class="col9">Cap dex : 183 <br>
+Dégâts sur morts-vivants: 139-211</td><td class="col10">Sigered Heavyhammer (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/4.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:4.png"><img src="/wiki/_media/objets/terre/4.png?w=60&amp;h=60&amp;tok=659fed" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row30 odd" role="row">
+		<td class="col0 sorting_1">Fléau d'armes en mithril béni</td><td class="col1">210</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">169</td><td class="col6">139-211</td><td class="col7">816</td><td class="col8">692.073</td><td class="col9">Cap dex : 183 <br>
+Dégâts sur morts-vivants: 160-242 <br>
++15% en Attaque</td><td class="col10">Sigered Heavyhammer (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/4.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:4.png"><img src="/wiki/_media/objets/terre/4.png?w=60&amp;h=60&amp;tok=659fed" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row31 even" role="row">
+		<td class="col0 sorting_1">Fléau d'armes en mithril sacré</td><td class="col1">210</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">169</td><td class="col6">157-238</td><td class="col7">816</td><td class="col8">2.306.910</td><td class="col9">Cap dex : 183 <br>
+Dégâts sur morts-vivants: 181-274 <br>
++30% en Attaque</td><td class="col10">Stoneheim</td><td class="col11"><a href="/wiki/_detail/objets/terre/4.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:4.png"><img src="/wiki/_media/objets/terre/4.png?w=60&amp;h=60&amp;tok=659fed" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row32 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Fléau de guerre béni d'Artherk</strong></span></td><td class="col1">210</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">169</td><td class="col6">171-260</td><td class="col7">816</td><td class="col8"> </td><td class="col9">Cap dex : 183 <br>
++60% en Attaque</td><td class="col10">Instance Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/4.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:4.png"><img src="/wiki/_media/objets/terre/4.png?w=60&amp;h=60&amp;tok=659fed" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row33 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Fléau de guerre béni d'Artherk parfait</strong></span></td><td class="col1">210</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">169</td><td class="col6">171-260</td><td class="col7">816</td><td class="col8">10</td><td class="col9">Cap dex : 183 <br>
++60% en Attaque</td><td class="col10">10 points d'instance RD + Fléau de guerre béni d'Artherk</td><td class="col11"><a href="/wiki/_detail/objets/terre/4.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:4.png"><img src="/wiki/_media/objets/terre/4.png?w=60&amp;h=60&amp;tok=659fed" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row25 odd" role="row">
+		<td class="col0 sorting_1">Fléau de mithril</td><td class="col1">170</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">139</td><td class="col6">97-147</td><td class="col7">835</td><td class="col8">147.737</td><td class="col9">Cap dex : 216 <br>
+Dégâts sur morts-vivants: 111-169</td><td class="col10">Stoneheim</td><td class="col11"><a href="/wiki/_detail/objets/terre/3.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:3.png"><img src="/wiki/_media/objets/terre/3.png?w=60&amp;h=60&amp;tok=da7f48" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row26 even" role="row">
+		<td class="col0 sorting_1">Fléau de mithril béni</td><td class="col1">170</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">139</td><td class="col6">111-169</td><td class="col7">835</td><td class="col8">443.211</td><td class="col9">Cap dex : 216 <br>
+Dégâts sur morts-vivants: 128-195 <br>
++15% en Attaque</td><td class="col10">Stoneheim</td><td class="col11"><a href="/wiki/_detail/objets/terre/3.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:3.png"><img src="/wiki/_media/objets/terre/3.png?w=60&amp;h=60&amp;tok=da7f48" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row27 odd" role="row">
+		<td class="col0 sorting_1">Fléau de mithril sacré</td><td class="col1">170</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">139</td><td class="col6">126-191</td><td class="col7">835</td><td class="col8">14.77.370</td><td class="col9">Cap dex : 216 <br>
+Dégâts sur morts-vivants: 145-220 <br>
++30% en Attaque</td><td class="col10">Stoneheim</td><td class="col11"><a href="/wiki/_detail/objets/terre/3.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:3.png"><img src="/wiki/_media/objets/terre/3.png?w=60&amp;h=60&amp;tok=da7f48" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row19 even" role="row">
+		<td class="col0 sorting_1">Fléau de qualité</td><td class="col1">140</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">116</td><td class="col6">79-120 <br>
+[119.16]</td><td class="col7">835</td><td class="col8">97.601</td><td class="col9">Cap dex : 216 <br>
+Dégâts sur morts-vivants: 91-138</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/3.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:3.png"><img src="/wiki/_media/objets/terre/3.png?w=60&amp;h=60&amp;tok=da7f48" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row21 odd" role="row">
+		<td class="col0 sorting_1">Fléau de qualité béni</td><td class="col1">140</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">116</td><td class="col6">91-138</td><td class="col7">835</td><td class="col8">292.803</td><td class="col9">Cap dex : 216 <br>
+Dégâts sur morts-vivants: 104-159 <br>
++15% en Attaque</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/3.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:3.png"><img src="/wiki/_media/objets/terre/3.png?w=60&amp;h=60&amp;tok=da7f48" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row22 even" role="row">
+		<td class="col0 sorting_1">Fléau de qualité sacré</td><td class="col1">140</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">116</td><td class="col6">102-156</td><td class="col7">835</td><td class="col8">976.010</td><td class="col9">Cap dex : 216 <br>
+Dégâts sur morts-vivants: 118-180 <br>
++30% en Attaque</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/3.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:3.png"><img src="/wiki/_media/objets/terre/3.png?w=60&amp;h=60&amp;tok=da7f48" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row3 odd" role="row">
+		<td class="col0 sorting_1">Fléau de stabilité</td><td class="col1">40</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">41</td><td class="col6">24-25</td><td class="col7">835</td><td class="col8"> </td><td class="col9">Cap dex : 216 <br>
++10 en Attaque</td><td class="col10">Orc errant (Arakas)</td><td class="col11"><a href="/wiki/_detail/objets/terre/3.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:3.png"><img src="/wiki/_media/objets/terre/3.png?w=60&amp;h=60&amp;tok=da7f48" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row20 even" role="row">
+		<td class="col0 sorting_1">Fléau des templiers</td><td class="col1">140</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">116</td><td class="col6">118-180</td><td class="col7">835</td><td class="col8">97.601</td><td class="col9">Cap dex : 216 <br>
+50% en attaque <br>
++5% en sagesse </td><td class="col10"> </td><td class="col11"><a href="/wiki/_media/" class="media mediafile mf_" title=" (20&nbsp;B)"></a></td>
+	</tr><tr class="row49 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Fléau du Châtiment</strong></span></td><td class="col1">337</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">258</td><td class="col6">226-366</td><td class="col7">816</td><td class="col8">24.492.600</td><td class="col9">Cap dex : 183 <br>
++10 en coup assommant <br>
++5 en transpercer armure <br>
++50% en Attaque</td><td class="col10">Xvart l'agaçant (Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/463.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:463.png"><img src="/wiki/_media/objets/terre/463.png?w=60&amp;h=60&amp;tok=54015c" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row50 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Fléau du Châtiment de lumière</strong></span></td><td class="col1">337</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">258</td><td class="col6">286-440</td><td class="col7">816</td><td class="col8">15</td><td class="col9">Cap dex : 183 <br>
++50% en Attaque <br>
+Bonus aux dégâts contre les morts-vivants <br>
++10 Coup Assommant <br>
++5 en puissance terre, air et lumière</td><td class="col10">8 Points d'instance RD Héroïque + Fléau du Châtiment</td><td class="col11"><a href="/wiki/_detail/objets/terre/463.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:463.png"><img src="/wiki/_media/objets/terre/463.png?w=60&amp;h=60&amp;tok=54015c" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row11 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Garde de vérité</strong></span></td><td class="col1">60</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">56</td><td class="col6">37-57</td><td class="col7">835</td><td class="col8">19.800</td><td class="col9">Cap dex : 216 <br>
++50% attaque <br>
++ 2 sagesse</td><td class="col10">Instance Arakas (1 marteau de guerre en acier trempée sacrée, 5 crédit AR NM)</td><td class="col11"></td>
+	</tr><tr class="row1 even" role="row">
+		<td class="col0 sorting_1">Gourdin renforcé béni</td><td class="col1">30</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">34</td><td class="col6">12-20</td><td class="col7">835</td><td class="col8">7083</td><td class="col9">Cap dex : 216 <br>
+Dégâts sur morts-vivants: 14-23 <br>
++15% en Attaque</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/447.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:447.png"><img src="/wiki/_media/objets/terre/447.png?w=60&amp;h=60&amp;tok=43ffd3" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row2 odd" role="row">
+		<td class="col0 sorting_1">Gourdin renforcé sacré</td><td class="col1">30</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">34</td><td class="col6">14-23</td><td class="col7">835</td><td class="col8">23.610</td><td class="col9">Cap dex : 216 <br>
+Dégâts sur morts-vivants: 16-26 <br>
++30% en Attaque</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/447.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:447.png"><img src="/wiki/_media/objets/terre/447.png?w=60&amp;h=60&amp;tok=43ffd3" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row56 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Maillet de justice</strong></span></td><td class="col1">470</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">364</td><td class="col6">244-401</td><td class="col7">816</td><td class="col8"> </td><td class="col9">Cap dex : 183 <br>
++30% attaque</td><td class="col10">» Drop <em>coffre Una</em> (Tour blanche, ZE) <br>
+» Drop <em>Les prisonniers du temps</em> (Boss 180+) <br>
+» <em>Un artisan aventurier</em> (Côte des berserkers, DS)</td><td class="col11"><a href="/wiki/_detail/objets/terre/782.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:782.png"><img src="/wiki/_media/objets/terre/782.png?w=60&amp;h=60&amp;tok=3f4525" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row57 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Maillet de justice enchanté</strong></span></td><td class="col1">390</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">444</td><td class="col6">274-462</td><td class="col7">816</td><td class="col8"> </td><td class="col9">Cap dex : 183 <br>
++50% attaque <br>
++50 sagesse <br>
++5 puissance terre <br>
++10 puissance lumière <br>
+Proc : Augmente les statistiques de tout le groupe en fonction de la sagesse boostée du lanceur.</td><td class="col10">L'Arcaniste (Draconis Sanctum) <br>
+100 larmes + 15M PO</td><td class="col11"><a href="/wiki/_detail/objets/terre/782.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:782.png"><img src="/wiki/_media/objets/terre/782.png?w=60&amp;h=60&amp;tok=3f4525" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row59 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Maillet de justice lourd</strong></span><br>
+<span class="wrap_lo ">(2 mains)</span></td><td class="col1">530</td><td class="col2">0</td><td class="col3">125</td><td class="col4">0</td><td class="col5">271</td><td class="col6">565-984</td><td class="col7">1125</td><td class="col8"> </td><td class="col9 leftalign">Cap dex : 300 <br>
++50% attaque <br>
++80 coup assommant <br>
++45 dextérité <br>
+20% de chance de lancer Invulnérabilité Divine : l'intervention du Panthéon des Dieux vous immunise contre presque tous les dommages pendant un bref instant. <br>
+L'invulnérabilité divine ne peut être lancé qu'une fois toute les 15 secondes.  </td><td class="col10">L'Arcaniste (Draconis Sanctum) <br>
+100 larmes + 15M PO</td><td class="col11"><a href="/wiki/_detail/objets/terre/662.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:662.png"><img src="/wiki/_media/objets/terre/662.png?w=60&amp;h=60&amp;tok=dc7016" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row58 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Maillet de justice équilibré</strong></span></td><td class="col1">470</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">364</td><td class="col6">357-573</td><td class="col7">816</td><td class="col8"> </td><td class="col9">Cap dex : 183 <br>
++50% attaque <br>
++40 force <br>
++10 coup assommant <br>
++8 coup puissant <br>
+Proc : : Chance de diminuer la résistance magique de la cible de 10%</td><td class="col10">L'Arcaniste (Draconis Sanctum) <br>
+100 larmes + 15M PO</td><td class="col11"><a href="/wiki/_detail/objets/terre/782.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:782.png"><img src="/wiki/_media/objets/terre/782.png?w=60&amp;h=60&amp;tok=3f4525" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row39 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Marteau de Brisefer</strong></span></td><td class="col1">260</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">206</td><td class="col6">199-311</td><td class="col7">816</td><td class="col8"> </td><td class="col9">Cap dex : 183 <br>
++50% en Attaque</td><td class="col10">Instance RD</td><td class="col11"><a href="/wiki/_detail/objets/terre/4.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:4.png"><img src="/wiki/_media/objets/terre/4.png?w=60&amp;h=60&amp;tok=659fed" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row40 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Marteau de Brisefer parfait</strong></span></td><td class="col1">260</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">206</td><td class="col6">282-410</td><td class="col7">816</td><td class="col8">10</td><td class="col9">Cap dex : 183 <br>
++50% en Attaque <br>
++20 en force <br>
+lance sort mono cible séisme en attaquant et parfois sort de zone</td><td class="col10">(Etait anciennement disponible en : Instance BG)</td><td class="col11"><a href="/wiki/_detail/objets/terre/4.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:4.png"><img src="/wiki/_media/objets/terre/4.png?w=60&amp;h=60&amp;tok=659fed" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row8 even" role="row">
+		<td class="col0 sorting_1">Marteau de guerre en acier trempé</td><td class="col1">60</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">56</td><td class="col6">28-44</td><td class="col7">835</td><td class="col8">14.529</td><td class="col9">Cap dex : 216 <br>
+Dégâts sur morts-vivants: 32-51</td><td class="col10">Arakas</td><td class="col11"><a href="/wiki/_detail/objets/terre/785.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:785.png"><img src="/wiki/_media/objets/terre/785.png?w=60&amp;h=60&amp;tok=ad8bdb" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row9 odd" role="row">
+		<td class="col0 sorting_1">Marteau de guerre en acier trempé béni</td><td class="col1">60</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">56</td><td class="col6">32-51</td><td class="col7">835</td><td class="col8">43.587</td><td class="col9">Cap dex : 216 <br>
+Dégâts sur morts-vivants: 37-58 <br>
++15% en Attaque</td><td class="col10">Arakas</td><td class="col11"><a href="/wiki/_detail/objets/terre/785.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:785.png"><img src="/wiki/_media/objets/terre/785.png?w=60&amp;h=60&amp;tok=ad8bdb" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row10 even" role="row">
+		<td class="col0 sorting_1">Marteau de guerre en acier trempé sacré</td><td class="col1">60</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">56</td><td class="col6">37-57</td><td class="col7">835</td><td class="col8">145.290</td><td class="col9">Cap dex : 216 <br>
+Dégâts sur morts-vivants: 42-66 <br>
++30% en Attaque</td><td class="col10">Un marchand errant, Arakas</td><td class="col11"><a href="/wiki/_detail/objets/terre/785.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:785.png"><img src="/wiki/_media/objets/terre/785.png?w=60&amp;h=60&amp;tok=ad8bdb" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row4 odd" role="row">
+		<td class="col0 sorting_1">Marteau de guerre renforcé</td><td class="col1">40</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">41</td><td class="col6">17-28</td><td class="col7">835</td><td class="col8">5.266</td><td class="col9">Cap dex : 216 <br>
+Dégâts sur morts-vivants: 20-32</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/5.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:5.png"><img src="/wiki/_media/objets/terre/5.png?w=60&amp;h=60&amp;tok=0e4f0a" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row5 even" role="row">
+		<td class="col0 sorting_1">Marteau de guerre renforcé béni</td><td class="col1">40</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">41</td><td class="col6">20-32</td><td class="col7">835</td><td class="col8">15.798</td><td class="col9">Cap dex : 216 <br>
+Dégâts sur morts-vivants: 23-37 <br>
++15% en Attaque</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/5.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:5.png"><img src="/wiki/_media/objets/terre/5.png?w=60&amp;h=60&amp;tok=0e4f0a" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row6 odd" role="row">
+		<td class="col0 sorting_1">Marteau de guerre renforcé sacré</td><td class="col1">40</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">41</td><td class="col6">22-36</td><td class="col7">835</td><td class="col8">52.660</td><td class="col9">Cap dex : 216 <br>
+Dégâts sur morts-vivants: 26-41 <br>
++30% en Attaque</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/5.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:5.png"><img src="/wiki/_media/objets/terre/5.png?w=60&amp;h=60&amp;tok=0e4f0a" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row12 even" role="row">
+		<td class="col0 sorting_1">Marteau de révélation</td><td class="col1">60</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">56</td><td class="col6">28-44</td><td class="col7">835</td><td class="col8"> </td><td class="col9">Cap dex : 216 <br>
+Dégâts sur morts-vivants: 42-66 <br>
+Capacité de lancer le sort Révélation (10 charges)</td><td class="col10">Coffre (Asile-Arakas)</td><td class="col11"><a href="/wiki/_detail/objets/terre/5.jpg?id=objets%3Aarmesmelee" class="media" title="objets:terre:5.jpg"><img src="/wiki/_media/objets/terre/5.jpg" class="mediacenter" loading="lazy" title="5.jpg" alt="5.jpg"></a></td>
+	</tr><tr class="row16 odd" role="row">
+		<td class="col0 sorting_1">Masse de qualité</td><td class="col1">110</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">94</td><td class="col6">56-85</td><td class="col7">816</td><td class="col8">57.821</td><td class="col9">Cap dex : 183 <br>
+Dégâts sur morts-vivants: 64-98</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/119.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:119.png"><img src="/wiki/_media/objets/terre/119.png?w=60&amp;h=60&amp;tok=a57e15" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row17 even" role="row">
+		<td class="col0 sorting_1">Masse de qualité bénie</td><td class="col1">110</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">94</td><td class="col6">64-98</td><td class="col7">816</td><td class="col8">173.463</td><td class="col9">Cap dex : 183 <br>
+Dégâts sur morts-vivants: 74-113 <br>
++15% en Attaque</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/119.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:119.png"><img src="/wiki/_media/objets/terre/119.png?w=60&amp;h=60&amp;tok=a57e15" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row18 odd" role="row">
+		<td class="col0 sorting_1">Masse de qualité sacrée</td><td class="col1">110</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">94</td><td class="col6">72-111</td><td class="col7">816</td><td class="col8">578.210</td><td class="col9">Cap dex : 183 <br>
+Dégâts sur morts-vivants: 83-128 <br>
++30% en Attaque</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/119.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:119.png"><img src="/wiki/_media/objets/terre/119.png?w=60&amp;h=60&amp;tok=a57e15" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row13 even" role="row">
+		<td class="col0 sorting_1">Masse en acier trempé</td><td class="col1">90</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">79</td><td class="col6">45-69 <br>
+[69.85]</td><td class="col7">816</td><td class="col8">37.053</td><td class="col9">Cap dex : 183 <br>
+Dégâts sur morts-vivants: 51-79</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/786.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:786.png"><img src="/wiki/_media/objets/terre/786.png?w=60&amp;h=60&amp;tok=53b149" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row14 odd" role="row">
+		<td class="col0 sorting_1">Masse en acier trempé béni</td><td class="col1">90</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">79</td><td class="col6">51-79</td><td class="col7">816</td><td class="col8">111.159</td><td class="col9">Cap dex : 183 <br>
+Dégâts sur morts-vivants: 58-90 <br>
++15% en Attaque</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/786.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:786.png"><img src="/wiki/_media/objets/terre/786.png?w=60&amp;h=60&amp;tok=53b149" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row15 even" role="row">
+		<td class="col0 sorting_1">Masse en acier trempé sacré</td><td class="col1">90</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">79</td><td class="col6">58-90</td><td class="col7">816</td><td class="col8">370.530</td><td class="col9">Cap dex : 183 <br>
+Dégâts sur morts-vivants: 67-103 <br>
++30% en Attaque</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/786.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:786.png"><img src="/wiki/_media/objets/terre/786.png?w=60&amp;h=60&amp;tok=53b149" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row51 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Morgenstern du Fjord</strong></span></td><td class="col1">370</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">271</td><td class="col6">306-482</td><td class="col7">816</td><td class="col8"> </td><td class="col9">Cap dex : 183 <br>
++10 en coup assommant <br>
++3 en coup puissant <br>
++5 en puissance terre, air et lumière <br>
+Bonus aux dégâts contre les morts-vivants <br>
+50% en Attaque</td><td class="col10">Seigneur Sorcier (Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/759.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:759.png"><img src="/wiki/_media/objets/terre/759.png?w=60&amp;h=60&amp;tok=13d170" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row47 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Porte-Lumière</strong></span></td><td class="col1">295</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">230</td><td class="col6">212-336</td><td class="col7">816</td><td class="col8">18.592.480</td><td class="col9">Cap dex : 183 <br>
+Bonus aux dégâts contre les morts-vivants <br>
++50% en Attaque</td><td class="col10">Xvart l'agaçant (Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/4.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:4.png"><img src="/wiki/_media/objets/terre/4.png?w=60&amp;h=60&amp;tok=659fed" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row48 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Porte-Lumière Majestueux</strong></span></td><td class="col1">295</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">230</td><td class="col6">212-336</td><td class="col7">816</td><td class="col8"> </td><td class="col9">Cap dex : 183 <br>
++50% en Attaque <br>
+Dégâts sur morts-vivants: 244-397 <br>
++10 en coup assommant <br>
++10 Puissance Lumière </td><td class="col10">8 Points d'instance RD Héroïque + Porte-Lumière</td><td class="col11"><a href="/wiki/_detail/objets/terre/4.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:4.png"><img src="/wiki/_media/objets/terre/4.png?w=60&amp;h=60&amp;tok=659fed" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row45 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Sceptre ancestral</strong></span></td><td class="col1">289</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">370</td><td class="col6">238-390</td><td class="col7">816</td><td class="col8">24492600</td><td class="col9">Cap dex : 183 <br>
+Dégâts sur morts-vivants: 274-449 <br>
++50% en Attaque</td><td class="col10">Xvart l’agaçant</td><td class="col11"><a href="/wiki/_detail/objets/terre/4.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:4.png"><img src="/wiki/_media/objets/terre/4.png?w=60&amp;h=60&amp;tok=659fed" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row46 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Sceptre ancestral élémentaire</strong></span></td><td class="col1">289</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">370</td><td class="col6">238-390</td><td class="col7">816</td><td class="col8">Sceptre ancestral<br>
+5 crédits instance SH HM</td><td class="col9">Cap dex : 183<br>
+Dégâts sur morts-vivants: 274-449<br>
++50% en Attaque<br>
++ 10 Puissance Lumière<br>
++ 10 Puissance Terre<br>
++ 5 Puissance Air</td><td class="col10">Amélioration Instance Stoneheim</td><td class="col11"><a href="/wiki/_detail/objets/terre/4.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:4.png"><img src="/wiki/_media/objets/terre/4.png?w=60&amp;h=60&amp;tok=659fed" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row42 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Sceptre ancien</strong></span></td><td class="col1">289</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">370</td><td class="col6">159-260</td><td class="col7">816</td><td class="col8">665933</td><td class="col9">Cap dex : 183 <br>
+Dégâts sur morts-vivants: 183-299</td><td class="col10">Sigered Heavyhammer</td><td class="col11"><a href="/wiki/_detail/objets/terre/4.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:4.png"><img src="/wiki/_media/objets/terre/4.png?w=60&amp;h=60&amp;tok=659fed" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row43 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Sceptre ancien enchanté</strong></span></td><td class="col1">289</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">370</td><td class="col6">183-299</td><td class="col7">816</td><td class="col8">1997979</td><td class="col9">Cap dex : 183 <br>
+Dégâts sur morts-vivants: 210-347 <br>
++15% en Attaque</td><td class="col10">Sigered Heavyhammer</td><td class="col11"><a href="/wiki/_detail/objets/terre/4.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:4.png"><img src="/wiki/_media/objets/terre/4.png?w=60&amp;h=60&amp;tok=659fed" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row44 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Sceptre ancien runique</strong></span></td><td class="col1">289</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">370</td><td class="col6">206-338</td><td class="col7">816</td><td class="col8">6659330</td><td class="col9">Cap dex : 183 <br>
+Dégâts sur morts-vivants: 237-388 <br>
++30% en Attaque</td><td class="col10">Xvart l’agaçant</td><td class="col11"><a href="/wiki/_detail/objets/terre/4.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:4.png"><img src="/wiki/_media/objets/terre/4.png?w=60&amp;h=60&amp;tok=659fed" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row52 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Sceptre du moine-guerrier</strong></span></td><td class="col1">440</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">341</td><td class="col6">229-383</td><td class="col7">816</td><td class="col8"> </td><td class="col9">Cap dex : 183 <br>
++30% an Attaque</td><td class="col10">Saule (Zone 2, DS)</td><td class="col11"><a href="/wiki/_detail/objets/terre/785.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:785.png"><img src="/wiki/_media/objets/terre/785.png?w=60&amp;h=60&amp;tok=ad8bdb" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row53 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Sceptre du moine-guerrier enchanté</strong></span></td><td class="col1">370</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">411</td><td class="col6">329-524</td><td class="col7">816</td><td class="col8"> </td><td class="col9">Cap dex : 183 <br>
++50% en Attaque <br>
++35 en sagesse <br>
++5 en puissance lumière <br>
++5 en puissance terre <br>
++5 en puissance air <br>
+Chance de lancer un buff : Augmente les statistiques de tout le groupe en fonction de la sagesse boostée du lanceur.</td><td class="col10">L'Arcaniste (Draconis Sanctum) <br>
+<br>
+Prix : <br>
+100 larmes de dragon <br>
+15.000.000 pièces d'or</td><td class="col11"><a href="/wiki/_detail/objets/terre/785.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:785.png"><img src="/wiki/_media/objets/terre/785.png?w=60&amp;h=60&amp;tok=ad8bdb" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row55 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Sceptre du moine-guerrier lourd</strong></span><br>
+<span class="wrap_lo ">(2 mains)</span></td><td class="col1">510</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">271</td><td class="col6">396-597</td><td class="col7">882</td><td class="col8"> </td><td class="col9">Cap dex : 280 <br>
++50% en Attaque <br>
++30 en Dextérité <br>
++15 en Coup Puissant <br>
++30 en Transpercer Armure <br>
+20% de chance de lancer Invulnérabilité divine : l'intervention du Panthéon des Dieux vous immunise contre presque tous les dommages pendant un bref instant. <br>
+L'invulnérabilité divine ne peut être lancé qu'une fois toute les 15 secondes.</td><td class="col10">L'Arcaniste (Draconis Sanctum) <br>
+(80 larmes + 10M PO) <br>
+Saule (Zone 2, DS)</td><td class="col11"><a href="/wiki/_detail/objets/terre/788.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:788.png"><img src="/wiki/_media/objets/terre/788.png?w=60&amp;h=60&amp;tok=bcb9e4" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row54 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Sceptre du moine-guerrier équilibré</strong></span></td><td class="col1">440</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">341</td><td class="col6">324-519</td><td class="col7">816</td><td class="col8"> </td><td class="col9">Cap dex : 183 <br>
++50% en Attaque <br>
++10 en coup assommant <br>
++8 en coup puissant <br>
++5 puissance Terre <br>
++5 puissance Lumière <br>
++5 puissance Air <br>
+Proc : Chance de diminuer la résistance magique de la cible de 10%</td><td class="col10">L'Arcaniste (Draconis Sanctum) (80 larmes + 10M PO) <br>
+Saule (Zone 2, DS)</td><td class="col11"><a href="/wiki/_detail/objets/terre/785.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:785.png"><img src="/wiki/_media/objets/terre/785.png?w=60&amp;h=60&amp;tok=ad8bdb" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row41 odd" role="row">
+		<td class="col0 sorting_1">Sinistre lame de guerre</td><td class="col1">266</td><td class="col2">0</td><td class="col3">35</td><td class="col4">0</td><td class="col5">35</td><td class="col6">89-135 <br>
+[134.13]</td><td class="col7">835</td><td class="col8"> </td><td class="col9">Cap dex : 280 <br>
++10 en coup assommant <br>
++10 en coup puissant <br>
++10 en résistance à la nécromancie <br>
++50 en Attaque</td><td class="col10">Quête de Malachai Thanatos (StoneHeim)</td><td class="col11"><a href="/wiki/_detail/objets/terre/275.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:275.png"><img src="/wiki/_media/objets/terre/275.png?w=60&amp;h=60&amp;tok=401dbf" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr></tbody></table></div></div><div class="dataTables_info" id="DataTables_Table_1_info" role="status" aria-live="polite">Showing 1 to 59 of 59 entries</div></div></div>
+</div>

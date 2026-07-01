@@ -1,0 +1,257 @@
+<tr class="row29 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Brise-vertèbres ténébreux</strong></span></td><td class="col1">300</td><td class="col2"> </td><td class="col3"> </td><td class="col4">232</td><td class="col5"> </td><td class="col6">816 <br>
+Cap : 183</td><td class="col7">211-336</td><td class="col8">+50% attaque <br>
++5% intelligence</td><td class="col9">Xvart l'agaçant (GH)<br>
+Achat 18 072 920 po</td><td class="col10"> </td>
+	</tr><tr class="row30 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Brise-vertèbres ténébreux des enfers</strong></span></td><td class="col1">300</td><td class="col2"> </td><td class="col3"> </td><td class="col4">232</td><td class="col5"> </td><td class="col6">816 <br>
+Cap : 183</td><td class="col7">211-336</td><td class="col8">+50% <br>
++5% en intelligence <br>
++8 coup puissant</td><td class="col9">Amélioration instance SH <br>
+Brise-vertèbres ténébreux + 10 pts</td><td class="col10"> </td>
+	</tr><tr class="row36 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Couperet des âmes</strong></span></td><td class="col1">440</td><td class="col2"> </td><td class="col3"> </td><td class="col4">341</td><td class="col5"> </td><td class="col6">816 <br>
+Cap : 183</td><td class="col7">263-440</td><td class="col8">+33% attaque <br>
++5% intelligence</td><td class="col9">Drop Veuve (Zone 1 DS)<br>
+ (À arcaniser) </td><td class="col10"> </td>
+	</tr><tr class="row33 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Couperet des âmes corrupteur</strong></span></td><td class="col1">370</td><td class="col2"> </td><td class="col3"> </td><td class="col4">411</td><td class="col5"> </td><td class="col6">816 <br>
+Cap : 183</td><td class="col7">340-535</td><td class="col8">+50% attaque <br>
++5% intelligence <br>
++5 puissance feu <br>
++5 puissance eau <br>
++5 puissance nécro <br>
++5 puissance air <br>
+<br>
+<strong>Lance une mini peste réduisant les PV maximum de la cible <br>
+Lance un débuff de CA et d'esquive</strong></td><td class="col9">L'Arcaniste (Draconis Sanctum) <br>
+15M + 100 larmes</td><td class="col10"><a href="/wiki/_detail/objets/terre/1602.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:1602.png"><img src="/wiki/_media/objets/terre/1602.png?w=60&amp;h=60&amp;tok=da18e4" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row40 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Couperet des âmes lourd</strong></span> <br>
+<span class="wrap_lo ">(2 mains)</span></td><td class="col1">510</td><td class="col2"> </td><td class="col3"> </td><td class="col4">271</td><td class="col5"> </td><td class="col6">882 <br>
+Cap : 280</td><td class="col7">432-673</td><td class="col8">+50% attaque <br>
++5% intelligence <br>
++30 dextérité <br>
++15 coup puissant <br>
++30 transpercer armure <br>
+<br>
+<strong>Lance une mini peste réduisant les PV maximum de la cible</strong></td><td class="col9">L'Arcaniste (Draconis Sanctum) <br>
+10M + 80 larmes</td><td class="col10"><a href="/wiki/_detail/objets/terre/1603.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:1603.png"><img src="/wiki/_media/objets/terre/1603.png?w=60&amp;h=60&amp;tok=47096e" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row37 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Couperet des âmes élémentaire</strong></span></td><td class="col1">440</td><td class="col2"> </td><td class="col3"> </td><td class="col4">341</td><td class="col5"> </td><td class="col6">816 <br>
+Cap : 183</td><td class="col7">305-480</td><td class="col8">+50% attaque <br>
++5% intelligence <br>
++10 coup puissant <br>
++5 puissance feu <br>
++5 puissance eau <br>
++5 puissance nécro <br>
++5 puissance air <br>
+<br>
+<strong>Lance un buff qui augmente les puissances élémentaires du groupe</strong></td><td class="col9">L'Arcaniste (Draconis Sanctum) <br>
+10M + 80 larmes</td><td class="col10"><a href="/wiki/_detail/objets/terre/1600.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:1600.png"><img src="/wiki/_media/objets/terre/1600.png?w=60&amp;h=60&amp;tok=afdb9f" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row21 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Espadon ancestral</strong></span></td><td class="col1">289</td><td class="col2">0</td><td class="col3">0</td><td class="col4">370</td><td class="col5">0</td><td class="col6">816 <br>
+Cap : 183</td><td class="col7">238-390</td><td class="col8">+50% attaque<br>
++5% intelligence</td><td class="col9">Xvart l’agaçant <br>
+24 492 600 po</td><td class="col10"><a href="/wiki/_detail/objets/terre/1606.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:1606.png"><img src="/wiki/_media/objets/terre/1606.png?w=60&amp;h=60&amp;tok=ccf0c4" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row22 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Espadon ancestral élémentaire</strong></span></td><td class="col1">289</td><td class="col2">0</td><td class="col3">0</td><td class="col4">370</td><td class="col5">0</td><td class="col6">816 <br>
+Cap : 183</td><td class="col7">238-390</td><td class="col8">+50% attaque <br>
++5% intelligence <br>
++10 puissance eau <br>
++10 puissance feu <br>
++10 puissance nécro <br>
++10 puissance air <br>
+<br>
+<strong>Lance un sort monocible (selon puissance élémentaire la plus forte) + zone (frequence indéterminée)</strong></td><td class="col9">Amélioration Instance Stoneheim<br>
+Espadon ancestral<br>
+5 crédits instance SH HM</td><td class="col10"><a href="/wiki/_detail/objets/terre/1606.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:1606.png"><img src="/wiki/_media/objets/terre/1606.png?w=60&amp;h=60&amp;tok=ccf0c4" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row18 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Espadon ancien</strong></span></td><td class="col1">289</td><td class="col2">0</td><td class="col3">0</td><td class="col4">370</td><td class="col5">0</td><td class="col6">816 <br>
+Cap : 183</td><td class="col7">159-260</td><td class="col8">+5% intelligence</td><td class="col9">Sigered Heavyhammer<br>
+665 933 po</td><td class="col10"><a href="/wiki/_detail/objets/terre/1606.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:1606.png"><img src="/wiki/_media/objets/terre/1606.png?w=60&amp;h=60&amp;tok=ccf0c4" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row19 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Espadon ancien enchanté</strong></span></td><td class="col1">289</td><td class="col2">0</td><td class="col3">0</td><td class="col4">370</td><td class="col5">0</td><td class="col6">816 <br>
+Cap : 183</td><td class="col7">183-299</td><td class="col8">+15% attaque<br>
++5% intelligence</td><td class="col9">Sigered Heavyhammer<br>
+1 997 979 po</td><td class="col10"><a href="/wiki/_detail/objets/terre/1606.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:1606.png"><img src="/wiki/_media/objets/terre/1606.png?w=60&amp;h=60&amp;tok=ccf0c4" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row20 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Espadon ancien runique</strong></span></td><td class="col1">289</td><td class="col2">0</td><td class="col3">0</td><td class="col4">370</td><td class="col5">0</td><td class="col6">816 <br>
+Cap : 183</td><td class="col7">206-338</td><td class="col8">+30% attaque<br>
++5% intelligence</td><td class="col9">Xvart l’agaçant <br>
+6 659 330 po</td><td class="col10"><a href="/wiki/_detail/objets/terre/1606.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:1606.png"><img src="/wiki/_media/objets/terre/1606.png?w=60&amp;h=60&amp;tok=ccf0c4" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row10 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Fléau de Rahji</strong></span></td><td class="col1">173</td><td class="col2"> </td><td class="col3"> </td><td class="col4">145</td><td class="col5"> </td><td class="col6">835 <br>
+Cap : 216</td><td class="col7">144-220</td><td class="col8">+50% attaque <br>
++5% intelligence</td><td class="col9">Une Ombre (SH)<br>
+Achat 2 568 886 po</td><td class="col10"><a href="/wiki/_detail/objets/terre/280.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:280.png"><img src="/wiki/_media/objets/terre/280.png?w=60&amp;h=60&amp;tok=d0e9a7" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row1 odd" role="row">
+		<td class="col0 sorting_1">Fléau des gobelins</td><td class="col1">42</td><td class="col2">0</td><td class="col3">0</td><td class="col4">45</td><td class="col5">0</td><td class="col6">835 <br>
+Cap : 216</td><td class="col7">22-35 <br>
+[28.90]</td><td class="col8">+2 attaque <br>
++1 intelligence</td><td class="col9">Drop Gobelins (AR)</td><td class="col10"> </td>
+	</tr><tr class="row11 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Fléau des quatre saisons</strong></span></td><td class="col1">215</td><td class="col2"> </td><td class="col3"> </td><td class="col4">175</td><td class="col5"> </td><td class="col6">835 <br>
+Cap : 216</td><td class="col7">139-210</td><td class="col8"><br>
++5% intelligence</td><td class="col9">Un forgeron occupé (ville centaure, SH)<br>
+Achat 1 563 562 po</td><td class="col10"> </td>
+	</tr><tr class="row12 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Fléau des quatre saisons sacré</strong></span></td><td class="col1">215</td><td class="col2"> </td><td class="col3"> </td><td class="col4">175</td><td class="col5"> </td><td class="col6">835 <br>
+Cap : 216</td><td class="col7">160-237</td><td class="col8">+30% attaque <br>
++5% intelligence</td><td class="col9">Amélioration instance <br>
+</td><td class="col10"> </td>
+	</tr><tr class="row9 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Fléau démoniaque runique</strong></span></td><td class="col1">173</td><td class="col2"> </td><td class="col3"> </td><td class="col4">145</td><td class="col5"> </td><td class="col6">835 <br>
+Cap : 216</td><td class="col7">144-218</td><td class="col8">+30% attaque <br>
++5% intelligence</td><td class="col9">Drop Scorpion géant (RD)</td><td class="col10"> </td>
+	</tr><tr class="row6 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Hache maudite de puissance naine</strong></span></td><td class="col1">145</td><td class="col2"> </td><td class="col3"> </td><td class="col4">120</td><td class="col5"> </td><td class="col6">835 <br>
+Cap : 216</td><td class="col7">90-137</td><td class="col8">+5% intelligence</td><td class="col9">Drop Fermier berserker (DS)</td><td class="col10"><a href="/wiki/_detail/objets/terre/726.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:726.png"><img src="/wiki/_media/objets/terre/726.png?w=60&amp;h=60&amp;tok=6d0683" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row5 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Hachette en métal poli runique</strong></span></td><td class="col1">112</td><td class="col2"> </td><td class="col3"> </td><td class="col4">100</td><td class="col5"> </td><td class="col6">835 <br>
+Cap : 216</td><td class="col7">72-113</td><td class="col8">+30% attaque <br>
++5% intelligence</td><td class="col9">Un voyageur paisible (RD)<br>
+Achat 578 210 po</td><td class="col10"> </td>
+	</tr><tr class="row8 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Hachette maudite de puissance naine runique</strong></span></td><td class="col1">145</td><td class="col2"> </td><td class="col3"> </td><td class="col4">120</td><td class="col5"> </td><td class="col6">835 <br>
+Cap : 216</td><td class="col7">102-158</td><td class="col8">+30% attaque <br>
++5% intelligence</td><td class="col9">Un voyageur paisible (RD)<br>
+Achat 976 010 po</td><td class="col10"> </td>
+	</tr><tr class="row31 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Lame d'Outremonde</strong></span></td><td class="col1">339</td><td class="col2"> </td><td class="col3"> </td><td class="col4">260</td><td class="col5"> </td><td class="col6">816 <br>
+Cap : 183</td><td class="col7">226-366</td><td class="col8">+50% attaque <br>
++5% intelligence <br>
++3 coup puissant</td><td class="col9">Xvart l'agaçant (GH)<br>
+Achat 22 082 920 po</td><td class="col10"> </td>
+	</tr><tr class="row32 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Lame d'Outretombe</strong></span></td><td class="col1">339</td><td class="col2"> </td><td class="col3"> </td><td class="col4">260</td><td class="col5"> </td><td class="col6">816 <br>
+Cap : 183</td><td class="col7">286-440</td><td class="col8">+50% attaque <br>
++5% intelligence <br>
++8 coup puissant <br>
++5 feu/eau/air/nécro</td><td class="col9">8 Points d'instance RD Héroïque + Lame d'Outremonde</td><td class="col10"> </td>
+	</tr><tr class="row3 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Lame de diamant</strong></span></td><td class="col1">62</td><td class="col2">0</td><td class="col3">0</td><td class="col4">61</td><td class="col5">0</td><td class="col6">835 <br>
+Cap : 216</td><td class="col7">41-63</td><td class="col8">+50% attaque <br>
++5 intelligence</td><td class="col9">Instance Arakas (1 lame de saphir, 5 crédit AR nm)</td><td class="col10"><a href="/wiki/_detail/objets/terre/202.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:202.png"><img src="/wiki/_media/objets/terre/202.png?w=60&amp;h=60&amp;tok=216ec7" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row2 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Lame de saphir</strong></span></td><td class="col1">62</td><td class="col2">0</td><td class="col3">0</td><td class="col4">61</td><td class="col5">0</td><td class="col6">835 <br>
+Cap : 216</td><td class="col7">36-58</td><td class="col8">+15% attaque<br>
++5% intelligence</td><td class="col9">S'obtient via la quête de la <a href="/wiki/quetes/beyond_the_kingdom/secondaire/lame_de_saphir" class="wikilink1" title="quetes:beyond_the_kingdom:secondaire:lame_de_saphir" data-wiki-id="quetes:beyond_the_kingdom:secondaire:lame_de_saphir">Lame de Saphir</a><br>
+Indropable</td><td class="col10"><a href="/wiki/_detail/objets/terre/202.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:202.png"><img src="/wiki/_media/objets/terre/202.png?w=60&amp;h=60&amp;tok=216ec7" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row4 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Masse en argent runique</strong></span></td><td class="col1">89</td><td class="col2"> </td><td class="col3"> </td><td class="col4">87</td><td class="col5"> </td><td class="col6">835 <br>
+Cap : 216</td><td class="col7">55-88</td><td class="col8">+30 attaque <br>
++4 intelligence</td><td class="col9">Un marchand errant (AR)<br>
+Achat 370 530 po</td><td class="col10"> </td>
+	</tr><tr class="row7 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Tranchoir maudit</strong></span></td><td class="col1">145</td><td class="col2"> </td><td class="col3"> </td><td class="col4">120</td><td class="col5"> </td><td class="col6">835 <br>
+Cap : 216</td><td class="col7">135-206</td><td class="col8"> +50% en attaque \\+5% intelligence</td><td class="col9">Amélioration instance de Hache maudite de puissance naine runique</td><td class="col10"><a href="/wiki/_detail/objets/terre/726.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:726.png"><img src="/wiki/_media/objets/terre/726.png?w=60&amp;h=60&amp;tok=6d0683" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row26 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Trident ancestral</strong></span></td><td class="col1">289</td><td class="col2">0</td><td class="col3">0</td><td class="col4">200</td><td class="col5">200</td><td class="col6">835<br>
+Cap : 216</td><td class="col7">238-390</td><td class="col8">+50% en Attaque<br>
++5% en esquive</td><td class="col9">Xvart l’agaçant <br>
+24 492 600 po</td><td class="col10"><a href="/wiki/_detail/objets/terre/729.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:729.png"><img src="/wiki/_media/objets/terre/729.png?w=60&amp;h=60&amp;tok=56a8a8" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row28 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Trident ancestral fulgurant</strong></span></td><td class="col1">289</td><td class="col2">0</td><td class="col3">0</td><td class="col4">200</td><td class="col5">200</td><td class="col6">835<br>
+Cap : 216</td><td class="col7">238-390</td><td class="col8">+50% en Attaque<br>
++10% en esquive<br>
+Chance de déclencher un bonus de 25% de vitesse d'attaque (au dessus du cap) en attaquant.</td><td class="col9">Amélioration Instance Stoneheim<br>
+Trident ancestral<br>
+5 crédits instance SH HM</td><td class="col10"><a href="/wiki/_detail/objets/terre/729.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:729.png"><img src="/wiki/_media/objets/terre/729.png?w=60&amp;h=60&amp;tok=56a8a8" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row27 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Trident ancestral élémentaire</strong></span></td><td class="col1">289</td><td class="col2">0</td><td class="col3">0</td><td class="col4">200</td><td class="col5">200</td><td class="col6">835<br>
+Cap : 216</td><td class="col7">238-390</td><td class="col8">+50% en Attaque<br>
++5% en esquive<br>
+1 chance sur 4 en tapant de faire des dégâts élémentaire bonus influencés par votre puissance air.</td><td class="col9">Amélioration Instance Stoneheim<br>
+Trident ancestral<br>
+5 crédits instance SH HM</td><td class="col10"><a href="/wiki/_detail/objets/terre/729.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:729.png"><img src="/wiki/_media/objets/terre/729.png?w=60&amp;h=60&amp;tok=56a8a8" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row23 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Trident ancien</strong></span></td><td class="col1">289</td><td class="col2">0</td><td class="col3">0</td><td class="col4">200</td><td class="col5">200</td><td class="col6">835<br>
+Cap : 216</td><td class="col7">159-260</td><td class="col8">+5% en esquive</td><td class="col9">Sigered Heavyhammer<br>
+665 933 po</td><td class="col10"><a href="/wiki/_detail/objets/terre/729.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:729.png"><img src="/wiki/_media/objets/terre/729.png?w=60&amp;h=60&amp;tok=56a8a8" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row24 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Trident ancien enchanté</strong></span></td><td class="col1">289</td><td class="col2">0</td><td class="col3">0</td><td class="col4">200</td><td class="col5">200</td><td class="col6">835<br>
+Cap : 216</td><td class="col7">183-299</td><td class="col8">+15% en Attaque<br>
++5% en esquive</td><td class="col9">Sigered Heavyhammer<br>
+1 997 979 po</td><td class="col10"><a href="/wiki/_detail/objets/terre/729.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:729.png"><img src="/wiki/_media/objets/terre/729.png?w=60&amp;h=60&amp;tok=56a8a8" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row25 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Trident ancien runique</strong></span></td><td class="col1">289</td><td class="col2">0</td><td class="col3">0</td><td class="col4">200</td><td class="col5">200</td><td class="col6">835<br>
+Cap : 216</td><td class="col7">206-338</td><td class="col8">+30% en Attaque<br>
++5% en esquive</td><td class="col9">Xvart l'agaçant<br>
+6 659 330 po</td><td class="col10"><a href="/wiki/_detail/objets/terre/729.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:729.png"><img src="/wiki/_media/objets/terre/729.png?w=60&amp;h=60&amp;tok=56a8a8" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row35 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Épée des âmes déchues</strong></span></td><td class="col1">370</td><td class="col2"> </td><td class="col3"> </td><td class="col4">271</td><td class="col5"> </td><td class="col6">816 <br>
+Cap : 183</td><td class="col7">306-482</td><td class="col8">+50% attaque <br>
++5% intelligence <br>
++10 en coup puissant</td><td class="col9">Drop Seigneur-sorcier (EH)</td><td class="col10"><a href="/wiki/_detail/objets/terre/1606.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:1606.png"><img src="/wiki/_media/objets/terre/1606.png?w=60&amp;h=60&amp;tok=ccf0c4" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row15 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Épée du prophète sombre runique</strong></span></td><td class="col1">265</td><td class="col2"> </td><td class="col3"> </td><td class="col4">212</td><td class="col5"> </td><td class="col6">816 <br>
+Cap : 183</td><td class="col7">173-271</td><td class="col8">+30% attaque <br>
++5% intelligence</td><td class="col9">Un forgeron occupé (ville centaure, SH)<br>
+Achat 4 101 568 po</td><td class="col10"> </td>
+	</tr><tr class="row16 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Épée Déchue des Haut-elfes</strong></span></td><td class="col1">265</td><td class="col2"> </td><td class="col3"> </td><td class="col4">212</td><td class="col5"> </td><td class="col6">816 <br>
+Cap : 183</td><td class="col7">198-312</td><td class="col8">+50% attaque <br>
++5% intelligence</td><td class="col9">Drop Liche, Makrsh P'Tangh (SH)</td><td class="col10"><a href="/wiki/_detail/objets/terre/471.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:471.png"><img src="/wiki/_media/objets/terre/471.png?w=60&amp;h=60&amp;tok=380753" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row17 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Épée Déchue des Haut-elfes de puissance</strong></span></td><td class="col1">265</td><td class="col2"> </td><td class="col3"> </td><td class="col4">212</td><td class="col5"> </td><td class="col6">816 <br>
+Cap : 183</td><td class="col7">202-330</td><td class="col8">+50% attaque <br>
++5% intelligence <br>
++20 force <br>
+<br>
+<strong>Lance un sort monocible (selon puissance élémentaire la plus forte) + zone (frequence indéterminée)</strong> </td><td class="col9"> Amélioration Instance Arakas: <br>
+Epée Déchue des Haut-Elfes + 10 points AR HM </td><td class="col10"><a href="/wiki/_detail/objets/terre/471.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:471.png"><img src="/wiki/_media/objets/terre/471.png?w=60&amp;h=60&amp;tok=380753" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row13 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Étoile du crépuscule</strong></span></td><td class="col1">215</td><td class="col2"> </td><td class="col3"> </td><td class="col4">175</td><td class="col5"> </td><td class="col6">862 <br>
+Cap : 216</td><td class="col7">208-316</td><td class="col8">+50% attaque <br>
++5% intelligence</td><td class="col9">Récompense instance SH </td><td class="col10"><a href="/wiki/_detail/objets/terre/758.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:758.png"><img src="/wiki/_media/objets/terre/758.png?w=60&amp;h=60&amp;tok=4c7bc6" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row14 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Étoile du crépuscule parfaite</strong></span></td><td class="col1">215</td><td class="col2"> </td><td class="col3"> </td><td class="col4">175</td><td class="col5"> </td><td class="col6">862 <br>
+Cap : 183</td><td class="col7">208-316</td><td class="col8">+50% attaque <br>
++5% intelligence</td><td class="col9">Amélioration : <br>
+Étoile du crépuscule <br>
++ 10 crédits SH NM</td><td class="col10"><a href="/wiki/_detail/objets/terre/758.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:758.png"><img src="/wiki/_media/objets/terre/758.png?w=60&amp;h=60&amp;tok=4c7bc6" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row38 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Éviscératrice</strong></span></td><td class="col1">470</td><td class="col2"> </td><td class="col3"> </td><td class="col4">364</td><td class="col5"> </td><td class="col6">816 <br>
+Cap : 183</td><td class="col7">273-460</td><td class="col8">+50% attaque <br>
++5% intelligence <br>
++5 puissance nécro</td><td class="col9">» Drop <em>coffre Una</em> (Tour blanche, ZE) <br>
+» Drop <em>Les prisonniers du temps</em> (Boss 180+) <br>
+» <em>Un artisan aventurier</em> (Côte des berserkers, DS)</td><td class="col10"> </td>
+	</tr><tr class="row34 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Éviscératrice de corruption</strong></span></td><td class="col1">390</td><td class="col2"> </td><td class="col3"> </td><td class="col4">444</td><td class="col5"> </td><td class="col6">816 <br>
+Cap : 183</td><td class="col7">372-579</td><td class="col8">+50% attaque <br>
++5% intelligence <br>
++5 puissance feu <br>
++5 puissance eau <br>
++5 puissance nécro <br>
++5 puissance air <br>
+<br>
+<strong>Lance une mini peste réduisant les PV maximum de la cible <br>
+Lance un débuff de CA et d'esquive</strong></td><td class="col9">L'Arcaniste (Draconis Sanctum) <br>
+15M + 100 larmes</td><td class="col10"> </td>
+	</tr><tr class="row41 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Éviscératrice lourde</strong></span> <br>
+<span class="wrap_lo ">(2 mains)</span></td><td class="col1">530</td><td class="col2"> </td><td class="col3">125</td><td class="col4">271</td><td class="col5"> </td><td class="col6">1125 <br>
+Cap : 300</td><td class="col7">465-784</td><td class="col8">+50% attaque <br>
++5% intelligence<br>
++45 dextérité<br>
++50 transpercer l'armure<br>
++30 coup puissant <br>
+<br>
+<strong>Lance une mini peste réduisant les PV maximum de la cible</strong></td><td class="col9">L'Arcaniste (Draconis Sanctum) <br>
+15M + 100 larmes</td><td class="col10 leftalign">  </td>
+	</tr><tr class="row39 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Éviscératrice élémentaire</strong></span></td><td class="col1">470</td><td class="col2"> </td><td class="col3"> </td><td class="col4">364</td><td class="col5"> </td><td class="col6">816 <br>
+Cap : 183</td><td class="col7">357-573</td><td class="col8">+60% attaque <br>
++10 coup puissant <br>
++5% intelligence <br>
++5 puissance feu <br>
++5 puissance eau <br>
++5 puissance nécro <br>
++5 puissance air <br>
+<br>
+<strong>Lance un buff qui augmente les puissances élémentaires du groupe</strong></td><td class="col9">L'Arcaniste (Draconis Sanctum) <br>
+15M + 100 larmes</td><td class="col10"> </td>
+	</tr></tbody></table></div></div><div class="dataTables_info" id="DataTables_Table_2_info" role="status" aria-live="polite">Showing 1 to 41 of 41 entries</div></div></div>
+</div>

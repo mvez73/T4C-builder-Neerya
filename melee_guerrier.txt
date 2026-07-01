@@ -1,0 +1,972 @@
+<div id="DataTables_Table_0_wrapper" class="dataTables_wrapper no-footer"><div id="DataTables_Table_0_filter" class="dataTables_filter"><label>Search:<input type="search" class="" placeholder="" aria-controls="DataTables_Table_0"></label></div><div class="dataTables_scroll"><div class="dataTables_scrollHead" style="overflow: hidden; position: relative; border: 0px; width: 100%;"><div class="dataTables_scrollHeadInner" style="box-sizing: content-box; width: 1313.19px; padding-right: 15px;"><table class="inline dataTable no-footer" width="100%" role="grid" style="margin-left: 0px; width: 1313.19px;"><thead>
+	<tr class="row0" role="row"><th class="col0 sorting_asc" tabindex="0" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 187.934px;" aria-sort="ascending" aria-label="Nom: activate to sort column descending">Nom</th><th class="col1 sorting" tabindex="0" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 23.3854px;" aria-label="F: activate to sort column ascending">F</th><th class="col2 sorting" tabindex="0" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 23.3854px;" aria-label="E: activate to sort column ascending">E</th><th class="col3 sorting" tabindex="0" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 23.3854px;" aria-label="D: activate to sort column ascending">D</th><th class="col4 sorting" tabindex="0" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 22.3438px;" aria-label="I: activate to sort column ascending">I</th><th class="col5 sorting" tabindex="0" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 23.3854px;" aria-label="S: activate to sort column ascending">S</th><th class="col6 sorting" tabindex="0" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 50.7986px;" aria-label="Dégâts 
+[Dps]: activate to sort column ascending">Dégâts <br>
+[Dps]</th><th class="col7 sorting" tabindex="0" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 48.8194px;" aria-label="Vitesse 
+[sec]: activate to sort column ascending">Vitesse <br>
+[sec]</th><th class="col8 sorting" tabindex="0" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 152.899px;" aria-label="Prix: activate to sort column ascending">Prix</th><th class="col9 sorting" tabindex="0" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 249.965px;" aria-label="Informations: activate to sort column ascending">Informations</th><th class="col10 sorting" tabindex="0" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 251.979px;" aria-label="Obtention: activate to sort column ascending">Obtention</th><th class="col11 centeralign sorting" tabindex="0" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 72.5521px;" aria-label="  Apparence  : activate to sort column ascending">  Apparence  </th></tr>
+	</thead></table></div></div><div class="dataTables_scrollBody" style="position: relative; overflow: auto; max-height: 2000px; height: 2000px; width: 100%;"><table class="inline dataTable no-footer" width="100%" id="DataTables_Table_0" role="grid" aria-describedby="DataTables_Table_0_info" style="width: 100%;"><thead>
+	<tr class="row0" role="row" style="height: 0px;"><th class="col0 sorting_asc" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 187.934px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;" aria-sort="ascending" aria-label="Nom: activate to sort column descending"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;">Nom</div></th><th class="col1 sorting" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 23.3854px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;" aria-label="F: activate to sort column ascending"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;">F</div></th><th class="col2 sorting" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 23.3854px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;" aria-label="E: activate to sort column ascending"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;">E</div></th><th class="col3 sorting" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 23.3854px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;" aria-label="D: activate to sort column ascending"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;">D</div></th><th class="col4 sorting" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 22.3438px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;" aria-label="I: activate to sort column ascending"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;">I</div></th><th class="col5 sorting" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 23.3854px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;" aria-label="S: activate to sort column ascending"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;">S</div></th><th class="col6 sorting" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 50.7986px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;" aria-label="Dégâts 
+[Dps]: activate to sort column ascending"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;">Dégâts <br>
+[Dps]</div></th><th class="col7 sorting" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 48.8194px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;" aria-label="Vitesse 
+[sec]: activate to sort column ascending"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;">Vitesse <br>
+[sec]</div></th><th class="col8 sorting" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 152.899px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;" aria-label="Prix: activate to sort column ascending"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;">Prix</div></th><th class="col9 sorting" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 249.965px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;" aria-label="Informations: activate to sort column ascending"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;">Informations</div></th><th class="col10 sorting" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 251.979px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;" aria-label="Obtention: activate to sort column ascending"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;">Obtention</div></th><th class="col11 centeralign sorting" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 72.5521px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;" aria-label="  Apparence  : activate to sort column ascending"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;">  Apparence  </div></th></tr>
+	</thead>
+	
+	<tbody>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+<tr class="row33 odd" role="row">
+		<td class="col0 sorting_1">Buveur de sang</td><td class="col1">068</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">21-33</td><td class="col7">0.769</td><td class="col8"> </td><td class="col9">Cap dex : 67 <br>
+Aspire des points de vie de la cible</td><td class="col10">Dr. Van Pyre (Asile-Arakas)</td><td class="col11"><a href="/wiki/_detail/objets/terre/274.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:274.png"><img src="/wiki/_media/objets/terre/274.png?w=60&amp;h=60&amp;tok=e90553" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row103 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Championne de Theopold</strong></span></td><td class="col1">231</td><td class="col2">75</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">193-293</td><td class="col7">0.882</td><td class="col8">5</td><td class="col9">Cap dex : 280 <br>
+50% d'attaque</td><td class="col10">Instance BG, Tafrara</td><td class="col11"><a href="/wiki/_detail/objets/terre/202.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:202.png"><img src="/wiki/_media/objets/terre/202.png?w=60&amp;h=60&amp;tok=216ec7" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row105 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Championne de Theopold acérée</strong></span></td><td class="col1">231</td><td class="col2">75</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">193-293</td><td class="col7">0.882</td><td class="col8">10</td><td class="col9">Cap dex : 280 <br>
+60% d'attaque(10% supplémentaire) <br>
+25 en force</td><td class="col10">Instance BG, Tafrara</td><td class="col11"><a href="/wiki/_detail/objets/terre/202.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:202.png"><img src="/wiki/_media/objets/terre/202.png?w=60&amp;h=60&amp;tok=216ec7" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row104 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Championne de Theopold large</strong></span></td><td class="col1">231</td><td class="col2">75</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">193-293</td><td class="col7">0.882</td><td class="col8">10</td><td class="col9">Cap dex : 280 <br>
+50% d'attaque <br>
+10 en classe d'armure <br>
+25 en force</td><td class="col10">Instance BG, Tafrara</td><td class="col11"><a href="/wiki/_detail/objets/terre/202.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:202.png"><img src="/wiki/_media/objets/terre/202.png?w=60&amp;h=60&amp;tok=216ec7" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row175 odd" role="row">
+		<td class="col0 sorting_1">Cimeterre ancien</td><td class="col1">459</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">162-259 <br>
+[257.97]</td><td class="col7">0.816</td><td class="col8">553.730</td><td class="col9">Cap dex : 183</td><td class="col10">Sigered Heavyhammer (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/471.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:471.png"><img src="/wiki/_media/objets/terre/471.png?w=60&amp;h=60&amp;tok=380753" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row176 even" role="row">
+		<td class="col0 sorting_1">Cimeterre ancien enchanté</td><td class="col1">459</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">162-260</td><td class="col7">0.816</td><td class="col8">1.661.190</td><td class="col9">Cap dex : 183 <br>
+15% en Attaque</td><td class="col10">Sigered Heavyhammer (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/471.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:471.png"><img src="/wiki/_media/objets/terre/471.png?w=60&amp;h=60&amp;tok=380753" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row177 odd" role="row">
+		<td class="col0 sorting_1">Cimeterre ancien runique</td><td class="col1">459</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">183-294</td><td class="col7">0.816</td><td class="col8">5.537.300</td><td class="col9">Cap dex : 183 <br>
+30% en Attaque</td><td class="col10">Xvart l'agaçant (Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/471.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:471.png"><img src="/wiki/_media/objets/terre/471.png?w=60&amp;h=60&amp;tok=380753" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row157 even" role="row">
+		<td class="col0 sorting_1">Cimeterre d'adamantite</td><td class="col1">372</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">127-198</td><td class="col7">0.816</td><td class="col8">360.269</td><td class="col9">Cap dex : 183</td><td class="col10">Sigered Heavyhammer (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/277.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:277.png"><img src="/wiki/_media/objets/terre/277.png?w=60&amp;h=60&amp;tok=068712" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row158 odd" role="row">
+		<td class="col0 sorting_1">Cimeterre d'adamantite enchanté</td><td class="col1">372</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">146-228</td><td class="col7">0.816</td><td class="col8">1.080.807</td><td class="col9">Cap dex : 183 <br>
+15% en Attaque</td><td class="col10">Sigered Heavyhammer (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/277.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:277.png"><img src="/wiki/_media/objets/terre/277.png?w=60&amp;h=60&amp;tok=068712" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row159 even" role="row">
+		<td class="col0 sorting_1">Cimeterre d'adamantite runique</td><td class="col1">372</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">165-258</td><td class="col7">0.816</td><td class="col8">3.602.690</td><td class="col9">Cap dex : 183 <br>
+30% en Attaque</td><td class="col10">Xvart l'agaçant (Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/277.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:277.png"><img src="/wiki/_media/objets/terre/277.png?w=60&amp;h=60&amp;tok=068712" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row128 odd" role="row">
+		<td class="col0 sorting_1">Cimeterre de mithril</td><td class="col1">300</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">116-175</td><td class="col7">0.816</td><td class="col8">230.691</td><td class="col9">Cap dex : 183</td><td class="col10">Sigered Heavyhammer (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/277.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:277.png"><img src="/wiki/_media/objets/terre/277.png?w=60&amp;h=60&amp;tok=068712" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row129 even" role="row">
+		<td class="col0 sorting_1">Cimeterre de mithril enchanté</td><td class="col1">300</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">133-202</td><td class="col7">0.816</td><td class="col8">692.073</td><td class="col9">Cap dex : 183 <br>
+15% en Attaque</td><td class="col10">Sigered Heavyhammer (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/277.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:277.png"><img src="/wiki/_media/objets/terre/277.png?w=60&amp;h=60&amp;tok=068712" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row130 odd" role="row">
+		<td class="col0 sorting_1">Cimeterre de mithril runique</td><td class="col1">300</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">150-228</td><td class="col7">0.816</td><td class="col8">2.306.910</td><td class="col9">Cap dex : 183 <br>
+30% en Attaque</td><td class="col10">Xvart l'agaçant (Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/277.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:277.png"><img src="/wiki/_media/objets/terre/277.png?w=60&amp;h=60&amp;tok=068712" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row95 even" role="row">
+		<td class="col0 sorting_1">Cimeterre de qualité</td><td class="col1">227</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">87-132</td><td class="col7">0.816</td><td class="col8">129.874</td><td class="col9">Cap dex : 183</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/277.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:277.png"><img src="/wiki/_media/objets/terre/277.png?w=60&amp;h=60&amp;tok=068712" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row96 odd" role="row">
+		<td class="col0 sorting_1">Cimeterre de qualité enchanté</td><td class="col1">227</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">100-152</td><td class="col7">0.816</td><td class="col8">389.622</td><td class="col9">Cap dex : 183 <br>
+15% en Attaque</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/277.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:277.png"><img src="/wiki/_media/objets/terre/277.png?w=60&amp;h=60&amp;tok=068712" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row97 even" role="row">
+		<td class="col0 sorting_1">Cimeterre de qualité runique</td><td class="col1">227</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">113-172</td><td class="col7">0.816</td><td class="col8">1.298.740</td><td class="col9">Cap dex : 183 <br>
+30% en Attaque</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/277.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:277.png"><img src="/wiki/_media/objets/terre/277.png?w=60&amp;h=60&amp;tok=068712" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row14 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Cimeterre du bédouin</strong></span></td><td class="col1">024</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">6-12</td><td class="col7">0.797</td><td class="col8"> </td><td class="col9">Cap dex : 183 <br>
+Si l'anneau de lien est activé, 50% de chance de donner des dommages de poison</td><td class="col10">5 bons de ravitaillement Antiquaire-marchand Récompenses de base (Faction)</td><td class="col11"><a href="/wiki/_detail/objets/terre/703.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:703.png"><img src="/wiki/_media/objets/terre/703.png?w=60&amp;h=60&amp;tok=e43873" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row69 even" role="row">
+		<td class="col0 sorting_1">Cimeterre en acier trempé</td><td class="col1">155</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">66-101 <br>
+[102.33]</td><td class="col7">0.816</td><td class="col8">57.861</td><td class="col9">Cap dex : 183</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/703.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:703.png"><img src="/wiki/_media/objets/terre/703.png?w=60&amp;h=60&amp;tok=e43873" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row70 odd" role="row">
+		<td class="col0 sorting_1">Cimeterre en acier trempé enchanté</td><td class="col1">155</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">67-103</td><td class="col7">0.816</td><td class="col8">173.463</td><td class="col9">Cap dex : 183 <br>
+15% en Attaque</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/703.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:703.png"><img src="/wiki/_media/objets/terre/703.png?w=60&amp;h=60&amp;tok=e43873" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row71 even" role="row">
+		<td class="col0 sorting_1">Cimeterre en acier trempé runique</td><td class="col1">155</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">76-116</td><td class="col7">0.816</td><td class="col8">578.210</td><td class="col9">Cap dex : 183 <br>
+30% en Attaque</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/703.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:703.png"><img src="/wiki/_media/objets/terre/703.png?w=60&amp;h=60&amp;tok=e43873" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row209 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Claymore brûlesprit</strong></span><br>
+<span class="wrap_lo ">(2 mains)</span></td><td class="col1">764</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">323-584</td><td class="col7">0.882</td><td class="col8"> </td><td class="col9">Cap dex : 280 <br>
++30% attaque <br>
+<br>
+<strong>Draine la vie ainsi que la mana de votre cible.</strong></td><td class="col10">» Drop <em>coffre Una</em> (Tour blanche, ZE) <br>
+» Drop <em>Les prisonniers du temps</em> (Boss 180+) <br>
+» <em>Un artisan aventurier</em> (Côte des berserkers, DS)</td><td class="col11"><a href="/wiki/_detail/objets/terre/692.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:692.png"><img src="/wiki/_media/objets/terre/692.png?w=60&amp;h=60&amp;tok=6c7070" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row211 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Claymore brûlesprit d'attaque</strong></span><br>
+<span class="wrap_lo ">(2 mains)</span></td><td class="col1">764</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">459-820</td><td class="col7">0.882</td><td class="col8">Claymore brûlesprit <br>
+100 larmes de dragon <br>
+15 000 000 pièces d'or</td><td class="col9">Cap dex : 280 <br>
++50% attaque <br>
++50 transpercer armure <br>
++35 coup puissant <br>
++30 coup assommant <br>
++30 dextérité <br>
+<br>
+<strong>Draine la vie ainsi que la mana de votre cible.</strong> <br>
+<br>
+Lance aussi le sort <strong>fléau des mages</strong> :<br>
+Effet : -33% de l'intel boostée de la cible <br>
+Durée : 30 secondes</td><td class="col10">L'Arcaniste (Draconis Sanctum)</td><td class="col11"><a href="/wiki/_detail/objets/terre/692.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:692.png"><img src="/wiki/_media/objets/terre/692.png?w=60&amp;h=60&amp;tok=6c7070" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row210 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Claymore brûlesprit défensive</strong></span><br>
+<span class="wrap_lo ">(2 mains)</span></td><td class="col1">691</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">106</td><td class="col6">434-769</td><td class="col7">0.882</td><td class="col8">Claymore brûlesprit <br>
+100 larmes de dragon <br>
+15 000 000 pièces d'or</td><td class="col9">Cap dex : 280 <br>
++50% attaque <br>
++30 dextérité <br>
++10 coup puissant <br>
++40 transpercer armure<br>
++20 parade <br>
++10 CA <br>
+<br>
+<strong>Draine la vie ainsi que la mana de votre cible.</strong></td><td class="col10">L'Arcaniste (Draconis Sanctum)</td><td class="col11"><a href="/wiki/_detail/objets/terre/692.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:692.png"><img src="/wiki/_media/objets/terre/692.png?w=60&amp;h=60&amp;tok=6c7070" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row212 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Claymore brûlesprit enchantée</strong></span> <br>
+<span class="wrap_lo ">(2 mains)</span></td><td class="col1">691</td><td class="col2"> </td><td class="col3"> </td><td class="col4">116</td><td class="col5"> </td><td class="col6">434-769</td><td class="col7">0.882</td><td class="col8">Claymore brûlesprit <br>
+100 larmes de dragon <br>
+15 000 000 pièces d'or</td><td class="col9">Cap dex : 280 <br>
++50% attaque <br>
++30 dextérité <br>
++15 coup puissant <br>
++50 transpercer l'armure <br>
+<br>
+<strong>Draine la vie ainsi que la mana de votre cible.</strong> <br>
+<strong>Diminue l'intelligence de votre cible de 33%.</strong></td><td class="col10">L'Arcaniste (Draconis Sanctum) <br>
+<br>
+Prix : <br>
+Claymore brûlesprit <br>
+100 larmes de dragon <br>
+15 000 000 pièces d'or</td><td class="col11"><a href="/wiki/_detail/objets/terre/692.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:692.png"><img src="/wiki/_media/objets/terre/692.png?w=60&amp;h=60&amp;tok=6c7070" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row147 odd" role="row">
+		<td class="col0 sorting_1">Claymore en mithril</td><td class="col1">329</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">236-362</td><td class="col7">0.882</td><td class="col8">11.162.840</td><td class="col9">Cap dex : 280 <br>
+50% en Attaque</td><td class="col10">Xvart l'agaçant (Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/202.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:202.png"><img src="/wiki/_media/objets/terre/202.png?w=60&amp;h=60&amp;tok=216ec7" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row148 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Claymore en mithril dévastatrice</strong></span></td><td class="col1">329</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">236-362</td><td class="col7">0.882</td><td class="col8">50 ticket</td><td class="col9">Cap dex : 280 <br>
+50% d'attaque <br>
++15 coup puissant</td><td class="col10">Instance BG, Tafrara</td><td class="col11"><a href="/wiki/_detail/objets/terre/202.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:202.png"><img src="/wiki/_media/objets/terre/202.png?w=60&amp;h=60&amp;tok=216ec7" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row76 odd" role="row">
+		<td class="col0 sorting_1">Dague de l'Assassin</td><td class="col1">184</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">114-175</td><td class="col7">0.788</td><td class="col8"> </td><td class="col9">Cap dex : 120<br>
++50% en Attaque</td><td class="col10">Coffres Zone Oracle</td><td class="col11"><a href="/wiki/_detail/objets/terre/691.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:691.png"><img src="/wiki/_media/objets/terre/691.png?w=60&amp;h=60&amp;tok=d7dcb0" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row77 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Dague de l'Assassin de puissance</strong></span> <br>
+<strong>(indisponible?)</strong></td><td class="col1">184</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">114-175</td><td class="col7">0.788</td><td class="col8">10</td><td class="col9">Cap dex : 120 <br>
++55% en Attaque <br>
++15 en force</td><td class="col10"><strong>Ne peut plus être améliorée via des crédits d'instance</strong> <br>
+<br>
+<strong>A valider si oui ou non un ticket d'amélioration fonctionne via GM</strong></td><td class="col11"><a href="/wiki/_detail/objets/terre/691.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:691.png"><img src="/wiki/_media/objets/terre/691.png?w=60&amp;h=60&amp;tok=d7dcb0" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row78 odd" role="row">
+		<td class="col0 sorting_1">Dague de mithril</td><td class="col1">155</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">58-89</td><td class="col7">0.769</td><td class="col8">57821</td><td class="col9">Cap dex : 67</td><td class="col10">Gulfrid Morzholdir - Marchand d'armes de SC</td><td class="col11"><a href="/wiki/_detail/objets/terre/274.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:274.png"><img src="/wiki/_media/objets/terre/274.png?w=60&amp;h=60&amp;tok=e90553" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row79 even" role="row">
+		<td class="col0 sorting_1">Dague de mithril enchanté</td><td class="col1">155</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">66-101</td><td class="col7">0.769</td><td class="col8">173463</td><td class="col9">Cap dex : 67 <br>
+15% en Attaque</td><td class="col10">Un forgeron occupé - Ville des centaures</td><td class="col11"><a href="/wiki/_detail/objets/terre/274.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:274.png"><img src="/wiki/_media/objets/terre/274.png?w=60&amp;h=60&amp;tok=e90553" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row80 odd" role="row">
+		<td class="col0 sorting_1">Dague de mithril runique</td><td class="col1">155</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">88-134</td><td class="col7">0.769</td><td class="col8">578210</td><td class="col9">Cap dex : 67 <br>
+30% en Attaque</td><td class="col10">Un forgeron occupé - Ville des centaures</td><td class="col11"><a href="/wiki/_detail/objets/terre/274.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:274.png"><img src="/wiki/_media/objets/terre/274.png?w=60&amp;h=60&amp;tok=e90553" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row59 even" role="row">
+		<td class="col0 sorting_1">Dague de qualité</td><td class="col1">126</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">41-63</td><td class="col7">0.769</td><td class="col8">37.053</td><td class="col9">Cap dex : 67</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/274.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:274.png"><img src="/wiki/_media/objets/terre/274.png?w=60&amp;h=60&amp;tok=e90553" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row60 odd" role="row">
+		<td class="col0 sorting_1">Dague de qualité enchantée</td><td class="col1">126</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">47-72</td><td class="col7">0.769</td><td class="col8">111.159</td><td class="col9">Cap dex : 67 <br>
+15% en Attaque</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/274.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:274.png"><img src="/wiki/_media/objets/terre/274.png?w=60&amp;h=60&amp;tok=e90553" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row61 even" role="row">
+		<td class="col0 sorting_1">Dague de qualité runique</td><td class="col1">126</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">53-81</td><td class="col7">0.769</td><td class="col8">370.530</td><td class="col9">Cap dex : 67 <br>
+30% en Attaque</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/274.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:274.png"><img src="/wiki/_media/objets/terre/274.png?w=60&amp;h=60&amp;tok=e90553" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row32 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Dague de Valnor</strong></span></td><td class="col1">058</td><td class="col2">0</td><td class="col3">30</td><td class="col4">0</td><td class="col5">0</td><td class="col6">20-31</td><td class="col7">0.675</td><td class="col8"> </td><td class="col9">Cap dex : Aucun <br>
+5 en coup assommant <br>
+5 en coup puissant</td><td class="col10">Assassin embusqué (Anwynn -1)</td><td class="col11"></td>
+	</tr><tr class="row13 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Dague du débutant</strong></span></td><td class="col1">013</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">2-4</td><td class="col7">0.675</td><td class="col8"> </td><td class="col9">Cap dex : 120 <br>
+Lance parfois le sort un Dard de feu lorsqu'elle touche</td><td class="col10">Dans l'inventaire à la création du personnage</td><td class="col11"><a href="/wiki/_detail/objets/terre/689.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:689.png"><img src="/wiki/_media/objets/terre/689.png?w=60&amp;h=60&amp;tok=f09cfb" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row48 odd" role="row">
+		<td class="col0 sorting_1">Dague en acier trempé</td><td class="col1">097</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">35-54</td><td class="col7">0.769</td><td class="col8">20.887</td><td class="col9">Cap dex : 67</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/687.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:687.png"><img src="/wiki/_media/objets/terre/687.png?w=60&amp;h=60&amp;tok=8d013e" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row49 even" role="row">
+		<td class="col0 sorting_1">Dague en acier trempé enchantée</td><td class="col1">097</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">35-55</td><td class="col7">0.769</td><td class="col8">62.661</td><td class="col9">Cap dex : 67 <br>
+15% en Attaque</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/687.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:687.png"><img src="/wiki/_media/objets/terre/687.png?w=60&amp;h=60&amp;tok=8d013e" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row50 odd" role="row">
+		<td class="col0 sorting_1">Dague en acier trempé runique</td><td class="col1">097</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">40-62</td><td class="col7">0.769</td><td class="col8">208.870</td><td class="col9">Cap dex : 67 <br>
+30% en Attaque</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/687.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:687.png"><img src="/wiki/_media/objets/terre/687.png?w=60&amp;h=60&amp;tok=8d013e" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row34 even" role="row">
+		<td class="col0 sorting_1">Dague polie</td><td class="col1">068</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">24-37 <br>
+[39.66]</td><td class="col7">0.769</td><td class="col8">9.323</td><td class="col9">Cap dex : 67</td><td class="col10">Arakas</td><td class="col11"><a href="/wiki/_detail/objets/terre/274.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:274.png"><img src="/wiki/_media/objets/terre/274.png?w=60&amp;h=60&amp;tok=e90553" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row35 odd" role="row">
+		<td class="col0 sorting_1">Dague polie enchantée</td><td class="col1">068</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">24-37</td><td class="col7">0.769</td><td class="col8">27.969</td><td class="col9">Cap dex : 67 <br>
+15% en Attaque</td><td class="col10">Arakas</td><td class="col11"><a href="/wiki/_detail/objets/terre/274.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:274.png"><img src="/wiki/_media/objets/terre/274.png?w=60&amp;h=60&amp;tok=e90553" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row36 even" role="row">
+		<td class="col0 sorting_1">Dague polie runique</td><td class="col1">068</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">27-42</td><td class="col7">0.769</td><td class="col8">93.230</td><td class="col9">Cap dex : 67 <br>
+30% en Attaque</td><td class="col10">Arakas</td><td class="col11"><a href="/wiki/_detail/objets/terre/274.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:274.png"><img src="/wiki/_media/objets/terre/274.png?w=60&amp;h=60&amp;tok=e90553" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row15 odd" role="row">
+		<td class="col0 sorting_1">Dague rouillée</td><td class="col1">024</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">6-10</td><td class="col7">0.769</td><td class="col8">0.605</td><td class="col9">Cap dex : 67</td><td class="col10">Arakas</td><td class="col11"><a href="/wiki/_detail/objets/terre/274.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:274.png"><img src="/wiki/_media/objets/terre/274.png?w=60&amp;h=60&amp;tok=e90553" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row16 even" role="row">
+		<td class="col0 sorting_1">Dague rouillée enchantée</td><td class="col1">024</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">6-12</td><td class="col7">0.769</td><td class="col8">1.815</td><td class="col9">Cap dex : 67 <br>
+15% en Attaque</td><td class="col10">Arakas</td><td class="col11"><a href="/wiki/_detail/objets/terre/274.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:274.png"><img src="/wiki/_media/objets/terre/274.png?w=60&amp;h=60&amp;tok=e90553" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row17 odd" role="row">
+		<td class="col0 sorting_1">Dague rouillée runique</td><td class="col1">024</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">7-13</td><td class="col7">0.769</td><td class="col8">6.050</td><td class="col9">Cap dex : 67 <br>
+30% en Attaque</td><td class="col10">Arakas</td><td class="col11"><a href="/wiki/_detail/objets/terre/274.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:274.png"><img src="/wiki/_media/objets/terre/274.png?w=60&amp;h=60&amp;tok=e90553" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row140 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Dague vipérine perçante <br>
+(Ancienne Lame vipérine parfaite)</strong></span></td><td class="col1">300</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">190-289</td><td class="col7">0.788</td><td class="col8">10</td><td class="col9">Cap dex : 120 <br>
+50% en Attaque <br>
++15 coup puissant</td><td class="col10">10 points d'instance AR  : Amélioration Lame vipérine </td><td class="col11"><a href="/wiki/_detail/objets/terre/686.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:686.png"><img src="/wiki/_media/objets/terre/686.png?w=60&amp;h=60&amp;tok=f85324" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row84 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Epee de Cristallin LeBlanc</strong></span></td><td class="col1">184</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">70-106</td><td class="col7">0.788</td><td class="col8"> </td><td class="col9">Cap dex : 120 <br>
+En attaquant bonus de 100 points de vie quand vous équipez l'épée. <br>
+50% en Attaque</td><td class="col10">Scorpion géant (Raven's Dust)</td><td class="col11"><a href="/wiki/_detail/objets/terre/1.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:1.png"><img src="/wiki/_media/objets/terre/1.png?w=60&amp;h=60&amp;tok=b0bc8d" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row185 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Epée bâtarde ancienne parfaite</strong></span></td><td class="col1">532</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">250-405</td><td class="col7">0.835</td><td class="col8">10</td><td class="col9">Cap dex : 216 <br>
+20 en force <br>
+30% en Attaque</td><td class="col10">10 points d'instance SH</td><td class="col11"><a href="/wiki/_detail/objets/terre/695.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:695.png"><img src="/wiki/_media/objets/terre/695.png?w=60&amp;h=60&amp;tok=e21e93" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row169 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Epée d'adamantite de glace</strong></span></td><td class="col1">401</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">296-467</td><td class="col7">0.882</td><td class="col8">50 ticket</td><td class="col9">Cap dex : 280 <br>
+50% d'attaque <br>
+Peut lancer (~15%?) un sort mental qui gèle la peau (skin glacier). Influencé par les puissances et résistances, et la force et l'endurance du lanceur (=force boostée/5+endu boostée/15?)</td><td class="col10">Instance BG, Tafrara</td><td class="col11"><a href="/wiki/_detail/objets/terre/694.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:694.png"><img src="/wiki/_media/objets/terre/694.png?w=60&amp;h=60&amp;tok=3158c4" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row187 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Epée Gravée d'un Lion d'Etincelle</strong></span></td><td class="col1">532</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">289-466</td><td class="col7">0.835</td><td class="col8">29.863.480</td><td class="col9">Cap dex : 216 <br>
+50% en Attaque</td><td class="col10">Xvart l'agaçant (Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/706.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:706.png"><img src="/wiki/_media/objets/terre/706.png?w=60&amp;h=60&amp;tok=bb2cf4" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row100 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Epée à deux mains en acier trempé</strong></span></td><td class="col1">231</td><td class="col2">75</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">129-195</td><td class="col7">0.882</td><td class="col8">Gain</td><td class="col9">Cap dex : 280</td><td class="col10">Instance BG, Tafrara</td><td class="col11"><a href="/wiki/_detail/objets/terre/202.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:202.png"><img src="/wiki/_media/objets/terre/202.png?w=60&amp;h=60&amp;tok=216ec7" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row101 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Epée à deux mains en acier trempé enchantée</strong></span></td><td class="col1">231</td><td class="col2">75</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">148-224</td><td class="col7">0.882</td><td class="col8">5</td><td class="col9">Cap dex : 280 <br>
+15% d'attaque</td><td class="col10">Instance BG, Tafrara</td><td class="col11"><a href="/wiki/_detail/objets/terre/202.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:202.png"><img src="/wiki/_media/objets/terre/202.png?w=60&amp;h=60&amp;tok=216ec7" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row102 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Epée à deux mains en acier trempé runique</strong></span></td><td class="col1">231</td><td class="col2">75</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">167-253</td><td class="col7">0.882</td><td class="col8">5</td><td class="col9">Cap dex : 280 <br>
+30% d'attaque</td><td class="col10">Instance BG, Tafrara</td><td class="col11"><a href="/wiki/_detail/objets/terre/202.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:202.png"><img src="/wiki/_media/objets/terre/202.png?w=60&amp;h=60&amp;tok=216ec7" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row205 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Flamberge des hautes terres</strong></span><br>
+<span class="wrap_lo ">(2 mains)</span></td><td class="col1">714</td><td class="col2">0</td><td class="col3">125</td><td class="col4">0</td><td class="col5">0</td><td class="col6">493-840</td><td class="col7">1.125</td><td class="col8"> </td><td class="col9">Cap dex : 300 <br>
+30% en Attaque</td><td class="col10">» Drop <em>coffre Una</em> (Tour blanche, ZE) <br>
+» Drop <em>Les prisonniers du temps</em> (Boss 180+) <br>
+» <em>Un artisan aventurier</em> (Côte des berserkers, DS)</td><td class="col11"><a href="/wiki/_detail/objets/terre/694.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:694.png"><img src="/wiki/_media/objets/terre/694.png?w=60&amp;h=60&amp;tok=3158c4" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row206 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Flamberge des hautes terres d'attaque</strong></span><br>
+<span class="wrap_lo ">(2 mains)</span></td><td class="col1">714</td><td class="col2">0</td><td class="col3">125</td><td class="col4">0</td><td class="col5">0</td><td class="col6">609-1050</td><td class="col7">1.125</td><td class="col8">Flamberge des hautes terres <br>
+100 larmes de dragon <br>
+15 000 000 pièces d'or</td><td class="col9">Cap dex : 300 <br>
++60% attaque <br>
++45 dextérité <br>
++50 transpercer l'armure <br>
++40 coup puissant</td><td class="col10">L'Arcaniste (Draconis Sanctum)</td><td class="col11"><a href="/wiki/_detail/objets/terre/694.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:694.png"><img src="/wiki/_media/objets/terre/694.png?w=60&amp;h=60&amp;tok=3158c4" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row207 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Flamberge des hautes terres défensive</strong></span><br>
+<span class="wrap_lo ">(2 mains)</span></td><td class="col1">714</td><td class="col2">0</td><td class="col3">125</td><td class="col4">0</td><td class="col5">0</td><td class="col6">624-1085</td><td class="col7">1.125</td><td class="col8">Flamberge des hautes terres <br>
+100 larmes de dragon <br>
+15 000 000 pièces d'or</td><td class="col9">Cap dex : 300 <br>
++50% attaque <br>
++45 dextérité <br>
++300 esquive <br>
++80 coup assommant</td><td class="col10">L'Arcaniste (Draconis Sanctum)</td><td class="col11"><a href="/wiki/_detail/objets/terre/694.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:694.png"><img src="/wiki/_media/objets/terre/694.png?w=60&amp;h=60&amp;tok=3158c4" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row208 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Flamberge des hautes terres enchantée</strong></span><br>
+<span class="wrap_lo ">(2 mains)</span></td><td class="col1">714</td><td class="col2">0</td><td class="col3">125</td><td class="col4">0</td><td class="col5">0</td><td class="col6">609-1050</td><td class="col7">1.125</td><td class="col8">Flamberge des hautes terres <br>
+100 larmes de dragon <br>
+15 000 000 pièces d'or</td><td class="col9">Cap dex : 300 <br>
++50% attaque <br>
++45 dextérité <br>
+<br>
+<strong>Fureur nordique : lorsque le berserker sent sa glorieuse fin venir au combat, il décuple sa rage pour emporter dans sa tombe ses ennemis.</strong></td><td class="col10">L'Arcaniste (Draconis Sanctum)</td><td class="col11"><a href="/wiki/_detail/objets/terre/694.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:694.png"><img src="/wiki/_media/objets/terre/694.png?w=60&amp;h=60&amp;tok=3158c4" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row170 even" role="row">
+		<td class="col0 sorting_1">Francisque en fer ancien</td><td class="col1">416</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">403-637</td><td class="col7">1.125</td><td class="col8">18.072.920</td><td class="col9">Cap dex : 300 <br>
+5 en coup assommant <br>
+5 en pénétration armure <br>
+50% en Attaque</td><td class="col10">Une Ombre (StoneHeim) <br>
+Xvart l'agaçant (Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/725.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:725.png"><img src="/wiki/_media/objets/terre/725.png?w=60&amp;h=60&amp;tok=1ea604" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row171 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Francisque en fer ancien d'empalement</strong></span></td><td class="col1">416</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">403-637 </td><td class="col7">1.125</td><td class="col8">Ticket d'amélioration Francisquede fer ancien <br>
+5 points d'instance SH HM</td><td class="col9 leftalign">+50 transpercer l'armure <br>
++15 coup puissant  </td><td class="col10">instance Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/725.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:725.png"><img src="/wiki/_media/objets/terre/725.png?w=60&amp;h=60&amp;tok=1ea604" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row149 even" role="row">
+		<td class="col0 sorting_1">Glaive d'adamantite</td><td class="col1">358</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">119-185</td><td class="col7">0.807</td><td class="col8">332.053</td><td class="col9">Cap dex : 164</td><td class="col10">Sigered Heavyhammer (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/2.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:2.png"><img src="/wiki/_media/objets/terre/2.png?w=60&amp;h=60&amp;tok=6254af" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row150 odd" role="row">
+		<td class="col0 sorting_1">Glaive d'adamantite enchanté</td><td class="col1">358</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">137-213</td><td class="col7">0.807</td><td class="col8">996.159</td><td class="col9">Cap dex : 164 <br>
+15% en Attaque</td><td class="col10">Sigered Heavyhammer (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/2.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:2.png"><img src="/wiki/_media/objets/terre/2.png?w=60&amp;h=60&amp;tok=6254af" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row151 even" role="row">
+		<td class="col0 sorting_1">Glaive d'adamantite runique</td><td class="col1">358</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">155-241</td><td class="col7">0.807</td><td class="col8">3.320.530</td><td class="col9">Cap dex : 164 <br>
+30% en Attaque</td><td class="col10">Xvart l'agaçant (Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/2.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:2.png"><img src="/wiki/_media/objets/terre/2.png?w=60&amp;h=60&amp;tok=6254af" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row125 odd" role="row">
+		<td class="col0 sorting_1">Glaive de mithril</td><td class="col1">285</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">105-160</td><td class="col7">0.807</td><td class="col8">208.226</td><td class="col9">Cap dex : 164</td><td class="col10">Stoneheim</td><td class="col11"><a href="/wiki/_detail/objets/terre/2.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:2.png"><img src="/wiki/_media/objets/terre/2.png?w=60&amp;h=60&amp;tok=6254af" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row126 even" role="row">
+		<td class="col0 sorting_1">Glaive de mithril enchanté</td><td class="col1">285</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">121-184</td><td class="col7">0.807</td><td class="col8">624.678</td><td class="col9">Cap dex : 164 <br>
+15% en Attaque</td><td class="col10">Stoneheim</td><td class="col11"><a href="/wiki/_detail/objets/terre/2.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:2.png"><img src="/wiki/_media/objets/terre/2.png?w=60&amp;h=60&amp;tok=6254af" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row127 odd" role="row">
+		<td class="col0 sorting_1">Glaive de mithril runique</td><td class="col1">285</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">137-208</td><td class="col7">0.807</td><td class="col8">2.082.260</td><td class="col9">Cap dex : 164 <br>
+30% en Attaque</td><td class="col10">Xvart l'agaçant (Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/2.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:2.png"><img src="/wiki/_media/objets/terre/2.png?w=60&amp;h=60&amp;tok=6254af" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row44 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Glaive de peau d'ours</strong></span></td><td class="col1">082</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">42-65</td><td class="col7">0.807</td><td class="col8"> </td><td class="col9">Cap dex : 164 <br>
++50% attaque <br>
++10 force</td><td class="col10">Hilal le possédant (1 glaive poli runique + 5 crédit AR normal)</td><td class="col11"><a href="/wiki/_detail/objets/terre/202.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:202.png"><img src="/wiki/_media/objets/terre/202.png?w=60&amp;h=60&amp;tok=216ec7" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row91 odd" role="row">
+		<td class="col0 sorting_1">Glaive de qualité</td><td class="col1">213</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">78-118</td><td class="col7">0.807</td><td class="col8">113.163</td><td class="col9">Cap dex : 164</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/2.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:2.png"><img src="/wiki/_media/objets/terre/2.png?w=60&amp;h=60&amp;tok=6254af" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row92 even" role="row">
+		<td class="col0 sorting_1">Glaive de qualité enchanté</td><td class="col1">213</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">89-136</td><td class="col7">0.807</td><td class="col8">339.489</td><td class="col9">Cap dex : 164 <br>
+15% en Attaque</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/2.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:2.png"><img src="/wiki/_media/objets/terre/2.png?w=60&amp;h=60&amp;tok=6254af" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row93 odd" role="row">
+		<td class="col0 sorting_1">Glaive de qualité runique</td><td class="col1">213</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">101-154</td><td class="col7">0.807</td><td class="col8">1.131.630</td><td class="col9">Cap dex : 164 <br>
+30% en Attaque</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/2.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:2.png"><img src="/wiki/_media/objets/terre/2.png?w=60&amp;h=60&amp;tok=6254af" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row66 even" role="row">
+		<td class="col0 sorting_1">Glaive en acier trempé</td><td class="col1">140</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">50-77</td><td class="col7">0.807</td><td class="col8">46.861</td><td class="col9">Cap dex : 164</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/2.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:2.png"><img src="/wiki/_media/objets/terre/2.png?w=60&amp;h=60&amp;tok=6254af" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row67 odd" role="row">
+		<td class="col0 sorting_1">Glaive en acier trempé enchanté</td><td class="col1">140</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">58-89</td><td class="col7">0.807</td><td class="col8">140.583</td><td class="col9">Cap dex : 164 <br>
+15% en Attaque</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/2.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:2.png"><img src="/wiki/_media/objets/terre/2.png?w=60&amp;h=60&amp;tok=6254af" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row68 even" role="row">
+		<td class="col0 sorting_1">Glaive en acier trempé runique</td><td class="col1">140</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">65-100</td><td class="col7">0.807</td><td class="col8">466.610</td><td class="col9">Cap dex : 164 <br>
+30% en Attaque</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/2.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:2.png"><img src="/wiki/_media/objets/terre/2.png?w=60&amp;h=60&amp;tok=6254af" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row45 odd" role="row">
+		<td class="col0 sorting_1">Glaive poli</td><td class="col1">082</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">28-44</td><td class="col7">0.807</td><td class="col8">14.529</td><td class="col9">Cap dex : 164</td><td class="col10">Arakas</td><td class="col11"><a href="/wiki/_detail/objets/terre/2.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:2.png"><img src="/wiki/_media/objets/terre/2.png?w=60&amp;h=60&amp;tok=6254af" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row46 even" role="row">
+		<td class="col0 sorting_1">Glaive poli enchanté</td><td class="col1">082</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">32-51</td><td class="col7">0.807</td><td class="col8">43.587</td><td class="col9">Cap dex : 164 <br>
+15% en Attaque</td><td class="col10">Arakas</td><td class="col11"><a href="/wiki/_detail/objets/terre/2.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:2.png"><img src="/wiki/_media/objets/terre/2.png?w=60&amp;h=60&amp;tok=6254af" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row47 odd" role="row">
+		<td class="col0 sorting_1">Glaive poli runique</td><td class="col1">082</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">42-65 <br>
+[66.29]</td><td class="col7">0.807</td><td class="col8"> </td><td class="col9">Cap dex : 164 <br>
++30% en Attaque</td><td class="col10">Sentinelle des ombres <br>
+(Arakas)</td><td class="col11"><a href="/wiki/_detail/objets/terre/2.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:2.png"><img src="/wiki/_media/objets/terre/2.png?w=60&amp;h=60&amp;tok=6254af" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row4 even" role="row">
+		<td class="col0 sorting_1">Gourdin</td><td class="col1">0</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">2-4</td><td class="col7">0.835</td><td class="col8">29</td><td class="col9">Cap dex : 216</td><td class="col10">Arakas</td><td class="col11"><a href="/wiki/_detail/objets/terre/447.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:447.png"><img src="/wiki/_media/objets/terre/447.png?w=60&amp;h=60&amp;tok=43ffd3" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row42 odd" role="row">
+		<td class="col0 sorting_1">Gourdin du troll</td><td class="col1">079</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">25-39</td><td class="col7">0.835</td><td class="col8"> </td><td class="col9">Cap dex : 216</td><td class="col10">Mhorgwloth the Troll (Arakas)</td><td class="col11"><a href="/wiki/_detail/objets/terre/447.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:447.png"><img src="/wiki/_media/objets/terre/447.png?w=60&amp;h=60&amp;tok=43ffd3" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row5 even" role="row">
+		<td class="col0 sorting_1">Gourdin enchanté</td><td class="col1">0</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">2-5</td><td class="col7">0.835</td><td class="col8">87</td><td class="col9">Cap dex : 216 <br>
+15% en Attaque</td><td class="col10">Arakas</td><td class="col11"><a href="/wiki/_detail/objets/terre/447.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:447.png"><img src="/wiki/_media/objets/terre/447.png?w=60&amp;h=60&amp;tok=43ffd3" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row6 odd" role="row">
+		<td class="col0 sorting_1">Gourdin runique</td><td class="col1">0</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">2-5</td><td class="col7">0.835</td><td class="col8">290</td><td class="col9">Cap dex : 216 <br>
+30% en Attaque</td><td class="col10">Arakas</td><td class="col11"><a href="/wiki/_detail/objets/terre/447.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:447.png"><img src="/wiki/_media/objets/terre/447.png?w=60&amp;h=60&amp;tok=43ffd3" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row197 even" role="row">
+		<td class="col0 sorting_1">Hache antique des Hauts-Elfes</td><td class="col1">590</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">526-883</td><td class="col7">1.125</td><td class="col8"> </td><td class="col9">Cap dex : 300 <br>
++50% attaque</td><td class="col10">Makrsh P'Tangh (Stoneheim)</td><td class="col11"><a href="/wiki/_detail/objets/terre/468.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:468.png"><img src="/wiki/_media/objets/terre/468.png?w=60&amp;h=60&amp;tok=82a5c5" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row198 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Hache antique des Hauts-Elfes assommante</strong></span></td><td class="col1">590</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">526-883</td><td class="col7">1.125</td><td class="col8"> </td><td class="col9">Cap dex : 300 <br>
++50% attaque <br>
++80 coup assomant <br>
++45 Dextérité</td><td class="col10"> Amélioration Instance Arakas: <br>
+Hache Antique des Haut-Elfes + 10 points AR HM</td><td class="col11"><a href="/wiki/_detail/objets/terre/468.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:468.png"><img src="/wiki/_media/objets/terre/468.png?w=60&amp;h=60&amp;tok=82a5c5" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row41 even" role="row">
+		<td class="col0 sorting_1">Hache d'argent</td><td class="col1">071</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">27-43</td><td class="col7">0.835</td><td class="col8">14.894</td><td class="col9">Cap dex : 216 <br>
+Dégâts sur morts-vivants: 31-49</td><td class="col10">Marché noir</td><td class="col11"><a href="/wiki/_detail/objets/terre/123.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:123.png"><img src="/wiki/_media/objets/terre/123.png?w=60&amp;h=60&amp;tok=4603ef" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row122 odd" role="row">
+		<td class="col0 sorting_1">Hache de guerre de qualité</td><td class="col1">271</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">136-207</td><td class="col7">0.882</td><td class="col8">186.913</td><td class="col9">Cap dex : 280</td><td class="col10">Sigered Heavyhammer (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/122.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:122.png"><img src="/wiki/_media/objets/terre/122.png?w=60&amp;h=60&amp;tok=f835bd" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row123 even" role="row">
+		<td class="col0 sorting_1">Hache de guerre de qualité enchantée</td><td class="col1">271</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">156-238</td><td class="col7">0.882</td><td class="col8">560.739</td><td class="col9">Cap dex : 280 <br>
+15% d'attaque</td><td class="col10">Sigered Heavyhammer (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/122.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:122.png"><img src="/wiki/_media/objets/terre/122.png?w=60&amp;h=60&amp;tok=f835bd" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row124 odd" role="row">
+		<td class="col0 sorting_1">Hache de guerre de qualité runique</td><td class="col1">271</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">177-269</td><td class="col7">0.882</td><td class="col8">1.869.130</td><td class="col9">Cap dex : 280 <br>
+30% d'attaque</td><td class="col10">Xvart l'agaçant (Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/122.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:122.png"><img src="/wiki/_media/objets/terre/122.png?w=60&amp;h=60&amp;tok=f835bd" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row85 even" role="row">
+		<td class="col0 sorting_1">Hache de guerre en acier trempé</td><td class="col1">184</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">91-139</td><td class="col7">0.882</td><td class="col8">83.191</td><td class="col9">Cap dex : 280</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/122.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:122.png"><img src="/wiki/_media/objets/terre/122.png?w=60&amp;h=60&amp;tok=f835bd" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row86 odd" role="row">
+		<td class="col0 sorting_1">Hache de guerre en acier trempé enchantée</td><td class="col1">184</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">105-160</td><td class="col7">0.882</td><td class="col8">249.573</td><td class="col9">Cap dex : 280 <br>
+15% en Attaque</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/122.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:122.png"><img src="/wiki/_media/objets/terre/122.png?w=60&amp;h=60&amp;tok=f835bd" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row87 even" role="row">
+		<td class="col0 sorting_1">Hache de guerre en acier trempé runique</td><td class="col1">184</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">118-181</td><td class="col7">0.882</td><td class="col8">831.910</td><td class="col9">Cap dex : 280 <br>
+30% en Attaque</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/122.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:122.png"><img src="/wiki/_media/objets/terre/122.png?w=60&amp;h=60&amp;tok=f835bd" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row152 odd" role="row">
+		<td class="col0 sorting_1">Hache de guerre en mithril</td><td class="col1">358</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">163-253</td><td class="col7">0.882</td><td class="col8">332.053</td><td class="col9">Cap dex : 280</td><td class="col10">Sigered Heavyhammer (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/122.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:122.png"><img src="/wiki/_media/objets/terre/122.png?w=60&amp;h=60&amp;tok=f835bd" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row153 even" role="row">
+		<td class="col0 sorting_1">Hache de guerre en mithril enchantée</td><td class="col1">358</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">188-291</td><td class="col7">0.882</td><td class="col8">996.159</td><td class="col9">Cap dex : 280 <br>
+15% d'attaque</td><td class="col10">Sigered Heavyhammer (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/122.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:122.png"><img src="/wiki/_media/objets/terre/122.png?w=60&amp;h=60&amp;tok=f835bd" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row154 odd" role="row">
+		<td class="col0 sorting_1">Hache de guerre en mithril runique</td><td class="col1">358</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">212-329</td><td class="col7">0.882</td><td class="col8">3.320.530</td><td class="col9">Cap dex : 280 <br>
+30% d'attaque</td><td class="col10">Xvart l'agaçant (Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/122.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:122.png"><img src="/wiki/_media/objets/terre/122.png?w=60&amp;h=60&amp;tok=f835bd" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row131 even" role="row">
+		<td class="col0 sorting_1">Hache de qualité à deux tranchants</td><td class="col1">300</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">202-306</td><td class="col7">1.125</td><td class="col8">230.691</td><td class="col9">Cap dex : 300</td><td class="col10">Sigered Heavyhammer (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/122.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:122.png"><img src="/wiki/_media/objets/terre/122.png?w=60&amp;h=60&amp;tok=f835bd" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row132 odd" role="row">
+		<td class="col0 sorting_1">Hache de qualité à deux tranchants enchantée</td><td class="col1">300</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">232-351</td><td class="col7">1.125</td><td class="col8">692.073</td><td class="col9">Cap dex : 300 <br>
+15% en Attaque</td><td class="col10">Sigered Heavyhammer (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/122.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:122.png"><img src="/wiki/_media/objets/terre/122.png?w=60&amp;h=60&amp;tok=f835bd" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row133 even" role="row">
+		<td class="col0 sorting_1">Hache de qualité à deux tranchants runique</td><td class="col1">300</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">262-397</td><td class="col7">1.125</td><td class="col8">2.306.910</td><td class="col9">Cap dex : 300 <br>
+30% en Attaque</td><td class="col10">Xvart l'agaçant (Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/122.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:122.png"><img src="/wiki/_media/objets/terre/122.png?w=60&amp;h=60&amp;tok=f835bd" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row134 odd" role="row">
+		<td class="col0 sorting_1">Hache lormyrienne</td><td class="col1">300</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">348-527</td><td class="col7">1.125</td><td class="col8">9.227.640</td><td class="col9">Cap dex : 300 <br>
+50% en Attaque</td><td class="col10">Xvart l'agaçant (Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/725.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:725.png"><img src="/wiki/_media/objets/terre/725.png?w=60&amp;h=60&amp;tok=1ea604" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row135 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Hache Lormyrienne dévastatrice</strong></span></td><td class="col1">300</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">348-527</td><td class="col7">1.125</td><td class="col8">15</td><td class="col9">Cap dex : 300 <br>
+50% en Attaque <br>
+45 en dextérité <br>
++15 en coup puissant <br>
++20 en coup assommant</td><td class="col10">15 points d'instance Arakas Ticket d'amélioration Hache Lormyrienne Hache Lormyrienne</td><td class="col11"><a href="/wiki/_detail/objets/terre/725.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:725.png"><img src="/wiki/_media/objets/terre/725.png?w=60&amp;h=60&amp;tok=1ea604" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row194 odd" role="row">
+		<td class="col0 sorting_1">Hache à deux tranchants ancienne</td><td class="col1">590</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">282-466</td><td class="col7">1.125</td><td class="col8">921.581</td><td class="col9">Cap dex : 300</td><td class="col10">Sigered Heavyhammer (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/468.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:468.png"><img src="/wiki/_media/objets/terre/468.png?w=60&amp;h=60&amp;tok=82a5c5" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row195 even" role="row">
+		<td class="col0 sorting_1">Hache à deux tranchants ancienne enchantée</td><td class="col1">590</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">324-535</td><td class="col7">1.125</td><td class="col8">2.764.743</td><td class="col9">Cap dex : 300 <br>
+15% en Attaque</td><td class="col10">Sigered Heavyhammer (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/468.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:468.png"><img src="/wiki/_media/objets/terre/468.png?w=60&amp;h=60&amp;tok=82a5c5" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row196 odd" role="row">
+		<td class="col0 sorting_1">Hache à deux tranchants ancienne runique</td><td class="col1">590</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">366-605</td><td class="col7">1.125</td><td class="col8">9.215.810</td><td class="col9">Cap dex : 300 <br>
+30% en Attaque</td><td class="col10">Xvart l'agaçant (Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/468.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:468.png"><img src="/wiki/_media/objets/terre/468.png?w=60&amp;h=60&amp;tok=82a5c5" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row172 even" role="row">
+		<td class="col0 sorting_1">Hache à deux tranchants en mithril enchantée</td><td class="col1">416</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">269-425</td><td class="col7">1.125</td><td class="col8">13.55.469</td><td class="col9">Cap dex : 300 <br>
+15% en Attaque</td><td class="col10">Sigered Heavyhammer (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/122.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:122.png"><img src="/wiki/_media/objets/terre/122.png?w=60&amp;h=60&amp;tok=f835bd" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row173 odd" role="row">
+		<td class="col0 sorting_1">Hache à deux tranchants en mithril runique</td><td class="col1">416</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">304-481</td><td class="col7">1.125</td><td class="col8">4.518.230</td><td class="col9">Cap dex : 300 <br>
+30% en Attaque</td><td class="col10">Sigered Heavyhammer (Spellshore) <br>
+Xvart l'agaçant (Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/122.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:122.png"><img src="/wiki/_media/objets/terre/122.png?w=60&amp;h=60&amp;tok=f835bd" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row111 even" role="row">
+		<td class="col0 sorting_1">Hachette de qualité</td><td class="col1">242</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">101-153</td><td class="col7">0.835</td><td class="col8">147.737</td><td class="col9">Cap dex : 216</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/123.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:123.png"><img src="/wiki/_media/objets/terre/123.png?w=60&amp;h=60&amp;tok=4603ef" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row112 odd" role="row">
+		<td class="col0 sorting_1">Hachette de qualité enchantée</td><td class="col1">242</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">116-176</td><td class="col7">0.835</td><td class="col8">443.211</td><td class="col9">Cap dex : 216 <br>
+15% en Attaque</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/123.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:123.png"><img src="/wiki/_media/objets/terre/123.png?w=60&amp;h=60&amp;tok=4603ef" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row113 even" role="row">
+		<td class="col0 sorting_1">Hachette de qualité runique</td><td class="col1">242</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">131-199</td><td class="col7">0.835</td><td class="col8">1.477.370</td><td class="col9">Cap dex : 216 <br>
+30% en Attaque</td><td class="col10">Xvart l'agaçant (Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/123.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:123.png"><img src="/wiki/_media/objets/terre/123.png?w=60&amp;h=60&amp;tok=4603ef" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row72 odd" role="row">
+		<td class="col0 sorting_1">Hachette en acier trempé</td><td class="col1">155</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">63-97</td><td class="col7">0.835</td><td class="col8">57.861</td><td class="col9">Cap dex : 216</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/723.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:723.png"><img src="/wiki/_media/objets/terre/723.png?w=60&amp;h=60&amp;tok=6b22ee" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row73 even" role="row">
+		<td class="col0 sorting_1">Hachette en acier trempé enchantée</td><td class="col1">155</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">73-112</td><td class="col7">0.835</td><td class="col8">173.463</td><td class="col9">Cap dex : 216 <br>
+15% en Attaque</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/723.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:723.png"><img src="/wiki/_media/objets/terre/723.png?w=60&amp;h=60&amp;tok=6b22ee" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row74 odd" role="row">
+		<td class="col0 sorting_1">Hachette en acier trempé runique</td><td class="col1">155</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">82-126</td><td class="col7">0.835</td><td class="col8">578.210</td><td class="col9">Cap dex : 216 <br>
+30% en Attaque</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/723.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:723.png"><img src="/wiki/_media/objets/terre/723.png?w=60&amp;h=60&amp;tok=6b22ee" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row51 even" role="row">
+		<td class="col0 sorting_1">Hachette polie</td><td class="col1">097</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">38-60</td><td class="col7">0.835</td><td class="col8">20.887</td><td class="col9">Cap dex : 216</td><td class="col10">Arakas</td><td class="col11"><a href="/wiki/_detail/objets/terre/123.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:123.png"><img src="/wiki/_media/objets/terre/123.png?w=60&amp;h=60&amp;tok=4603ef" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row52 odd" role="row">
+		<td class="col0 sorting_1">Hachette polie enchantée</td><td class="col1">097</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">44-69</td><td class="col7">0.835</td><td class="col8">62.661</td><td class="col9">Cap dex : 216 <br>
+15% en Attaque</td><td class="col10">Arakas</td><td class="col11"><a href="/wiki/_detail/objets/terre/123.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:123.png"><img src="/wiki/_media/objets/terre/123.png?w=60&amp;h=60&amp;tok=4603ef" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row53 even" role="row">
+		<td class="col0 sorting_1">Hachette polie runique</td><td class="col1">097</td><td class="col2">0</td><td class="col3">0</td><td class="col4">23</td><td class="col5">20</td><td class="col6">50-78</td><td class="col7">0.835</td><td class="col8">208.870</td><td class="col9">Cap dex : 216 <br>
+30% en Attaque</td><td class="col10">Arakas</td><td class="col11"><a href="/wiki/_detail/objets/terre/123.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:123.png"><img src="/wiki/_media/objets/terre/123.png?w=60&amp;h=60&amp;tok=4603ef" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row21 odd" role="row">
+		<td class="col0 sorting_1">Hachette rouillée</td><td class="col1">039</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">13-22</td><td class="col7">0.835</td><td class="col8">2.361</td><td class="col9">Cap dex : 216</td><td class="col10">Arakas</td><td class="col11"><a href="/wiki/_detail/objets/terre/123.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:123.png"><img src="/wiki/_media/objets/terre/123.png?w=60&amp;h=60&amp;tok=4603ef" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row22 even" role="row">
+		<td class="col0 sorting_1">Hachette rouillée enchantée</td><td class="col1">039</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">15-25</td><td class="col7">0.835</td><td class="col8">7.083</td><td class="col9">Cap dex : 216 <br>
+15% en Attaque</td><td class="col10">Arakas</td><td class="col11"><a href="/wiki/_detail/objets/terre/123.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:123.png"><img src="/wiki/_media/objets/terre/123.png?w=60&amp;h=60&amp;tok=4603ef" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row23 odd" role="row">
+		<td class="col0 sorting_1">Hachette rouillée runique</td><td class="col1">039</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">17-29</td><td class="col7">0.835</td><td class="col8">23.610</td><td class="col9">Cap dex : 216 <br>
+30% en Attaque</td><td class="col10">Arakas</td><td class="col11"><a href="/wiki/_detail/objets/terre/123.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:123.png"><img src="/wiki/_media/objets/terre/123.png?w=60&amp;h=60&amp;tok=4603ef" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row155 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Hallebarde de Lochabère</strong></span></td><td class="col1">360</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">375-584</td><td class="col7">1.125</td><td class="col8">13.282.120</td><td class="col9">Cap dex : 300 <br>
++10 en coup assommant <br>
+50% en Attaque</td><td class="col10">Xvart l'agaçant (Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/732.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:732.png"><img src="/wiki/_media/objets/terre/732.png?w=60&amp;h=60&amp;tok=e7e1ff" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row156 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Hallebarde de Lochabère Tranchante</strong></span></td><td class="col1">360</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">375-584</td><td class="col7">1.125</td><td class="col8"> </td><td class="col9">Cap dex : 300 <br>
++20 en coup assommant <br>
++15 en coup puissant <br>
+50% en Attaque <br>
+45 en dextérité</td><td class="col10">10 points d'instance RD Ticket d'amélioration Hallebarde de Lochabère Hallebarde de Lochabère</td><td class="col11"><a href="/wiki/_detail/objets/terre/732.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:732.png"><img src="/wiki/_media/objets/terre/732.png?w=60&amp;h=60&amp;tok=e7e1ff" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row174 even" role="row">
+		<td class="col0 sorting_1">Hallebarde runique</td><td class="col1">425</td><td class="col2">150</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">349-552</td><td class="col7">1.125</td><td class="col8"> </td><td class="col9">Cap dex : 300 <br>
+10 CA <br>
+25 en transpercer armure <br>
+10 en coup puissant <br>
+30% en Attaque</td><td class="col10">Gardien de la crypte centaure (StoneHeim) <br>
+Sigered Heavyhammer (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/498.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:498.png"><img src="/wiki/_media/objets/terre/498.png?w=60&amp;h=60&amp;tok=fd97ca" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row136 odd" role="row">
+		<td class="col0 sorting_1">Lame ancienne</td><td class="col1">300</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">127-192 <br>
+[202.41]</td><td class="col7">0.788</td><td class="col8">230.691</td><td class="col9">Cap dex : 120</td><td class="col10">Sigered Heavyhammer (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/686.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:686.png"><img src="/wiki/_media/objets/terre/686.png?w=60&amp;h=60&amp;tok=f85324" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row137 even" role="row">
+		<td class="col0 sorting_1">Lame ancienne enchantée</td><td class="col1">300</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">127-193</td><td class="col7">0.788</td><td class="col8">692.073</td><td class="col9">Cap dex : 120 <br>
+15% en Attaque</td><td class="col10">Sigered Heavyhammer (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/687.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:687.png"><img src="/wiki/_media/objets/terre/687.png?w=60&amp;h=60&amp;tok=8d013e" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row138 odd" role="row">
+		<td class="col0 sorting_1">Lame ancienne runique</td><td class="col1">300</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">144-218</td><td class="col7">0.788</td><td class="col8">2.306.910</td><td class="col9">Cap dex : 120 <br>
+30% en Attaque</td><td class="col10">Xvart l'agaçant (Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/687.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:687.png"><img src="/wiki/_media/objets/terre/687.png?w=60&amp;h=60&amp;tok=8d013e" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row55 even" role="row">
+		<td class="col0 sorting_1">Lame assassine</td><td class="col1">110</td><td class="col2">0</td><td class="col3">65</td><td class="col4">15</td><td class="col5">0</td><td class="col6">58-89 <br>
+[95.58]</td><td class="col7">0.769</td><td class="col8">19.873</td><td class="col9">Cap dex : 67 <br>
++10 Coup puissant</td><td class="col10">Stonecrest <br>
+Quête de Malakaï</td><td class="col11"><a href="/wiki/_detail/objets/terre/274.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:274.png"><img src="/wiki/_media/objets/terre/274.png?w=60&amp;h=60&amp;tok=e90553" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row199 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Lame bâtarde du Commandeur</strong></span></td><td class="col1">636</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">357-609</td><td class="col7">0.835</td><td class="col8"> </td><td class="col9">Cap dex : 216 <br>
++50% attaque <br>
++5 coup puissant</td><td class="col10">Seigneur Sorcier (Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/960.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:960.png"><img src="/wiki/_media/objets/terre/960.png?w=60&amp;h=60&amp;tok=656d43" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row114 even" role="row">
+		<td class="col0 sorting_1">Lame d'adamantite</td><td class="col1">242</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">89-135</td><td class="col7">0.788</td><td class="col8">147.737</td><td class="col9">Cap dex : 120</td><td class="col10">Sigered Heavyhammer (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/274.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:274.png"><img src="/wiki/_media/objets/terre/274.png?w=60&amp;h=60&amp;tok=e90553" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row115 odd" role="row">
+		<td class="col0 sorting_1">Lame d'adamantite enchantée</td><td class="col1">242</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">102-155</td><td class="col7">0.788</td><td class="col8">443.211</td><td class="col9">Cap dex : 120 <br>
+15% en Attaque</td><td class="col10">Sigered Heavyhammer (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/274.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:274.png"><img src="/wiki/_media/objets/terre/274.png?w=60&amp;h=60&amp;tok=e90553" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row116 even" role="row">
+		<td class="col0 sorting_1">Lame d'adamantite runique</td><td class="col1">242</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">115-175</td><td class="col7">0.788</td><td class="col8">173.463</td><td class="col9">Cap dex : 120 <br>
+30% en Attaque</td><td class="col10">Xvart l'agaçant (Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/274.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:274.png"><img src="/wiki/_media/objets/terre/274.png?w=60&amp;h=60&amp;tok=e90553" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row75 odd" role="row">
+		<td class="col0 sorting_1">Lame d'héroïsme</td><td class="col1">155</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">73-112 <br>
+[117.39]</td><td class="col7">0.788</td><td class="col8"> </td><td class="col9">Cap dex : 120 <br>
++15% en Attaque</td><td class="col10">Centaure vengeur <br>
+Skraugs (SH)</td><td class="col11"><a href="/wiki/_detail/objets/terre/274.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:274.png"><img src="/wiki/_media/objets/terre/274.png?w=60&amp;h=60&amp;tok=e90553" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row28 even" role="row">
+		<td class="col0 sorting_1">Lame de gobelin</td><td class="col1">053</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">18-28 <br>
+[29.19]</td><td class="col7">0.788</td><td class="col8"> </td><td class="col9">Cap dex : 120</td><td class="col10">Lieutenant gobelin (Arakas)</td><td class="col11"><a href="/wiki/_detail/objets/terre/1.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:1.png"><img src="/wiki/_media/objets/terre/1.png?w=60&amp;h=60&amp;tok=b0bc8d" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row160 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Lame de Rognar Mortès</strong></span></td><td class="col1">372</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">218-342</td><td class="col7">0.816</td><td class="col8">14.410.760</td><td class="col9">Cap dex : 183 <br>
+50% en Attaque</td><td class="col10">Xvart l'agaçant (Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/471.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:471.png"><img src="/wiki/_media/objets/terre/471.png?w=60&amp;h=60&amp;tok=380753" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row161 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Lame de Rognar Mortès Sanglante</strong></span></td><td class="col1">372</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">218-342</td><td class="col7">0.816</td><td class="col8"> </td><td class="col9">Cap dex : 183 <br>
+10 en coup puissant <br>
+50% en Attaque</td><td class="col10">2 points d'instance AR : Amélioration Lame de Rognar Mortès</td><td class="col11"><a href="/wiki/_detail/objets/terre/471.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:471.png"><img src="/wiki/_media/objets/terre/471.png?w=60&amp;h=60&amp;tok=380753" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row40 odd" role="row">
+		<td class="col0 sorting_1">Lame des Ténèbres</td><td class="col1">068</td><td class="col2">0</td><td class="col3">0</td><td class="col4">19</td><td class="col5">21</td><td class="col6">25-38</td><td class="col7">1.07</td><td class="col8"> </td><td class="col9">Cap dex : 143 <br>
++10 en Attaque</td><td class="col10">Arakas <br>
+(Quête de la Pierre de Vie)</td><td class="col11"><a href="/wiki/_detail/objets/terre/2.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:2.png"><img src="/wiki/_media/objets/terre/2.png?w=60&amp;h=60&amp;tok=6254af" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row117 even" role="row">
+		<td class="col0 sorting_1">Lame du Héron</td><td class="col1">242</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">133-202</td><td class="col7">0.788</td><td class="col8">5.909.480</td><td class="col9">Cap dex : 120 <br>
+50% en Attaque</td><td class="col10">Xvart l'agaçant (Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/691.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:691.png"><img src="/wiki/_media/objets/terre/691.png?w=60&amp;h=60&amp;tok=d7dcb0" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row94 odd" role="row">
+		<td class="col0 sorting_1">Lame démoniaque</td><td class="col1">213</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">1-214</td><td class="col7">0.797</td><td class="col8"> </td><td class="col9">Cap dex : 143 <br>
+Lance parfois un sort de nécromancie d'absorbtion de vie de 1-110 points (affecté par la puissance à la nécromacie du lanceur et la résistance à la nécromancie de la cible)</td><td class="col10">Quête de la Lame Démoniaque Lance Silversmith (Arakas)</td><td class="col11"><a href="/wiki/_detail/objets/terre/2.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:2.png"><img src="/wiki/_media/objets/terre/2.png?w=60&amp;h=60&amp;tok=6254af" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row118 even" role="row">
+		<td class="col0 sorting_1">Lame perdue du dragon</td><td class="col1">242</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">102-155</td><td class="col7">0.788</td><td class="col8"> </td><td class="col9">Cap dex : 120 <br>
+Lance parfois un bouclier de feu efficace seulement au corps à corps pendant 10 secondes (11-15 de dégâts, affecté par la puissance feu du lanceur et la résistance feu de la cible)</td><td class="col10">Quête des Notes de remerciement Bourgmestre Belamzer (StoneCrest)</td><td class="col11"><a href="/wiki/_detail/objets/terre/274.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:274.png"><img src="/wiki/_media/objets/terre/274.png?w=60&amp;h=60&amp;tok=e90553" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row65 odd" role="row">
+		<td class="col0 sorting_1">Lame prismatique</td><td class="col1">126</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">41-63</td><td class="col7">0.769</td><td class="col8"> </td><td class="col9">Cap dex : 67 <br>
+Lance parfois un sort faisant 5-13 de dégâts (affectés par le puissance eau du lanceur et la résistance eau de la cible)</td><td class="col10">Coffre de l'iles etherée (StoneHeim)</td><td class="col11"><a href="/wiki/_detail/objets/terre/274.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:274.png"><img src="/wiki/_media/objets/terre/274.png?w=60&amp;h=60&amp;tok=e90553" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row139 even" role="row">
+		<td class="col0 sorting_1">Lame vipérine</td><td class="col1">300</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">190-289</td><td class="col7">0.788</td><td class="col8">9.227.640</td><td class="col9">Cap dex : 120 <br>
+50% en Attaque</td><td class="col10">Xvart l'agaçant (Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/686.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:686.png"><img src="/wiki/_media/objets/terre/686.png?w=60&amp;h=60&amp;tok=f85324" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row179 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Pertuisane pestilentielle de Bjorn</strong></span></td><td class="col1">471</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">266-430</td><td class="col7">0.835</td><td class="col8"> </td><td class="col9">Cap dex : 216 <br>
+50% attaque </td><td class="col10"></td><td class="col11"></td>
+	</tr><tr class="row180 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Pertuisane pestilentielle de Bjorn allongée</strong></span></td><td class="col1">471</td><td class="col2">250</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">266-430</td><td class="col7">0.835</td><td class="col8"> </td><td class="col9">Vitesse moyenne une fois le cap atteint <br>
+50% attaque <br>
++5 coup puissant <br>
++15 en parade</td><td class="col10">8 Points d'instance RD Héroïque + Pertuisane pestilentielle de Bjorn</td><td class="col11"> </td>
+	</tr><tr class="row29 odd" role="row">
+		<td class="col0 sorting_1">Poignard poli</td><td class="col1">053</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">14-22</td><td class="col7">0.750</td><td class="col8">5.266</td><td class="col9">Cap dex : Aucun</td><td class="col10">Arakas</td><td class="col11"><a href="/wiki/_detail/objets/terre/274.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:274.png"><img src="/wiki/_media/objets/terre/274.png?w=60&amp;h=60&amp;tok=e90553" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row30 even" role="row">
+		<td class="col0 sorting_1">Poignard poli enchanté</td><td class="col1">053</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">16-26</td><td class="col7">0.750</td><td class="col8">15.798</td><td class="col9">Cap dex : Aucun <br>
+15% en Attaque</td><td class="col10">Arakas</td><td class="col11"><a href="/wiki/_detail/objets/terre/274.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:274.png"><img src="/wiki/_media/objets/terre/274.png?w=60&amp;h=60&amp;tok=e90553" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row31 odd" role="row">
+		<td class="col0 sorting_1">Poignard poli runique</td><td class="col1">053</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">18-29</td><td class="col7">0.750</td><td class="col8">52.660</td><td class="col9">Cap dex : Aucun <br>
+30% en Attaque</td><td class="col10">Arakas</td><td class="col11"><a href="/wiki/_detail/objets/terre/274.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:274.png"><img src="/wiki/_media/objets/terre/274.png?w=60&amp;h=60&amp;tok=e90553" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row7 even" role="row">
+		<td class="col0 sorting_1">Poignard rouillé</td><td class="col1">0</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">1-4 <br>
+[3.33]</td><td class="col7">0.750</td><td class="col8">29</td><td class="col9">Cap dex : Aucun</td><td class="col10">Arakas</td><td class="col11"><a href="/wiki/_detail/objets/terre/274.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:274.png"><img src="/wiki/_media/objets/terre/274.png?w=60&amp;h=60&amp;tok=e90553" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row8 odd" role="row">
+		<td class="col0 sorting_1">Poignard rouillé enchanté</td><td class="col1">0</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">2-4</td><td class="col7">0.750</td><td class="col8">87</td><td class="col9">Cap dex : Aucun <br>
+15% en Attaque</td><td class="col10">Arakas</td><td class="col11"><a href="/wiki/_detail/objets/terre/274.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:274.png"><img src="/wiki/_media/objets/terre/274.png?w=60&amp;h=60&amp;tok=e90553" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row9 even" role="row">
+		<td class="col0 sorting_1">Poignard rouillé runique</td><td class="col1">0</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">2-5</td><td class="col7">0.750</td><td class="col8">290</td><td class="col9">Cap dex : Aucun <br>
+30% en Attaque</td><td class="col10">Arakas</td><td class="col11"><a href="/wiki/_detail/objets/terre/274.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:274.png"><img src="/wiki/_media/objets/terre/274.png?w=60&amp;h=60&amp;tok=e90553" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row54 odd" role="row">
+		<td class="col0 sorting_1">Pourfendeur de Gobelin</td><td class="col1">097</td><td class="col2">0</td><td class="col3">0</td><td class="col4">20</td><td class="col5">23</td><td class="col6">26-44 <br>
+[43.91]</td><td class="col7">1.125 ?</td><td class="col8">25.000</td><td class="col9">+5 Force</td><td class="col10">Raven's Dust <br>
+Quête: Pourfendeur de Gobelin</td><td class="col11"><a href="/wiki/_detail/objets/terre/2.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:2.png"><img src="/wiki/_media/objets/terre/2.png?w=60&amp;h=60&amp;tok=6254af" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row200 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Pourfendeur des faibles</strong></span></td><td class="col1">648</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">553-939</td><td class="col7">1.125</td><td class="col8"> </td><td class="col9">Cap dex : 300 <br>
++50% attaque <br>
++50 transpercer l'armure <br>
++40 coup puissant <br>
++45 dextérité</td><td class="col10">Seigneur Sorcier (Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/1158.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:1158.png"><img src="/wiki/_media/objets/terre/1158.png?w=60&amp;h=60&amp;tok=ce14c7" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row10 odd" role="row">
+		<td class="col0 sorting_1">Sceptre de bois</td><td class="col1">0</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">2-4</td><td class="col7">0.882</td><td class="col8">29</td><td class="col9">Cap dex : 281</td><td class="col10">Arakas</td><td class="col11"><a href="/wiki/_detail/objets/terre/296.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:296.png"><img src="/wiki/_media/objets/terre/296.png?w=60&amp;h=60&amp;tok=c6cfad" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row12 even" role="row">
+		<td class="col0 sorting_1">Sceptre de bois de puissance</td><td class="col1">0</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">2-5</td><td class="col7">0.882</td><td class="col8">270</td><td class="col9">Cap dex : 281 <br>
+30% en Attaque</td><td class="col10">Arakas</td><td class="col11"><a href="/wiki/_detail/objets/terre/296.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:296.png"><img src="/wiki/_media/objets/terre/296.png?w=60&amp;h=60&amp;tok=c6cfad" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row11 odd" role="row">
+		<td class="col0 sorting_1">Sceptre de bois enchanté</td><td class="col1">0</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">2-5</td><td class="col7">0.882</td><td class="col8">87</td><td class="col9">Cap dex : 281 <br>
+15% en Attaque</td><td class="col10">Arakas</td><td class="col11"><a href="/wiki/_detail/objets/terre/296.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:296.png"><img src="/wiki/_media/objets/terre/296.png?w=60&amp;h=60&amp;tok=c6cfad" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row98 even" role="row">
+		<td class="col0 sorting_1">Sinistre épée de guerre</td><td class="col1">227</td><td class="col2">0</td><td class="col3">83</td><td class="col4">0</td><td class="col5">0</td><td class="col6">114-173</td><td class="col7">0.882</td><td class="col8"> </td><td class="col9">Cap dex : 280 <br>
+25 en coup puissant <br>
+15 en coup assommant <br>
+100 en Attaque</td><td class="col10">Cobra royal de jade (Forêt de non retour - Raven's Dust) <br>
+Coffres de la Forêt de non retour (Raven's Dust)</td><td class="col11"><a href="/wiki/_detail/objets/terre/202.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:202.png"><img src="/wiki/_media/objets/terre/202.png?w=60&amp;h=60&amp;tok=216ec7" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row203 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Spatha barbaresque</strong></span></td><td class="col1">706</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">324-546</td><td class="col7">0.835</td><td class="col8"> </td><td class="col9">Cap dex : 216 <br>
++30% attaque</td><td class="col10">» Drop <em>coffre Una</em> (Tour blanche, ZE) <br>
+» Drop <em>Les prisonniers du temps</em> (Boss 180+) <br>
+» <em>Un artisan aventurier</em> (Côte des berserkers, DS)</td><td class="col11"><a href="/wiki/_detail/objets/terre/666.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:666.png"><img src="/wiki/_media/objets/terre/666.png?w=60&amp;h=60&amp;tok=8c5e59" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row201 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Spatha barbaresque d'attaque</strong></span></td><td class="col1">662</td><td class="col2">170</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">364-626</td><td class="col7">0.835</td><td class="col8">Spatha barbaresque <br>
+100 larmes de dragon <br>
+15 000 000 pièces d'or</td><td class="col9">Cap dex : 216 <br>
++50% attaque <br>
++15 coup puissant <br>
++3 parade</td><td class="col10">L'Arcaniste (Draconis Sanctum)</td><td class="col11"><a href="/wiki/_detail/objets/terre/666.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:666.png"><img src="/wiki/_media/objets/terre/666.png?w=60&amp;h=60&amp;tok=8c5e59" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row204 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Spatha barbaresque enchantée</strong></span></td><td class="col1">706</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">377-650</td><td class="col7">0.835</td><td class="col8">Spatha barbaresque <br>
+100 larmes de dragon <br>
+15 000 000 pièces d'or</td><td class="col9">Cap dex : 216 <br>
++60% attaque <br>
++40 force <br>
++15 coup puissant <br>
++10 coup assommant</td><td class="col10">L'Arcaniste (Draconis Sanctum)</td><td class="col11"><a href="/wiki/_detail/objets/terre/666.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:666.png"><img src="/wiki/_media/objets/terre/666.png?w=60&amp;h=60&amp;tok=8c5e59" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row202 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Spatha barbaresque vif</strong></span></td><td class="col1">662</td><td class="col2">0</td><td class="col3">121</td><td class="col4">0</td><td class="col5">0</td><td class="col6">364-626</td><td class="col7">0.835</td><td class="col8">Spatha barbaresque <br>
+100 larmes de dragon <br>
+15 000 000 pièces d'or</td><td class="col9">Cap dex : 216 <br>
++50% attaque <br>
++15 coup puissant <br>
++10 coup assommant</td><td class="col10">L'Arcaniste (Draconis Sanctum)</td><td class="col11"><a href="/wiki/_detail/objets/terre/666.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:666.png"><img src="/wiki/_media/objets/terre/666.png?w=60&amp;h=60&amp;tok=8c5e59" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row178 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Tranchant de l'hydre</strong></span></td><td class="col1">459</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">244-392</td><td class="col7">0.816</td><td class="col8">22.149.200</td><td class="col9">Cap dex : 183 <br>
+3% de chance de lancer un sort qui gèle la peau (influencé par la force et l'endurance du lanceur) <br>
+50% en Attaque</td><td class="col10">Xvart l'agaçant (Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/471.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:471.png"><img src="/wiki/_media/objets/terre/471.png?w=60&amp;h=60&amp;tok=380753" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row181 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Trancheuse d'âmes</strong></span></td><td class="col1">500</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">442-717</td><td class="col7">1.125</td><td class="col8">??? </td><td class="col9">Cap dex : 300 <br>
++50% en Attaque</td><td class="col10">Xvart l’agaçant</td><td class="col11"><a href="/wiki/_detail/objets/terre/731.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:731.png"><img src="/wiki/_media/objets/terre/731.png?w=60&amp;h=60&amp;tok=c8029a" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row182 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Trancheuse d'âmes parfaite</strong></span></td><td class="col1">500</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">442-717</td><td class="col7">1.125</td><td class="col8">X points d'instance SH HM</td><td class="col9">Cap dex : 300 <br>
++50% en Attaque <br>
++45 dextérité <br>
+Lance un sort qui aspire la vie de la cible : influencé par la force, l'endurance et la puissance nécro du lanceur et la résistance nécro de la cible.</td><td class="col10">PNJ (Entrée de l'instance SH)</td><td class="col11"><a href="/wiki/_detail/objets/terre/731.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:731.png"><img src="/wiki/_media/objets/terre/731.png?w=60&amp;h=60&amp;tok=c8029a" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row192 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Épée antique des Haut-Elfes de puissance</strong></span></td><td class="col1">590</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">404-682</td><td class="col7">0.882</td><td class="col8"> </td><td class="col9">Cap dex : 280 <br>
+50% en Attaque <br>
++30 dextérité <br>
+35 en coup puissant</td><td class="col10"> Amélioration Instance Arakas: <br>
+Epée Antique des Haut-Elfes + 10 points AR HM</td><td class="col11"><a href="/wiki/_detail/objets/terre/876.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:876.png"><img src="/wiki/_media/objets/terre/876.png?w=60&amp;h=60&amp;tok=8ccd01" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row193 odd" role="row">
+		<td class="col0 sorting_1">Épée antique des Hauts-Elfes</td><td class="col1">590</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">404-682</td><td class="col7">0.882</td><td class="col8"> </td><td class="col9">Cap dex : 280 <br>
+50% en Attaque</td><td class="col10">Makrsh P'Tangh (StoneHeim)</td><td class="col11"><a href="/wiki/_detail/objets/terre/876.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:876.png"><img src="/wiki/_media/objets/terre/876.png?w=60&amp;h=60&amp;tok=8ccd01" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row183 even" role="row">
+		<td class="col0 sorting_1">Épée bâtarde ancienne</td><td class="col1">532</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">190-310</td><td class="col7">0.835</td><td class="col8">746.587</td><td class="col9">Cap dex : 216</td><td class="col10">Sigered Heavyhammer (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/695.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:695.png"><img src="/wiki/_media/objets/terre/695.png?w=60&amp;h=60&amp;tok=e21e93" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row184 odd" role="row">
+		<td class="col0 sorting_1">Épée bâtarde ancienne enchantée</td><td class="col1">532</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">220-560</td><td class="col7">0.835</td><td class="col8">2.239.761</td><td class="col9">Cap dex : 216 <br>
+15% en Attaque</td><td class="col10">Sigered Heavyhammer (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/695.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:695.png"><img src="/wiki/_media/objets/terre/695.png?w=60&amp;h=60&amp;tok=e21e93" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row186 even" role="row">
+		<td class="col0 sorting_1">Épée bâtarde ancienne runique</td><td class="col1">532</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">250-405</td><td class="col7">0.835</td><td class="col8">7.465.870</td><td class="col9">Cap dex : 216 <br>
+30% en Attaque</td><td class="col10">Xvart l'agaçant (Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/695.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:695.png"><img src="/wiki/_media/objets/terre/695.png?w=60&amp;h=60&amp;tok=e21e93" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row162 odd" role="row">
+		<td class="col0 sorting_1">Épée bâtarde d'adamantite</td><td class="col1">387</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">141-221</td><td class="col7">0.835</td><td class="col8">389.637</td><td class="col9">Cap dex : 216</td><td class="col10">Sigered Heavyhammer (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/2.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:2.png"><img src="/wiki/_media/objets/terre/2.png?w=60&amp;h=60&amp;tok=6254af" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row163 even" role="row">
+		<td class="col0 sorting_1">Épée bâtarde d'adamantite enchantée</td><td class="col1">387</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">162-254</td><td class="col7">0.835</td><td class="col8">1.168.911</td><td class="col9">Cap dex : 216 <br>
+15% en Attaque</td><td class="col10">Sigered Heavyhammer (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/2.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:2.png"><img src="/wiki/_media/objets/terre/2.png?w=60&amp;h=60&amp;tok=6254af" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row164 odd" role="row">
+		<td class="col0 sorting_1">Épée bâtarde d'adamantite runique</td><td class="col1">387</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">183-287</td><td class="col7">0.835</td><td class="col8">38.69.370</td><td class="col9">Cap dex : 216 <br>
+30% en Attaque</td><td class="col10">Xvart l'agaçant (Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/2.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:2.png"><img src="/wiki/_media/objets/terre/2.png?w=60&amp;h=60&amp;tok=6254af" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row141 even" role="row">
+		<td class="col0 sorting_1">Épée bâtarde de mithril</td><td class="col1">314</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">128-196</td><td class="col7">0.835</td><td class="col8">254.305</td><td class="col9">Cap dex : 216</td><td class="col10">Sigered Heavyhammer (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/275.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:275.png"><img src="/wiki/_media/objets/terre/275.png?w=60&amp;h=60&amp;tok=401dbf" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row142 odd" role="row">
+		<td class="col0 sorting_1">Épée bâtarde de mithril enchantée</td><td class="col1">314</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">148-225</td><td class="col7">0.835</td><td class="col8">762.915</td><td class="col9">Cap dex : 216 <br>
+15% en Attaque</td><td class="col10">Sigered Heavyhammer (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/124.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:124.png"><img src="/wiki/_media/objets/terre/124.png?w=60&amp;h=60&amp;tok=1968c3" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row143 even" role="row">
+		<td class="col0 sorting_1">Épée bâtarde de mithril runique</td><td class="col1">314</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">167-255</td><td class="col7">0.835</td><td class="col8">2.543.050</td><td class="col9">Cap dex : 216 <br>
+30% en Attaque</td><td class="col10">Xvart l'agaçant (Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/124.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:124.png"><img src="/wiki/_media/objets/terre/124.png?w=60&amp;h=60&amp;tok=1968c3" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row106 odd" role="row">
+		<td class="col0 sorting_1">Épée bâtarde de qualité</td><td class="col1">242</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">101-153</td><td class="col7">0.835</td><td class="col8">147737</td><td class="col9">Cap dex : 216</td><td class="col10">Sigered Heavyhammer (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/694.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:694.png"><img src="/wiki/_media/objets/terre/694.png?w=60&amp;h=60&amp;tok=3158c4" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row107 even" role="row">
+		<td class="col0 sorting_1">Épée bâtarde de qualité enchantée</td><td class="col1">242</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">116-176</td><td class="col7">0.835</td><td class="col8">443.211</td><td class="col9">Cap dex : 216 <br>
+15% en Attaque</td><td class="col10">Sigered Heavyhammer (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/694.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:694.png"><img src="/wiki/_media/objets/terre/694.png?w=60&amp;h=60&amp;tok=3158c4" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row108 odd" role="row">
+		<td class="col0 sorting_1">Épée bâtarde de qualité runique</td><td class="col1">242</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">131-199</td><td class="col7">0.835</td><td class="col8">1.477.370</td><td class="col9">Cap dex : 216 <br>
+30% en Attaque</td><td class="col10">Xvart l'agaçant (Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/694.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:694.png"><img src="/wiki/_media/objets/terre/694.png?w=60&amp;h=60&amp;tok=3158c4" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row81 even" role="row">
+		<td class="col0 sorting_1">Épée courte de qualité</td><td class="col1">184</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">61-93</td><td class="col7">0.788</td><td class="col8">83.191</td><td class="col9">Cap dex : 120</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/1.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:1.png"><img src="/wiki/_media/objets/terre/1.png?w=60&amp;h=60&amp;tok=b0bc8d" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row82 odd" role="row">
+		<td class="col0 sorting_1">Épée courte de qualité enchantée</td><td class="col1">184</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">70-106</td><td class="col7">0.788</td><td class="col8">249.573</td><td class="col9">Cap dex : 120 <br>
+15% en Attaque</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/1.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:1.png"><img src="/wiki/_media/objets/terre/1.png?w=60&amp;h=60&amp;tok=b0bc8d" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row83 even" role="row">
+		<td class="col0 sorting_1">Épée courte de qualité runique</td><td class="col1">184</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">79-120</td><td class="col7">0.788</td><td class="col8">831.910</td><td class="col9">Cap dex : 120 <br>
+30% en Attaque</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/1.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:1.png"><img src="/wiki/_media/objets/terre/1.png?w=60&amp;h=60&amp;tok=b0bc8d" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row56 odd" role="row">
+		<td class="col0 sorting_1">Épée courte en acier trempé</td><td class="col1">111</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">36-55</td><td class="col7">0.788</td><td class="col8">28.394</td><td class="col9">Cap dex : 120</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/1.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:1.png"><img src="/wiki/_media/objets/terre/1.png?w=60&amp;h=60&amp;tok=b0bc8d" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row57 even" role="row">
+		<td class="col0 sorting_1">Épée courte en acier trempé enchantée</td><td class="col1">111</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">41-63</td><td class="col7">0.788</td><td class="col8">85.182</td><td class="col9">Cap dex : 120 <br>
+15% en Attaque</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/1.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:1.png"><img src="/wiki/_media/objets/terre/1.png?w=60&amp;h=60&amp;tok=b0bc8d" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row58 odd" role="row">
+		<td class="col0 sorting_1">Épée courte en acier trempé runique</td><td class="col1">111</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">46-72</td><td class="col7">0.788</td><td class="col8">28.3940</td><td class="col9">Cap dex : 120 <br>
+30% en Attaque</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/1.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:1.png"><img src="/wiki/_media/objets/terre/1.png?w=60&amp;h=60&amp;tok=b0bc8d" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row24 even" role="row">
+		<td class="col0 sorting_1">Épée courte polie</td><td class="col1">053</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">16-25</td><td class="col7">0.788</td><td class="col8">5.266</td><td class="col9">Cap dex : 120</td><td class="col10">Arakas</td><td class="col11"><a href="/wiki/_detail/objets/terre/1.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:1.png"><img src="/wiki/_media/objets/terre/1.png?w=60&amp;h=60&amp;tok=b0bc8d" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row25 odd" role="row">
+		<td class="col0 sorting_1">Épée courte polie enchantée</td><td class="col1">053</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">18-29</td><td class="col7">0.788</td><td class="col8">15.798</td><td class="col9">Cap dex : 120 <br>
+15% en Attaque</td><td class="col10">Arakas</td><td class="col11"><a href="/wiki/_detail/objets/terre/1.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:1.png"><img src="/wiki/_media/objets/terre/1.png?w=60&amp;h=60&amp;tok=b0bc8d" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row26 even" role="row">
+		<td class="col0 sorting_1">Épée courte polie runique</td><td class="col1">053</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">20-33</td><td class="col7">0.788</td><td class="col8">52.660</td><td class="col9">Cap dex : 120 <br>
+30% en Attaque</td><td class="col10">Arakas</td><td class="col11"><a href="/wiki/_detail/objets/terre/1.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:1.png"><img src="/wiki/_media/objets/terre/1.png?w=60&amp;h=60&amp;tok=b0bc8d" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row1 odd" role="row">
+		<td class="col0 sorting_1">Épée courte rouillée</td><td class="col1">0</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">2-4</td><td class="col7">0.788</td><td class="col8">29</td><td class="col9">Cap dex : 120</td><td class="col10">Arakas</td><td class="col11"><a href="/wiki/_detail/objets/terre/1.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:1.png"><img src="/wiki/_media/objets/terre/1.png?w=60&amp;h=60&amp;tok=b0bc8d" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row2 even" role="row">
+		<td class="col0 sorting_1">Épée courte rouillée enchantée</td><td class="col1">0</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">2-5</td><td class="col7">0.788</td><td class="col8">87</td><td class="col9">Cap dex : 120 <br>
+15% en Attaque</td><td class="col10">Arakas</td><td class="col11"><a href="/wiki/_detail/objets/terre/1.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:1.png"><img src="/wiki/_media/objets/terre/1.png?w=60&amp;h=60&amp;tok=b0bc8d" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row3 odd" role="row">
+		<td class="col0 sorting_1">Épée courte rouillée runique</td><td class="col1">0</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">2-5</td><td class="col7">0.788</td><td class="col8">290</td><td class="col9">Cap dex : 120 <br>
+30% en Attaque</td><td class="col10">Arakas</td><td class="col11"><a href="/wiki/_detail/objets/terre/1.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:1.png"><img src="/wiki/_media/objets/terre/1.png?w=60&amp;h=60&amp;tok=b0bc8d" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row168 even" role="row">
+		<td class="col0 sorting_1">Épée d'adamantite incrustée de saphir <br>
+<span class="wrap_lo ">(2 mains)</span></td><td class="col1">401</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">296-467</td><td class="col7">0.882</td><td class="col8">16.806.160</td><td class="col9">Cap dex : 280 <br>
+50% en Attaque</td><td class="col10">Xvart l'agaçant (Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/694.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:694.png"><img src="/wiki/_media/objets/terre/694.png?w=60&amp;h=60&amp;tok=3158c4" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row165 odd" role="row">
+		<td class="col0 sorting_1">Épée d'adamantite à deux mains</td><td class="col1">401</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">172-271</td><td class="col7">0.882</td><td class="col8">420.154</td><td class="col9">Cap dex : 280</td><td class="col10">Stoneheim</td><td class="col11"><a href="/wiki/_detail/objets/terre/202.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:202.png"><img src="/wiki/_media/objets/terre/202.png?w=60&amp;h=60&amp;tok=216ec7" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row166 even" role="row">
+		<td class="col0 sorting_1">Épée d'adamantite à deux mains enchantée</td><td class="col1">401</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">198-312</td><td class="col7">0.882</td><td class="col8">1.260.462</td><td class="col9">Cap dex : 280 <br>
+15% d'attaque</td><td class="col10">Stoneheim</td><td class="col11"><a href="/wiki/_detail/objets/terre/202.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:202.png"><img src="/wiki/_media/objets/terre/202.png?w=60&amp;h=60&amp;tok=216ec7" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row167 odd" role="row">
+		<td class="col0 sorting_1">Épée d'adamantite à deux mains runique</td><td class="col1">401</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">224-352</td><td class="col7">0.882</td><td class="col8">4.201.540</td><td class="col9">Cap dex : 280 <br>
+30% d'attaque</td><td class="col10">Xvart l'agaçant (Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/202.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:202.png"><img src="/wiki/_media/objets/terre/202.png?w=60&amp;h=60&amp;tok=216ec7" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row109 even" role="row">
+		<td class="col0 sorting_1">Épée de la Rose Noire</td><td class="col1">242</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">173-264</td><td class="col7">0.835</td><td class="col8"> </td><td class="col9">Cap dex : 216 <br>
+50% en Attaque</td><td class="col10">Coffre zone Oracle (StoneHeim)</td><td class="col11"><a href="/wiki/_detail/objets/terre/761.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:761.png"><img src="/wiki/_media/objets/terre/761.png?w=60&amp;h=60&amp;tok=5bb59c" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row110 odd" role="row">
+		<td class="col0 sorting_1">Épée de la Rose Noire empoisonneuse</td><td class="col1">242</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">173-264</td><td class="col7">0.835</td><td class="col8"> </td><td class="col9">Cap dex : 216 <br>
+50% en Attaque <br>
+Inflige des dommages de poison aléatoirement</td><td class="col10">Epée de la Rose Noire + 5 Points Instance SH NM</td><td class="col11"><a href="/wiki/_detail/objets/terre/761.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:761.png"><img src="/wiki/_media/objets/terre/761.png?w=60&amp;h=60&amp;tok=5bb59c" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row27 even" role="row">
+		<td class="col0 sorting_1">Épée du chaos</td><td class="col1">053</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">1-47 <br>
+[30.11]</td><td class="col7">0.797</td><td class="col8"> </td><td class="col9">Cap dex : 143</td><td class="col10">Quête de l'Épée du Chaos Lord Sunrock (Arakas) <br>
+Pillard des dunes (Raven's Dust)</td><td class="col11"><a href="/wiki/_detail/objets/terre/2.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:2.png"><img src="/wiki/_media/objets/terre/2.png?w=60&amp;h=60&amp;tok=6254af" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row189 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Épée Gravée d'un Bélier d'étincelle</strong></span></td><td class="col1">532</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">316-536</td><td class="col7">0.835</td><td class="col8">10</td><td class="col9">Cap dex : 216 <br>
++15 parade <br>
++50% attaque</td><td class="col10">Epée Gravée d'un Lion d'Etincelle + 5 points d'instance SH HM</td><td class="col11"><a href="/wiki/_detail/objets/terre/706.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:706.png"><img src="/wiki/_media/objets/terre/706.png?w=60&amp;h=60&amp;tok=bb2cf4" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row43 even" role="row">
+		<td class="col0 sorting_1">Épée large ensanglantée</td><td class="col1">082</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">32-50</td><td class="col7">0.807</td><td class="col8"> </td><td class="col9">Cap dex : 164 <br>
++5 force <br>
++5 endurance <br>
++5 dextérité <br>
++5 coup assommant <br>
++5 coup puissant <br>
++5 transpercer l'armure <br>
+-5 intelligence <br>
+-5 sagesse </td><td class="col10">Fou (Asile-Arakas)</td><td class="col11"><a href="/wiki/_detail/objets/terre/2.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:2.png"><img src="/wiki/_media/objets/terre/2.png?w=60&amp;h=60&amp;tok=6254af" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row119 odd" role="row">
+		<td class="col0 sorting_1">Épée longue de mithril</td><td class="col1">271</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">95-144</td><td class="col7">0.797</td><td class="col8">186.913</td><td class="col9">Cap dex : 143</td><td class="col10">Sigered Heavyhammer (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/2.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:2.png"><img src="/wiki/_media/objets/terre/2.png?w=60&amp;h=60&amp;tok=6254af" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row120 even" role="row">
+		<td class="col0 sorting_1">Épée longue de mithril enchantée</td><td class="col1">271</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">109-166</td><td class="col7">0.797</td><td class="col8">560.739</td><td class="col9">Cap dex : 143 <br>
+15% en Attaque</td><td class="col10">Sigered Heavyhammer (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/2.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:2.png"><img src="/wiki/_media/objets/terre/2.png?w=60&amp;h=60&amp;tok=6254af" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row121 odd" role="row">
+		<td class="col0 sorting_1">Épée longue de mithril runique</td><td class="col1">271</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">124-188</td><td class="col7">0.797</td><td class="col8">1.869.130</td><td class="col9">Cap dex : 143 <br>
+30% en Attaque</td><td class="col10">Xvart l'agaçant (Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/2.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:2.png"><img src="/wiki/_media/objets/terre/2.png?w=60&amp;h=60&amp;tok=6254af" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row88 even" role="row">
+		<td class="col0 sorting_1">Épée longue de qualité</td><td class="col1">198</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">69-105</td><td class="col7">0.797</td><td class="col8">97.601</td><td class="col9">Cap dex : 143</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/2.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:2.png"><img src="/wiki/_media/objets/terre/2.png?w=60&amp;h=60&amp;tok=6254af" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row89 odd" role="row">
+		<td class="col0 sorting_1">Épée longue de qualité enchantée</td><td class="col1">198</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">79-121</td><td class="col7">0.797</td><td class="col8">292.803</td><td class="col9">Cap dex : 143 <br>
+15% en Attaque</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/2.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:2.png"><img src="/wiki/_media/objets/terre/2.png?w=60&amp;h=60&amp;tok=6254af" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row90 even" role="row">
+		<td class="col0 sorting_1">Épée longue de qualité runique</td><td class="col1">198</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">90-137</td><td class="col7">0.797</td><td class="col8">976.010</td><td class="col9">Cap dex : 143 <br>
+30% en Attaque</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/2.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:2.png"><img src="/wiki/_media/objets/terre/2.png?w=60&amp;h=60&amp;tok=6254af" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row62 odd" role="row">
+		<td class="col0 sorting_1">Épée longue en acier trempé</td><td class="col1">126</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">49-75 <br>
+[77.79]</td><td class="col7">0.797</td><td class="col8">37.053</td><td class="col9">Cap dex : 143</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/2.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:2.png"><img src="/wiki/_media/objets/terre/2.png?w=60&amp;h=60&amp;tok=6254af" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row63 even" role="row">
+		<td class="col0 sorting_1">Épée longue en acier trempé enchantée</td><td class="col1">126</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">49-76</td><td class="col7">0.797</td><td class="col8">111.159</td><td class="col9">Cap dex : 143 <br>
+15% en Attaque</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/2.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:2.png"><img src="/wiki/_media/objets/terre/2.png?w=60&amp;h=60&amp;tok=6254af" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row64 odd" role="row">
+		<td class="col0 sorting_1">Épée longue en acier trempé runique</td><td class="col1">126</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">55-85</td><td class="col7">0.797</td><td class="col8">370.530</td><td class="col9">Cap dex : 143 <br>
+30% en Attaque</td><td class="col10">Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/2.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:2.png"><img src="/wiki/_media/objets/terre/2.png?w=60&amp;h=60&amp;tok=6254af" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row37 even" role="row">
+		<td class="col0 sorting_1">Épée longue polie</td><td class="col1">068</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">25-38 <br>
+[39.52]</td><td class="col7">0.797</td><td class="col8">9.323</td><td class="col9">Cap dex : 143</td><td class="col10">Arakas</td><td class="col11"><a href="/wiki/_detail/objets/terre/2.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:2.png"><img src="/wiki/_media/objets/terre/2.png?w=60&amp;h=60&amp;tok=6254af" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row38 odd" role="row">
+		<td class="col0 sorting_1">Épée longue polie enchantée</td><td class="col1">068</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">25-39</td><td class="col7">0.797</td><td class="col8">27.969</td><td class="col9">Cap dex : 143 <br>
+15% en Attaque</td><td class="col10">Arakas</td><td class="col11"><a href="/wiki/_detail/objets/terre/2.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:2.png"><img src="/wiki/_media/objets/terre/2.png?w=60&amp;h=60&amp;tok=6254af" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row39 even" role="row">
+		<td class="col0 sorting_1">Épée longue polie runique</td><td class="col1">068</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">28-45</td><td class="col7">0.797</td><td class="col8">93.230</td><td class="col9">Cap dex : 143 <br>
+30% en Attaque</td><td class="col10">Arakas</td><td class="col11"><a href="/wiki/_detail/objets/terre/2.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:2.png"><img src="/wiki/_media/objets/terre/2.png?w=60&amp;h=60&amp;tok=6254af" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row18 odd" role="row">
+		<td class="col0 sorting_1">Épée longue rouillée</td><td class="col1">024</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">6-11 <br>
+[10.28]</td><td class="col7">0.797</td><td class="col8">605</td><td class="col9">Cap dex : 143</td><td class="col10">Arakas</td><td class="col11"><a href="/wiki/_detail/objets/terre/2.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:2.png"><img src="/wiki/_media/objets/terre/2.png?w=60&amp;h=60&amp;tok=6254af" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row19 even" role="row">
+		<td class="col0 sorting_1">Épée longue rouillée enchantée</td><td class="col1">024</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">7-12</td><td class="col7">0.797</td><td class="col8">1.815</td><td class="col9">Cap dex : 143 <br>
+15% en Attaque</td><td class="col10">Arakas</td><td class="col11"><a href="/wiki/_detail/objets/terre/2.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:2.png"><img src="/wiki/_media/objets/terre/2.png?w=60&amp;h=60&amp;tok=6254af" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row20 odd" role="row">
+		<td class="col0 sorting_1">Épée longue rouillée runique</td><td class="col1">024</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">8-14</td><td class="col7">0.797</td><td class="col8">6.050</td><td class="col9">Cap dex : 143 <br>
+30% en Attaque</td><td class="col10">Arakas</td><td class="col11"><a href="/wiki/_detail/objets/terre/2.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:2.png"><img src="/wiki/_media/objets/terre/2.png?w=60&amp;h=60&amp;tok=6254af" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row99 even" role="row">
+		<td class="col0 sorting_1">Épée vorpale de Drachen</td><td class="col1">230</td><td class="col2">0</td><td class="col3">60</td><td class="col4">0</td><td class="col5">0</td><td class="col6">64-98</td><td class="col7">0.807</td><td class="col8"> </td><td class="col9">Cap dex : 164 <br>
+50 en force <br>
++5 en force et dexterité par gemme lunaire dans votre inventaire (durée: 5 secondes + 5 secondes par gemme dans votre inventaire) <br>
+Effet Cap à 25 gemmes</td><td class="col10">Gardien sombre (Forêt de non retour - Raven's Dust)</td><td class="col11"><a href="/wiki/_detail/objets/terre/275.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:275.png"><img src="/wiki/_media/objets/terre/275.png?w=60&amp;h=60&amp;tok=401dbf" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row188 odd" role="row">
+		<td class="col0 sorting_1">Épée à deux mains ancienne</td><td class="col1">590</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">211-349</td><td class="col7">0.882</td><td class="col8">921.581</td><td class="col9">Cap dex : 280</td><td class="col10">Xvart l'agaçant</td><td class="col11"><a href="/wiki/_detail/objets/terre/202.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:202.png"><img src="/wiki/_media/objets/terre/202.png?w=60&amp;h=60&amp;tok=216ec7" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row190 even" role="row">
+		<td class="col0 sorting_1">Épée à deux mains ancienne enchantée</td><td class="col1">590</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">243-401</td><td class="col7">0.882</td><td class="col8">2.764.743</td><td class="col9">Cap dex : 280 <br>
+15% en Attaque</td><td class="col10">Sigered Heavyhammer (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/202.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:202.png"><img src="/wiki/_media/objets/terre/202.png?w=60&amp;h=60&amp;tok=216ec7" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row191 odd" role="row">
+		<td class="col0 sorting_1">Épée à deux mains ancienne runique</td><td class="col1">590</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">274-454</td><td class="col7">0.882</td><td class="col8">9.215.810</td><td class="col9">Cap dex : 280 <br>
+30% en Attaque</td><td class="col10">Xvart l'agaçant (Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/202.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:202.png"><img src="/wiki/_media/objets/terre/202.png?w=60&amp;h=60&amp;tok=216ec7" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row144 even" role="row">
+		<td class="col0 sorting_1">Épée à deux mains en mithril</td><td class="col1">329</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">157-241</td><td class="col7">0.882</td><td class="col8">279.071</td><td class="col9">Cap dex : 280</td><td class="col10">Sigered Heavyhammer (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/202.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:202.png"><img src="/wiki/_media/objets/terre/202.png?w=60&amp;h=60&amp;tok=216ec7" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row145 odd" role="row">
+		<td class="col0 sorting_1">Épée à deux mains en mithril enchantée</td><td class="col1">329</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">181-277</td><td class="col7">0.882</td><td class="col8">837.213</td><td class="col9">Cap dex : 280 <br>
+15% d'attaque</td><td class="col10">Sigered Heavyhammer (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/202.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:202.png"><img src="/wiki/_media/objets/terre/202.png?w=60&amp;h=60&amp;tok=216ec7" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr><tr class="row146 even" role="row">
+		<td class="col0 sorting_1">Épée à deux mains en mithril runique</td><td class="col1">329</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">204-313</td><td class="col7">0.882</td><td class="col8">2.790.710</td><td class="col9">Cap dex : 280 <br>
+30% d'attaque</td><td class="col10">Xvart l'agaçant (Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/202.png?id=objets%3Aarmesmelee" class="media" title="objets:terre:202.png"><img src="/wiki/_media/objets/terre/202.png?w=60&amp;h=60&amp;tok=216ec7" class="mediacenter" loading="lazy" alt="" width="60" height="60"></a></td>
+	</tr></tbody></table></div></div><div class="dataTables_info" id="DataTables_Table_0_info" role="status" aria-live="polite">Showing 1 to 212 of 212 entries</div></div>

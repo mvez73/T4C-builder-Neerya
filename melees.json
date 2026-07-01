@@ -5289,7 +5289,7 @@
     "prix": 0,
     "prix_detail": null,
     "informations": "+15% attaque \n+5% intelligence",
-    "obtention": "S'obtient via la quête de la <a href=\"/wiki/quetes/beyond_the_kingdom/secondaire/lame_de_saphir\" class=\"wikilink1\" title=\"quetes:beyond_the_kingdom:secondaire:lame_de_saphir\" data-wiki-id=\"quetes:beyond_the_kingdom:secondaire:lame_de_saphir\">Lame de Saphir</a> Indropable"
+    "obtention": "S'obtient via la quête de la <a href=\"https://www.t4c-neerya.com/wiki/quetes/beyond_the_kingdom/secondaire/lame_de_saphir\" class=\"wikilink1\" title=\"quetes:beyond_the_kingdom:secondaire:lame_de_saphir\" data-wiki-id=\"quetes:beyond_the_kingdom:secondaire:lame_de_saphir\">Lame de Saphir</a> Indropable"
   },
   {
     "_type": "arme_melee",
@@ -5739,7 +5739,7 @@
     "prix": 0,
     "prix_detail": null,
     "informations": "+20 en intelligence  \n+20 en sagesse",
-    "obtention": "<a href=\"/wiki/quetes/beyond_the_kingdom/principales/accueil\" class=\"wikilink1\" title=\"quetes:beyond_the_kingdom:principales:accueil\" data-wiki-id=\"quetes:beyond_the_kingdom:principales:accueil\">Quête BtK</a> : Mage rôdeur (Raven's Dust)"
+    "obtention": "<a href=\"https://www.t4c-neerya.com/wiki/quetes/beyond_the_kingdom/principales/accueil\" class=\"wikilink1\" title=\"quetes:beyond_the_kingdom:principales:accueil\" data-wiki-id=\"quetes:beyond_the_kingdom:principales:accueil\">Quête BtK</a> : Mage rôdeur (Raven's Dust)"
   },
   {
     "_type": "arme_melee",
@@ -5991,7 +5991,7 @@
     "prix": 0,
     "prix_detail": null,
     "informations": "+5 en intelligence",
-    "obtention": "<a href=\"/wiki/quetes/arakas/autres/ailes_de_chauve_souris\" class=\"wikilink1\" title=\"quetes:arakas:autres:ailes_de_chauve_souris\" data-wiki-id=\"quetes:arakas:autres:ailes_de_chauve_souris\">Quête des ailes de chauve-souris</a>"
+    "obtention": "<a href=\"https://www.t4c-neerya.com/wiki/quetes/arakas/autres/ailes_de_chauve_souris\" class=\"wikilink1\" title=\"quetes:arakas:autres:ailes_de_chauve_souris\" data-wiki-id=\"quetes:arakas:autres:ailes_de_chauve_souris\">Quête des ailes de chauve-souris</a>"
   },
   {
     "_type": "arme_melee",

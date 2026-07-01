@@ -8,11 +8,11 @@
     "dexterite_req": 0,
     "intelligence_req": 0,
     "sagesse_req": 0,
-    "protection": 0.0,
     "prix": 0,
     "prix_detail": null,
     "informations": null,
-    "obtention": "Arakas"
+    "obtention": "Arakas",
+    "armure": 0
   },
   {
     "_type": "cape",
@@ -23,11 +23,11 @@
     "dexterite_req": 0,
     "intelligence_req": 0,
     "sagesse_req": 0,
-    "protection": 0.0,
     "prix": 0,
     "prix_detail": null,
     "informations": null,
-    "obtention": "Arakas"
+    "obtention": "Arakas",
+    "armure": 0
   },
   {
     "_type": "cape",
@@ -38,11 +38,11 @@
     "dexterite_req": 0,
     "intelligence_req": 0,
     "sagesse_req": 0,
-    "protection": 0.0,
     "prix": 0,
     "prix_detail": null,
     "informations": null,
-    "obtention": "Arakas"
+    "obtention": "Arakas",
+    "armure": 0
   },
   {
     "_type": "cape",
@@ -53,11 +53,11 @@
     "dexterite_req": 0,
     "intelligence_req": 0,
     "sagesse_req": 0,
-    "protection": 0.0,
     "prix": 0,
     "prix_detail": null,
     "informations": null,
-    "obtention": "Arakas"
+    "obtention": "Arakas",
+    "armure": 0
   },
   {
     "_type": "cape",
@@ -68,11 +68,11 @@
     "dexterite_req": 0,
     "intelligence_req": 0,
     "sagesse_req": 0,
-    "protection": 0.0,
     "prix": 0,
     "prix_detail": null,
     "informations": null,
-    "obtention": "Arakas &amp; Raven's Dust"
+    "obtention": "Arakas &amp; Raven's Dust",
+    "armure": 0
   },
   {
     "_type": "cape",
@@ -83,11 +83,11 @@
     "dexterite_req": 0,
     "intelligence_req": 0,
     "sagesse_req": 0,
-    "protection": 0.0,
     "prix": 0,
     "prix_detail": null,
     "informations": null,
-    "obtention": "Arakas"
+    "obtention": "Arakas",
+    "armure": 0
   },
   {
     "_type": "cape",
@@ -98,11 +98,11 @@
     "dexterite_req": 0,
     "intelligence_req": 0,
     "sagesse_req": 0,
-    "protection": 0.0,
     "prix": 0,
     "prix_detail": null,
     "informations": null,
-    "obtention": "Arakas"
+    "obtention": "Arakas",
+    "armure": 0
   },
   {
     "_type": "cape",
@@ -113,11 +113,11 @@
     "dexterite_req": 0,
     "intelligence_req": 0,
     "sagesse_req": 0,
-    "protection": 0.0,
     "prix": 0,
     "prix_detail": null,
     "informations": null,
-    "obtention": "Arakas"
+    "obtention": "Arakas",
+    "armure": 0
   },
   {
     "_type": "cape",
@@ -128,11 +128,11 @@
     "dexterite_req": 0,
     "intelligence_req": 0,
     "sagesse_req": 0,
-    "protection": 4.0,
     "prix": 0,
     "prix_detail": null,
     "informations": "+50 attaque  \n+2 à toutes les résistances",
-    "obtention": "Instance AR : 5 crédits d'​instance normale Amélioration du voile de protection"
+    "obtention": "Instance AR : 5 crédits d'​instance normale Amélioration du voile de protection",
+    "armure": 4
   },
   {
     "_type": "cape",
@@ -143,11 +143,11 @@
     "dexterite_req": 0,
     "intelligence_req": 0,
     "sagesse_req": 0,
-    "protection": 2.0,
     "prix": 0,
     "prix_detail": null,
     "informations": null,
-    "obtention": "Drop instance AR"
+    "obtention": "Drop instance AR",
+    "armure": 2
   },
   {
     "_type": "cape",
@@ -158,11 +158,11 @@
     "dexterite_req": 62,
     "intelligence_req": 0,
     "sagesse_req": 0,
-    "protection": 4.0,
     "prix": 0,
     "prix_detail": null,
     "informations": "+50 archerie ​ \n+5 dextérité",
-    "obtention": "Instance AR : 5 crédits d'​instance normale Amélioration du voile de protection"
+    "obtention": "Instance AR : 5 crédits d'​instance normale Amélioration du voile de protection",
+    "armure": 4
   },
   {
     "_type": "cape",
@@ -173,11 +173,11 @@
     "dexterite_req": 0,
     "intelligence_req": 77,
     "sagesse_req": 0,
-    "protection": 4.0,
     "prix": 0,
     "prix_detail": null,
     "informations": "+15 intelligence",
-    "obtention": "Instance AR : 5 crédits d'instance normale Amélioration du voile de protection"
+    "obtention": "Instance AR : 5 crédits d'instance normale Amélioration du voile de protection",
+    "armure": 4
   },
   {
     "_type": "cape",
@@ -188,11 +188,11 @@
     "dexterite_req": 0,
     "intelligence_req": 0,
     "sagesse_req": 77,
-    "protection": 4.0,
     "prix": 0,
     "prix_detail": null,
     "informations": "+15 sagesse ​",
-    "obtention": "Instance AR : 5 crédits d'​instance normale Amélioration du voile de protection"
+    "obtention": "Instance AR : 5 crédits d'​instance normale Amélioration du voile de protection",
+    "armure": 4
   },
   {
     "_type": "cape",
@@ -203,11 +203,11 @@
     "dexterite_req": 0,
     "intelligence_req": 45,
     "sagesse_req": 35,
-    "protection": 1.0,
     "prix": 0,
     "prix_detail": null,
     "informations": "+20 résistance feu",
-    "obtention": "Quête de la Cape de résistance au feu (1 chance sur 2) Baldric Iraelis (Raven's Dust)"
+    "obtention": "Quête de la Cape de résistance au feu (1 chance sur 2) Baldric Iraelis (Raven's Dust)",
+    "armure": 1
   },
   {
     "_type": "cape",
@@ -218,11 +218,11 @@
     "dexterite_req": 0,
     "intelligence_req": 45,
     "sagesse_req": 35,
-    "protection": 1.0,
     "prix": 0,
     "prix_detail": null,
     "informations": "+10 résistance air",
-    "obtention": "Chef Gobelin corrompu (Raven's Dust)"
+    "obtention": "Chef Gobelin corrompu (Raven's Dust)",
+    "armure": 1
   },
   {
     "_type": "cape",
@@ -233,11 +233,11 @@
     "dexterite_req": 0,
     "intelligence_req": 45,
     "sagesse_req": 35,
-    "protection": 1.0,
     "prix": 0,
     "prix_detail": null,
     "informations": "+10 résistance terre",
-    "obtention": "Arachnida (Raven's Dust)"
+    "obtention": "Arachnida (Raven's Dust)",
+    "armure": 1
   },
   {
     "_type": "cape",
@@ -248,11 +248,11 @@
     "dexterite_req": 0,
     "intelligence_req": 0,
     "sagesse_req": 0,
-    "protection": 20.0,
     "prix": 0,
     "prix_detail": null,
     "informations": "Couleurs : bleue, gris, jaune, noire, turquoise, verte ou violette \n+50 force \n+50 endurance \n+50 dextérité  \n-50 intelligence  \n-50 sagesse \n<strong>Nécessite 250 en attaque pour être portée en plus de ses stats initiales.</strong>",
-    "obtention": "Gardiens squelettes (Gardes du Lord Stonecrest, SH)"
+    "obtention": "Gardiens squelettes (Gardes du Lord Stonecrest, SH)",
+    "armure": 20
   },
   {
     "_type": "cape",
@@ -263,11 +263,11 @@
     "dexterite_req": 0,
     "intelligence_req": 50,
     "sagesse_req": 50,
-    "protection": 5.0,
     "prix": 0,
     "prix_detail": null,
     "informations": "Couleurs : bleue, grise, jaune noire, turquoise, verte ou violette \n+5 résistances feu/eau/terre/air  \n \n<strong>Proc un sort donnant un bonus en CA sur tout le groupe.</strong>  \n<em>Buff de CA aléatoire entre +1 et niv /3</em>  \nDurée : 1m10s",
-    "obtention": "<a href=\"/wiki/quetes/stoneheim/autres/cape_resistance_pouvoirs_sombres\" class=\"wikilink1\" title=\"quetes:stoneheim:autres:cape_resistance_pouvoirs_sombres\" data-wiki-id=\"quetes:stoneheim:autres:cape_resistance_pouvoirs_sombres\">Quête de Nicolas</a> (Stoneheim)"
+    "obtention": "<a href=\"https://www.t4c-neerya.com/wiki/quetes/stoneheim/autres/cape_resistance_pouvoirs_sombres\" class=\"wikilink1\" title=\"quetes:stoneheim:autres:cape_resistance_pouvoirs_sombres\" data-wiki-id=\"quetes:stoneheim:autres:cape_resistance_pouvoirs_sombres\">Quête de Nicolas</a> (Stoneheim)",
+    "armure": 5
   },
   {
     "_type": "cape",
@@ -278,11 +278,11 @@
     "dexterite_req": 0,
     "intelligence_req": 78,
     "sagesse_req": 55,
-    "protection": 5.0,
     "prix": 0,
     "prix_detail": null,
     "informations": "+10 toutes résistances",
-    "obtention": "Boue Anime (Carrière de Spellshore, GH)"
+    "obtention": "Boue Anime (Carrière de Spellshore, GH)",
+    "armure": 5
   },
   {
     "_type": "cape",
@@ -293,11 +293,11 @@
     "dexterite_req": 0,
     "intelligence_req": 80,
     "sagesse_req": 60,
-    "protection": 5.0,
     "prix": 0,
     "prix_detail": null,
     "informations": "+8 toutes puissances",
-    "obtention": "Loup (Sanctuaire de la Nature, GH)"
+    "obtention": "Loup (Sanctuaire de la Nature, GH)",
+    "armure": 5
   },
   {
     "_type": "cape",
@@ -308,11 +308,11 @@
     "dexterite_req": 0,
     "intelligence_req": 0,
     "sagesse_req": 0,
-    "protection": 30.0,
     "prix": 0,
     "prix_detail": null,
     "informations": "+60 force  \n+55 dextérité  \n+25 endurance  \n-50 intelligence  \n-50 sagesse  \n \n<strong>Proc un sort qui diminue les caractéristiques de la cible.</strong>  \n \n<strong>Nécessite 350 en attaque pour être porté en plus de ses stats initiales.</strong>",
-    "obtention": "Coffre du Chambellan Carolus (Appartements du Roi Noir, EH)"
+    "obtention": "Coffre du Chambellan Carolus (Appartements du Roi Noir, EH)",
+    "armure": 30
   },
   {
     "_type": "cape",
@@ -323,11 +323,11 @@
     "dexterite_req": 85,
     "intelligence_req": 0,
     "sagesse_req": 0,
-    "protection": 15.0,
     "prix": 0,
     "prix_detail": null,
     "informations": "+25 dextérité  \n+25 force  \n+5 résistance terre  \n-10 sagesse  \n-10 intelligence",
-    "obtention": "Veuve aux milles yeux (Côte des berserkers, DS)"
+    "obtention": "Veuve aux milles yeux (Côte des berserkers, DS)",
+    "armure": 15
   },
   {
     "_type": "cape",
@@ -338,11 +338,11 @@
     "dexterite_req": 85,
     "intelligence_req": 0,
     "sagesse_req": 0,
-    "protection": 25.0,
     "prix": 0,
     "prix_detail": null,
     "informations": "+75 force  \n+60 dextérité  \n+50 endurance  \n+15 résistance terre  \n-50 sagesse  \n-50 intelligence",
-    "obtention": "L'Arcaniste (Draconis Sanctum) Prix : Peau de Trollmage 3 000 000 pièces d'or 25 larmes de dragon 4 potion de focalisation"
+    "obtention": "L'Arcaniste (Draconis Sanctum) Prix : Peau de Trollmage 3 000 000 pièces d'or 25 larmes de dragon 4 potion de focalisation",
+    "armure": 25
   },
   {
     "_type": "cape",
@@ -353,11 +353,11 @@
     "dexterite_req": 90,
     "intelligence_req": 180,
     "sagesse_req": 0,
-    "protection": 20.0,
     "prix": 0,
     "prix_detail": null,
     "informations": "+12 puissance terre  \n+20 dextérité  \n+20 force  \n+20 endurance  \n+40 intelligence  \n+5 résistance terre  \n \n<strong>Cette cape octroie une immunité au sort Débilité</strong>",
-    "obtention": "L'Arcaniste (Draconis Sanctum) Prix : Peau de Trollmage 3 000 000 pièces d'or 25 larmes de dragon 4 potion de focalisation"
+    "obtention": "L'Arcaniste (Draconis Sanctum) Prix : Peau de Trollmage 3 000 000 pièces d'or 25 larmes de dragon 4 potion de focalisation",
+    "armure": 20
   },
   {
     "_type": "cape",
@@ -368,11 +368,11 @@
     "dexterite_req": 60,
     "intelligence_req": 0,
     "sagesse_req": 0,
-    "protection": 50.0,
     "prix": 0,
     "prix_detail": null,
     "informations": "+75 endurance  \n+50 dextérité  \n+15 résistances terre  \n +10 résistances air/eau/feu/nécro",
-    "obtention": "L'Arcaniste (Draconis Sanctum) Prix : Peau de Trollmage 3 000 000 pièces d'or 25 larmes de dragon 4 potion de focalisation"
+    "obtention": "L'Arcaniste (Draconis Sanctum) Prix : Peau de Trollmage 3 000 000 pièces d'or 25 larmes de dragon 4 potion de focalisation",
+    "armure": 50
   },
   {
     "_type": "cape",
@@ -383,11 +383,11 @@
     "dexterite_req": 550,
     "intelligence_req": 0,
     "sagesse_req": 0,
-    "protection": 15.0,
     "prix": 0,
     "prix_detail": null,
     "informations": "+75 dextérité  \n+30 force  \n+20 endurance  \n+10 résistance terre  \n-25 sagesse  \n-25 intelligence",
-    "obtention": "L'Arcaniste (Draconis Sanctum) Prix : Peau de Trollmage 3 000 000 pièces d'or 25 larmes de dragon 4 potion de focalisation"
+    "obtention": "L'Arcaniste (Draconis Sanctum) Prix : Peau de Trollmage 3 000 000 pièces d'or 25 larmes de dragon 4 potion de focalisation",
+    "armure": 15
   },
   {
     "_type": "cape",
@@ -398,11 +398,11 @@
     "dexterite_req": 0,
     "intelligence_req": 100,
     "sagesse_req": 100,
-    "protection": 15.0,
     "prix": 0,
     "prix_detail": null,
     "informations": "+5 puissance terre  \n+15 toutes statistiques  \n+5 résistance terre",
-    "obtention": "Saule vengeur (Marais bouillonnants, DS)"
+    "obtention": "Saule vengeur (Marais bouillonnants, DS)",
+    "armure": 15
   },
   {
     "_type": "cape",
@@ -413,11 +413,11 @@
     "dexterite_req": 0,
     "intelligence_req": 0,
     "sagesse_req": 250,
-    "protection": 20.0,
     "prix": 0,
     "prix_detail": null,
     "informations": "+8 puissance terre  \n+8 puissance lumière  \n+50 force  \n+40 dextérité  \n+20 endurance  \n+30 sagesse  \n+10 résistance terre  \n+10 résistance air",
-    "obtention": "L'Arcaniste (Draconis Sanctum) Prix : Pélérine des cimes 3 000 000 pièces d'or 25 larmes de dragon 4 potion de focalisation"
+    "obtention": "L'Arcaniste (Draconis Sanctum) Prix : Pélérine des cimes 3 000 000 pièces d'or 25 larmes de dragon 4 potion de focalisation",
+    "armure": 20
   },
   {
     "_type": "cape",
@@ -428,11 +428,11 @@
     "dexterite_req": 0,
     "intelligence_req": 250,
     "sagesse_req": 0,
-    "protection": 20.0,
     "prix": 0,
     "prix_detail": null,
     "informations": "+5 puissance feu  \n+5 puissance eau  \n+5 puissance nécro  \n+50 force  \n+40 dextérité  \n+20 endurance  \n+30 intelligence  \n+10 résistance terre  \n+10 résistance air",
-    "obtention": "L'Arcaniste (Draconis Sanctum) Prix : Pélérine des cimes 3 000 000 pièces d'or 25 larmes de dragon 4 potion de focalisation"
+    "obtention": "L'Arcaniste (Draconis Sanctum) Prix : Pélérine des cimes 3 000 000 pièces d'or 25 larmes de dragon 4 potion de focalisation",
+    "armure": 20
   },
   {
     "_type": "cape",
@@ -443,11 +443,11 @@
     "dexterite_req": 0,
     "intelligence_req": 200,
     "sagesse_req": 200,
-    "protection": 20.0,
     "prix": 0,
     "prix_detail": null,
     "informations": "+8 puissance terre  \n+8 puissance air  \n+50 force  \n+40 dextérité  \n+20 endurance  \n+20 intelligence  \n+20 sagesse  \n+10 résistance terre  \n+10 résistance nécromancie",
-    "obtention": "L'Arcaniste (Draconis Sanctum) Prix : Pélérine des Cimes 3 000 000 pièces d'or 25 larmes de dragon 4 potion de focalisation"
+    "obtention": "L'Arcaniste (Draconis Sanctum) Prix : Pélérine des Cimes 3 000 000 pièces d'or 25 larmes de dragon 4 potion de focalisation",
+    "armure": 20
   },
   {
     "_type": "cape",
@@ -458,11 +458,11 @@
     "dexterite_req": 0,
     "intelligence_req": 125,
     "sagesse_req": 125,
-    "protection": 20.0,
     "prix": 0,
     "prix_detail": null,
     "informations": "+8 puissance terre  \n+60 force  \n+50 dextérité  \n+50 endurance   \n+10 résistance terre",
-    "obtention": "L'Arcaniste (Draconis Sanctum) Prix : Pélérine des cimes 3 000 000 pièces d'or 25 larmes de dragon 4 potion de focalisation"
+    "obtention": "L'Arcaniste (Draconis Sanctum) Prix : Pélérine des cimes 3 000 000 pièces d'or 25 larmes de dragon 4 potion de focalisation",
+    "armure": 20
   },
   {
     "_type": "cape",
@@ -473,11 +473,11 @@
     "dexterite_req": 0,
     "intelligence_req": 0,
     "sagesse_req": 279,
-    "protection": 10.0,
     "prix": 0,
     "prix_detail": null,
     "informations": "+5 puissance air  \n+5 puissance terre  \n+5 puissance lumière  \n+15 sagesse  \n+5 résistance terre",
-    "obtention": "Jotunn (Rivage Septentrional, DS)"
+    "obtention": "Jotunn (Rivage Septentrional, DS)",
+    "armure": 10
   },
   {
     "_type": "cape",
@@ -488,11 +488,11 @@
     "dexterite_req": 0,
     "intelligence_req": 220,
     "sagesse_req": 220,
-    "protection": 12.0,
     "prix": 0,
     "prix_detail": null,
     "informations": "+20 puissance air  \n+45 intelligence  \n+45 sagesse  \n+10 résistance terre  \n+10 résistance air",
-    "obtention": "L'Arcaniste (Draconis Sanctum) Prix : Clairvoyance de la Cité Perdue 3 000 000 pièces d'or 25 larmes de dragon 4 potion de focalisation"
+    "obtention": "L'Arcaniste (Draconis Sanctum) Prix : Clairvoyance de la Cité Perdue 3 000 000 pièces d'or 25 larmes de dragon 4 potion de focalisation",
+    "armure": 12
   },
   {
     "_type": "cape",
@@ -503,11 +503,11 @@
     "dexterite_req": 0,
     "intelligence_req": 80,
     "sagesse_req": 400,
-    "protection": 20.0,
     "prix": 0,
     "prix_detail": null,
     "informations": "+15 puissance lumière  \n+15 puissance terre  \n+15 puissance air  \n+75 sagesse  \n+20 toutes résistances",
-    "obtention": "L'Arcaniste (Draconis Sanctum) Prix : Clairvoyance de la Cité Perdue 3 000 000 pièces d'or 25 larmes de dragon 4 potion de focalisation"
+    "obtention": "L'Arcaniste (Draconis Sanctum) Prix : Clairvoyance de la Cité Perdue 3 000 000 pièces d'or 25 larmes de dragon 4 potion de focalisation",
+    "armure": 20
   },
   {
     "_type": "cape",
@@ -518,11 +518,11 @@
     "dexterite_req": 0,
     "intelligence_req": 0,
     "sagesse_req": 579,
-    "protection": 12.0,
     "prix": 0,
     "prix_detail": null,
     "informations": "+20 puissance lumière  \n+90 sagesse  \n+10 résistance terre  \n+10 résistance nécromancie",
-    "obtention": "L'Arcaniste (Draconis Sanctum) Prix : Clairvoyance de la Cité Perdue 3 000 000 pièces d'or 25 larmes de dragon 4 potion de focalisation"
+    "obtention": "L'Arcaniste (Draconis Sanctum) Prix : Clairvoyance de la Cité Perdue 3 000 000 pièces d'or 25 larmes de dragon 4 potion de focalisation",
+    "armure": 12
   },
   {
     "_type": "cape",
@@ -533,11 +533,11 @@
     "dexterite_req": 0,
     "intelligence_req": 0,
     "sagesse_req": 579,
-    "protection": 12.0,
     "prix": 0,
     "prix_detail": null,
     "informations": "+20 puissance terre  \n+90 sagesse  \n+10 résistance terre  \n+10 résistance air",
-    "obtention": "L'Arcaniste (Draconis Sanctum) Prix : Clairvoyance de la Cité Perdue 3 000 000 pièces d'or 25 larmes de dragon 4 potion de focalisation"
+    "obtention": "L'Arcaniste (Draconis Sanctum) Prix : Clairvoyance de la Cité Perdue 3 000 000 pièces d'or 25 larmes de dragon 4 potion de focalisation",
+    "armure": 12
   },
   {
     "_type": "cape",
@@ -548,11 +548,11 @@
     "dexterite_req": 0,
     "intelligence_req": 327,
     "sagesse_req": 0,
-    "protection": 10.0,
     "prix": 0,
     "prix_detail": null,
     "informations": "+10 puissance feu  \n+5 puissance eau  \n+5 puissance air  \n+5 puissance nécro  \n+15 intelligence  \n+5 résistance terre",
-    "obtention": "Apis (Cimetière des dragons, DS)"
+    "obtention": "Apis (Cimetière des dragons, DS)",
+    "armure": 10
   },
   {
     "_type": "cape",
@@ -563,11 +563,11 @@
     "dexterite_req": 0,
     "intelligence_req": 627,
     "sagesse_req": 0,
-    "protection": 12.0,
     "prix": 0,
     "prix_detail": null,
     "informations": "+20 puissance nécromancie  \n+90 intelligence   \n+10 résistance terre  \n+10 résistance nécro",
-    "obtention": "L'Arcaniste (Draconis Sanctum) Prix : Malice de Hvedrung 3 000 000 pièces d'or 25 larmes de dragon 4 potion de focalisation"
+    "obtention": "L'Arcaniste (Draconis Sanctum) Prix : Malice de Hvedrung 3 000 000 pièces d'or 25 larmes de dragon 4 potion de focalisation",
+    "armure": 12
   },
   {
     "_type": "cape",
@@ -578,11 +578,11 @@
     "dexterite_req": 0,
     "intelligence_req": 627,
     "sagesse_req": 0,
-    "protection": 12.0,
     "prix": 0,
     "prix_detail": null,
     "informations": "+20 puissance eau  \n+90 intelligence  \n+10 résistance terre  \n+10 résistance eau",
-    "obtention": "L'Arcaniste (Draconis Sanctum) Prix : Malice de Hvedrung 3 000 000 pièces d'or 25 larmes de dragon 4 potion de focalisation"
+    "obtention": "L'Arcaniste (Draconis Sanctum) Prix : Malice de Hvedrung 3 000 000 pièces d'or 25 larmes de dragon 4 potion de focalisation",
+    "armure": 12
   },
   {
     "_type": "cape",
@@ -593,11 +593,11 @@
     "dexterite_req": 0,
     "intelligence_req": 400,
     "sagesse_req": 80,
-    "protection": 20.0,
     "prix": 0,
     "prix_detail": null,
     "informations": "+15 puissance feu  \n+15 puissance eau  \n+15 puissance air  \n+15 puissance nécro  \n+75 intelligence  \n+20 toutes résistances",
-    "obtention": "L'Arcaniste (Draconis Sanctum) Prix : Malice de Hvedrung 3 000 000 pièces d'or 25 larmes de dragon 4 potion de focalisation"
+    "obtention": "L'Arcaniste (Draconis Sanctum) Prix : Malice de Hvedrung 3 000 000 pièces d'or 25 larmes de dragon 4 potion de focalisation",
+    "armure": 20
   },
   {
     "_type": "cape",
@@ -608,10 +608,10 @@
     "dexterite_req": 0,
     "intelligence_req": 627,
     "sagesse_req": 0,
-    "protection": 12.0,
     "prix": 0,
     "prix_detail": null,
     "informations": "+20 puissance feu  \n+90 intelligence  \n+10 résistance terre  \n+10 résistance eau",
-    "obtention": "L'Arcaniste (Draconis Sanctum) Prix : Malice de Hvedrung 3 000 000 pièces d'or 25 larmes de dragon 4 potion de focalisation"
+    "obtention": "L'Arcaniste (Draconis Sanctum) Prix : Malice de Hvedrung 3 000 000 pièces d'or 25 larmes de dragon 4 potion de focalisation",
+    "armure": 12
   }
 ]

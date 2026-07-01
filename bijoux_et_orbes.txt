@@ -1,0 +1,1035 @@
+<div class="table sectionedit4"><table class="inline" style="min-width: 0px; width: 100%;" width="100%">
+<colgroup><col style="width: 50px"><col style="width: 50px"><col style="width: 150px"><col style="width: 5px"><col style="width: 5px"><col style="width: 5px"><col style="width: 5px"><col style="width: 5px"><col style="width: 5px"><col style="width: 300px"><col style="width: 200px"><col style="width: 50px">
+	</colgroup><thead>
+	<tr class="row0">
+		<th class="col0">Île</th><th class="col1">Bijou</th><th class="col2">Nom</th><th class="col3">F</th><th class="col4">E</th><th class="col5">D</th><th class="col6">I</th><th class="col7">S</th><th class="col8">CA</th><th class="col9">Informations</th><th class="col10">Obtention</th><th class="col11 centeralign">  Apparence  </th>
+	</tr>
+	</thead>
+	<tbody><tr class="row1">
+		<td class="col0">AR</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2"><span style="color:darkred; "><strong>Anneau de lien</strong></span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">0</td><td class="col7">0</td><td class="col8">0.0</td><td class="col9">+5 toutes statistiques <br>
++2 toutes puissances <br>
++4 toutes résistances <br>
+Avec des bons de ravitallement, donne jusqu'à (pour 150 bons) : <br>
++20 dans des puissances ou des résistances <br>
++15 dans des compétences spécialisées (60 pour le transpercer armure) ou +300 dans une compétence basique (attaque, archerie, esquive) <br>
++400 points de vie<br>
++50 dans une statistique <br>
+1 sort réactif (défensif ou offensif)</td><td class="col10">Inscription à une faction (Lighthaven)</td><td class="col11"><a href="/wiki/_detail/objets/terre/180.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:180.png"><img src="/wiki/_media/objets/terre/180.png?w=60&amp;h=60&amp;tok=a37ebb" class="mediacenter" loading="lazy" title="180.jpg" alt="180.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row2">
+		<td class="col0">AR</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2"><span style="color:darkred; "><strong>Anneau de chance</strong></span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">0</td><td class="col7">0</td><td class="col8">2.0</td><td class="col9">+10 chance</td><td class="col10">Coffre (Les ruines d'Anwynn niveau -3)</td><td class="col11"><a href="/wiki/_detail/objets/terre/566.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:566.png"><img src="/wiki/_media/objets/terre/566.png?w=60&amp;h=60&amp;tok=3e095e" class="mediacenter" loading="lazy" title="566.jpg" alt="566.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row3">
+		<td class="col0">AR</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2">Anneau de l'assassin</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">0</td><td class="col7">0</td><td class="col8">0.0</td><td class="col9">+10 dexterité <br>
++10 esquive <br>
++5 faufiler <br>
++5 dissimulation <br>
++5 transpercer l'armure</td><td class="col10">Coffre (L'Asile de Madrigan, Arakas) <br>
+Dérangé (L'Asile de Madrigan, Arakas)</td><td class="col11"><a href="/wiki/_detail/objets/terre/176.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:176.png"><img src="/wiki/_media/objets/terre/176.png?w=60&amp;h=60&amp;tok=07aaaa" class="mediacenter" loading="lazy" title="176.jpg" alt="176.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row4">
+		<td class="col0">AR</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2">Anneau des ténèbres</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">0</td><td class="col7">0</td><td class="col8">0.0</td><td class="col9">Objet de quête (aucun bonus)</td><td class="col10">Quête de Jarko Araknor (Arakas) Coffre des ténèbres (Arakas) <br>
+Griroesh (Arakas)</td><td class="col11"><a href="/wiki/_detail/objets/terre/178.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:178.png"><img src="/wiki/_media/objets/terre/178.png?w=60&amp;h=60&amp;tok=7182d1" class="mediacenter" loading="lazy" title="178.jpg" alt="178.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row5">
+		<td class="col0">AR</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2">Anneau de fer</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">17</td><td class="col7">18</td><td class="col8">0.0</td><td class="col9"> </td><td class="col10">AR</td><td class="col11"><a href="/wiki/_detail/objets/terre/176.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:176.png"><img src="/wiki/_media/objets/terre/176.png?w=60&amp;h=60&amp;tok=07aaaa" class="mediacenter" loading="lazy" title="176.jpg" alt="176.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row6">
+		<td class="col0">AR</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2">Anneau de confiance</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">17</td><td class="col7">31</td><td class="col8">0.0</td><td class="col9">+5 sagesse <br>
++5 attaque <br>
++5 archerie</td><td class="col10">AR <br>
+Raven's Dust <br>
+Les ruines d'Anwynn niveau -1</td><td class="col11"><a href="/wiki/_detail/objets/terre/178.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:178.png"><img src="/wiki/_media/objets/terre/178.png?w=60&amp;h=60&amp;tok=7182d1" class="mediacenter" loading="lazy" title="178.jpg" alt="178.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row7">
+		<td class="col0">AR</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2">Anneau de l'ours</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">20</td><td class="col7">23</td><td class="col8">0.0</td><td class="col9">+5 force</td><td class="col10">AR <br>
+Raven's Dust <br>
+Les ruines d'Anwynn niveau -2</td><td class="col11"><a href="/wiki/_detail/objets/terre/178.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:178.png"><img src="/wiki/_media/objets/terre/178.png?w=60&amp;h=60&amp;tok=7182d1" class="mediacenter" loading="lazy" title="178.jpg" alt="178.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row8">
+		<td class="col0">AR</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2">Anneau du berserker</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">20</td><td class="col7">25</td><td class="col8">0.0</td><td class="col9">+10 force <br>
++25 attaque <br>
+-25 esquive <br>
+Lance sur le porteur le sort de Rage berserk (+25% force et +25% attaque, durant 2 minutes)</td><td class="col10">Fou (L'Asile de Madrigan, Arakas) <br>
+Mad Madrigan (L'Asile de Madrigan, Arakas) <br>
+Coffres (Crypte de Stoneheim)</td><td class="col11"><a href="/wiki/_detail/objets/terre/177.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:177.png"><img src="/wiki/_media/objets/terre/177.png?w=60&amp;h=60&amp;tok=b920db" class="mediacenter" loading="lazy" title="177.jpg" alt="177.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row9">
+		<td class="col0">AR</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2">Anneau d'or</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">22</td><td class="col7">26</td><td class="col8">1.0</td><td class="col9">+5 force</td><td class="col10">Quête de Jarko (Arakas)</td><td class="col11"><a href="/wiki/_detail/objets/terre/177.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:177.png"><img src="/wiki/_media/objets/terre/177.png?w=60&amp;h=60&amp;tok=b920db" class="mediacenter" loading="lazy" title="177.jpg" alt="177.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row10">
+		<td class="col0">AR</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2">Anneau des initiés</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">23</td><td class="col7">25</td><td class="col8">1.0</td><td class="col9">+1 à toutes les stats</td><td class="col10">Quête de la Poudre Jaune Lothan (Arakas) (50% de chance)</td><td class="col11"><a href="/wiki/_detail/objets/terre/178.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:178.png"><img src="/wiki/_media/objets/terre/178.png?w=60&amp;h=60&amp;tok=7182d1" class="mediacenter" loading="lazy" title="178.jpg" alt="178.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row11">
+		<td class="col0">AR</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2">Anneau de lumière</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">25</td><td class="col7">25</td><td class="col8">0.0</td><td class="col9">Lumière permanente</td><td class="col10">AR <br>
+Raven's Dust</td><td class="col11"><a href="/wiki/_detail/objets/terre/179.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:179.png"><img src="/wiki/_media/objets/terre/179.png?w=60&amp;h=60&amp;tok=deb1b8" class="mediacenter" loading="lazy" title="179.jpg" alt="179.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row12">
+		<td class="col0">AR</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2"><span style="color:darkred; "><strong>Anneau de force sombre</strong></span></td><td class="col3">49</td><td class="col4">0</td><td class="col5">0</td><td class="col6">37</td><td class="col7">0</td><td class="col8">0.0</td><td class="col9">+15 force <br>
++5 puissance feu <br>
+-10 puissance lumière</td><td class="col10">Coffre (Les ruines d'Anwynn niveau -2)</td><td class="col11"><a href="/wiki/_detail/objets/terre/562.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:562.png"><img src="/wiki/_media/objets/terre/562.png?w=60&amp;h=60&amp;tok=6437cf" class="mediacenter" loading="lazy" title="562.jpg" alt="562.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row13">
+		<td class="col0">AR</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2">Anneau du sorcier</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">53</td><td class="col7">15</td><td class="col8">0.0</td><td class="col9">+15 intelligence</td><td class="col10">Jarko le nécromancien (Arakas)</td><td class="col11"><a href="/wiki/_detail/objets/terre/180.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:180.png"><img src="/wiki/_media/objets/terre/180.png?w=60&amp;h=60&amp;tok=a37ebb" class="mediacenter" loading="lazy" title="180.jpg" alt="180.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row14">
+		<td class="col0">RD</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2">Bague feu-follet</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">0</td><td class="col7">0</td><td class="col8">0.0</td><td class="col9">Lumière permanente</td><td class="col10">Quête de la bague feu-follet (Raven's Dust)</td><td class="col11"><a href="/wiki/_detail/objets/terre/177.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:177.png"><img src="/wiki/_media/objets/terre/177.png?w=60&amp;h=60&amp;tok=b920db" class="mediacenter" loading="lazy" title="177.jpg" alt="177.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row15">
+		<td class="col0">RD</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2">Anneau du forestier</td><td class="col3">0</td><td class="col4">0</td><td class="col5">60</td><td class="col6">15</td><td class="col7">15</td><td class="col8">0.0</td><td class="col9">+10 premiers soins <br>
++20 faufiler<br>
+<br>
+Lance une fois une guérison totale <br>
+(1 charge)</td><td class="col10">Rat vampire (Forêt de non retour - Raven's Dust) <br>
+Coffres (Forêt de non retour - Raven's Dust)</td><td class="col11"><a href="/wiki/_detail/objets/terre/178.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:178.png"><img src="/wiki/_media/objets/terre/178.png?w=60&amp;h=60&amp;tok=7182d1" class="mediacenter" loading="lazy" title="178.jpg" alt="178.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row16">
+		<td class="col0">RD</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2">Anneau de foi</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">15</td><td class="col7">65</td><td class="col8">0.0</td><td class="col9">+20 sagesse</td><td class="col10">Quête de l'Anneau de foi (Raven's Dust) <br>
+Gellana Ombremiroir (Les ruines d'Anwynn niveau -3) <br>
+Winthrop le tavernier (Les ruines d'Anwynn niveau -3)</td><td class="col11"><a href="/wiki/_detail/objets/terre/177.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:177.png"><img src="/wiki/_media/objets/terre/177.png?w=60&amp;h=60&amp;tok=b920db" class="mediacenter" loading="lazy" title="177.jpg" alt="177.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row17">
+		<td class="col0">RD</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2">Anneau de pierre de lune</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">19</td><td class="col7">46</td><td class="col8">2.0</td><td class="col9">+10 sagesse</td><td class="col10">Golem de chair (Raven's Dust)</td><td class="col11"><a href="/wiki/_detail/objets/terre/179.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:179.png"><img src="/wiki/_media/objets/terre/179.png?w=60&amp;h=60&amp;tok=deb1b8" class="mediacenter" loading="lazy" title="179.jpg" alt="179.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row18">
+		<td class="col0">RD</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2">Anneau du clan des minotaures</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">27</td><td class="col7">33</td><td class="col8">1.0</td><td class="col9">+25 attaque <br>
++25 archerie</td><td class="col10">Chef Minotaure (Raven's Dust) <br>
+Shaman Minotaure (Raven's Dust)</td><td class="col11"><a href="/wiki/_detail/objets/terre/177.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:177.png"><img src="/wiki/_media/objets/terre/177.png?w=60&amp;h=60&amp;tok=b920db" class="mediacenter" loading="lazy" title="177.jpg" alt="177.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row19">
+		<td class="col0">RD</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2">Anneau de précision</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">29</td><td class="col7">29</td><td class="col8">0.0</td><td class="col9">+5 dexterité <br>
++15 attaque <br>
++15 archerie</td><td class="col10">Quête de l'Anneau de Précision (Raven's Dust) <br>
+Quête du Marché noir (achat) (Arakas)</td><td class="col11"><a href="/wiki/_detail/objets/terre/178.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:178.png"><img src="/wiki/_media/objets/terre/178.png?w=60&amp;h=60&amp;tok=7182d1" class="mediacenter" loading="lazy" title="178.jpg" alt="178.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row20">
+		<td class="col0">RD</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2">Anneau d'onyx</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">29</td><td class="col7">31</td><td class="col8">1.0</td><td class="col9">+2 à toutes les statistiques</td><td class="col10">Bane Gwengad (Raven's Dust)</td><td class="col11"><a href="/wiki/_detail/objets/terre/179.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:179.png"><img src="/wiki/_media/objets/terre/179.png?w=60&amp;h=60&amp;tok=deb1b8" class="mediacenter" loading="lazy" title="179.jpg" alt="179.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row21">
+		<td class="col0">RD</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2">Anneau de platine</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">37</td><td class="col7">41</td><td class="col8">2.0</td><td class="col9">+3 à toutes les statistiques</td><td class="col10">Quête de l'Anneau de Platine (seulement la première fois) <br>
+Aloysius Starbolt (Raven's Dust)</td><td class="col11"><a href="/wiki/_detail/objets/terre/177.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:177.png"><img src="/wiki/_media/objets/terre/177.png?w=60&amp;h=60&amp;tok=b920db" class="mediacenter" loading="lazy" title="177.jpg" alt="177.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row22">
+		<td class="col0">RD</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2">Anneau de sorcellerie en jade</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">90</td><td class="col7">65</td><td class="col8">0.0</td><td class="col9">+10 puissance air, terre, eau, feu et nécromancie</td><td class="col10">Grott (Raven's Dust)</td><td class="col11"><a href="/wiki/_detail/objets/terre/179.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:179.png"><img src="/wiki/_media/objets/terre/179.png?w=60&amp;h=60&amp;tok=deb1b8" class="mediacenter" loading="lazy" title="179.jpg" alt="179.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row23">
+		<td class="col0">RD</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2"><span style="color:darkred; "><strong>Anneau du sycophante</strong></span></td><td class="col3">165</td><td class="col4">0</td><td class="col5">580</td><td class="col6">25</td><td class="col7">20</td><td class="col8">0.0</td><td class="col9">+250 archerie <br>
++10 dextérité <br>
+-50 esquive <br>
+ lorsque la cible est touchée, vous avez 6% de chance de déclencher le bonus d’archerie et de dextérité qui durera 2 minutes, vous aurez aussi 25% de chance d’augmenter la durée de votre enchevêtrement sur la cible durant 1 à 2 secondes.</td><td class="col10">Amélioration Anneau des fourbes intentions (Instance RD HM)</td><td class="col11"><a href="/wiki/_detail/objets/terre/180.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:180.png"><img src="/wiki/_media/objets/terre/180.png?w=60&amp;h=60&amp;tok=a37ebb" class="mediacenter" loading="lazy" title="180.jpg" alt="180.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row24">
+		<td class="col0">RD</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2"><span style="color:darkred; "><strong>Anneau d'argile ancestrale</strong></span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">445</td><td class="col6">0</td><td class="col7">300</td><td class="col8">0.0</td><td class="col9">-50 esquive <br>
++250 archerie <br>
++10 puissance terre <br>
++10 dextérité <br>
+lorsque la cible est touchée, vous avez 6% de chance de déclencher le bonus d’archerie et de dextérité qui durera 2 minutes, vous aurez aussi 25% de chance d’augmenter la durée de votre enchevêtrement sur la cible durant 1 à 2 secondes.</td><td class="col10">Amélioration Anneau des fourbes intentions (Instance RD HM)</td><td class="col11"><a href="/wiki/_detail/objets/terre/180.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:180.png"><img src="/wiki/_media/objets/terre/180.png?w=60&amp;h=60&amp;tok=a37ebb" class="mediacenter" loading="lazy" title="180.jpg" alt="180.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row25">
+		<td class="col0">SH</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2">Anneau du séraphin</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">0</td><td class="col7">0</td><td class="col8">10.0</td><td class="col9">+10 toutes résistances</td><td class="col10">Quête de La Volonté d'Artherk Roen Fanrill (Stoneheim)</td><td class="col11"><a href="/wiki/_detail/objets/terre/178.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:178.png"><img src="/wiki/_media/objets/terre/178.png?w=60&amp;h=60&amp;tok=7182d1" class="mediacenter" loading="lazy" title="178.jpg" alt="178.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row26">
+		<td class="col0">SH</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2">Anneau de l'adepte</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">0</td><td class="col7">25</td><td class="col8">0.0</td><td class="col9">Lance guérison critique sur le porteur lors de combat.</td><td class="col10">Omar Hald (Stonecrest) <br>
+Greed Or-Qui-Brille (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/179.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:179.png"><img src="/wiki/_media/objets/terre/179.png?w=60&amp;h=60&amp;tok=deb1b8" class="mediacenter" loading="lazy" title="179.jpg" alt="179.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row27">
+		<td class="col0">SH</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2">Anneau du soigneur</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">0</td><td class="col7">50</td><td class="col8">2.0</td><td class="col9">+5 sagesse <br>
+Lance guérison critique sur le porteur lors de combats.</td><td class="col10">Omar Hald (Stonecrest) <br>
+Greed Or-Qui-Brille (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/177.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:177.png"><img src="/wiki/_media/objets/terre/177.png?w=60&amp;h=60&amp;tok=b920db" class="mediacenter" loading="lazy" title="177.jpg" alt="177.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row28">
+		<td class="col0">SH</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2">Anneau du prêtre</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">0</td><td class="col7">75</td><td class="col8">0.0</td><td class="col9">Lance guérison sur le porteur lors de combats.</td><td class="col10">Omar Hald (Stonecrest) <br>
+Greed Or-Qui-Brille (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/180.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:180.png"><img src="/wiki/_media/objets/terre/180.png?w=60&amp;h=60&amp;tok=a37ebb" class="mediacenter" loading="lazy" title="180.jpg" alt="180.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row29">
+		<td class="col0">SH</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2">Anneau du templier</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">14</td><td class="col7">66</td><td class="col8">2.0</td><td class="col9">+5 sagesse <br>
++5 puissance lumiere <br>
++5 résistance nécromancie</td><td class="col10">Omar Hald (Stonecrest) <br>
+Greed Or-Qui-Brille (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/177.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:177.png"><img src="/wiki/_media/objets/terre/177.png?w=60&amp;h=60&amp;tok=b920db" class="mediacenter" loading="lazy" title="177.jpg" alt="177.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row30">
+		<td class="col0">SH</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2">Anneau du duelliste</td><td class="col3">30</td><td class="col4">0</td><td class="col5">50</td><td class="col6">15</td><td class="col7">0</td><td class="col8">0.0</td><td class="col9">+25 attaque <br>
++25 esquive <br>
++10 parade</td><td class="col10">Coffre Grottre Guêpes (Stoneheim)</td><td class="col11"><a href="/wiki/_detail/objets/terre/177.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:177.png"><img src="/wiki/_media/objets/terre/177.png?w=60&amp;h=60&amp;tok=b920db" class="mediacenter" loading="lazy" title="177.jpg" alt="177.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row31">
+		<td class="col0">SH</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2">Anneau de vraie foi</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">15</td><td class="col7">90</td><td class="col8">0.0</td><td class="col9">+30 sagesse</td><td class="col10">Quête de l'anneau de vraie foi (Stoneheim)</td><td class="col11"><a href="/wiki/_detail/objets/terre/176.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:176.png"><img src="/wiki/_media/objets/terre/176.png?w=60&amp;h=60&amp;tok=07aaaa" class="mediacenter" loading="lazy" title="176.jpg" alt="176.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row32">
+		<td class="col0">SH</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2">Anneau du ranger</td><td class="col3">0</td><td class="col4">0</td><td class="col5">50</td><td class="col6">17</td><td class="col7">13</td><td class="col8">1.0</td><td class="col9">+25 archerie <br>
++10 dissimulation</td><td class="col10">Coffre Grottre Guêpes (Stoneheim)</td><td class="col11"><a href="/wiki/_detail/objets/terre/177.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:177.png"><img src="/wiki/_media/objets/terre/177.png?w=60&amp;h=60&amp;tok=b920db" class="mediacenter" loading="lazy" title="177.jpg" alt="177.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row33">
+		<td class="col0">SH</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2">Anneau du gladiateur</td><td class="col3">108</td><td class="col4">0</td><td class="col5">75</td><td class="col6">20</td><td class="col7">25</td><td class="col8">5.0</td><td class="col9"><em class="u">Nécessite 500 attaque</em> <br>
+<br>
++100 attaque <br>
++40 coup puissant</td><td class="col10">Champion centaure (Stoneheim)</td><td class="col11"><a href="/wiki/_detail/objets/terre/180.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:180.png"><img src="/wiki/_media/objets/terre/180.png?w=60&amp;h=60&amp;tok=a37ebb" class="mediacenter" loading="lazy" title="180.jpg" alt="180.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row34">
+		<td class="col0">SH</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2">Anneau du lion</td><td class="col3">30</td><td class="col4">22</td><td class="col5">26</td><td class="col6">25</td><td class="col7">25</td><td class="col8">0.0</td><td class="col9">+10 force <br>
++10 dextérité <br>
++5 guérison rapide <br>
++20 coup assommant <br>
++15 coup puissant <br>
++5 parade</td><td class="col10">Quête de l'Anneau du lion (Stoneheim)</td><td class="col11"><a href="/wiki/_detail/objets/terre/176.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:176.png"><img src="/wiki/_media/objets/terre/176.png?w=60&amp;h=60&amp;tok=07aaaa" class="mediacenter" loading="lazy" title="176.jpg" alt="176.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row35">
+		<td class="col0">SH</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2">Anneau de pierre de sang</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">30</td><td class="col7">18</td><td class="col8">1.0</td><td class="col9">+5 intelligence</td><td class="col10">Quête de l'Anneau de Pierre de Sang (Raven's Dust) <br>
+Zorglub (Stoneheim) <br>
+Din (Les ruines d'Anwynn)</td><td class="col11"><a href="/wiki/_detail/objets/terre/179.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:179.png"><img src="/wiki/_media/objets/terre/179.png?w=60&amp;h=60&amp;tok=deb1b8" class="mediacenter" loading="lazy" title="179.jpg" alt="179.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row36">
+		<td class="col0">SH</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2">Anneau du roublard</td><td class="col3">0</td><td class="col4">0</td><td class="col5">30</td><td class="col6">52</td><td class="col7">41</td><td class="col8">2.0</td><td class="col9">+25 dextérité <br>
++10 vol</td><td class="col10">Chapardeurs (Stoneheim) <br>
+Arpenteurs de la nuit (Stoneheim) <br>
+Coffres Grotte des morts-vivants (Stoneheim)</td><td class="col11"><a href="/wiki/_detail/objets/terre/176.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:176.png"><img src="/wiki/_media/objets/terre/176.png?w=60&amp;h=60&amp;tok=07aaaa" class="mediacenter" loading="lazy" title="176.jpg" alt="176.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row37">
+		<td class="col0">SH</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2">Anneau d'agilité de Jander</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">63</td><td class="col7">55</td><td class="col8">0.0</td><td class="col9">+25 dexterité <br>
++25 esquive</td><td class="col10">Coffre Grotte des guêpes (Stoneheim)</td><td class="col11"><a href="/wiki/_detail/objets/terre/176.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:176.png"><img src="/wiki/_media/objets/terre/176.png?w=60&amp;h=60&amp;tok=07aaaa" class="mediacenter" loading="lazy" title="176.jpg" alt="176.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row38">
+		<td class="col0">SH</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2">Bague-araignée</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">113</td><td class="col7">30</td><td class="col8">5.0</td><td class="col9">+25 intelligence <br>
++10 puissance nécromancie</td><td class="col10">Coffre Grotte des guêpes (Stoneheim)</td><td class="col11"><a href="/wiki/_detail/objets/terre/177.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:177.png"><img src="/wiki/_media/objets/terre/177.png?w=60&amp;h=60&amp;tok=b920db" class="mediacenter" loading="lazy" title="177.jpg" alt="177.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row39">
+		<td class="col0">GH</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2"><span style="color:darkred; "><strong>Anneau de santé améliorée</strong></span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">0</td><td class="col7">90</td><td class="col8">6.0</td><td class="col9">Une chance de proc un soin 150 points de vie lorsque vous êtes touché.</td><td class="col10">Greed Or-Qui-Brille (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/566.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:566.png"><img src="/wiki/_media/objets/terre/566.png?w=60&amp;h=60&amp;tok=3e095e" class="mediacenter" loading="lazy" title="566.jpg" alt="566.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row40">
+		<td class="col0">GH</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2"><span style="color:darkred; "><strong>Anneau de foi purifié</strong></span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">18</td><td class="col7">140</td><td class="col8">2.0</td><td class="col9">+35 sagesse <br>
+-10 résistance nécro</td><td class="col10">Coffre Grotte d'Agatha (Fjord, Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/563.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:563.png"><img src="/wiki/_media/objets/terre/563.png?w=60&amp;h=60&amp;tok=baf235" class="mediacenter" loading="lazy" title="563.jpg" alt="563.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row41">
+		<td class="col0">GH</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2"><span style="color:darkred; "><strong>Anneau de foi purifié parfait</strong></span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">18</td><td class="col7">140</td><td class="col8">2.0</td><td class="col9">+35 sagesse</td><td class="col10">Amélioration Instance Stoneheim <br>
+<br>
+Prix : <br>
+Anneau de foi purifié <br>
+Ticket de suppression de malus <br>
+5 points d'instance SH</td><td class="col11"><a href="/wiki/_detail/objets/terre/563.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:563.png"><img src="/wiki/_media/objets/terre/563.png?w=60&amp;h=60&amp;tok=baf235" class="mediacenter" loading="lazy" title="563.jpg" alt="563.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row42">
+		<td class="col0">GH</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2"><span style="color:darkred; "><strong>Anneau de Faveur Mortel</strong></span></td><td class="col3">140</td><td class="col4">25</td><td class="col5">40</td><td class="col6">55</td><td class="col7">50</td><td class="col8">5.0</td><td class="col9">+20 force <br>
++30 coup puissant <br>
++30 attaque <br>
++30 archerie</td><td class="col10">Quête de l'ouvrage (Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/563.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:563.png"><img src="/wiki/_media/objets/terre/563.png?w=60&amp;h=60&amp;tok=baf235" class="mediacenter" loading="lazy" title="563.jpg" alt="563.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row43">
+		<td class="col0">GH</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2"><span style="color:darkred; "><strong>Anneau des fourbes intentions</strong></span></td><td class="col3">75</td><td class="col4">0</td><td class="col5">485</td><td class="col6">25</td><td class="col7">20</td><td class="col8">0.0</td><td class="col9">+100 archerie <br>
++10 dextérité <br>
+-50 esquive</td><td class="col10">Soldat-squelette d’élite (Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/180.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:180.png"><img src="/wiki/_media/objets/terre/180.png?w=60&amp;h=60&amp;tok=a37ebb" class="mediacenter" loading="lazy" title="180.jpg" alt="180.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row44">
+		<td class="col0">GH</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2">Anneau béni des Hauts Althéens</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">100</td><td class="col7">75</td><td class="col8">2.0</td><td class="col9">+15 force <br>
++15 endurance <br>
++15 dextérité <br>
++15 intelligence <br>
++15 sagesse <br>
+<br>
+Lance le sort : <br>
+Lumière (permanent)</td><td class="col10">Greed Or-Qui-Brille (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/176.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:176.png"><img src="/wiki/_media/objets/terre/176.png?w=60&amp;h=60&amp;tok=07aaaa" class="mediacenter" loading="lazy" title="176.jpg" alt="176.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row45">
+		<td class="col0">GH</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2"><span style="color:darkred; "><strong>Sceau de sombrebois</strong></span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">365</td><td class="col6">0</td><td class="col7">0</td><td class="col8">4.0</td><td class="col9">+4 CA <br>
++50 archerie <br>
++10 force <br>
++20 coup assommant <br>
++10 coup puissant</td><td class="col10">Quête de Fitz Oeil-de-Nuit (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/180.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:180.png"><img src="/wiki/_media/objets/terre/180.png?w=60&amp;h=60&amp;tok=a37ebb" class="mediacenter" loading="lazy" title="180.jpg" alt="180.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row46">
+		<td class="col0">GH</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2"><span style="color:darkred; "><strong>Sceau de sombrebois d'habileté</strong></span></td><td class="col3">100</td><td class="col4">0</td><td class="col5">525</td><td class="col6">0</td><td class="col7">0</td><td class="col8">4.0</td><td class="col9">+4 CA <br>
++15 force <br>
++75 archerie <br>
++30 coup assommant <br>
++15 coup puissant</td><td class="col10">Amélioration Instance Stoneheim <br>
+<br>
+Prix : <br>
+Sceau de sombrebois <br>
+4 points d'instance SH HM</td><td class="col11"><a href="/wiki/_detail/objets/terre/180.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:180.png"><img src="/wiki/_media/objets/terre/180.png?w=60&amp;h=60&amp;tok=a37ebb" class="mediacenter" loading="lazy" title="180.jpg" alt="180.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row47">
+		<td class="col0">GH</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2"><span style="color:darkred; "><strong>Sceau de sombrebois d'adresse</strong></span></td><td class="col3">120</td><td class="col4">0</td><td class="col5">595</td><td class="col6">0</td><td class="col7">0</td><td class="col8">4.0</td><td class="col9">+4 CA <br>
++20 force <br>
++20 dextérité <br>
++100 archerie <br>
++40 coup assommant <br>
++20 coup puissant</td><td class="col10">Amélioration Instance Stoneheim <br>
+<br>
+<br>
+Prix : <br>
+Sceau de sombrebois d'habilité <br>
+6 points d'instance SH HM</td><td class="col11"><a href="/wiki/_detail/objets/terre/180.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:180.png"><img src="/wiki/_media/objets/terre/180.png?w=60&amp;h=60&amp;tok=a37ebb" class="mediacenter" loading="lazy" title="180.jpg" alt="180.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row48">
+		<td class="col0">GH</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2"><span style="color:darkred; "><strong>Anneau de grande sorcellerie</strong></span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">135</td><td class="col7">85</td><td class="col8">0.0</td><td class="col9">+7 toutes puissances</td><td class="col10">Quête de Fitz Oeil-de-Nuit (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/564.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:564.png"><img src="/wiki/_media/objets/terre/564.png?w=60&amp;h=60&amp;tok=c92026" class="mediacenter" loading="lazy" title="564.jpg" alt="564.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row49">
+		<td class="col0">GH</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2"><span style="color:darkred; "><strong>Anneau de grande sorcellerie parfait</strong></span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">135</td><td class="col7">85</td><td class="col8">0.0</td><td class="col9">+15 toutes puissances</td><td class="col10">Amélioration Instance Stoneheim <br>
+<br>
+Prix : <br>
+Anneau de grande sorcellerie <br>
+5 points d'instance SH HM</td><td class="col11"><a href="/wiki/_detail/objets/terre/564.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:564.png"><img src="/wiki/_media/objets/terre/564.png?w=60&amp;h=60&amp;tok=c92026" class="mediacenter" loading="lazy" title="564.jpg" alt="564.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row50">
+		<td class="col0">DS</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2"><span style="color:darkred; "><strong>Anneau d'orichalque</strong></span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">80</td><td class="col7">80</td><td class="col8">3.0</td><td class="col9">+10 sagesse <br>
++10 intelligence <br>
++5 puissance lumière <br>
++5 puissance nécromancie</td><td class="col10">Aberration élémentaire (Chambre magmatique, ZE)</td><td class="col11"><a href="/wiki/_detail/objets/terre/563.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:563.png"><img src="/wiki/_media/objets/terre/563.png?w=60&amp;h=60&amp;tok=baf235" class="mediacenter" loading="lazy" title="563.jpg" alt="563.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row51">
+		<td class="col0">DS</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2"><span style="color:darkred; "><strong>Anneau d'orichalque éclipsant</strong></span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">280</td><td class="col7">280</td><td class="col8">3.0</td><td class="col9">+15 puissance lumière <br>
++15 puissance nécromancie <br>
++20 sagesse <br>
++20 intelligence <br>
+<br>
+Lance un sort lorsque vous êtes touché. <br>
+<br>
+Pouvoir de l'éclipse : <br>
+<em>Élément : lumière</em> <br>
+Pendant un court instant, votre sagesse et votre puissance lumière augmentent au détriment de votre intelligence et de votre puissance nécromancie.</td><td class="col10">L'Arcaniste (Draconis Sanctum) <br>
+<br>
+Prix : <br>
+Anneau d'orichalque <br>
+4 000 000 pièces d'or <br>
+35 larmes de dragon <br>
+4 potion de focalisation</td><td class="col11"><a href="/wiki/_detail/objets/terre/563.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:563.png"><img src="/wiki/_media/objets/terre/563.png?w=60&amp;h=60&amp;tok=baf235" class="mediacenter" loading="lazy" title="563.jpg" alt="563.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row52">
+		<td class="col0">DS</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2"><span style="color:darkred; "><strong>Anneau d'orichalque lumineux</strong></span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">39</td><td class="col7">600</td><td class="col8">1.0</td><td class="col9">+25 puissance lumière <br>
++25 sagesse</td><td class="col10">L'Arcaniste (Draconis Sanctum) <br>
+<br>
+Prix : <br>
+Anneau d'orichalque <br>
+4 000 000 pièces d'or <br>
+35 larmes de dragon <br>
+4 potion de focalisation</td><td class="col11"><a href="/wiki/_detail/objets/terre/563.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:563.png"><img src="/wiki/_media/objets/terre/563.png?w=60&amp;h=60&amp;tok=baf235" class="mediacenter" loading="lazy" title="563.jpg" alt="563.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row53">
+		<td class="col0">DS</td><td class="col1"><span style="color:#ff7f27; ">Anneau</span></td><td class="col2"><span style="color:darkred; "><strong>Anneau d'orichalque sombre</strong></span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">600</td><td class="col7">21</td><td class="col8">3.0</td><td class="col9">+25 puissance nécromancie <br>
++25 intelligence</td><td class="col10">L'Arcaniste (Draconis Sanctum) <br>
+<br>
+Prix : <br>
+Anneau d'orichalque <br>
+4 000 000 pièces d'or <br>
+35 larmes de dragon <br>
+4 potion de focalisation</td><td class="col11"><a href="/wiki/_detail/objets/terre/563.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:563.png"><img src="/wiki/_media/objets/terre/563.png?w=60&amp;h=60&amp;tok=baf235" class="mediacenter" loading="lazy" title="563.jpg" alt="563.jpg" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row54">
+		<td class="col0">AR</td><td class="col1"><span style="color:#22b14c; ">Amulette</span></td><td class="col2">Amulette d'esquive<br>
+<span class="wrap_lo ">(Toutes les classes)</span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">21</td><td class="col7">19</td><td class="col8">0.0</td><td class="col9">+10 esquive</td><td class="col10">Desséchés (Crypte) (Arakas)</td><td class="col11"><a href="/wiki/_detail/objets/terre/172.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:172.png"><img src="/wiki/_media/objets/terre/172.png?w=60&amp;h=60&amp;tok=975ccb" class="mediacenter" loading="lazy" title="Amulette d'esquive" alt="Amulette d'esquive" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row55">
+		<td class="col0">AR</td><td class="col1"><span style="color:#22b14c; ">Amulette</span></td><td class="col2">Amulette de Jarko<br>
+<span class="wrap_lo ">(Mage / Prêtre)</span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">28</td><td class="col7">15</td><td class="col8">0.0</td><td class="col9">+5 intelligence</td><td class="col10">Jarko le nécromancien (Grotte) (Arakas)</td><td class="col11"><a href="/wiki/_detail/objets/terre/173.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:173.png"><img src="/wiki/_media/objets/terre/173.png?w=60&amp;h=60&amp;tok=9e4fe5" class="mediacenter" loading="lazy" title="Amulette de Jarko" alt="Amulette de Jarko" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row56">
+		<td class="col0">AR</td><td class="col1"><span style="color:#22b14c; ">Amulette</span></td><td class="col2">Amulette de précision <br>
+<span class="wrap_lo ">(Archer / Guerrier)</span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">27</td><td class="col7">26</td><td class="col8">0.0</td><td class="col9">+5 dexterité <br>
++10 attaque <br>
++10 archerie</td><td class="col10">Quête d'accès à Raven's Dust (Artherk - Alignement Bon) (Arakas)</td><td class="col11"><a href="/wiki/_detail/objets/terre/174.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:174.png"><img src="/wiki/_media/objets/terre/174.png?w=60&amp;h=60&amp;tok=aa8c53" class="mediacenter" loading="lazy" title="Amulette de précision" alt="Amulette de précision" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row57">
+		<td class="col0">AR</td><td class="col1"><span style="color:#22b14c; ">Amulette</span></td><td class="col2">Collier de diamant<br>
+<span class="wrap_lo ">(Mage / Prêtre)</span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">29</td><td class="col7">29</td><td class="col8">1.0</td><td class="col9">+5 intelligence <br>
++5 sagesse</td><td class="col10">Créature bannie (Labyrinthe) (Arakas)</td><td class="col11"><a href="/wiki/_detail/objets/terre/172.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:172.png"><img src="/wiki/_media/objets/terre/172.png?w=60&amp;h=60&amp;tok=975ccb" class="mediacenter" loading="lazy" title="Collier de diamant" alt="Collier de diamant" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row58">
+		<td class="col0">AR</td><td class="col1"><span style="color:#22b14c; ">Amulette</span></td><td class="col2"><span style="color:darkred; "><strong>Amulette de volonté de fer</strong></span> <br>
+<span class="wrap_lo ">(Archer / Guerrier)</span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">30</td><td class="col7">23</td><td class="col8">3.0</td><td class="col9">+5 dommages</td><td class="col10">Coffre (Les ruines d'Anwynn niveau -1)</td><td class="col11"><a href="/wiki/_detail/objets/terre/174.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:174.png"><img src="/wiki/_media/objets/terre/174.png?w=60&amp;h=60&amp;tok=aa8c53" class="mediacenter" loading="lazy" title="Amulette de volonté de fer" alt="Amulette de volonté de fer" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row59">
+		<td class="col0">AR</td><td class="col1"><span style="color:#22b14c; ">Amulette</span></td><td class="col2"><span style="color:darkred; "><strong>Amulette mineure d'acuité (bis) “stats amulette de jarko”</strong></span><br>
+<span class="wrap_lo ">(Mage / Prêtre)</span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">28</td><td class="col7">15</td><td class="col8">0.0</td><td class="col9">+5 intelligence</td><td class="col10">Coffre (Les ruines d'Anwynn niveau -1)</td><td class="col11"><a href="/wiki/_detail/objets/terre/173.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:173.png"><img src="/wiki/_media/objets/terre/173.png?w=60&amp;h=60&amp;tok=9e4fe5" class="mediacenter" loading="lazy" title="Amulette mineure d'acuité (bis) &quot;stats amulette de jarko&quot;" alt="Amulette mineure d'acuité (bis) &quot;stats amulette de jarko&quot;" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row60">
+		<td class="col0">AR</td><td class="col1"><span style="color:#22b14c; ">Amulette</span></td><td class="col2"><span style="color:darkred; "><strong>Amulette mineure d'acuité</strong></span><br>
+<span class="wrap_lo ">(Mage / Prêtre)</span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">35</td><td class="col7">25</td><td class="col8">2.0</td><td class="col9">+10 intelligence</td><td class="col10">Coffre (Les ruines d'Anwynn niveau -1)</td><td class="col11"><a href="/wiki/_detail/objets/terre/173.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:173.png"><img src="/wiki/_media/objets/terre/173.png?w=60&amp;h=60&amp;tok=9e4fe5" class="mediacenter" loading="lazy" title="Amulette mineure d'acuité" alt="Amulette mineure d'acuité" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row61">
+		<td class="col0">AR</td><td class="col1"><span style="color:#22b14c; ">Amulette</span></td><td class="col2">Collier orc rudimentaire <br>
+<span class="wrap_lo ">(Archer / Guerrier)</span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">29</td><td class="col7">36</td><td class="col8">2.0</td><td class="col9">+25 attaque <br>
++25 archerie</td><td class="col10">Roshnak Tul (Arakas) <br>
+Ghundarg Garak (Raven's Dust)</td><td class="col11"><a href="/wiki/_detail/objets/terre/174.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:174.png"><img src="/wiki/_media/objets/terre/174.png?w=60&amp;h=60&amp;tok=aa8c53" class="mediacenter" loading="lazy" title="Collier orc rudimentaire" alt="Collier orc rudimentaire" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row62">
+		<td class="col0">AR</td><td class="col1"><span style="color:#22b14c; ">Amulette</span></td><td class="col2"><span style="color:darkred; "><strong>Amulette de chance d'Halloween</strong></span><br>
+<span class="wrap_lo ">(Toutes les classes)</span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">0</td><td class="col7">0</td><td class="col8">2.0</td><td class="col9">+5 chance</td><td class="col10">Jack-o'-lantern (Événement Halloween) (Arakas)</td><td class="col11"><a href="/wiki/_detail/objets/terre/174.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:174.png"><img src="/wiki/_media/objets/terre/174.png?w=60&amp;h=60&amp;tok=aa8c53" class="mediacenter" loading="lazy" title="Amulette de chance d'Halloween" alt="Amulette de chance d'Halloween" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row63">
+		<td class="col0">RD</td><td class="col1"><span style="color:#22b14c; ">Amulette</span></td><td class="col2">Amulette éthérée<br>
+<span class="wrap_lo ">(Toutes les classes)</span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">75</td><td class="col7">55</td><td class="col8">0.0</td><td class="col9">+100 esquive</td><td class="col10">Quête de l'amulette éthérée (Raven's Dust)</td><td class="col11"><a href="/wiki/_detail/objets/terre/173.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:173.png"><img src="/wiki/_media/objets/terre/173.png?w=60&amp;h=60&amp;tok=9e4fe5" class="mediacenter" loading="lazy" title="Amulette éthérée" alt="Amulette éthérée" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row64">
+		<td class="col0">RD</td><td class="col1"><span style="color:#22b14c; ">Amulette</span></td><td class="col2">Collier de pierres de sang<br>
+<span class="wrap_lo ">(Mage / Prêtre)</span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">44</td><td class="col7">21</td><td class="col8">2.0</td><td class="col9">+10 intelligence</td><td class="col10">Golem de chair (Raven's Dust) <br>
+Bane Gwengad (Raven's Dust)</td><td class="col11"><a href="/wiki/_detail/objets/terre/173.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:173.png"><img src="/wiki/_media/objets/terre/173.png?w=60&amp;h=60&amp;tok=9e4fe5" class="mediacenter" loading="lazy" title="Collier de pierres de sang" alt="Collier de pierres de sang" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row65">
+		<td class="col0">RD</td><td class="col1"><span style="color:#22b14c; ">Amulette</span></td><td class="col2"><span style="color:darkred; "><strong>Torque terni</strong></span> <br>
+<span class="wrap_lo ">(Guerrier)</span></td><td class="col3">100</td><td class="col4">40</td><td class="col5">0</td><td class="col6">30</td><td class="col7">30</td><td class="col8">5.0</td><td class="col9"> +5 dégâts <br>
++2 toutes résistances</td><td class="col10">Monsres d'instance RD NM</td><td class="col11"><a href="/wiki/_detail/objets/terre/172.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:172.png"><img src="/wiki/_media/objets/terre/172.png?w=60&amp;h=60&amp;tok=975ccb" class="mediacenter" loading="lazy" title="Torque du guerrier terni" alt="Torque du guerrier terni" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row66">
+		<td class="col0">RD</td><td class="col1"><span style="color:#22b14c; ">Amulette</span></td><td class="col2"><span style="color:darkred; "><strong>Torque du guerrier terni</strong></span> <br>
+<span class="wrap_lo ">(Guerrier)</span></td><td class="col3">100</td><td class="col4">40</td><td class="col5">0</td><td class="col6">30</td><td class="col7">30</td><td class="col8">5.0</td><td class="col9"><strong>Nécessite 300 attaque</strong> <br>
++5 dégâts <br>
+<br>
+6% chance de lancer une guérion de 100 points de vie. <br>
+<br>
+Prérequis (pour le proc de guérison) : <br>
+- Endurance : inférieur à 125 (124 ou moins) <br>
+- Personnage : niveau 100 et plus</td><td class="col10">Amélioration d'instance <br>
+Lieux : Raven's Dust <br>
+Mode : Normal <br>
+<br>
+Prix : <br>
+Torque terni <br>
+2 crédits instance RD NM</td><td class="col11"><a href="/wiki/_detail/objets/terre/172.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:172.png"><img src="/wiki/_media/objets/terre/172.png?w=60&amp;h=60&amp;tok=975ccb" class="mediacenter" loading="lazy" title="Torque du guerrier terni" alt="Torque du guerrier terni" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row67">
+		<td class="col0">RD</td><td class="col1"><span style="color:#22b14c; ">Amulette</span></td><td class="col2"><span style="color:darkred; "><strong>Torque du sorcier terni</strong></span> <br>
+<span class="wrap_lo ">(Mage)</span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">128</td><td class="col7">32</td><td class="col8">0</td><td class="col9">+2 puissance feu <br>
++2 puissance eau <br>
++2 puissance air <br>
++2 puissance nécromancie <br>
++12 intelligence</td><td class="col10">Amélioration d'instance <br>
+Lieux : Raven's Dust <br>
+Mode : Normal <br>
+<br>
+Prix : <br>
+Torque terni <br>
+2 crédits d'instance RD NM</td><td class="col11"><a href="/wiki/_detail/objets/terre/172.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:172.png"><img src="/wiki/_media/objets/terre/172.png?w=60&amp;h=60&amp;tok=975ccb" class="mediacenter" loading="lazy" title="Torque du sorcier terni" alt="Torque du sorcier terni" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row68">
+		<td class="col0">RD</td><td class="col1"><span style="color:#22b14c; ">Amulette</span></td><td class="col2"><span style="color:darkred; "><strong>Torque du prêtre terni</strong></span> <br>
+<span class="wrap_lo ">(Prêtre)</span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">29</td><td class="col7">131</td><td class="col8">0</td><td class="col9">+2 puissance lumière <br>
++2 puissance terre <br>
++2 puissance air <br>
++12 sagesse</td><td class="col10">Amélioration d'instance <br>
+Lieux : Raven's Dust <br>
+Mode : Normal <br>
+<br>
+Prix : <br>
+Torque terni <br>
+2 crédits d'instance RD NM</td><td class="col11"><a href="/wiki/_detail/objets/terre/172.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:172.png"><img src="/wiki/_media/objets/terre/172.png?w=60&amp;h=60&amp;tok=975ccb" class="mediacenter" loading="lazy" title="Torque du sorcier terni" alt="Torque du sorcier terni" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row69">
+		<td class="col0">SH</td><td class="col1"><span style="color:#22b14c; ">Amulette</span></td><td class="col2">Talisman de protection contre le Mal<br>
+<span class="wrap_lo ">(Toutes les classes)</span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">40</td><td class="col7">53</td><td class="col8">1.0</td><td class="col9">+25 résistance nécromancie</td><td class="col10">Purificateur (Stoneheim)</td><td class="col11"><a href="/wiki/_detail/objets/terre/173.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:173.png"><img src="/wiki/_media/objets/terre/173.png?w=60&amp;h=60&amp;tok=9e4fe5" class="mediacenter" loading="lazy" title="Talisman de protection contre le Mal" alt="Talisman de protection contre le Mal" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row70">
+		<td class="col0">SH</td><td class="col1"><span style="color:#22b14c; ">Amulette</span></td><td class="col2">Symbole d'espoir<br>
+<span class="wrap_lo ">(Prêtre)</span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">25</td><td class="col7">68</td><td class="col8">0.0</td><td class="col9">+25 puissance lumière</td><td class="col10">Chryseida Yolangda (Stonecrest) <br>
+Greed Or-Qui-Brille (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/172.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:172.png"><img src="/wiki/_media/objets/terre/172.png?w=60&amp;h=60&amp;tok=975ccb" class="mediacenter" loading="lazy" title="Symbole d'espoir" alt="Symbole d'espoir" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row71">
+		<td class="col0">SH</td><td class="col1"><span style="color:#22b14c; ">Amulette</span></td><td class="col2">Coeur de Jafo<br>
+<span class="wrap_lo ">(Prêtre)</span></td><td class="col3">0</td><td class="col4">10</td><td class="col5">0</td><td class="col6">95</td><td class="col7">110</td><td class="col8">10.0</td><td class="col9">+10 toutes statistiques</td><td class="col10">Coffre (Grotte des guêpes) (Stoneheim)</td><td class="col11"><a href="/wiki/_detail/objets/terre/174.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:174.png"><img src="/wiki/_media/objets/terre/174.png?w=60&amp;h=60&amp;tok=aa8c53" class="mediacenter" loading="lazy" title="Coeur de Jafo" alt="Coeur de Jafo" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row72">
+		<td class="col0">SH</td><td class="col1"><span style="color:#22b14c; ">Amulette</span></td><td class="col2">Amulette des héros <br>
+<span class="wrap_lo ">(Guerrier)</span></td><td class="col3">80</td><td class="col4">35</td><td class="col5">63</td><td class="col6">40</td><td class="col7">40</td><td class="col8">10.0</td><td class="col9"><strong>Nécessite 500 attaque</strong> <br>
++50 attaque <br>
++50 archerie <br>
++40 coup assommant <br>
++15 coup puissant <br>
++40 transpercer l'armure <br>
++10 guérison rapide <br>
++10 parade</td><td class="col10">Lord Stonecrest (Stoneheim)<br>
+Thokam (Firesky)</td><td class="col11"><a href="/wiki/_detail/objets/terre/173.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:173.png"><img src="/wiki/_media/objets/terre/173.png?w=60&amp;h=60&amp;tok=9e4fe5" class="mediacenter" loading="lazy" title="Amulette des héros" alt="Amulette des héros" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row73">
+		<td class="col0">SH</td><td class="col1"><span style="color:#22b14c; ">Amulette</span></td><td class="col2"><span style="color:darkred; "><strong>Collier Orque</strong></span> <br>
+<span class="wrap_lo ">(Archer / Guerrier)</span></td><td class="col3">60</td><td class="col4">30</td><td class="col5">40</td><td class="col6">30</td><td class="col7">30</td><td class="col8">4.0</td><td class="col9">+20 attaque <br>
++20 archerie <br>
++10 coup assommant <br>
++7 coup puissant <br>
++10 dextérité</td><td class="col10">Monstres d'instance SH HM</td><td class="col11"><a href="/wiki/_detail/objets/terre/173.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:173.png"><img src="/wiki/_media/objets/terre/173.png?w=60&amp;h=60&amp;tok=9e4fe5" class="mediacenter" loading="lazy" title="Collier Orque" alt="Collier Orque" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row74">
+		<td class="col0">SH</td><td class="col1"><span style="color:#22b14c; ">Amulette</span></td><td class="col2"><span style="color:darkred; "><strong>Collier Orque poli</strong></span> <br>
+<span class="wrap_lo ">(Archer / Guerrier)</span></td><td class="col3">60</td><td class="col4">30</td><td class="col5">40</td><td class="col6">30</td><td class="col7">30</td><td class="col8">4.0</td><td class="col9">+40 attaque <br>
++40 archerie <br>
++10 coup assommant <br>
++7 coup puissant <br>
++20 transpercer l'armure <br>
++5 guérison rapide <br>
++5 parade <br>
++10 dextérité</td><td class="col10">Amélioration d'instance <br>
+Lieux : Stoneheim <br>
+Mode : Héroïque <br>
+<br>
+Prix : <br>
+Collier Orque <br>
+4 crédits d'instance SH HM</td><td class="col11"><a href="/wiki/_detail/objets/terre/173.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:173.png"><img src="/wiki/_media/objets/terre/173.png?w=60&amp;h=60&amp;tok=9e4fe5" class="mediacenter" loading="lazy" title="Collier Orque poli" alt="Collier Orque poli" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row75">
+		<td class="col0">SH</td><td class="col1"><span style="color:#22b14c; ">Amulette</span></td><td class="col2"><span style="color:darkred; "><strong>Omamori</strong></span> <br>
+<span class="wrap_lo ">(Archer / Guerrier)</span></td><td class="col3">110</td><td class="col4">30</td><td class="col5">75</td><td class="col6">35</td><td class="col7">35</td><td class="col8">15.0</td><td class="col9">+75 attaque <br>
++75 archerie <br>
++20 coup assommant <br>
++30 coup puissant <br>
++40 transpercer l'armure <br>
++10 guérison rapide <br>
++10 parade</td><td class="col10">Amélioration d'instance <br>
+Lieux : Stoneheim <br>
+Mode : Héroïque <br>
+<br>
+Prix : <br>
+Collier Orque Poli <br>
+6 crédits d'instance SH HM</td><td class="col11"><a href="/wiki/_detail/objets/terre/173.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:173.png"><img src="/wiki/_media/objets/terre/173.png?w=60&amp;h=60&amp;tok=9e4fe5" class="mediacenter" loading="lazy" title="Omamori" alt="Omamori" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row76">
+		<td class="col0">GH</td><td class="col1"><span style="color:#22b14c; ">Amulette</span></td><td class="col2"><span style="color:darkred; "><strong>Amulette du pilleur</strong></span> <br>
+<span class="wrap_lo ">(Archer)</span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">60</td><td class="col6">50</td><td class="col7">0</td><td class="col8">3.0</td><td class="col9">+5 transpercer l'armure <br>
++10 voler <br>
++15 piller <br>
++5 coup puissant</td><td class="col10">Coffre (Carrière de Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/172.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:172.png"><img src="/wiki/_media/objets/terre/172.png?w=60&amp;h=60&amp;tok=975ccb" class="mediacenter" loading="lazy" title="Amulette du pilleur" alt="Amulette du pilleur" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row77">
+		<td class="col0">GH</td><td class="col1"><span style="color:#22b14c; ">Amulette</span></td><td class="col2"><span style="color:darkred; "><strong>Amulette de guérison</strong></span> <br>
+<span class="wrap_lo ">(Toutes les classes)</span></td><td class="col3">0</td><td class="col4">100</td><td class="col5">0</td><td class="col6">40</td><td class="col7">40</td><td class="col8">6.0</td><td class="col9">6% de chance de lancer un sort de soin si vous êtes attaqué <br>
+(total de vos points de vie / 21)</td><td class="col10">Coffres des Égouts (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/174.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:174.png"><img src="/wiki/_media/objets/terre/174.png?w=60&amp;h=60&amp;tok=aa8c53" class="mediacenter" loading="lazy" title="Amulette de guérison" alt="Amulette de guérison" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row78">
+		<td class="col0">GH</td><td class="col1"><span style="color:#22b14c; ">Amulette</span></td><td class="col2"><span style="color:darkred; "><strong>Murmure du vent</strong></span><br>
+<span class="wrap_lo ">(Mage / Prêtre)</span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">120</td><td class="col7">75</td><td class="col8">3.0</td><td class="col9">+200 esquive</td><td class="col10">Général Démoniaque (Grim Hawk) <br>
+Chêne centenaire furieux (Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/174.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:174.png"><img src="/wiki/_media/objets/terre/174.png?w=60&amp;h=60&amp;tok=aa8c53" class="mediacenter" loading="lazy" title="Murmure du vent" alt="Murmure du vent" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row79">
+		<td class="col0">GH</td><td class="col1"><span style="color:#22b14c; ">Amulette</span></td><td class="col2"><span style="color:darkred; "><strong>Collier de Dents de Lycanthrope</strong></span><br>
+<span class="wrap_lo ">(Mage)</span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">250</td><td class="col7">0</td><td class="col8">5.0</td><td class="col9">+20 puissance eau <br>
++10 puissance feu <br>
++25 intelligence</td><td class="col10">Golem de lave (Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/174.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:174.png"><img src="/wiki/_media/objets/terre/174.png?w=60&amp;h=60&amp;tok=aa8c53" class="mediacenter" loading="lazy" title="Collier de Dents de Lycanthrope" alt="Collier de Dents de Lycanthrope" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row80">
+		<td class="col0">GH</td><td class="col1"><span style="color:#22b14c; ">Amulette</span></td><td class="col2"><span style="color:darkred; "><strong>Collier de Perles d'Islwyn</strong></span><br>
+<span class="wrap_lo ">(Mage / Prêtre)</span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">180</td><td class="col7">200</td><td class="col8">5.0</td><td class="col9">+20 puissance air <br>
++5 puissance terre <br>
++20 intelligence <br>
++20 sagesse</td><td class="col10">Coffres (Tour d'Ebon Hold) (Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/172.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:172.png"><img src="/wiki/_media/objets/terre/172.png?w=60&amp;h=60&amp;tok=975ccb" class="mediacenter" loading="lazy" title="Collier de Perles d'Islwyn" alt="Collier de Perles d'Islwyn" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row81">
+		<td class="col0">GH</td><td class="col1"><span style="color:#22b14c; ">Amulette</span></td><td class="col2"><span style="color:darkred; "><strong>Amulette des âmes Etincelantes</strong></span><br>
+<span class="wrap_lo ">(Prêtre)</span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">40</td><td class="col7">206</td><td class="col8">2.0</td><td class="col9">+10 puissance lumière <br>
++10 sagesse <br>
++15 ramener à la vie</td><td class="col10">Coffre (Carrière de Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/173.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:173.png"><img src="/wiki/_media/objets/terre/173.png?w=60&amp;h=60&amp;tok=9e4fe5" class="mediacenter" loading="lazy" title="Amulette des âmes Etincelantes" alt="Amulette des âmes Etincelantes" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row82">
+		<td class="col0">DS</td><td class="col1"><span style="color:#22b14c; ">Amulette</span></td><td class="col2"><span style="color:darkred; "><strong>Serment des montagnes</strong></span> <br>
+<span class="wrap_lo ">(Archer / Guerrier)</span></td><td class="col3">60</td><td class="col4">40</td><td class="col5">60</td><td class="col6">40</td><td class="col7">40</td><td class="col8">1.0</td><td class="col9">+5 force <br>
++5 dextérité <br>
++5 endurance <br>
++10 archerie <br>
++10 attaque <br>
++1 coup assommant <br>
++1 coup puissant <br>
++1 transpercer armure <br>
++1 guérison rapide <br>
++1 parade</td><td class="col10">Golem (Caldeira/Volcan) (Zone Épique)</td><td class="col11"><a href="/wiki/_detail/objets/terre/174.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:174.png"><img src="/wiki/_media/objets/terre/174.png?w=60&amp;h=60&amp;tok=aa8c53" class="mediacenter" loading="lazy" title="Serment des montagnes" alt="Serment des montagnes" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row83">
+		<td class="col0">DS</td><td class="col1"><span style="color:#22b14c; ">Amulette</span></td><td class="col2"><span style="color:darkred; "><strong>Serment des montagnes de précision</strong></span> <br>
+<span class="wrap_lo ">(Archer)</span></td><td class="col3">80</td><td class="col4">40</td><td class="col5">545</td><td class="col6">45</td><td class="col7">45</td><td class="col8">10.0</td><td class="col9">+10 classe d'armure <br>
++100 archerie <br>
++50 esquive <br>
++20 dextérité<br>
++10 parade <br>
++70 coup assommant <br>
++35 coup puissant <br>
++40 transpercer armure</td><td class="col10">L'Arcaniste (Draconis Sanctum) <br>
+<br>
+Prix : <br>
+Serment des montagnes <br>
+5 000 000 pièces d'or <br>
+40 larmes de dragon <br>
+4 potion de focalisation</td><td class="col11"><a href="/wiki/_detail/objets/terre/174.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:174.png"><img src="/wiki/_media/objets/terre/174.png?w=60&amp;h=60&amp;tok=aa8c53" class="mediacenter" loading="lazy" title="Serment des montagnes de précision" alt="Serment des montagnes de précision" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row84">
+		<td class="col0">DS</td><td class="col1"><span style="color:#22b14c; ">Amulette</span></td><td class="col2"><span style="color:darkred; "><strong>Serment des montagnes regénérant</strong></span><br>
+<span class="wrap_lo ">(Guerrier)</span></td><td class="col3">324</td><td class="col4">280</td><td class="col5">61</td><td class="col6">45</td><td class="col7">45</td><td class="col8">20.0</td><td class="col9">+7 toutes résistances (sauf lumière) <br>
++100 attaque <br>
++40 coup puissant <br>
++15 guérison rapide <br>
++15 parade <br>
++20 transpercer armure <br>
++20 coup assommant</td><td class="col10">L'Arcaniste (Draconis Sanctum) <br>
+<br>
+Prix : <br>
+Serment des montagnes <br>
+5 000 000 pièces d'or <br>
+40 larmes de dragon <br>
+4 potion de focalisation</td><td class="col11"><a href="/wiki/_detail/objets/terre/174.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:174.png"><img src="/wiki/_media/objets/terre/174.png?w=60&amp;h=60&amp;tok=aa8c53" class="mediacenter" loading="lazy" title="Serment des montagnes regénérant" alt="Serment des montagnes regénérant" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row85">
+		<td class="col0">DS</td><td class="col1"><span style="color:#22b14c; ">Amulette</span></td><td class="col2"><span style="color:darkred; "><strong>Serment des montagnes brutal</strong></span><br>
+<span class="wrap_lo ">(Guerrier)</span></td><td class="col3">580</td><td class="col4">40</td><td class="col5">95</td><td class="col6">45</td><td class="col7">45</td><td class="col8">10.0</td><td class="col9">+20 force <br>
++150 attaque <br>
++65 coup assommant <br>
++30 coup puissant <br>
++10 parade <br>
++50 transpercer armure</td><td class="col10">L'Arcaniste (Draconis Sanctum) <br>
+<br>
+Prix : <br>
+Serment des montagnes <br>
+5 000 000 pièces d'or <br>
+40 larmes de dragon <br>
+4 potion de focalisation</td><td class="col11"><a href="/wiki/_detail/objets/terre/174.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:174.png"><img src="/wiki/_media/objets/terre/174.png?w=60&amp;h=60&amp;tok=aa8c53" class="mediacenter" loading="lazy" title="Serment des montagnes brutal" alt="Serment des montagnes brutal" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row86">
+		<td class="col0">DS</td><td class="col1"><span style="color:#22b14c; ">Amulette</span></td><td class="col2"><span style="color:darkred; "><strong>Collier recouvert de vase</strong></span><br>
+<span class="wrap_lo ">(Prêtre)</span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">150</td><td class="col7">600</td><td class="col8">5.0</td><td class="col9">+15 puissance terre <br>
++20 sagesse</td><td class="col10">Bourbefièvre</td><td class="col11"><a href="/wiki/_detail/objets/terre/174.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:174.png"><img src="/wiki/_media/objets/terre/174.png?w=60&amp;h=60&amp;tok=aa8c53" class="mediacenter" loading="lazy" title="Serment des montagnes brutal" alt="Serment des montagnes brutal" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row87">
+		<td class="col0">DS</td><td class="col1"><span style="color:#22b14c; ">Amulette</span></td><td class="col2"><span style="color:darkred; "><strong>Collier en croc de dragonnet</strong></span><br>
+<span class="wrap_lo ">(Mage feu)</span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">600</td><td class="col7">0</td><td class="col8">5.0</td><td class="col9">+10 puissance eau <br>
++20 puissance feu <br>
++25 sagesse</td><td class="col10">Dragonnet agité</td><td class="col11"><a href="/wiki/_detail/objets/terre/174.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:174.png"><img src="/wiki/_media/objets/terre/174.png?w=60&amp;h=60&amp;tok=aa8c53" class="mediacenter" loading="lazy" title="Serment des montagnes brutal" alt="Serment des montagnes brutal" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row88">
+		<td class="col0">AR</td><td class="col1"><span style="color:#ed1c24; ">Bracelet</span></td><td class="col2"><span style="color:darkred; "><strong>Bracelet de cuir</strong></span></td><td class="col3">50</td><td class="col4">0</td><td class="col5">20</td><td class="col6">0</td><td class="col7">0</td><td class="col8">1.0</td><td class="col9"> </td><td class="col10">Drop monstre (Instance Arakas)</td><td class="col11"><a href="/wiki/_detail/objets/terre/237.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:237.png"><img src="/wiki/_media/objets/terre/237.png?w=60&amp;h=60&amp;tok=4c1fed" class="mediacenter" loading="lazy" title="Bracelet d'or" alt="Bracelet d'or" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row89">
+		<td class="col0">AR</td><td class="col1"><span style="color:#ed1c24; ">Bracelet</span></td><td class="col2"><span style="color:darkred; "><strong>Bracelet d'épines</strong></span></td><td class="col3">50</td><td class="col4">0</td><td class="col5">20</td><td class="col6">0</td><td class="col7">0</td><td class="col8">1.0</td><td class="col9">+5 dommages </td><td class="col10">Amélioration du bracelet de cuir (Instance AR NM)</td><td class="col11"><a href="/wiki/_detail/objets/terre/237.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:237.png"><img src="/wiki/_media/objets/terre/237.png?w=60&amp;h=60&amp;tok=4c1fed" class="mediacenter" loading="lazy" title="Bracelet d'or" alt="Bracelet d'or" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row90">
+		<td class="col0">AR</td><td class="col1"><span style="color:#ed1c24; ">Bracelet</span></td><td class="col2">Bracelet d'or</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">21</td><td class="col7">24</td><td class="col8">1.0</td><td class="col9">+2 force <br>
++2 dexterité</td><td class="col10">Chef orc renégat (Arakas)</td><td class="col11"><a href="/wiki/_detail/objets/terre/237.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:237.png"><img src="/wiki/_media/objets/terre/237.png?w=60&amp;h=60&amp;tok=4c1fed" class="mediacenter" loading="lazy" title="Bracelet d'or" alt="Bracelet d'or" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row91">
+		<td class="col0">AR</td><td class="col1"><span style="color:#ed1c24; ">Bracelet</span></td><td class="col2">Bracelet de puissance</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">24</td><td class="col7">29</td><td class="col8">1.0</td><td class="col9">+5 force <br>
++5 attaque <br>
++5 archerie</td><td class="col10">Griroesh (Arakas) <br>
+Chef de guerre gobelin (Arakas)</td><td class="col11"><a href="/wiki/_detail/objets/terre/237.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:237.png"><img src="/wiki/_media/objets/terre/237.png?w=60&amp;h=60&amp;tok=4c1fed" class="mediacenter" loading="lazy" title="Bracelet de puissance" alt="Bracelet de puissance" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row92">
+		<td class="col0">RD</td><td class="col1"><span style="color:#ed1c24; ">Bracelet</span></td><td class="col2">Bracelet d'orc</td><td class="col3">0</td><td class="col4">35</td><td class="col5">0</td><td class="col6">32</td><td class="col7">38</td><td class="col8">5.0</td><td class="col9">+10 attaque <br>
++10 archerie <br>
++5 esquive</td><td class="col10">Quête du Bracelet orque (Raven's Dust)</td><td class="col11"><a href="/wiki/_detail/objets/terre/237.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:237.png"><img src="/wiki/_media/objets/terre/237.png?w=60&amp;h=60&amp;tok=4c1fed" class="mediacenter" loading="lazy" title="Bracelet d'orc" alt="Bracelet d'orc" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row93">
+		<td class="col0">RD</td><td class="col1"><span style="color:#ed1c24; ">Bracelet</span></td><td class="col2">Bracelets de saphir</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">33</td><td class="col7">33</td><td class="col8">0.0</td><td class="col9">+7 intelligence <br>
++7 sagesse</td><td class="col10">Coffres (Raven's Dust) <br>
+Horreur railleuse (Raven's Dust) <br>
+Quête du Livre de Feylor (Arakas)</td><td class="col11"><a href="/wiki/_detail/objets/terre/237.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:237.png"><img src="/wiki/_media/objets/terre/237.png?w=60&amp;h=60&amp;tok=4c1fed" class="mediacenter" loading="lazy" title="Bracelet de saphir" alt="Bracelet de saphir" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row94">
+		<td class="col0">RD</td><td class="col1"><span style="color:#ed1c24; ">Bracelet</span></td><td class="col2"><span style="color:darkred; "><strong>Bracelets de saphir infusé</strong></span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">38</td><td class="col7">38</td><td class="col8">3.0</td><td class="col9">+10 intelligence <br>
++10 sagesse <br>
++4 toutes résistances </td><td class="col10">Amélioration Bracelet de Saphir (Instance AR HM)</td><td class="col11"><a href="/wiki/_detail/objets/terre/237.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:237.png"><img src="/wiki/_media/objets/terre/237.png?w=60&amp;h=60&amp;tok=4c1fed" class="mediacenter" loading="lazy" title="Bracelet de saphir" alt="Bracelet de saphir" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row95">
+		<td class="col0">RD</td><td class="col1"><span style="color:#ed1c24; ">Bracelet</span></td><td class="col2">Bracelet de force d'ogre</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">40</td><td class="col7">53</td><td class="col8">0.0</td><td class="col9">+25 force</td><td class="col10">Bane Gwengad (Raven's Dust)</td><td class="col11"><a href="/wiki/_detail/objets/terre/237.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:237.png"><img src="/wiki/_media/objets/terre/237.png?w=60&amp;h=60&amp;tok=4c1fed" class="mediacenter" loading="lazy" title="Bracelet de force d'ogre" alt="Bracelet de force d'ogre" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row96">
+		<td class="col0">SH</td><td class="col1"><span style="color:#ed1c24; ">Bracelet</span></td><td class="col2"><span style="color:darkred; "><strong>Bracelet de vigueur</strong></span></td><td class="col3">60</td><td class="col4">0</td><td class="col5">50</td><td class="col6">0</td><td class="col7">0</td><td class="col8">0.0</td><td class="col9">+25 force <br>
++25 dextérité</td><td class="col10">Skraug Banni (Stoneheim)</td><td class="col11"><a href="/wiki/_detail/objets/terre/237.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:237.png"><img src="/wiki/_media/objets/terre/237.png?w=60&amp;h=60&amp;tok=4c1fed" class="mediacenter" loading="lazy" title="Bracelet de vigueur" alt="Bracelet de vigueur" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row97">
+		<td class="col0">SH</td><td class="col1"><span style="color:#ed1c24; ">Bracelet</span></td><td class="col2">Bracelet d'hypogriffe doré</td><td class="col3">100</td><td class="col4">0</td><td class="col5">0</td><td class="col6">0</td><td class="col7">0</td><td class="col8">10.0</td><td class="col9"><em class="u">Nécessite 300 attaque</em> <br>
+<br>
++30 résistance air <br>
+-15 résistance terre</td><td class="col10">Assassin obsidien (Stoneheim)</td><td class="col11"><a href="/wiki/_detail/objets/terre/237.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:237.png"><img src="/wiki/_media/objets/terre/237.png?w=60&amp;h=60&amp;tok=4c1fed" class="mediacenter" loading="lazy" title="Bracelet d'hypogriffe doré" alt="Bracelet d'hypogriffe doré" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row98">
+		<td class="col0">SH</td><td class="col1"><span style="color:#ed1c24; ">Bracelet</span></td><td class="col2">Bracelet de feuilles</td><td class="col3">100</td><td class="col4">0</td><td class="col5">0</td><td class="col6">0</td><td class="col7">0</td><td class="col8">10.0</td><td class="col9"><em class="u">Nécessite 300 attaque</em> <br>
+<br>
++30 résistance terre <br>
+-15 résistance Air</td><td class="col10">Protecteur temporel (Zone Oracle)</td><td class="col11"><a href="/wiki/_detail/objets/terre/237.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:237.png"><img src="/wiki/_media/objets/terre/237.png?w=60&amp;h=60&amp;tok=4c1fed" class="mediacenter" loading="lazy" title="Bracelet de feuilles" alt="Bracelet de feuilles" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row99">
+		<td class="col0">SH</td><td class="col1"><span style="color:#ed1c24; ">Bracelet</span></td><td class="col2">Bracelet de fierté</td><td class="col3">100</td><td class="col4">0</td><td class="col5">0</td><td class="col6">0</td><td class="col7">0</td><td class="col8">10.0</td><td class="col9"><em class="u">Nécessite 300 attaque</em> <br>
+<br>
++30 résistance feu <br>
+-15 résistance eau</td><td class="col10">Gecko sulfureux (Stoneheim)</td><td class="col11"><a href="/wiki/_detail/objets/terre/237.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:237.png"><img src="/wiki/_media/objets/terre/237.png?w=60&amp;h=60&amp;tok=4c1fed" class="mediacenter" loading="lazy" title="Bracelet de fierté" alt="Bracelet de fierté" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row100">
+		<td class="col0">SH</td><td class="col1"><span style="color:#ed1c24; ">Bracelet</span></td><td class="col2">Bracelet de turquoise </td><td class="col3">100</td><td class="col4">0</td><td class="col5">0</td><td class="col6">0</td><td class="col7">0</td><td class="col8">10.0</td><td class="col9"><em class="u">Nécessite 300 attaque</em> <br>
+<br>
++30 résistance à l'eau <br>
+-15 résistance au feu</td><td class="col10">Rejeton du Chaos (Stoneheim)</td><td class="col11"><a href="/wiki/_detail/objets/terre/237.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:237.png"><img src="/wiki/_media/objets/terre/237.png?w=60&amp;h=60&amp;tok=4c1fed" class="mediacenter" loading="lazy" title="Bracelet de turquoise fendu" alt="Bracelet de turquoise fendu" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row101">
+		<td class="col0">SH</td><td class="col1"><span style="color:#ed1c24; ">Bracelet</span></td><td class="col2">Bracelet de la manticore</td><td class="col3">100</td><td class="col4">0</td><td class="col5">50</td><td class="col6">30</td><td class="col7">30</td><td class="col8">10.0</td><td class="col9"><em class="u">Nécessite 400 attaque</em> <br>
+<br>
++10 résistance terre <br>
++10 résistance eau <br>
++10 résistance feu <br>
++10 résistance air <br>
+-20 résistance nécromancie</td><td class="col10">Loup Fenris (Stoneheim)</td><td class="col11"><a href="/wiki/_detail/objets/terre/237.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:237.png"><img src="/wiki/_media/objets/terre/237.png?w=60&amp;h=60&amp;tok=4c1fed" class="mediacenter" loading="lazy" title="Bracelet de la manticore" alt="Bracelet de la manticore" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row102">
+		<td class="col0">SH</td><td class="col1"><span style="color:#ed1c24; ">Bracelet</span></td><td class="col2">Bracelets de guerre</td><td class="col3">25</td><td class="col4">0</td><td class="col5">20</td><td class="col6">45</td><td class="col7">50</td><td class="col8">0.0</td><td class="col9">+10 force <br>
++10 endurance <br>
++10 dextérité <br>
++25 attaque <br>
++25 archerie</td><td class="col10">Coffre (Stoneheim)</td><td class="col11"><a href="/wiki/_detail/objets/terre/237.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:237.png"><img src="/wiki/_media/objets/terre/237.png?w=60&amp;h=60&amp;tok=4c1fed" class="mediacenter" loading="lazy" title="Bracelets de guerre" alt="Bracelets de guerre" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row103">
+		<td class="col0">SH</td><td class="col1"><span style="color:#ed1c24; ">Bracelet</span></td><td class="col2"><span style="color:darkred; "><strong>Bracelets de grande magie</strong></span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">100</td><td class="col7">70</td><td class="col8">0.0</td><td class="col9">+5 sagesse <br>
++5 intelligence <br>
++2 toutes puissances</td><td class="col10">Gremlin (Stoneheim) </td><td class="col11"><a href="/wiki/_detail/objets/terre/553.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:553.png"><img src="/wiki/_media/objets/terre/553.png?w=60&amp;h=60&amp;tok=7e7eba" class="mediacenter" loading="lazy" title="Bracelets de grande magie" alt="Bracelets de grande magie" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row104">
+		<td class="col0">SH</td><td class="col1"><span style="color:#ed1c24; ">Bracelet</span></td><td class="col2"><span style="color:darkred; "><strong>Bracelets de grande magie parfait</strong></span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">100</td><td class="col7">70</td><td class="col8">0.0</td><td class="col9">+10 sagesse <br>
++10 intelligence <br>
++5 toutes puissances</td><td class="col10">Amélioration Instance Stoneheim <br>
+ <br>
+Prix : <br>
+Bracelets de grande magie <br>
+5 points d'instance SH HM</td><td class="col11"><a href="/wiki/_detail/objets/terre/553.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:553.png"><img src="/wiki/_media/objets/terre/553.png?w=60&amp;h=60&amp;tok=7e7eba" class="mediacenter" loading="lazy" title="Bracelets de grande magie parfait" alt="Bracelets de grande magie parfait" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row105">
+		<td class="col0">SH</td><td class="col1"><span style="color:#ed1c24; ">Bracelet</span></td><td class="col2"><span style="color:darkred; "><strong>Bracelet boréalien</strong></span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">220</td><td class="col7">540</td><td class="col8">0.0</td><td class="col9">+12 puissance air <br>
++8 puissance lumière <br>
++5 puissance terre <br>
++25 sagesse <br>
++10 intelligence</td><td class="col10">Amélioration Bracelet grande magie (Instance SH HM)</td><td class="col11"><a href="/wiki/_detail/objets/terre/553.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:553.png"><img src="/wiki/_media/objets/terre/553.png?w=60&amp;h=60&amp;tok=7e7eba" class="mediacenter" loading="lazy" title="Bracelet boréalien" alt="Bracelet boréalien" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row106">
+		<td class="col0">SH</td><td class="col1"><span style="color:#ed1c24; ">Bracelet</span></td><td class="col2"><span style="color:darkred; "><strong>Bracelet d'imprécation</strong></span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">540</td><td class="col7">220</td><td class="col8">0.0</td><td class="col9">+15 puissance air <br>
++8 puissance nécromancie <br>
++5 puissance terre <br>
++10 sagesse <br>
++25 intelligence</td><td class="col10">Amélioration Bracelet grande magie (Instance SH HM)</td><td class="col11"><a href="/wiki/_detail/objets/terre/553.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:553.png"><img src="/wiki/_media/objets/terre/553.png?w=60&amp;h=60&amp;tok=7e7eba" class="mediacenter" loading="lazy" title="Bracelet d'imprécation" alt="Bracelet d'imprécation" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row107">
+		<td class="col0">SH</td><td class="col1"><span style="color:#ed1c24; ">Bracelet</span></td><td class="col2"><span style="color:darkred; "><strong>Bracelets de fer</strong></span></td><td class="col3">50</td><td class="col4">0</td><td class="col5">50</td><td class="col6">0</td><td class="col7">0</td><td class="col8">5</td><td class="col9">+5 dommages </td><td class="col10">Monstres d'instance SH NM</td><td class="col11"><a href="/wiki/_detail/objets/terre/553.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:553.png"><img src="/wiki/_media/objets/terre/553.png?w=60&amp;h=60&amp;tok=7e7eba" class="mediacenter" loading="lazy" title="Bracelets de fer" alt="Bracelets de fer" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row108">
+		<td class="col0">SH</td><td class="col1"><span style="color:#ed1c24; ">Bracelet</span></td><td class="col2"><span style="color:darkred; "><strong>Bracelets de volonté d'Airain</strong></span></td><td class="col3">200</td><td class="col4">60</td><td class="col5">0</td><td class="col6">0</td><td class="col7">0</td><td class="col8">5</td><td class="col9">+10 dommages <br>
++2 toutes résistances <br>
++5 force </td><td class="col10">Amélioration Bracelets de fer (Instance SH NM)</td><td class="col11"><a href="/wiki/_detail/objets/terre/553.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:553.png"><img src="/wiki/_media/objets/terre/553.png?w=60&amp;h=60&amp;tok=7e7eba" class="mediacenter" loading="lazy" title="Bracelets de volonté d'Airain" alt="Bracelets de volonté d'Airain" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row109">
+		<td class="col0">SH</td><td class="col1"><span style="color:#ed1c24; ">Bracelet</span></td><td class="col2"><span style="color:darkred; "><strong>Bracelets d'Opales</strong></span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">240</td><td class="col6">60</td><td class="col7">60</td><td class="col8">5</td><td class="col9"> +2 toutes puissances <br>
++5 dextérité <br>
++5 intelligence <br>
++5 sagesse</td><td class="col10">Amélioration Bracelets de fer (Instance SH NM)</td><td class="col11"><a href="/wiki/_detail/objets/terre/553.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:553.png"><img src="/wiki/_media/objets/terre/553.png?w=60&amp;h=60&amp;tok=7e7eba" class="mediacenter" loading="lazy" title="Bracelets d'Opales" alt="Bracelets d'Opales" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row110">
+		<td class="col0">SH</td><td class="col1"><span style="color:#ed1c24; ">Bracelet</span></td><td class="col2"><span style="color:darkred; "><strong>Bracelet d'agilité arcanique</strong></span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">300</td><td class="col6">225</td><td class="col7">0</td><td class="col8">10</td><td class="col9">+5 puissance feu <br>
++5 puissance eau <br>
++5 puissance nécromancie <br>
++10 dextérité <br>
++10 intelligence<br>
++10 coup puissant</td><td class="col10">Amélioration Bracelet d'agilité (Instance SH HM)</td><td class="col11"><a href="/wiki/_detail/objets/terre/557.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:557.png"><img src="/wiki/_media/objets/terre/557.png?w=60&amp;h=60&amp;tok=822afd" class="mediacenter" loading="lazy" title="Bracelet d'agilité" alt="Bracelet d'agilité" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row111">
+		<td class="col0">SH</td><td class="col1"><span style="color:#ed1c24; ">Bracelet</span></td><td class="col2"><span style="color:darkred; "><strong>Bracelet d'agilité scintillant</strong></span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">300</td><td class="col6">0</td><td class="col7">225</td><td class="col8">10</td><td class="col9">+5 puissance terre <br>
++5 puissance lumière <br>
++10 dextérité <br>
++10 Sagesse <br>
++30 coup assommant</td><td class="col10">Amélioration Bracelet d'agilité (Instance SH HM)</td><td class="col11"><a href="/wiki/_detail/objets/terre/557.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:557.png"><img src="/wiki/_media/objets/terre/557.png?w=60&amp;h=60&amp;tok=822afd" class="mediacenter" loading="lazy" title="Bracelet d'agilité" alt="Bracelet d'agilité" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row112">
+		<td class="col0">SH</td><td class="col1"><span style="color:#ed1c24; ">Bracelet</span></td><td class="col2"><span style="color:darkred; "><strong>Bracelet d'agilité zéphyrien</strong></span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">300</td><td class="col6">135</td><td class="col7">135</td><td class="col8">5</td><td class="col9">+5 puissance air <br>
++10 dextérité <br>
++5 intelligence <br>
++5 sagesse <br>
++40 transpercer l'armure</td><td class="col10">Amélioration Bracelet d'agilité (Instance SH HM)</td><td class="col11"><a href="/wiki/_detail/objets/terre/557.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:557.png"><img src="/wiki/_media/objets/terre/557.png?w=60&amp;h=60&amp;tok=822afd" class="mediacenter" loading="lazy" title="Bracelet d'agilité" alt="Bracelet d'agilité" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row113">
+		<td class="col0">GH</td><td class="col1"><span style="color:#ed1c24; ">Bracelet</span></td><td class="col2"><span style="color:darkred; "><strong>Bracelet des enfers</strong></span></td><td class="col3">150</td><td class="col4">50</td><td class="col5">300</td><td class="col6">0</td><td class="col7">0</td><td class="col8">5.0</td><td class="col9"> +5 force <br>
++10 dextérité <br>
++50 archerie <br>
++8 coup puissant</td><td class="col10">Démon des limbes (Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/553.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:553.png"><img src="/wiki/_media/objets/terre/553.png?w=60&amp;h=60&amp;tok=7e7eba" class="mediacenter" loading="lazy" title="Bracelet des enfers" alt="Bracelet des enfers" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row114">
+		<td class="col0">GH</td><td class="col1"><span style="color:#ed1c24; ">Bracelet</span></td><td class="col2"><span style="color:darkred; "><strong>Bracelet des enfers parfait</strong></span></td><td class="col3">150</td><td class="col4">50</td><td class="col5">300</td><td class="col6">0</td><td class="col7">0</td><td class="col8">10.0</td><td class="col9">+10 force <br>
++20 dextérité <br>
++100 archerie <br>
++15 coup puissant</td><td class="col10">Amélioration Bracelet des enfers (Instance RD HM)</td><td class="col11"><a href="/wiki/_detail/objets/terre/553.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:553.png"><img src="/wiki/_media/objets/terre/553.png?w=60&amp;h=60&amp;tok=7e7eba" class="mediacenter" loading="lazy" title="Bracelet des enfers parfait" alt="Bracelet des enfers parfait" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row115">
+		<td class="col0">GH</td><td class="col1"><span style="color:#ed1c24; ">Bracelet</span></td><td class="col2"><span style="color:darkred; "><strong>Bracelet d'Amélioration éthérée</strong></span></td><td class="col3">200</td><td class="col4">125</td><td class="col5">0</td><td class="col6">0</td><td class="col7">0</td><td class="col8">15.0</td><td class="col9">+10 force <br>
++10 endurance <br>
++40 transpercer armure <br>
++5 coup puissant  <br>
++15 résistance feu <br>
++31 résistance terre <br>
+-15 résistance air</td><td class="col10">Quête des objets magiques de la Tour de la Main Gantée</td><td class="col11"><a href="/wiki/_detail/objets/terre/557.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:557.png"><img src="/wiki/_media/objets/terre/557.png?w=60&amp;h=60&amp;tok=822afd" class="mediacenter" loading="lazy" title="Bracelet d'Amélioration éthéré" alt="Bracelet d'Amélioration éthéré" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row116">
+		<td class="col0">GH</td><td class="col1"><span style="color:#ed1c24; ">Bracelet</span></td><td class="col2"><span style="color:darkred; "><strong>Précieux d'Anrak</strong></span></td><td class="col3">125</td><td class="col4">0</td><td class="col5">300</td><td class="col6">40</td><td class="col7">40</td><td class="col8">5.0</td><td class="col9">+30 dextérité <br>
++30 attaque <br>
++30 archerie <br>
++5 coup puissant <br>
++40 transpercer l'armure</td><td class="col10">Lieutenant mercenaire (Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/557.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:557.png"><img src="/wiki/_media/objets/terre/557.png?w=60&amp;h=60&amp;tok=822afd" class="mediacenter" loading="lazy" title="Précieux d'Anrak" alt="Précieux d'Anrak" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row117">
+		<td class="col0">GH</td><td class="col1"><span style="color:#ed1c24; ">Bracelet</span></td><td class="col2"><span style="color:darkred; "><strong>Racine de Grim Hawk</strong></span></td><td class="col3">140</td><td class="col4">0</td><td class="col5">0</td><td class="col6">60</td><td class="col7">60</td><td class="col8">0.0</td><td class="col9"><em class="u">Nécessite 200 attaque</em> <br>
+<br>
++10 dommages <br>
++40 transpercer l'armure <br>
++5 coup puissant <br>
+<br>
+Lorsque le porteur est attaqué, le bracelet lance des enchevêtrements durant 5 secondes</td><td class="col10">Coffre Ebon Hold (Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/553.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:553.png"><img src="/wiki/_media/objets/terre/553.png?w=60&amp;h=60&amp;tok=7e7eba" class="mediacenter" loading="lazy" title="Racine de Grim Hawk" alt="Racine de Grim Hawk" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row118">
+		<td class="col0">GH</td><td class="col1"><span style="color:#ed1c24; ">Bracelet</span></td><td class="col2"><span style="color:darkred; "><strong>Bracelet des cultistes</strong></span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">80</td><td class="col7">65</td><td class="col8">2.0</td><td class="col9">+1 toutes puissances <br>
++15 intelligence <br>
++15 sagesse <br>
+<br>
+<strong>Gemme des cultistes</strong>: Encombrement: 1 <br>
+<br>
+Une fois les gemmes mises en macro et activées (ou par double clic dans le sac), confère, pour une durée de 2 minutes: +1 à toutes les puissances magiques par gemme dans l'inventaire (avec un maximum de 20 gemmes prises en compte pour un total de +20 à toutes les puissances magiques). <br>
+<br>
+Consomme une gemme par activation. Le bracelet des cultistes doit être équipé.</td><td class="col10">Coffres des Égouts de Spellshore (Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/558.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:558.png"><img src="/wiki/_media/objets/terre/558.png?w=60&amp;h=60&amp;tok=c745bf" class="mediacenter" loading="lazy" title="Bracelet des cultistes" alt="Bracelet des cultistes" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row119">
+		<td class="col0">GH</td><td class="col1"><span style="color:#ed1c24; ">Bracelet</span></td><td class="col2"><span style="color:darkred; "><strong>Bracelet d'agilité</strong></span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">300</td><td class="col6">60</td><td class="col7">60</td><td class="col8">10.0</td><td class="col9">+2 toutes puissances <br>
++7 dextérité <br>
++7 sagesse <br>
++7 intelligence</td><td class="col10">Déserteur putréfié (Grim Hawk)</td><td class="col11"><a href="/wiki/_detail/objets/terre/557.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:557.png"><img src="/wiki/_media/objets/terre/557.png?w=60&amp;h=60&amp;tok=822afd" class="mediacenter" loading="lazy" title="Bracelet d'agilité" alt="Bracelet d'agilité" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row120">
+		<td class="col0">DS</td><td class="col1"><span style="color:#ed1c24; ">Bracelet</span></td><td class="col2"><span style="color:darkred; "><strong>Brassards de huscarl</strong></span></td><td class="col3">100</td><td class="col4">75</td><td class="col5">50</td><td class="col6">0</td><td class="col7">0</td><td class="col8">10.0</td><td class="col9">+10 force <br>
++5 résistance air <br>
++5 résistance terre <br>
++5 résistance feu <br>
++5 résistance eau</td><td class="col10">Drakefeu (Volcan, Zone Épique)</td><td class="col11"><a href="/wiki/_detail/objets/terre/558.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:558.png"><img src="/wiki/_media/objets/terre/558.png?w=60&amp;h=60&amp;tok=c745bf" class="mediacenter" loading="lazy" title="Brassards de huscarl" alt="Brassards de huscarl" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row121">
+		<td class="col0">DS</td><td class="col1"><span style="color:#ed1c24; ">Bracelet</span></td><td class="col2"><span style="color:darkred; "><strong>Brassards de huscarl sanguins</strong></span></td><td class="col3">230</td><td class="col4">230</td><td class="col5">50</td><td class="col6">0</td><td class="col7">0</td><td class="col8">20.0</td><td class="col9">+20 endurance <br>
+-15 résistance terre <br>
++31 résistance feu <br>
++15 résistance eau <br>
++15 coup puissant</td><td class="col10">L'Arcaniste (Draconis Sanctum) <br>
+<br>
+Prix : <br>
+Brassards de huscarl <br>
+4 000 000 pièces d'or <br>
+35 larmes de dragon <br>
+4 potion de focalisation</td><td class="col11"><a href="/wiki/_detail/objets/terre/558.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:558.png"><img src="/wiki/_media/objets/terre/558.png?w=60&amp;h=60&amp;tok=c745bf" class="mediacenter" loading="lazy" title="Brassards de huscarl sanguins" alt="Brassards de huscarl sanguins" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row122">
+		<td class="col0">DS</td><td class="col1"><span style="color:#ed1c24; ">Bracelet</span></td><td class="col2"><span style="color:darkred; "><strong>Brassards de huscarl acqueux</strong></span></td><td class="col3">450</td><td class="col4">50</td><td class="col5">50</td><td class="col6">0</td><td class="col7">0</td><td class="col8">15.0</td><td class="col9">+20 force <br>
++15 résistance air <br>
+-15 résistance feu <br>
++31 résistance eau <br>
++250 attaque</td><td class="col10">L'Arcaniste (Draconis Sanctum) <br>
+<br>
+Prix : <br>
+Brassards de huscarl <br>
+4 000 000 pièces d'or <br>
+35 larmes de dragon <br>
+4 potion de focalisation</td><td class="col11"><a href="/wiki/_detail/objets/terre/558.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:558.png"><img src="/wiki/_media/objets/terre/558.png?w=60&amp;h=60&amp;tok=c745bf" class="mediacenter" loading="lazy" title="Brassards de huscarl acqueux" alt="Brassards de huscarl acqueux" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row123">
+		<td class="col0">DS</td><td class="col1"><span style="color:#ed1c24; ">Bracelet</span></td><td class="col2"><span style="color:darkred; "><strong>Brassards de huscarl vaporeux</strong></span></td><td class="col3">125</td><td class="col4">75</td><td class="col5">110</td><td class="col6">80</td><td class="col7">80</td><td class="col8">15.0</td><td class="col9">+10 force <br>
++10 dextérité <br>
++31 résistance air <br>
++15 résistance terre <br>
+-15 résistance eau <br>
++40 coup assommant</td><td class="col10">L'Arcaniste (Draconis Sanctum) <br>
+<br>
+Prix : <br>
+Brassards de huscarl <br>
+4 000 000 pièces d'or <br>
+35 larmes de dragon <br>
+4 potion de focalisation</td><td class="col11"><a href="/wiki/_detail/objets/terre/558.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:558.png"><img src="/wiki/_media/objets/terre/558.png?w=60&amp;h=60&amp;tok=c745bf" class="mediacenter" loading="lazy" title="Brassards de huscarl vaporeux" alt="Brassards de huscarl vaporeux" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row124">
+		<td class="col0">DS</td><td class="col1"><span style="color:#ed1c24; ">Bracelet</span></td><td class="col2"><span style="color:darkred; "><strong>Bracelet terrestre</strong></span></td><td class="col3">98</td><td class="col4">0</td><td class="col5">0</td><td class="col6">0</td><td class="col7">74</td><td class="col8">3.0</td><td class="col9">+5 puissance terre <br>
++15 force <br>
+-10 puissance nécromancie</td><td class="col10">Tafrara (Instance Blackgold)</td><td class="col11"><a href="/wiki/_detail/objets/terre/553.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:553.png"><img src="/wiki/_media/objets/terre/553.png?w=60&amp;h=60&amp;tok=7e7eba" class="mediacenter" loading="lazy" title="Bracelet terrestre" alt="Bracelet terrestre" width="60" height="60"></a></td>
+	</tr>
+	<tr class="row125">
+		<td class="col0">AR</td><td class="col1"><span style="color:#00a2e8; ">Orbe</span></td><td class="col2"><span style="color:darkred; "><strong>Orbe de protection</strong></span></td><td class="col3">0</td><td class="col4">35</td><td class="col5">0</td><td class="col6">0</td><td class="col7">0</td><td class="col8">4.0</td><td class="col9">+4 CA</td><td class="col10">Monstres d'instance AR NM</td><td class="col11"><a href="/wiki/_detail/objets/terre/1099.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:1099.png"><img src="/wiki/_media/objets/terre/1099.png?w=40&amp;h=40&amp;tok=510f06" class="mediacenter" loading="lazy" alt="" width="40" height="40"></a></td>
+	</tr>
+	<tr class="row126">
+		<td class="col0">AR</td><td class="col1"><span style="color:#00a2e8; ">Orbe</span></td><td class="col2"><span style="color:darkred; "><strong>Orbe magique</strong></span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">40</td><td class="col7">40</td><td class="col8">0.0</td><td class="col9">+2 toutes puissances </td><td class="col10">Monstres d'instance AR NM</td><td class="col11"><a href="/wiki/_detail/objets/terre/1103.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:1103.png"><img src="/wiki/_media/objets/terre/1103.png?w=40&amp;h=40&amp;tok=1c1828" class="mediacenter" loading="lazy" alt="" width="40" height="40"></a></td>
+	</tr>
+	<tr class="row127">
+		<td class="col0">AR</td><td class="col1"><span style="color:#00a2e8; ">Orbe</span></td><td class="col2"><span style="color:darkred; "><strong>Orbe de dernier rempart</strong></span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">114</td><td class="col7">0</td><td class="col8">0.0</td><td class="col9">+10 toutes résistances</td><td class="col10">Peredhil (Anwynn -3)</td><td class="col11"><a href="/wiki/_detail/objets/terre/1102.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:1102.png"><img src="/wiki/_media/objets/terre/1102.png?w=40&amp;h=40&amp;tok=8dcd72" class="mediacenter" loading="lazy" alt="" width="40" height="40"></a></td>
+	</tr>
+	<tr class="row128">
+		<td class="col0">AR</td><td class="col1"><span style="color:#00a2e8; ">Orbe</span></td><td class="col2"><span style="color:darkred; "><strong>Orbe de dernier rempart améliorée</strong></span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">114</td><td class="col7">0</td><td class="col8">0.0</td><td class="col9">+15 toutes résistances</td><td class="col10">Upgrade Orbe de dernier rempart Instance Arakas</td><td class="col11"><a href="/wiki/_detail/objets/terre/1102.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:1102.png"><img src="/wiki/_media/objets/terre/1102.png?w=40&amp;h=40&amp;tok=8dcd72" class="mediacenter" loading="lazy" alt="" width="40" height="40"></a></td>
+	</tr>
+	<tr class="row129">
+		<td class="col0">AR</td><td class="col1"><span style="color:#00a2e8; ">Orbe</span></td><td class="col2"><span style="color:darkred; "><strong>Orbe de dextérité</strong></span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">200</td><td class="col6">0</td><td class="col7">0</td><td class="col8">0.0</td><td class="col9">+40 dextérité</td><td class="col10">Cerveaux tentaculaires (Anwynn -3)</td><td class="col11"><a href="/wiki/_detail/objets/terre/1102.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:1102.png"><img src="/wiki/_media/objets/terre/1102.png?w=40&amp;h=40&amp;tok=8dcd72" class="mediacenter" loading="lazy" alt="" width="40" height="40"></a></td>
+	</tr>
+	<tr class="row130">
+		<td class="col0">AR</td><td class="col1"><span style="color:#00a2e8; ">Orbe</span></td><td class="col2"><span style="color:darkred; "><strong>Orbe d'infusion arcanique</strong></span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">76</td><td class="col7">60</td><td class="col8">0.0</td><td class="col9">+5 toutes puissances</td><td class="col10">Peredhil (Anwynn -3)</td><td class="col11"><a href="/wiki/_detail/objets/terre/1098.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:1098.png"><img src="/wiki/_media/objets/terre/1098.png?w=40&amp;h=40&amp;tok=001cb3" class="mediacenter" loading="lazy" alt="" width="40" height="40"></a></td>
+	</tr>
+	<tr class="row131">
+		<td class="col0">AR</td><td class="col1"><span style="color:#00a2e8; ">Orbe</span></td><td class="col2"><span style="color:darkred; "><strong>Orbe de force</strong></span></td><td class="col3">200</td><td class="col4">0</td><td class="col5">0</td><td class="col6">0</td><td class="col7">0</td><td class="col8">0.0</td><td class="col9">+40 force</td><td class="col10">Cerveaux tentaculaires (Anwynn -3)</td><td class="col11"><a href="/wiki/_detail/objets/terre/1099.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:1099.png"><img src="/wiki/_media/objets/terre/1099.png?w=40&amp;h=40&amp;tok=510f06" class="mediacenter" loading="lazy" alt="" width="40" height="40"></a></td>
+	</tr>
+	<tr class="row132">
+		<td class="col0">AR</td><td class="col1"><span style="color:#00a2e8; ">Orbe</span></td><td class="col2"><span style="color:darkred; "><strong>Orbe de rage infinie</strong></span></td><td class="col3">200</td><td class="col4">0</td><td class="col5">0</td><td class="col6">0</td><td class="col7">0</td><td class="col8">0.0</td><td class="col9">+250 attaque</td><td class="col10">Peredhil (Anwynn -3)</td><td class="col11"><a href="/wiki/_detail/objets/terre/1101.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:1101.png"><img src="/wiki/_media/objets/terre/1101.png?w=40&amp;h=40&amp;tok=0075ac" class="mediacenter" loading="lazy" alt="" width="40" height="40"></a></td>
+	</tr>
+	<tr class="row133">
+		<td class="col0">AR</td><td class="col1"><span style="color:#00a2e8; ">Orbe</span></td><td class="col2"><span style="color:darkred; "><strong>Orbe du sombre rôdeur</strong></span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">200</td><td class="col6">0</td><td class="col7">0</td><td class="col8">0.0</td><td class="col9">+250 archerie</td><td class="col10">Peredhil (Anwynn -3)</td><td class="col11"><a href="/wiki/_detail/objets/terre/1103.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:1103.png"><img src="/wiki/_media/objets/terre/1103.png?w=40&amp;h=40&amp;tok=1c1828" class="mediacenter" loading="lazy" alt="" width="40" height="40"></a></td>
+	</tr>
+	<tr class="row134">
+		<td class="col0">RD</td><td class="col1"><span style="color:#00a2e8; ">Orbe</span></td><td class="col2"><span style="color:darkred; "><strong>Orbe d'estoc</strong></span></td><td class="col3">150</td><td class="col4">0</td><td class="col5">100</td><td class="col6">0</td><td class="col7">0</td><td class="col8">0.0</td><td class="col9">+25 coup puissant</td><td class="col10">Monstres d'instance RD HM</td><td class="col11"><a href="/wiki/_detail/objets/terre/1098.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:1098.png"><img src="/wiki/_media/objets/terre/1098.png?w=40&amp;h=40&amp;tok=001cb3" class="mediacenter" loading="lazy" alt="" width="40" height="40"></a></td>
+	</tr>
+	<tr class="row135">
+		<td class="col0">RD</td><td class="col1"><span style="color:#00a2e8; ">Orbe</span></td><td class="col2"><span style="color:darkred; "><strong>Soif de victoire</strong></span></td><td class="col3">85</td><td class="col4">0</td><td class="col5">0</td><td class="col6">0</td><td class="col7">0</td><td class="col8">0.0</td><td class="col9"><strong>Nécessite 100 attaque</strong> <br>
++15 guérison rapide <br>
+Donne un buff de régénération de points de vie.</td><td class="col10">Monstres d'instance RD NM</td><td class="col11"><a href="/wiki/_detail/objets/terre/1101.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:1101.png"><img src="/wiki/_media/objets/terre/1101.png?w=40&amp;h=40&amp;tok=0075ac" class="mediacenter" loading="lazy" alt="" width="40" height="40"></a></td>
+	</tr>
+	<tr class="row136">
+		<td class="col0">RD</td><td class="col1"><span style="color:#00a2e8; ">Orbe</span></td><td class="col2"><span style="color:darkred; "><strong>Soif de victoire améliorée</strong></span></td><td class="col3">110</td><td class="col4">0</td><td class="col5">0</td><td class="col6">0</td><td class="col7">0</td><td class="col8">0.0</td><td class="col9"><strong>Nécessite 100 attaque</strong> <br>
++15 guérison rapide <br>
+Donne un buff de régénération de points de vie (amélioré).</td><td class="col10">5 bons instance RD HM</td><td class="col11"><a href="/wiki/_detail/objets/terre/1101.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:1101.png"><img src="/wiki/_media/objets/terre/1101.png?w=40&amp;h=40&amp;tok=0075ac" class="mediacenter" loading="lazy" alt="" width="40" height="40"></a></td>
+	</tr>
+	<tr class="row137">
+		<td class="col0">SH</td><td class="col1"><span style="color:#00a2e8; ">Orbe</span></td><td class="col2"><span style="color:darkred; "><strong>Kaléidoscope enchanté</strong></span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">0</td><td class="col7">0</td><td class="col8">0</td><td class="col9">Réunion de gemmes de soutien :<br>
+Vent ardent + étincelle ardente + givre ardent + fétiche de vitalité<br>
+<br>
+Mêmes bonus que les Ardents (entre +2 et +15 à chaque résistance et entre +20 et +150 points de vie).<br>
+Le jet aléatoire se fait au lancement de la gemme.<br>
+<br>
+Le PNJ prendra vos gemmes et vous donnera un <em>Kaléidoscope enchanté</em> (poids de 5)<br>
+<br>
+Durée : 2m30s <br>
+Cooldown : 5m00s<br>
+</td><td class="col10">Instance de Stoneheim <br>
+5 points d'instance SH HM <br>
+Attention : ce n'est pas une orbe</td><td class="col11"><a href="/wiki/_detail/objets/terre/1103.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:1103.png"><img src="/wiki/_media/objets/terre/1103.png?w=40&amp;h=40&amp;tok=1c1828" class="mediacenter" loading="lazy" alt="" width="40" height="40"></a></td>
+	</tr>
+	<tr class="row138">
+		<td class="col0">SH</td><td class="col1"><span style="color:#00a2e8; ">Orbe</span></td><td class="col2"><span style="color:darkred; "><strong>Coeur de l'intellect</strong></span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">550</td><td class="col7">0</td><td class="col8">0.0</td><td class="col9">+10 puissance feu <br>
++10 puissance eau <br>
+-5 résistance feu <br>
+-5 résistance eau</td><td class="col10">Monstres d'instance SH HM</td><td class="col11"><a href="/wiki/_detail/objets/terre/1100.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:1100.png"><img src="/wiki/_media/objets/terre/1100.png?w=40&amp;h=40&amp;tok=d4703c" class="mediacenter" loading="lazy" alt="" width="40" height="40"></a></td>
+	</tr>
+	<tr class="row139">
+		<td class="col0">SH</td><td class="col1"><span style="color:#00a2e8; ">Orbe</span></td><td class="col2"><span style="color:darkred; "><strong>Orbe du lien funèbre</strong></span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">550</td><td class="col7">0</td><td class="col8">0.0</td><td class="col9">+10 puissance nécromancie <br>
+-5 résistance nécromancie</td><td class="col10">Monstres d'instance SH HM</td><td class="col11"><a href="/wiki/_detail/objets/terre/1098.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:1098.png"><img src="/wiki/_media/objets/terre/1098.png?w=40&amp;h=40&amp;tok=001cb3" class="mediacenter" loading="lazy" alt="" width="40" height="40"></a></td>
+	</tr>
+	<tr class="row140">
+		<td class="col0">SH</td><td class="col1"><span style="color:#00a2e8; ">Orbe</span></td><td class="col2"><span style="color:darkred; "><strong>Orbe de salutation</strong></span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">0</td><td class="col7">550</td><td class="col8">0.0</td><td class="col9">+10 puissance terre <br>
++10 puissance lumière <br>
+-5 résistance nécromancie <br>
+-5 résistance terre</td><td class="col10">Monstres d'instance SH HM</td><td class="col11"><a href="/wiki/_detail/objets/terre/1108.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:1108.png"><img src="/wiki/_media/objets/terre/1108.png?w=40&amp;h=40&amp;tok=7b674a" class="mediacenter" loading="lazy" alt="" width="40" height="40"></a></td>
+	</tr>
+	<tr class="row141">
+		<td class="col0">SH</td><td class="col1"><span style="color:#00a2e8; ">Orbe</span></td><td class="col2"><span style="color:darkred; "><strong>Oeil de Thor</strong></span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">200</td><td class="col7">250</td><td class="col8">0.0</td><td class="col9">+10 puissance air <br>
+-5 résistance air</td><td class="col10">Monstres d'instance SH HM</td><td class="col11"><a href="/wiki/_detail/objets/terre/1103.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:1103.png"><img src="/wiki/_media/objets/terre/1103.png?w=40&amp;h=40&amp;tok=1c1828" class="mediacenter" loading="lazy" alt="" width="40" height="40"></a></td>
+	</tr>
+	<tr class="row142">
+		<td class="col0">SH</td><td class="col1"><span style="color:#00a2e8; ">Orbe</span></td><td class="col2"><span style="color:darkred; "><strong>Orbe en coeur de démon</strong></span></td><td class="col3">0</td><td class="col4">300</td><td class="col5">0</td><td class="col6">0</td><td class="col7">0</td><td class="col8">15.0</td><td class="col9">+15 guérison rapide</td><td class="col10">Monstres d'instance SH HM</td><td class="col11"><a href="/wiki/_detail/objets/terre/1106.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:1106.png"><img src="/wiki/_media/objets/terre/1106.png?w=40&amp;h=40&amp;tok=b81a23" class="mediacenter" loading="lazy" alt="" width="40" height="40"></a></td>
+	</tr>
+	<tr class="row143">
+		<td class="col0">SH</td><td class="col1"><span style="color:#00a2e8; ">Orbe</span></td><td class="col2"><span style="color:darkred; "><strong>Orbe en coeur de démon parfait</strong></span></td><td class="col3">0</td><td class="col4">300</td><td class="col5">0</td><td class="col6">0</td><td class="col7">0</td><td class="col8">15.0</td><td class="col9">+15 guérison rapide <br>
++5 toutes résistances <br>
+Quand le joueur est attaqué : Elle vous rendra désormais 5% de vos points de vie totaux au moment du déclenchement, puis 1% toutes les secondes ensuite.</td><td class="col10">Amélioration Orbe en coeur de démon SH HM (5 crédits)</td><td class="col11"><a href="/wiki/_detail/objets/terre/1106.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:1106.png"><img src="/wiki/_media/objets/terre/1106.png?w=40&amp;h=40&amp;tok=b81a23" class="mediacenter" loading="lazy" alt="" width="40" height="40"></a></td>
+	</tr>
+	<tr class="row144">
+		<td class="col0">SH</td><td class="col1"><span style="color:#00a2e8; ">Orbe</span></td><td class="col2"><span style="color:darkred; "><strong>Orbe radieuse</strong></span></td><td class="col3">200</td><td class="col4">0</td><td class="col5">0</td><td class="col6">0</td><td class="col7">250</td><td class="col8">0.0</td><td class="col9">+10 coup puissant <br>
++5 puissance lumière</td><td class="col10">Monstres d'instance SH HM</td><td class="col11"><a href="/wiki/_detail/objets/terre/1101.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:1101.png"><img src="/wiki/_media/objets/terre/1101.png?w=40&amp;h=40&amp;tok=0075ac" class="mediacenter" loading="lazy" alt="" width="40" height="40"></a></td>
+	</tr>
+	<tr class="row145">
+		<td class="col0">SH</td><td class="col1"><span style="color:#00a2e8; ">Orbe</span></td><td class="col2"><span style="color:darkred; "><strong>Orbe radieuse parfaite</strong></span></td><td class="col3">200</td><td class="col4">0</td><td class="col5">0</td><td class="col6">0</td><td class="col7">250</td><td class="col8">0.0</td><td class="col9">+10 coup puissant <br>
++5 puissance lumière <br>
+<br>
+Cet orbe à 20% de chance de vous soigner quand vous attaquez une cible. <br>
+Le sort dépend de votre sagesse et de votre puissance lumière. <br>
+Le sort est de niveau 50 (skin Guérison niveau 55).</td><td class="col10">Amélioration Orbe radieuse SH HM (5 crédits)</td><td class="col11"><a href="/wiki/_detail/objets/terre/1101.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:1101.png"><img src="/wiki/_media/objets/terre/1101.png?w=40&amp;h=40&amp;tok=0075ac" class="mediacenter" loading="lazy" alt="" width="40" height="40"></a></td>
+	</tr>
+	<tr class="row146">
+		<td class="col0">SH</td><td class="col1"><span style="color:#00a2e8; ">Orbe</span></td><td class="col2"><span style="color:darkred; "><strong>Orbe corruptrice</strong></span></td><td class="col3">200</td><td class="col4">0</td><td class="col5">0</td><td class="col6">250</td><td class="col7">0</td><td class="col8">0.0</td><td class="col9">+10 coup puissant <br>
++5 puissance nécromancie</td><td class="col10">Monstres d'instance SH HM</td><td class="col11"><a href="/wiki/_detail/objets/terre/1106.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:1106.png"><img src="/wiki/_media/objets/terre/1106.png?w=40&amp;h=40&amp;tok=b81a23" class="mediacenter" loading="lazy" alt="" width="40" height="40"></a></td>
+	</tr>
+	<tr class="row147">
+		<td class="col0">SH</td><td class="col1"><span style="color:#00a2e8; ">Orbe</span></td><td class="col2"><span style="color:darkred; "><strong>Orbe corruptrice parfaite</strong></span></td><td class="col3">200</td><td class="col4">0</td><td class="col5">0</td><td class="col6">250</td><td class="col7">0</td><td class="col8">0.0</td><td class="col9">+10 coup puissant <br>
++5 puissance nécromancie <br>
+<br>
+Cet orbe absorbe la vie de votre cible à 20% de chance en attaquant. <br>
+Le sort dépend de votre intelligence et de votre puissance à la nécromancie. <br>
+Le sort est de niveau 50.</td><td class="col10">Amélioration Orbe corruptrice SH HM (5 crédits)</td><td class="col11"><a href="/wiki/_detail/objets/terre/1106.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:1106.png"><img src="/wiki/_media/objets/terre/1106.png?w=40&amp;h=40&amp;tok=b81a23" class="mediacenter" loading="lazy" alt="" width="40" height="40"></a></td>
+	</tr>
+	<tr class="row148">
+		<td class="col0">GH</td><td class="col1"><span style="color:#00a2e8; ">Orbe</span></td><td class="col2"><span style="color:darkred; "><strong>Orbe de chance</strong></span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">0</td><td class="col7">0</td><td class="col8">1.0</td><td class="col9">+10 chance <br>
+-20 esquive</td><td class="col10">Coffre (Fjord des Hautes-Terres)</td><td class="col11"><a href="/wiki/_detail/objets/terre/1106.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:1106.png"><img src="/wiki/_media/objets/terre/1106.png?w=40&amp;h=40&amp;tok=b81a23" class="mediacenter" loading="lazy" alt="" width="40" height="40"></a></td>
+	</tr>
+	<tr class="row149">
+		<td class="col0">GH</td><td class="col1"><span style="color:#00a2e8; ">Orbe</span></td><td class="col2"><span style="color:darkred; "><strong>Orbe de résistance physique</strong></span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">59</td><td class="col7">60</td><td class="col8">8.0</td><td class="col9">-5 esquive <br>
+-5 résistance terre</td><td class="col10">Paysan ressuscité (GH)</td><td class="col11"><a href="/wiki/_detail/objets/terre/1099.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:1099.png"><img src="/wiki/_media/objets/terre/1099.png?w=40&amp;h=40&amp;tok=510f06" class="mediacenter" loading="lazy" alt="" width="40" height="40"></a></td>
+	</tr>
+	<tr class="row150">
+		<td class="col0">GH</td><td class="col1"><span style="color:#00a2e8; ">Orbe</span></td><td class="col2"><span style="color:darkred; "><strong>Oeil caché</strong></span></td><td class="col3">350</td><td class="col4">0</td><td class="col5">0</td><td class="col6">0</td><td class="col7">0</td><td class="col8">1.0</td><td class="col9"> Si Humain : <br>
++15 dextérité <br>
++20 force <br>
++20 endurance <br>
+-1 intelligence <br>
+-1 sagesse <br>
+<br>
+Si Séraphin : <br>
++50 dextérité <br>
++50 force <br>
++50 endurance <br>
+-50 intelligence <br>
+-50 sagesse</td><td class="col10">Borborygme (Kobold marron, Fjord des Hautes-Terres)</td><td class="col11"><a href="/wiki/_detail/objets/terre/1102.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:1102.png"><img src="/wiki/_media/objets/terre/1102.png?w=40&amp;h=40&amp;tok=8dcd72" class="mediacenter" loading="lazy" alt="" width="40" height="40"></a></td>
+	</tr>
+	<tr class="row151">
+		<td class="col0">GH</td><td class="col1"><span style="color:#00a2e8; ">Orbe</span></td><td class="col2"><span style="color:darkred; "><strong>Orbe assommante</strong></span></td><td class="col3">250</td><td class="col4">0</td><td class="col5">0</td><td class="col6">0</td><td class="col7">0</td><td class="col8">1.0</td><td class="col9">+60 coup assommant</td><td class="col10">Général démoniaque</td><td class="col11"><a href="/wiki/_detail/objets/terre/1099.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:1099.png"><img src="/wiki/_media/objets/terre/1099.png?w=40&amp;h=40&amp;tok=510f06" class="mediacenter" loading="lazy" alt="" width="40" height="40"></a></td>
+	</tr>
+	<tr class="row152">
+		<td class="col0">GH</td><td class="col1"><span style="color:#00a2e8; ">Orbe</span></td><td class="col2"><span style="color:darkred; "><strong>Orbe de dommage</strong></span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">300</td><td class="col6">0</td><td class="col7">0</td><td class="col8">0.0</td><td class="col9">+15 dommage</td><td class="col10">Quête de l'ouvrage (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/1104.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:1104.png"><img src="/wiki/_media/objets/terre/1104.png?w=40&amp;h=40&amp;tok=731141" class="mediacenter" loading="lazy" alt="" width="40" height="40"></a></td>
+	</tr>
+	<tr class="row153">
+		<td class="col0">GH</td><td class="col1"><span style="color:#00a2e8; ">Orbe</span></td><td class="col2"><span style="color:darkred; "><strong>Orbe d'esquive</strong></span></td><td class="col3">30</td><td class="col4">40</td><td class="col5">0</td><td class="col6">55</td><td class="col7">55</td><td class="col8">1.0</td><td class="col9">+250 esquive</td><td class="col10">Citrouille squelette (Ebon Hold)</td><td class="col11"><a href="/wiki/_detail/objets/terre/1100.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:1100.png"><img src="/wiki/_media/objets/terre/1100.png?w=40&amp;h=40&amp;tok=d4703c" class="mediacenter" loading="lazy" alt="" width="40" height="40"></a></td>
+	</tr>
+	<tr class="row154">
+		<td class="col0">GH</td><td class="col1"><span style="color:#00a2e8; ">Orbe</span></td><td class="col2"><span style="color:darkred; "><strong>Orbe de régénération de mana</strong></span></td><td class="col3">20</td><td class="col4">20</td><td class="col5">0</td><td class="col6">114</td><td class="col7">110</td><td class="col8">0.0</td><td class="col9">5% de chance de lancer un sort donnant +5% de mana quand vous vous faites toucher</td><td class="col10">Coffres (Ebon Hold)</td><td class="col11"><a href="/wiki/_detail/objets/terre/1108.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:1108.png"><img src="/wiki/_media/objets/terre/1108.png?w=40&amp;h=40&amp;tok=7b674a" class="mediacenter" loading="lazy" alt="" width="40" height="40"></a></td>
+	</tr>
+	<tr class="row155">
+		<td class="col0">GH</td><td class="col1"><span style="color:#00a2e8; ">Orbe</span></td><td class="col2"><span style="color:darkred; "><strong>Orbe du Bélier d'or de force</strong></span></td><td class="col3">250</td><td class="col4">250</td><td class="col5">0</td><td class="col6">0</td><td class="col7">0</td><td class="col8">0.0</td><td class="col9"><strong>Fonctionne si l'armure est complètement équipée :</strong> <br>
+Durée du bonus : 2 minutes <br>
+Bonus (s'active lorsque vous attaquez) : <br>
++50 force <br>
++50 dextérité <br>
++250 attaque <br>
++10 toutes résistances <br>
++20 coup puissant <br>
++15 chance <br>
++2.5% PV régénéré</td><td class="col10">Coffres (Ebon Hold)</td><td class="col11"><a href="/wiki/_detail/objets/terre/1101.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:1101.png"><img src="/wiki/_media/objets/terre/1101.png?w=40&amp;h=40&amp;tok=0075ac" class="mediacenter" loading="lazy" alt="" width="40" height="40"></a></td>
+	</tr>
+	<tr class="row156">
+		<td class="col0">GH</td><td class="col1"><span style="color:#00a2e8; ">Orbe</span></td><td class="col2"><span style="color:darkred; "><strong>Orbe du Bélier d'or de dextérité</strong></span></td><td class="col3">0</td><td class="col4">250</td><td class="col5">250</td><td class="col6">0</td><td class="col7">0</td><td class="col8">0.0</td><td class="col9"><strong>Fonctionne si l'armure est complètement équipée :</strong>  <br>
+Durée du bonus : 2 minutes <br>
+Bonus (s'active lorsque vous attaquez) : <br>
++50 force <br>
++50 dextérité <br>
++250 archerie <br>
++15 toutes résistances <br>
++20 coup puissant <br>
++15 chance <br>
++2.5% PV régénéré</td><td class="col10">Coffres (Ebon Hold)</td><td class="col11"><a href="/wiki/_detail/objets/terre/1101.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:1101.png"><img src="/wiki/_media/objets/terre/1101.png?w=40&amp;h=40&amp;tok=0075ac" class="mediacenter" loading="lazy" alt="" width="40" height="40"></a></td>
+	</tr>
+	<tr class="row157">
+		<td class="col0">GH</td><td class="col1"><span style="color:#00a2e8; ">Orbe</span></td><td class="col2"><span style="color:darkred; "><strong>Orbe du Bélier d'or de puissance</strong></span></td><td class="col3">0</td><td class="col4">250</td><td class="col5">0</td><td class="col6">174</td><td class="col7">0</td><td class="col8">0.0</td><td class="col9"><strong>Fonctionne lorsque sont équipés botte, gant, jambière, ceinture (heaume et plastron non requis) :</strong> <br>
+Durée du bonus : 2 minutes <br>
+Bonus (s'active lorsque vous attaquez) : <br>
++50 intelligence ou sagesse <br>
+(selon stat pur la + haute) <br>
++20 toutes puissances <br>
++10 chance <br>
++3% PM régénère</td><td class="col10">Coffres (Ebon Hold)</td><td class="col11"><a href="/wiki/_detail/objets/terre/1101.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:1101.png"><img src="/wiki/_media/objets/terre/1101.png?w=40&amp;h=40&amp;tok=0075ac" class="mediacenter" loading="lazy" alt="" width="40" height="40"></a></td>
+	</tr>
+	<tr class="row158">
+		<td class="col0">GH</td><td class="col1"><span style="color:#00a2e8; ">Orbe</span></td><td class="col2"><span style="color:darkred; "><strong>Orbe de salamandre</strong></span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">445</td><td class="col6">0</td><td class="col7">0</td><td class="col8">0.0</td><td class="col9">+40 esquive <br>
++75 archerie <br>
++5 dommage <br>
++10 coup puissant <br>
++20 coup assommant <br>
++5 toutes résistances si le porteur à 100 endurance ou plus</td><td class="col10">Coffre du Chambellan Carolus (Ebon Hold)</td><td class="col11"><a href="/wiki/_detail/objets/terre/1102.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:1102.png"><img src="/wiki/_media/objets/terre/1102.png?w=40&amp;h=40&amp;tok=8dcd72" class="mediacenter" loading="lazy" alt="" width="40" height="40"></a></td>
+	</tr>
+	<tr class="row159">
+		<td class="col0">GH</td><td class="col1"><span style="color:#00a2e8; ">Orbe</span></td><td class="col2"><span style="color:darkred; "><strong>Orbe de salamandre de précision</strong></span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">485</td><td class="col6">0</td><td class="col7">0</td><td class="col8">0.0</td><td class="col9">+20 dextérité <br>
++80 esquive <br>
++150 archerie <br>
++10 dommage <br>
++15 coup puissant <br>
++20 coup assommant <br>
++10 résistance terre <br>
++5 toutes résistances si le porteur à 100 endurance ou plus</td><td class="col10">Orbe de salamandre + 25 cachets de confiance chez Acha Windchaser (Spellshore)</td><td class="col11"><a href="/wiki/_detail/objets/terre/1102.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:1102.png"><img src="/wiki/_media/objets/terre/1102.png?w=40&amp;h=40&amp;tok=8dcd72" class="mediacenter" loading="lazy" alt="" width="40" height="40"></a></td>
+	</tr>
+	<tr class="row160">
+		<td class="col0">AR</td><td class="col1"><span style="color:#00a2e8; ">Orbe</span></td><td class="col2"><span style="color:darkred; "><strong>Un livre de chants de Noël</strong></span></td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">0</td><td class="col7">0</td><td class="col8">0.0</td><td class="col9">+10 chance</td><td class="col10">Île de mère Noël</td><td class="col11"><a href="/wiki/_detail/objets/terre/12.png?id=inventaire%3Abijoux_orbes" class="media" title="objets:terre:12.png"><img src="/wiki/_media/objets/terre/12.png?w=40&amp;h=40&amp;tok=927dca" class="mediacenter" loading="lazy" alt="" width="40" height="40"></a></td>
+	</tr>
+</tbody></table></div>

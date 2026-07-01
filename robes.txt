@@ -1,0 +1,583 @@
+<tr class="row10 odd" role="row">
+		<td class="col0 sorting_1">Cape de tromperie</td><td class="col1">0</td><td class="col2">16</td><td class="col3">0</td><td class="col4">78</td><td class="col5">15</td><td class="col6">6.0</td><td class="col7">Couleur: noire <br>
++10 puissance nécromancie <br>
++15 intelligence <br>
+-25 esquive</td><td class="col8">Jarko le nécromancien (Monts Righul, AR)</td><td class="col9"><a href="/wiki/_detail/objets/terre/278.png?id=objets%3Arobes" class="media" title="objets:terre:278.png"><img src="/wiki/_media/objets/terre/278.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row9 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Costume arcanique</strong></span></td><td class="col1">0</td><td class="col2">0</td><td class="col3">0</td><td class="col4">75</td><td class="col5">20</td><td class="col6">4.0</td><td class="col7">Couleur: noire <br>
++5 puissance nécromancie <br>
++20 intelligence <br>
+-10 esquive</td><td class="col8">Mage spectral (Arakas)</td><td class="col9"><a href="/wiki/_detail/objets/terre/278.png?id=objets%3Arobes" class="media" title="objets:terre:278.png"><img src="/wiki/_media/objets/terre/278.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row7 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Costume des marées</strong></span></td><td class="col1">0</td><td class="col2">0</td><td class="col3">0</td><td class="col4">65</td><td class="col5">20</td><td class="col6">4.0</td><td class="col7">Couleur: bleue foncée <br>
++5 puissance eau <br>
++15 intelligence <br>
+-10 esquive</td><td class="col8">Kraanian Nellas (Arakas)</td><td class="col9"><a href="/wiki/_detail/objets/terre/588.png?id=objets%3Arobes" class="media" title="objets:terre:588.png"><img src="/wiki/_media/objets/terre/588.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row8 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Manteau de la fournaise</strong></span></td><td class="col1">0</td><td class="col2">0</td><td class="col3">0</td><td class="col4">65</td><td class="col5">20</td><td class="col6">4.0</td><td class="col7">Couleur: noire <br>
++5 puissance feu <br>
++15 intelligence <br>
+-10 esquive</td><td class="col8">Thaumaturge Gobelin (Camp gobelin, AR)</td><td class="col9"><a href="/wiki/_detail/objets/terre/278.png?id=objets%3Arobes" class="media" title="objets:terre:278.png"><img src="/wiki/_media/objets/terre/278.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row6 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Manteau des vents</strong></span></td><td class="col1">0</td><td class="col2">0</td><td class="col3">0</td><td class="col4">55</td><td class="col5">55</td><td class="col6">4.0</td><td class="col7">Couleur: verte <br>
++5 puissance air <br>
++10 intelligence <br>
++10 sagesse <br>
+-10 esquive</td><td class="col8">Enchanteur Orc (Arakas)</td><td class="col9"><a href="/wiki/_detail/objets/terre/424.png?id=objets%3Arobes" class="media" title="objets:terre:424.png"><img src="/wiki/_media/objets/terre/424.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row3 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Manteau du soleil</strong></span></td><td class="col1">0</td><td class="col2">0</td><td class="col3">0</td><td class="col4">20</td><td class="col5">75</td><td class="col6">4.0</td><td class="col7">Couleur: blanche <br>
++5 puissance lumière <br>
++20 sagesse <br>
+-10 esquive</td><td class="col8">Enchanteur Orc (Arakas)</td><td class="col9"><a href="/wiki/_detail/objets/terre/425.png?id=objets%3Arobes" class="media" title="objets:terre:425.png"><img src="/wiki/_media/objets/terre/425.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row1 odd" role="row">
+		<td class="col0 sorting_1">Robe blanche brillante</td><td class="col1">0</td><td class="col2">12</td><td class="col3">0</td><td class="col4">20</td><td class="col5">35</td><td class="col6">2.0</td><td class="col7">Couleur: blanche <br>
++5 sagesse <br>
++5 force <br>
+-25 esquive</td><td class="col8">Pilleur de tombe (Arakas) <br>
+Infirmières psychotiques/Fous (L'Asile, AR)</td><td class="col9"><a href="/wiki/_detail/objets/terre/425.png?id=objets%3Arobes" class="media" title="objets:terre:425.png"><img src="/wiki/_media/objets/terre/425.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row2 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Robe de glaise ancestrale</strong></span></td><td class="col1">0</td><td class="col2">0</td><td class="col3">0</td><td class="col4">20</td><td class="col5">65</td><td class="col6">4.0</td><td class="col7">Couleur: verte <br>
++5 puissance terre <br>
++15 sagesse <br>
+-10 esquive</td><td class="col8">Kraanian Nellas (Arakas)</td><td class="col9"><a href="/wiki/_detail/objets/terre/424.png?id=objets%3Arobes" class="media" title="objets:terre:424.png"><img src="/wiki/_media/objets/terre/424.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row4 odd" role="row">
+		<td class="col0 sorting_1">Robe des bois</td><td class="col1">0</td><td class="col2">12</td><td class="col3">0</td><td class="col4">28</td><td class="col5">28</td><td class="col6">2.0</td><td class="col7">Couleur: verte <br>
++5 intelligence <br>
++5 sagesse <br>
+-25 esquive</td><td class="col8">Shamans orques (Arakas)</td><td class="col9"><a href="/wiki/_detail/objets/terre/587.png?id=objets%3Arobes" class="media" title="objets:terre:587.png"><img src="/wiki/_media/objets/terre/587.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row5 even" role="row">
+		<td class="col0 sorting_1">Robe noire flottante</td><td class="col1">0</td><td class="col2">12</td><td class="col3">0</td><td class="col4">40</td><td class="col5">15</td><td class="col6">2.0</td><td class="col7">Couleur: noire <br>
++10 intelligence <br>
+-25 esquive</td><td class="col8">Balork (Arakas)</td><td class="col9"><a href="/wiki/_detail/objets/terre/278.png?id=objets%3Arobes" class="media" title="objets:terre:278.png"><img src="/wiki/_media/objets/terre/278.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr></tbody></table></div></div><div class="dataTables_info" id="DataTables_Table_1_info" role="status" aria-live="polite">Showing 1 to 10 of 10 entries</div></div></div>
+</div>
+</div>
+
+<h2 class="sectionedit6" id="raven_s_dust">Raven's Dust</h2>
+	
+<tr class="row10 odd" role="row">
+		<td class="col0 sorting_1">Costume des morts</td><td class="col1">0</td><td class="col2">21</td><td class="col3">0</td><td class="col4">128</td><td class="col5">15</td><td class="col6">11.0</td><td class="col7">Couleur: noire <br>
++25 puissance nécromancie <br>
++20 intelligence <br>
+-25 esquive</td><td class="col8">Sorciers Squelettes (Crypte - Raven's Dust)</td><td class="col9"><a href="/wiki/_detail/objets/terre/278.png?id=objets%3Arobes" class="media" title="objets:terre:278.png"><img src="/wiki/_media/objets/terre/278.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row2 even" role="row">
+		<td class="col0 sorting_1">Habit de feuilles</td><td class="col1">0</td><td class="col2">20</td><td class="col3">0</td><td class="col4">15</td><td class="col5">115</td><td class="col6">10.0</td><td class="col7">Couleur: verte <br>
++40 sagesse <br>
+-25 esquive</td><td class="col8"><a href="/wiki/quetes/ravens_dust/autres/habit_de_feuilles" class="wikilink1" title="quetes:ravens_dust:autres:habit_de_feuilles" data-wiki-id="quetes:ravens_dust:autres:habit_de_feuilles">Quête de l'Habit de Feuilles</a> (Raven's Dust)</td><td class="col9"><a href="/wiki/_detail/objets/terre/424.png?id=objets%3Arobes" class="media" title="objets:terre:424.png"><img src="/wiki/_media/objets/terre/424.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row7 odd" role="row">
+		<td class="col0 sorting_1">Manteau de la pluie</td><td class="col1">0</td><td class="col2">20</td><td class="col3">0</td><td class="col4">100</td><td class="col5">20</td><td class="col6">10.0</td><td class="col7">Couleur: verte <br>
++1 puissance eau et résistance eau par goutte de pluie dans votre inventaire.<br>
+Bonus des gouttes plafonné à 25 et coûte une goutte à chaque activation. <br>
+Durée: 5 secondes + 5 secondes par gemme dans votre inventaire. <br>
+<br>
+-25 esquive</td><td class="col8">Araignée voleuse de vie (Forêt de non retour - Raven's Dust) <br>
+Coffres Forêt de non retour (Raven's Dust)</td><td class="col9"><a href="/wiki/_detail/objets/terre/424.png?id=objets%3Arobes" class="media" title="objets:terre:424.png"><img src="/wiki/_media/objets/terre/424.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row9 even" role="row">
+		<td class="col0 sorting_1">Manteau de prestidigitateur</td><td class="col1">0</td><td class="col2">20</td><td class="col3">0</td><td class="col4">110</td><td class="col5">20</td><td class="col6">10.0</td><td class="col7">Couleur: noire <br>
++10 puissance feu <br>
++10 puissance eau <br>
++20 intelligence <br>
+-25 esquive</td><td class="col8">Illusionnites (Raven's Dust)</td><td class="col9"><a href="/wiki/_detail/objets/terre/278.png?id=objets%3Arobes" class="media" title="objets:terre:278.png"><img src="/wiki/_media/objets/terre/278.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row8 odd" role="row">
+		<td class="col0 sorting_1">Manteau du crâne</td><td class="col1">0</td><td class="col2">30</td><td class="col3">0</td><td class="col4">100</td><td class="col5">50</td><td class="col6">30.0</td><td class="col7">Couleur: noire <br>
+-30 esquive</td><td class="col8">Mystiques (Forêt de non retour)</td><td class="col9"><a href="/wiki/_detail/objets/terre/278.png?id=objets%3Arobes" class="media" title="objets:terre:278.png"><img src="/wiki/_media/objets/terre/278.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row1 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Manteau du sagittaire</strong></span></td><td class="col1">0</td><td class="col2">0</td><td class="col3">0</td><td class="col4">0</td><td class="col5">0</td><td class="col6">6.0</td><td class="col7">Couleur: brune <br>
++30 archerie <br>
++5 résistance terre <br>
+-20 esquive <br>
+<br>
+<strong>+3% de chance d'activer en attaquant un sort augmentant la dextérité de 4% pendant 1 minute</strong></td><td class="col8"><a href="/wiki/quetes/ravens_dust/autres/manteau_du_sagittaire" class="wikilink1" title="quetes:ravens_dust:autres:manteau_du_sagittaire" data-wiki-id="quetes:ravens_dust:autres:manteau_du_sagittaire">Quête du Manteau du Sagittaire</a> (Raven's Dust)</td><td class="col9"><a href="/wiki/_detail/objets/terre/595.png?id=objets%3Arobes" class="media" title="objets:terre:595.png"><img src="/wiki/_media/objets/terre/595.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row6 odd" role="row">
+		<td class="col0 sorting_1">Robe de Drachen</td><td class="col1">0</td><td class="col2">25</td><td class="col3">0</td><td class="col4">98</td><td class="col5">73</td><td class="col6">15.0</td><td class="col7">Couleur: noire <br>
++10 toutes puissances <br>
++1 toute puissances par gemme des étoiles dans votre inventaire <br>
++5 méditation par gemme des étoiles dans votre inventaire <br>
+Durée: 5 secondes + 5 secondes par gemme dans votre inventaire. <br>
+Effet des gemmes cap à 25.</td><td class="col8">Araignée voleuse de vie (Forêt de non retour)</td><td class="col9"><a href="/wiki/_detail/objets/terre/278.png?id=objets%3Arobes" class="media" title="objets:terre:278.png"><img src="/wiki/_media/objets/terre/278.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row5 even" role="row">
+		<td class="col0 sorting_1">Robe de protection ornée de runes</td><td class="col1">0</td><td class="col2">16</td><td class="col3">0</td><td class="col4">43</td><td class="col5">50</td><td class="col6">11.0</td><td class="col7">Couleur: verte <br>
++5 force <br>
++5 intelligence <br>
++5 sagesse <br>
+-25 esquive</td><td class="col8">Shamans minotaures (Labyrinthe des minotaures - Raven's Dust)</td><td class="col9"><a href="/wiki/_detail/objets/terre/424.png?id=objets%3Arobes" class="media" title="objets:terre:424.png"><img src="/wiki/_media/objets/terre/424.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row3 odd" role="row">
+		<td class="col0 sorting_1">Robe des elfes en soie d'argent</td><td class="col1">0</td><td class="col2">25</td><td class="col3">0</td><td class="col4">20</td><td class="col5">73</td><td class="col6">6.0</td><td class="col7">Couleur: blanche <br>
++10 sagesse <br>
++5 force <br>
++10 résistance nécromancie <br>
+-16 esquive</td><td class="col8">Golem de chair (Tour de Zhakar, RD)</td><td class="col9"><a href="/wiki/_detail/objets/terre/425.png?id=objets%3Arobes" class="media" title="objets:terre:425.png"><img src="/wiki/_media/objets/terre/425.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row4 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Tissu taché de cendres et de sang</strong></span></td><td class="col1">0</td><td class="col2">16</td><td class="col3">0</td><td class="col4">43</td><td class="col5">50</td><td class="col6">11.0</td><td class="col7">+5 force <br>
++5 intelligence <br>
++5 sagesse</td><td class="col8">Raven's Dust??? Non lootable sur un monstre (confirmé par staff)</td><td class="col9"><a href="/wiki/_detail/objets/terre/278.png?id=objets%3Arobes" class="media" title="objets:terre:278.png"><img src="/wiki/_media/objets/terre/278.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr></tbody></table></div></div><div class="dataTables_info" id="DataTables_Table_2_info" role="status" aria-live="polite">Showing 1 to 10 of 10 entries</div></div></div>
+</div>
+</div>
+
+<h2 class="sectionedit8" id="stoneheim">Stoneheim</h2>
+<div class="level2">
+	
+<tr class="row6 odd" role="row">
+		<td class="col0 sorting_1">Cape d'Armagueddon</td><td class="col1">0</td><td class="col2">37</td><td class="col3">0</td><td class="col4">175</td><td class="col5">70</td><td class="col6">20.0</td><td class="col7">Couleur: noire <br>
++50 intelligence <br>
+-25 esquive <br>
+<br>
+<strong>Lance parfois un sort type météorite mono-cible lorsque le porteur est touché</strong></td><td class="col8"><a href="/wiki/quetes/stoneheim/karma/mordenthal" class="wikilink1" title="quetes:stoneheim:karma:mordenthal" data-wiki-id="quetes:stoneheim:karma:mordenthal">Quête de Mordenthal</a> (SH)</td><td class="col9"><a href="/wiki/_detail/objets/terre/278.png?id=objets%3Arobes" class="media" title="objets:terre:278.png"><img src="/wiki/_media/objets/terre/278.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row10 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Manteau d'émeraude</strong></span> <br>
+<span class="wrap_lo ">(Prêtre terre)</span></td><td class="col1">0</td><td class="col2">25</td><td class="col3">0</td><td class="col4">20</td><td class="col5">185</td><td class="col6">18.0</td><td class="col7">Couleur: blanche <br>
++20 puissance terre <br>
++40 sagesse <br>
+-25 esquive</td><td class="col8">Coffres (Zone Oracle, SH)</td><td class="col9"><a href="/wiki/_detail/objets/terre/424.png?id=objets%3Arobes" class="media" title="objets:terre:424.png"><img src="/wiki/_media/objets/terre/424.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row2 odd" role="row">
+		<td class="col0 sorting_1">Manteau de l'archer</td><td class="col1">25</td><td class="col2">0</td><td class="col3">70</td><td class="col4">30</td><td class="col5">40</td><td class="col6">10.0</td><td class="col7">Couleur: noire <br>
++50 archerie <br>
++25 esquive</td><td class="col8"><a href="/wiki/quetes/stoneheim/autres/manteau_de_l_archer" class="wikilink1" title="quetes:stoneheim:autres:manteau_de_l_archer" data-wiki-id="quetes:stoneheim:autres:manteau_de_l_archer">Quête du Manteau de l'Archer</a> (Stonecrest, SH)</td><td class="col9"><a href="/wiki/_detail/objets/terre/278.png?id=objets%3Arobes" class="media" title="objets:terre:278.png"><img src="/wiki/_media/objets/terre/278.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row13 even" role="row">
+		<td class="col0 sorting_1">Manteau de la mort <br>
+<span class="wrap_lo ">(Nécromancien)</span></td><td class="col1">0</td><td class="col2">25</td><td class="col3">0</td><td class="col4">201</td><td class="col5">15</td><td class="col6">15.0</td><td class="col7">Couleur: noire <br>
++20 puisance nécromancie <br>
++40 intelligence <br>
+-25 esquive <br>
+<br>
+<strong>Lance parfois un sort d'affaiblissement sur l'ennemi lorsque le porteur est touché</strong><br>
+(8-16 points de dégâts sur la durée pendant 20 secondes, affectés par la résistance à la nécromancie de l'ennemi)</td><td class="col8">Coffres (Zone Oracle, SH)</td><td class="col9"><a href="/wiki/_detail/objets/terre/278.png?id=objets%3Arobes" class="media" title="objets:terre:278.png"><img src="/wiki/_media/objets/terre/278.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row12 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Manteau des océans</strong></span> <br>
+<span class="wrap_lo ">(Mage eau)</span></td><td class="col1">0</td><td class="col2">20</td><td class="col3">0</td><td class="col4">200</td><td class="col5">10</td><td class="col6">16.0</td><td class="col7">Couleur: bleue claire <br>
++20 puissance eau <br>
++50 intelligence <br>
+-25 esquive</td><td class="col8">Coffres (Zone Oracle, SH)</td><td class="col9"><a href="/wiki/_detail/objets/terre/586.png?id=objets%3Arobes" class="media" title="objets:terre:586.png"><img src="/wiki/_media/objets/terre/586.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row3 even" role="row">
+		<td class="col0 sorting_1">Manteau du chaman</td><td class="col1">0</td><td class="col2">18</td><td class="col3">0</td><td class="col4">50</td><td class="col5">68</td><td class="col6">8.0</td><td class="col7">Couleur: verte <br>
++10 force <br>
++10 intelligence <br>
++15 sagesse <br>
+-25 esquive</td><td class="col8">Grott/Ghundarg Garak (Raven's Dust) <br>
+Corps de skraug (Cavernes des skaugs, SH)</td><td class="col9"><a href="/wiki/_detail/objets/terre/424.png?id=objets%3Arobes" class="media" title="objets:terre:424.png"><img src="/wiki/_media/objets/terre/424.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row7 odd" role="row">
+		<td class="col0 sorting_1">Manteau du renouveau <br>
+<span class="wrap_lo ">(Mage / Prêtre)</span></td><td class="col1">0</td><td class="col2">25</td><td class="col3">0</td><td class="col4">106</td><td class="col5">112</td><td class="col6">15.0</td><td class="col7">Couleur: verte <br>
++25 intelligence <br>
++25 sagesse <br>
++10 force <br>
+-25 esquive <br>
+<br>
+<strong>Lance parfois le sort Renouveau lorsque le porteur est touché</strong> <br>
+(Régénération rapide des points de mana pendant 15 secondes)</td><td class="col8">Coffres (Zone Oracle, SH)</td><td class="col9"><a href="/wiki/_detail/objets/terre/424.png?id=objets%3Arobes" class="media" title="objets:terre:424.png"><img src="/wiki/_media/objets/terre/424.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row4 even" role="row">
+		<td class="col0 sorting_1">Robe céleste</td><td class="col1">0</td><td class="col2">28</td><td class="col3">0</td><td class="col4">73</td><td class="col5">135</td><td class="col6">18.0</td><td class="col7">Couleur: blanche <br>
++25 sagesse <br>
++10 toutes résistances <br>
+-25 esquive</td><td class="col8"><a href="/wiki/quetes/stoneheim/autres/robe_celeste" class="wikilink1" title="quetes:stoneheim:autres:robe_celeste" data-wiki-id="quetes:stoneheim:autres:robe_celeste">Quête de la Robe Céleste</a> (Iles éthérées, SH)</td><td class="col9"><a href="/wiki/_detail/objets/terre/425.png?id=objets%3Arobes" class="media" title="objets:terre:425.png"><img src="/wiki/_media/objets/terre/425.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row11 odd" role="row">
+		<td class="col0 sorting_1">Robe d'ArchMagi <br>
+<span class="wrap_lo ">(Mage feu)</span></td><td class="col1">0</td><td class="col2">27</td><td class="col3">0</td><td class="col4">190</td><td class="col5">15</td><td class="col6">17.0</td><td class="col7">Couleur: rouge <br>
++20 puissance feu <br>
++50 intelligence<br>
+-25 esquive</td><td class="col8">Coffres (Zone Oracle, SH)</td><td class="col9"><a href="/wiki/_detail/objets/terre/423.png?id=objets%3Arobes" class="media" title="objets:terre:423.png"><img src="/wiki/_media/objets/terre/423.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row9 even" role="row">
+		<td class="col0 sorting_1">Robe de grand prêtre <br>
+<span class="wrap_lo ">(Prêtre lumière)</span></td><td class="col1">0</td><td class="col2">25</td><td class="col3">0</td><td class="col4">25</td><td class="col5">155</td><td class="col6">15.0</td><td class="col7">Couleur: blanche <br>
++20 puissance lumière <br>
++10 sagesse <br>
++10 endurance <br>
+-25 esquive</td><td class="col8">Coffres (Zone Oracle, SH)</td><td class="col9"><a href="/wiki/_detail/objets/terre/425.png?id=objets%3Arobes" class="media" title="objets:terre:425.png"><img src="/wiki/_media/objets/terre/425.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row5 odd" role="row">
+		<td class="col0 sorting_1">Robe des enfers</td><td class="col1">0</td><td class="col2">28</td><td class="col3">0</td><td class="col4">123</td><td class="col5">85</td><td class="col6">18.0</td><td class="col7">Couleur: noire <br>
++25 résistance feu <br>
++25 résistance nécromancie <br>
++25 intelligence <br>
+-15 puissance terre <br>
+-15 puissance lumière <br>
+-15 résistance eau <br>
+-25 esquive</td><td class="col8"><a href="/wiki/quetes/stoneheim/autres/malachai" class="wikilink1" title="quetes:stoneheim:autres:malachai" data-wiki-id="quetes:stoneheim:autres:malachai">Quête de Malachai</a> (SH)</td><td class="col9"><a href="/wiki/_detail/objets/terre/278.png?id=objets%3Arobes" class="media" title="objets:terre:278.png"><img src="/wiki/_media/objets/terre/278.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row1 even" role="row">
+		<td class="col0 sorting_1">Robe des âmes purifiées</td><td class="col1">0</td><td class="col2">18</td><td class="col3">0</td><td class="col4">15</td><td class="col5">103</td><td class="col6">8.0</td><td class="col7">Couleur: blanche <br>
++10 sagesse <br>
++25 résistance nécromancie <br>
+-25 esquive</td><td class="col8">Purificateurs (Iles éthérées, SH)</td><td class="col9"><a href="/wiki/_detail/objets/terre/425.png?id=objets%3Arobes" class="media" title="objets:terre:425.png"><img src="/wiki/_media/objets/terre/425.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row8 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Robe du mistral</strong></span> <br>
+<span class="wrap_lo ">(Prêtre air / Mage air)</span></td><td class="col1">0</td><td class="col2">20</td><td class="col3">0</td><td class="col4">105</td><td class="col5">110</td><td class="col6">17.0</td><td class="col7">Couleur: blanche <br>
++20 puissance air <br>
++25 intelligence <br>
++25 sagesse <br>
+-25 esquive</td><td class="col8">Coffres (Zone Oracle, SH)</td><td class="col9"><a href="/wiki/_detail/objets/terre/425.png?id=objets%3Arobes" class="media" title="objets:terre:425.png"><img src="/wiki/_media/objets/terre/425.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr></tbody></table></div></div><div class="dataTables_info" id="DataTables_Table_3_info" role="status" aria-live="polite">Showing 1 to 13 of 13 entries</div></div></div>
+</div>
+</div>
+
+<h2 class="sectionedit10" id="grim_hawk">Grim Hawk</h2>
+
+<tr class="row1 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Bure du Moine</strong></span></td><td class="col1">0</td><td class="col2">30</td><td class="col3">0</td><td class="col4">18</td><td class="col5">250</td><td class="col6">20.0</td><td class="col7">Couleur: marron <br>
++15 puissance air <br>
++15 puissance terre <br>
++25 sagesse <br>
++10 intelligence <br>
+-25 esquive</td><td class="col8"><a href="/wiki/quetes/grim_hawk/autres/chevalier_spectral" class="wikilink1" title="quetes:grim_hawk:autres:chevalier_spectral" data-wiki-id="quetes:grim_hawk:autres:chevalier_spectral">Quête du chevalier spectral (Rognar Mortes)</a> (Grim Hawk)</td><td class="col9"><a href="/wiki/_detail/objets/terre/596.png?id=objets%3Arobes" class="media" title="objets:terre:596.png"><img src="/wiki/_media/objets/terre/596.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row2 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Cape de damnation</strong></span> <br>
+<span class="wrap_lo ">(Mage feu)</span></td><td class="col1">0</td><td class="col2">31</td><td class="col3">0</td><td class="col4">277</td><td class="col5">15</td><td class="col6">21.0</td><td class="col7">Couleur: rouge <br>
++10 puissance feu <br>
++75 intelligence<br>
+-25 esquive <br>
+<br>
+<strong>Lance parfois un sort de zone à courte portée type dard de feu lorsque le porteur est touché (vise même les joueurs aux alentours)</strong></td><td class="col8"><strong>Invocation GM</strong></td><td class="col9"><a href="/wiki/_detail/objets/terre/423.png?id=objets%3Arobes" class="media" title="objets:terre:423.png"><img src="/wiki/_media/objets/terre/423.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row6 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Manteau des bénédictions infinies</strong></span> <br>
+<span class="wrap_lo ">(Prêtre terre / lumière)</span></td><td class="col1">0</td><td class="col2">27</td><td class="col3">0</td><td class="col4">20</td><td class="col5">355</td><td class="col6">15.0</td><td class="col7">Couleur: blanche <br>
++15 puissance terre <br>
++15 puissance lumière <br>
++30 sagesse <br>
+-25 esquive</td><td class="col8">Assemblage de glaise (Grim Hawk)</td><td class="col9"><a href="/wiki/_detail/objets/terre/425.png?id=objets%3Arobes" class="media" title="objets:terre:425.png"><img src="/wiki/_media/objets/terre/425.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row7 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Manteau des bénédictions infinies parfait</strong></span> <br>
+<span class="wrap_lo ">(Prêtre terre / lumière)</span></td><td class="col1">0</td><td class="col2">27</td><td class="col3">0</td><td class="col4">20</td><td class="col5">355</td><td class="col6">30.0</td><td class="col7">Couleur: blanche <br>
++25 puissance terre <br>
++25 puissance lumière <br>
++65 sagesse <br>
+-25 esquive</td><td class="col8">Assistant (Entrée instance AR) <br>
+<br>
+Prix : <br>
+Manteau des bénédictions infinies <br>
+8 points d'instance AR HM</td><td class="col9"><a href="/wiki/_detail/objets/terre/425.png?id=objets%3Arobes" class="media" title="objets:terre:425.png"><img src="/wiki/_media/objets/terre/425.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row3 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Manteau des profondeurs de Grim Hawk</strong></span></td><td class="col1">0</td><td class="col2">25</td><td class="col3">0</td><td class="col4">355</td><td class="col5">25</td><td class="col6">25.0</td><td class="col7">Couleur: grise <br>
++30 puissance nécromancie <br>
++55 intelligence</td><td class="col8">Gjalpinulva (Dragon Renégat) (Grim Hawk)</td><td class="col9"><a href="/wiki/_detail/objets/terre/592.png?id=objets%3Arobes" class="media" title="objets:terre:592.png"><img src="/wiki/_media/objets/terre/592.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row4 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Robe d'Eos</strong></span> <br>
+<span class="wrap_lo ">(Prêtre air / Mage air)</span></td><td class="col1">0</td><td class="col2">0</td><td class="col3">0</td><td class="col4">195</td><td class="col5">190</td><td class="col6">20.0</td><td class="col7">Couleur: jaune <br>
++15 puissance air <br>
++20 intelligence <br>
++20 sagesse <br>
+-25 esquive</td><td class="col8">Bouleau corrompu (Grim Hawk)</td><td class="col9"><a href="/wiki/_detail/objets/terre/591.png?id=objets%3Arobes" class="media" title="objets:terre:591.png"><img src="/wiki/_media/objets/terre/591.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row5 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Robe d'Eos parfaite</strong></span> <br>
+<span class="wrap_lo ">(Prêtre air / Mage air)</span></td><td class="col1">0</td><td class="col2">0</td><td class="col3">0</td><td class="col4">195</td><td class="col5">190</td><td class="col6">30.0</td><td class="col7">Couleur: jaune <br>
++25 puissance air <br>
++40 intelligence <br>
++40 sagesse <br>
+-25 esquive</td><td class="col8">Assistant (Entrée instance AR) <br>
+<br>
+Prix : <br>
+Robe d'Eos <br>
+8 points d'instance AR HM</td><td class="col9"><a href="/wiki/_detail/objets/terre/591.png?id=objets%3Arobes" class="media" title="objets:terre:591.png"><img src="/wiki/_media/objets/terre/591.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row8 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Robe des Âges</strong></span> <br>
+<span class="wrap_lo ">(Mage feu / eau)</span></td><td class="col1">0</td><td class="col2">27</td><td class="col3">0</td><td class="col4">355</td><td class="col5">20</td><td class="col6">15.0</td><td class="col7"><strong>Couleur: rouge ou bleue foncée</strong> <br>
++15 puissance feu <br>
++15 puissance eau <br>
++30 intelligence <br>
+-25 esquive</td><td class="col8">Serpent Arcanique (Grim Hawk)</td><td class="col9"><strong>Rouge:</strong><br>
+<a href="/wiki/_detail/objets/terre/423.png?id=objets%3Arobes" class="media" title="objets:terre:423.png"><img src="/wiki/_media/objets/terre/423.png" class="mediacenter" loading="lazy" alt=""></a><br>
+<strong>Bleue foncée:</strong><br>
+<a href="/wiki/_detail/objets/terre/588.png?id=objets%3Arobes" class="media" title="objets:terre:588.png"><img src="/wiki/_media/objets/terre/588.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row9 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Robe des Âges parfaite</strong></span> <br>
+<span class="wrap_lo ">(Mage feu / eau)</span></td><td class="col1">0</td><td class="col2">27</td><td class="col3">0</td><td class="col4">355</td><td class="col5">20</td><td class="col6">30.0</td><td class="col7"><strong>Couleur: rouge ou bleue foncée</strong> <br>
++25 puissance feu <br>
++25 puissance eau <br>
++65 intelligence <br>
+-25 esquive</td><td class="col8">Assistant (Entrée instance AR) <br>
+<br>
+Prix : <br>
+Robe des Âges <br>
+8 points d'instance AR HM</td><td class="col9"><strong>Rouge:</strong><br>
+<a href="/wiki/_detail/objets/terre/423.png?id=objets%3Arobes" class="media" title="objets:terre:423.png"><img src="/wiki/_media/objets/terre/423.png" class="mediacenter" loading="lazy" alt=""></a><br>
+<strong>Bleue foncée:</strong><br>
+<a href="/wiki/_detail/objets/terre/588.png?id=objets%3Arobes" class="media" title="objets:terre:588.png"><img src="/wiki/_media/objets/terre/588.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr></tbody></table></div></div><div class="dataTables_info" id="DataTables_Table_4_info" role="status" aria-live="polite">Showing 1 to 9 of 9 entries</div></div></div>
+</div>
+</div>
+
+<h3 class="sectionedit12" id="seigneur-sorcier">Seigneur-Sorcier</h3>
+	
+<tr class="row5 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Chandail rubis de Malkéas</strong></span> <br>
+<span class="wrap_lo ">(Mage feu / eau)</span></td><td class="col1">0</td><td class="col2">27</td><td class="col3">0</td><td class="col4">450</td><td class="col5">30</td><td class="col6">28.0</td><td class="col7">+30 puissance feu OU eau (suivant l'élément dominant du porteur) <br>
++70 intelligence <br>
++10 compétence Piller</td><td class="col8">Seigneur-Sorcier (Ebon Hold)</td><td class="col9"><a href="/wiki/_detail/objets/terre/930.png?id=objets%3Arobes" class="media" title="objets:terre:930.png"><img src="/wiki/_media/objets/terre/930.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row6 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Chandail rubis de Malkéas parfait</strong></span> <br>
+<span class="wrap_lo ">(Mage feu / eau)</span></td><td class="col1">0</td><td class="col2">27</td><td class="col3">0</td><td class="col4">450</td><td class="col5">30</td><td class="col6">28.0</td><td class="col7">+30 puissance feu <br>
++30 puissance eau <br>
++70 intelligence <br>
++2 toutes résistances (+4 si le porteur à 200 endurance ou +) <br>
++10 compétence Piller</td><td class="col8">Assistant (Entrée instance SH) <br>
+<br>
+Prix : <br>
+Chandail rubis de Malkéas <br>
+5 points d'instance SH HM</td><td class="col9"><a href="/wiki/_detail/objets/terre/930.png?id=objets%3Arobes" class="media" title="objets:terre:930.png"><img src="/wiki/_media/objets/terre/930.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row3 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Tissage cérémonial du Roy Noir</strong></span> <br>
+<span class="wrap_lo ">(Prêtre terre / lumière)</span></td><td class="col1">0</td><td class="col2">27</td><td class="col3">0</td><td class="col4">30</td><td class="col5">450</td><td class="col6">28.0</td><td class="col7">Couleur: blanche avec épaulettes <br>
++30 puissance terre OU lumière (suivant l'élément dominant du personnage) <br>
++70 sagesse <br>
++10 compétence Ramener à la vie <br>
+-30 esquive</td><td class="col8">Seigneur-Sorcier (Ebon Hold)</td><td class="col9"><a href="/wiki/_detail/objets/terre/925.png?id=objets%3Arobes" class="media" title="objets:terre:925.png"><img src="/wiki/_media/objets/terre/925.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row4 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Tissage cérémonial du Roy Noir parfait</strong></span> <br>
+<span class="wrap_lo ">(Prêtre terre / lumière)</span></td><td class="col1">0</td><td class="col2">27</td><td class="col3">0</td><td class="col4">30</td><td class="col5">450</td><td class="col6">28.0</td><td class="col7">Couleur: blanche avec épaulettes <br>
++30 puissance terre <br>
++30 puissance lumière <br>
++70 sagesse <br>
++10 compétence Ramener à la vie <br>
++2 toutes résistances (+4 si le porteur à 200 endurance ou plus) <br>
+-30 esquive</td><td class="col8">Assistant (Entrée instance SH) <br>
+<br>
+Prix : <br>
+Tissage Cérémonial du Roy noir <br>
+5 points d'instance SH HM</td><td class="col9"><a href="/wiki/_detail/objets/terre/925.png?id=objets%3Arobes" class="media" title="objets:terre:925.png"><img src="/wiki/_media/objets/terre/925.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row7 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Tunique du Néant du Seigneur-Sorcier</strong></span> <br>
+<span class="wrap_lo ">(Mage feu / eau)</span></td><td class="col1">0</td><td class="col2">27</td><td class="col3">0</td><td class="col4">450</td><td class="col5">30</td><td class="col6">28.0</td><td class="col7">+30 puissance feu OU eau (suivant l'élément dominant du porteur) <br>
++70 intelligence <br>
++10 compétence Piller</td><td class="col8">Seigneur-Sorcier (Ebon Hold) <br>
+<strong>A vérifier si le loot est revenu</strong></td><td class="col9"><a href="/wiki/_detail/objets/terre/923.png?id=objets%3Arobes" class="media" title="objets:terre:923.png"><img src="/wiki/_media/objets/terre/923.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row8 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Tunique du Néant du Seigneur-Sorcier parfaite</strong></span> <br>
+<span class="wrap_lo ">(Mage feu / eau)</span></td><td class="col1">0</td><td class="col2">27</td><td class="col3">0</td><td class="col4">450</td><td class="col5">30</td><td class="col6">28.0</td><td class="col7">+30 puissance feu <br>
++30 puissance eau <br>
++70 intelligence <br>
++2 toutes résistances (+4 si le porteur à 200 endurance ou +) <br>
++10 compétence Piller</td><td class="col8">Assistant (Entrée instance SH) <br>
+<br>
+Prix : <br>
+Tunique du Néant du Seigneur-Sorcier <br>
+5 points d'instance SH HM</td><td class="col9"><a href="/wiki/_detail/objets/terre/923.png?id=objets%3Arobes" class="media" title="objets:terre:923.png"><img src="/wiki/_media/objets/terre/923.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row1 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Étoffe-éclair d'Eolia</strong></span> <br>
+<span class="wrap_lo ">(Prêtre air / Mage air)</span></td><td class="col1">0</td><td class="col2">0</td><td class="col3">0</td><td class="col4">198</td><td class="col5">290</td><td class="col6">38.0</td><td class="col7">Couleur: jaune avec épaulettes <br>
++30 puissance air <br>
++50 intelligence <br>
++50 sagesse <br>
+-8 puissance feu <br>
+-8 puissance eau <br>
+-30 esquive</td><td class="col8">Seigneur-Sorcier (Ebon Hold)</td><td class="col9"><a href="/wiki/_detail/objets/terre/926.png?id=objets%3Arobes" class="media" title="objets:terre:926.png"><img src="/wiki/_media/objets/terre/926.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row2 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Étoffe-éclair d'Eolia parfaite</strong></span> <br>
+<span class="wrap_lo ">(Prêtre air / Mage air)</span></td><td class="col1">0</td><td class="col2">0</td><td class="col3">0</td><td class="col4">198</td><td class="col5">290</td><td class="col6">38.0</td><td class="col7">Couleur: jaune avec épaulettes <br>
++30 puissance air <br>
++50 intelligence <br>
++50 sagesse <br>
++2 toutes résistances (+4 si le porteur a 200 endurance ou plus)</td><td class="col8">Assistant (Entrée instance SH) <br>
+<br>
+Prix : <br>
+Étoffe-éclair d'Eolia <br>
+5 points d'instance SH HM</td><td class="col9"><a href="/wiki/_detail/objets/terre/926.png?id=objets%3Arobes" class="media" title="objets:terre:926.png"><img src="/wiki/_media/objets/terre/926.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr></tbody></table></div></div><div class="dataTables_info" id="DataTables_Table_5_info" role="status" aria-live="polite">Showing 1 to 8 of 8 entries</div></div></div>
+</div>
+</div>
+
+<h2 class="sectionedit14" id="draconis_sanctum">Draconis Sanctum</h2>
+<div class="level2">
+
+</div>
+
+<h3 class="sectionedit15" id="toge_d_una">Toge d'Una</h3>
+	
+<tr class="row1 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Toge d'Una</strong></span></td><td class="col1">0</td><td class="col2">40</td><td class="col3">0</td><td class="col4">45</td><td class="col5">356</td><td class="col6">31.0</td><td class="col7">+50 sagesse <br>
++2 Chance <br>
++5 toutes résistances</td><td class="col8">» Drop <em>coffre Una</em> (Tour blanche, ZE) <br>
+» Drop <em>Les prisonniers du temps</em> (Boss 180+) <br>
+» <em>Un artisan aventurier</em> (Côte des berserkers, DS)</td><td class="col9"><a href="/wiki/_detail/objets/terre/425.png?id=objets%3Arobes" class="media" title="objets:terre:425.png"><img src="/wiki/_media/objets/terre/425.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row3 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Toge d'Una aérienne</strong></span> <br>
+<span class="wrap_lo ">(Prêtre air / Mage air)</span></td><td class="col1">0</td><td class="col2">40</td><td class="col3">0</td><td class="col4">447</td><td class="col5">447</td><td class="col6">31.0</td><td class="col7">+45 puissance air <br>
++60 sagesse <br>
++60 intelligence <br>
++5 toutes résistances <br>
++2 chance</td><td class="col8">L'Arcaniste (Draconis Sanctum) <br>
+<br>
+Prix : <br>
+Toge d'Una <br>
+8 000 000 pièces d'or <br>
+75 larmes de dragon <br>
+4 potion de focalisation</td><td class="col9"><a href="/wiki/_detail/objets/terre/591.png?id=objets%3Arobes" class="media" title="objets:terre:591.png"><img src="/wiki/_media/objets/terre/591.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row2 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Toge d'Una sainte</strong></span> <br>
+<span class="wrap_lo ">(Prêtre tank)</span></td><td class="col1">0</td><td class="col2">165</td><td class="col3">0</td><td class="col4">40</td><td class="col5">606</td><td class="col6">41.0</td><td class="col7">+40 puissance terre OU lumière OU air (suivant l'élément dominant du porteur)<br>
++80 sagesse<br>
++10 toutes résistances<br>
++10 compétence Ramener à la vie<br>
++2 chance</td><td class="col8">L'Arcaniste (Draconis Sanctum) <br>
+<br>
+Prix : <br>
+Toge d'Una <br>
+8 000 000 pièces d'or <br>
+75 larmes de dragon <br>
+4 potion de focalisation</td><td class="col9"><a href="/wiki/_detail/objets/terre/424.png?id=objets%3Arobes" class="media" title="objets:terre:424.png"><img src="/wiki/_media/objets/terre/424.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row4 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Toge d'Una sanctifiée</strong></span> <br>
+<span class="wrap_lo ">(Prêtre lumière)</span></td><td class="col1">0</td><td class="col2">40</td><td class="col3">0</td><td class="col4">40</td><td class="col5">756</td><td class="col6">31.0</td><td class="col7">+45 puissance lumière <br>
++90 sagesse <br>
++5 toutes résistances <br>
++15 compétence Ramener à la vie <br>
++2 chance</td><td class="col8">L'Arcaniste (Draconis Sanctum) <br>
+<br>
+Prix : <br>
+Toge d'Una <br>
+8 000 000 pièces d'or <br>
+75 larmes de dragon <br>
+4 potion de focalisation</td><td class="col9"><a href="/wiki/_detail/objets/terre/425.png?id=objets%3Arobes" class="media" title="objets:terre:425.png"><img src="/wiki/_media/objets/terre/425.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row5 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Toge d'Una tellurique</strong></span> <br>
+<span class="wrap_lo ">(Prêtre terre)</span></td><td class="col1">0</td><td class="col2">40</td><td class="col3">0</td><td class="col4">40</td><td class="col5">756</td><td class="col6">31.0</td><td class="col7">+45 puissance terre <br>
++90 sagesse <br>
++5 toutes résistances <br>
++5 compétence Ramener à la vie <br>
++2 chance</td><td class="col8">L'Arcaniste (Draconis Sanctum) <br>
+<br>
+Prix : <br>
+Toge d'Una <br>
+8 000 000 pièces d'or <br>
+75 larmes de dragon <br>
+4 potion de focalisation</td><td class="col9"><a href="/wiki/_detail/objets/terre/424.png?id=objets%3Arobes" class="media" title="objets:terre:424.png"><img src="/wiki/_media/objets/terre/424.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr></tbody></table></div></div><div class="dataTables_info" id="DataTables_Table_6_info" role="status" aria-live="polite">Showing 1 to 5 of 5 entries</div></div></div>
+</div>
+</div>
+
+<h3 class="sectionedit17" id="chaines_tissees_de_saehrimni">Chaînes tissées de Saehrimni</h3>
+	
+<tr class="row1 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Chaînes tissées de Saehrimni</strong></span></td><td class="col1">0</td><td class="col2">40</td><td class="col3">0</td><td class="col4">427</td><td class="col5">40</td><td class="col6">31.0</td><td class="col7">+50 intelligence <br>
++5 toutes résistances <br>
++2 chance</td><td class="col8">» Drop <em>coffre Una</em> (Tour blanche, ZE) <br>
+» Drop <em>Les prisonniers du temps</em> (Boss 180+) <br>
+» <em>Un artisan aventurier</em> (Côte des berserkers, DS)</td><td class="col9"><a href="/wiki/_detail/objets/terre/423.png?id=objets%3Arobes" class="media" title="objets:terre:423.png"><img src="/wiki/_media/objets/terre/423.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row5 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Chaînes tissées de Saehrimni corrompues</strong></span> <br>
+<span class="wrap_lo ">(Nécromancien)</span></td><td class="col1">0</td><td class="col2">40</td><td class="col3">0</td><td class="col4">827</td><td class="col5">40</td><td class="col6">31.0</td><td class="col7">+45 puissance nécro <br>
++90 intelligence <br>
++5 toutes résistances <br>
++2 chance</td><td class="col8">L'Arcaniste (Draconis Sanctum) <br>
+<br>
+Prix : <br>
+Chaînes tissées de Saehrimni <br>
+8 000 000 pièces d'or <br>
+75 larmes de dragon <br>
+4 potion de focalisation</td><td class="col9"><a href="/wiki/_detail/objets/terre/278.png?id=objets%3Arobes" class="media" title="objets:terre:278.png"><img src="/wiki/_media/objets/terre/278.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row3 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Chaînes tissées de Saehrimni enflammées</strong></span> <br>
+<span class="wrap_lo ">(Mage feu)</span></td><td class="col1">0</td><td class="col2">40</td><td class="col3">0</td><td class="col4">827</td><td class="col5">40</td><td class="col6">31.0</td><td class="col7">+45 puissance feu <br>
++90 intelligence <br>
++5 toutes résistances <br>
++2 chance</td><td class="col8">L'Arcaniste (Draconis Sanctum) <br>
+<br>
+Prix : <br>
+Chaînes tissées de Saehrimni <br>
+8 000 000 pièces d'or <br>
+75 larmes de dragon <br>
+4 potion de focalisation</td><td class="col9"><a href="/wiki/_detail/objets/terre/423.png?id=objets%3Arobes" class="media" title="objets:terre:423.png"><img src="/wiki/_media/objets/terre/423.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row4 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Chaînes tissées de Saehrimni glacées</strong></span> <br>
+<span class="wrap_lo ">(Mage eau)</span></td><td class="col1">0</td><td class="col2">40</td><td class="col3">0</td><td class="col4">827</td><td class="col5">40</td><td class="col6">31.0</td><td class="col7">+45 puissance eau <br>
++90 intelligence <br>
++5 toutes résistances <br>
++2 chance</td><td class="col8">L'Arcaniste (Draconis Sanctum) <br>
+<br>
+Prix : <br>
+Chaînes tissées de Saehrimni <br>
+8 000 000 pièces d'or <br>
+75 larmes de dragon <br>
+4 potion de focalisation</td><td class="col9"><a href="/wiki/_detail/objets/terre/588.png?id=objets%3Arobes" class="media" title="objets:terre:588.png"><img src="/wiki/_media/objets/terre/588.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row2 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Chaînes tissées de Saehrimni solides</strong></span> <br>
+<span class="wrap_lo ">(Mage tank)</span></td><td class="col1">0</td><td class="col2">165</td><td class="col3">0</td><td class="col4">677</td><td class="col5">40</td><td class="col6">41.0</td><td class="col7">+40 puissance feu OU eau OU air OU nécro (suivant l'élément dominant du porteur) <br>
++80 intelligence <br>
++10 toutes résistances <br>
++2 chance</td><td class="col8">L'Arcaniste (Draconis Sanctum) <br>
+<br>
+Prix : <br>
+Chaînes tissées de Saehrimni <br>
+8 000 000 pièces d'or <br>
+75 larmes de dragon <br>
+4 potion de focalisation</td><td class="col9"><a href="/wiki/_detail/objets/terre/592.png?id=objets%3Arobes" class="media" title="objets:terre:592.png"><img src="/wiki/_media/objets/terre/592.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr></tbody></table></div></div><div class="dataTables_info" id="DataTables_Table_7_info" role="status" aria-live="polite">Showing 1 to 5 of 5 entries</div></div></div>
+</div>
+</div>
+
+<h3 class="sectionedit19" id="atour_du_roi_barbare">Atour du roi barbare</h3>
+	
+<tr class="row1 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Atours du roi barbare</strong></span></td><td class="col1">100</td><td class="col2">50</td><td class="col3">75</td><td class="col4">100</td><td class="col5">100</td><td class="col6">21.0</td><td class="col7">+10 force <br>
++10 dextérité <br>
++10 intelligence <br>
++10 sagesse <br>
++5 toutes résistances <br>
++25 archerie <br>
++25 attaque</td><td class="col8">» Drop <em>coffre Una</em> (Tour blanche, ZE) <br>
+» Drop <em>Les prisonniers du temps</em> (Boss 180+) <br>
+» <em>Un artisan aventurier</em> (Côte des berserkers, DS)</td><td class="col9"><a href="/wiki/_detail/objets/terre/424.png?id=objets%3Arobes" class="media" title="objets:terre:424.png"><img src="/wiki/_media/objets/terre/424.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row4 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Atours du roi barbare d'innervation</strong></span> <br>
+<span class="wrap_lo ">(Archer-Mage air)</span></td><td class="col1">0</td><td class="col2">40</td><td class="col3">417</td><td class="col4">220</td><td class="col5">220</td><td class="col6">21.0</td><td class="col7">+30 puissance air <br>
++5 résistance feu, eau, air, terre, nécro <br>
++50 dextérité <br>
++25 intelligence <br>
++25 sagesse <br>
++100 compétence Archerie</td><td class="col8">L'Arcaniste (Draconis Sanctum) <br>
+<br>
+Prix : <br>
+Atours du roi barbare <br>
+6 400 000 pièces d'or <br>
+60 larmes de dragon <br>
+4 potion de focalisation</td><td class="col9"><a href="/wiki/_detail/objets/terre/591.png?id=objets%3Arobes" class="media" title="objets:terre:591.png"><img src="/wiki/_media/objets/terre/591.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row5 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Atours du roi barbare d'inquisition</strong></span> <br>
+<span class="wrap_lo ">(Paladin)</span></td><td class="col1">382</td><td class="col2">50</td><td class="col3">0</td><td class="col4">40</td><td class="col5">362</td><td class="col6">31.0</td><td class="col7">+35 puissance lumière OU terre OU air (suivant l'élément dominant du personnage) <br>
++50 force <br>
++70 sagesse <br>
++100 attaque <br>
++5 toutes résistances</td><td class="col8">L'Arcaniste (Draconis Sanctum) <br>
+<br>
+Prix : <br>
+Atours du roi barbare <br>
+6 400 000 pièces d'or <br>
+60 larmes de dragon <br>
+4 potion de focalisation</td><td class="col9"><a href="/wiki/_detail/objets/terre/425.png?id=objets%3Arobes" class="media" title="objets:terre:425.png"><img src="/wiki/_media/objets/terre/425.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row3 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Atours du roi barbare d'éxécution</strong></span> <br>
+<span class="wrap_lo ">(Archer-Mage)</span></td><td class="col1">0</td><td class="col2">40</td><td class="col3">417</td><td class="col4">327</td><td class="col5">40</td><td class="col6">21.0</td><td class="col7">+30 puissance feu, eau, nécro <br>
++5 résistance feu, eau, air, terre, nécro <br>
++50 dextérité <br>
++50 intelligence <br>
++100 compétence Archerie</td><td class="col8">L'Arcaniste (Draconis Sanctum) <br>
+<br>
+Prix : <br>
+Atours du roi barbare <br>
+6 400 000 pièces d'or <br>
+60 larmes de dragon <br>
+4 potion de focalisation</td><td class="col9"><a href="/wiki/_detail/objets/terre/423.png?id=objets%3Arobes" class="media" title="objets:terre:423.png"><img src="/wiki/_media/objets/terre/423.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row6 odd" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Atours du roi barbare de persécution</strong></span> <br>
+<span class="wrap_lo ">(Anté-Paladin)</span></td><td class="col1">382</td><td class="col2">40</td><td class="col3">0</td><td class="col4">362</td><td class="col5">40</td><td class="col6">31.0</td><td class="col7">+35 puissance feu OU eau OU air OU nécromancie (suivant l'élément dominant du personnage) <br>
++50 force <br>
+ +70 intelligence <br>
++100 attaque <br>
++5 toutes résistances</td><td class="col8">L'Arcaniste (Draconis Sanctum) <br>
+<br>
+Prix : <br>
+Atours du roi barbare <br>
+6 400 000 pièces d'or <br>
+60 larmes de dragon <br>
+4 potion de focalisation</td><td class="col9"><a href="/wiki/_detail/objets/terre/278.png?id=objets%3Arobes" class="media" title="objets:terre:278.png"><img src="/wiki/_media/objets/terre/278.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr><tr class="row2 even" role="row">
+		<td class="col0 sorting_1"><span style="color:darkred; "><strong>Atours du roi barbare de rétribution</strong></span> <br>
+<span class="wrap_lo ">(Archer-Prêtre)</span></td><td class="col1">0</td><td class="col2">40</td><td class="col3">417</td><td class="col4">40</td><td class="col5">327</td><td class="col6">21.0</td><td class="col7">+30 puissance terre et lumière<br>
++50 dextérité <br>
++50 sagesse <br>
++100 acherie <br>
++5 toutes résistances</td><td class="col8">L'Arcaniste (Draconis Sanctum) <br>
+<br>
+Prix : <br>
+Atours du roi barbare <br>
+6 400 000 pièces d'or <br>
+60 larmes de dragon <br>
+4 potion de focalisation</td><td class="col9"><a href="/wiki/_detail/objets/terre/595.png?id=objets%3Arobes" class="media" title="objets:terre:595.png"><img src="/wiki/_media/objets/terre/595.png" class="mediacenter" loading="lazy" alt=""></a></td>
+	</tr></tbody></table>

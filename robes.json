@@ -177,7 +177,7 @@
     "prix": 0,
     "prix_detail": null,
     "informations": "Couleur: verte  \n+40 sagesse  \n-25 esquive",
-    "obtention": "<a href=\"/wiki/quetes/ravens_dust/autres/habit_de_feuilles\" class=\"wikilink1\" title=\"quetes:ravens_dust:autres:habit_de_feuilles\" data-wiki-id=\"quetes:ravens_dust:autres:habit_de_feuilles\">Quête de l'Habit de Feuilles</a> (Raven's Dust)"
+    "obtention": "<a href=\"https://www.t4c-neerya.com/wiki/quetes/ravens_dust/autres/habit_de_feuilles\" class=\"wikilink1\" title=\"quetes:ravens_dust:autres:habit_de_feuilles\" data-wiki-id=\"quetes:ravens_dust:autres:habit_de_feuilles\">Quête de l'Habit de Feuilles</a> (Raven's Dust)"
   },
   {
     "_type": "robe",
@@ -237,7 +237,7 @@
     "prix": 0,
     "prix_detail": null,
     "informations": "Couleur: brune  \n+30 archerie  \n+5 résistance terre  \n-20 esquive  \n \n<strong>+3% de chance d'activer en attaquant un sort augmentant la dextérité de 4% pendant 1 minute</strong>",
-    "obtention": "<a href=\"/wiki/quetes/ravens_dust/autres/manteau_du_sagittaire\" class=\"wikilink1\" title=\"quetes:ravens_dust:autres:manteau_du_sagittaire\" data-wiki-id=\"quetes:ravens_dust:autres:manteau_du_sagittaire\">Quête du Manteau du Sagittaire</a> (Raven's Dust)"
+    "obtention": "<a href=\"https://www.t4c-neerya.com/wiki/quetes/ravens_dust/autres/manteau_du_sagittaire\" class=\"wikilink1\" title=\"quetes:ravens_dust:autres:manteau_du_sagittaire\" data-wiki-id=\"quetes:ravens_dust:autres:manteau_du_sagittaire\">Quête du Manteau du Sagittaire</a> (Raven's Dust)"
   },
   {
     "_type": "robe",
@@ -312,7 +312,7 @@
     "prix": 0,
     "prix_detail": null,
     "informations": "Couleur: noire  \n+50 intelligence  \n-25 esquive  \n \n<strong>Lance parfois un sort type météorite mono-cible lorsque le porteur est touché</strong>",
-    "obtention": "<a href=\"/wiki/quetes/stoneheim/karma/mordenthal\" class=\"wikilink1\" title=\"quetes:stoneheim:karma:mordenthal\" data-wiki-id=\"quetes:stoneheim:karma:mordenthal\">Quête de Mordenthal</a> (SH)"
+    "obtention": "<a href=\"https://www.t4c-neerya.com/wiki/quetes/stoneheim/karma/mordenthal\" class=\"wikilink1\" title=\"quetes:stoneheim:karma:mordenthal\" data-wiki-id=\"quetes:stoneheim:karma:mordenthal\">Quête de Mordenthal</a> (SH)"
   },
   {
     "_type": "robe",
@@ -342,7 +342,7 @@
     "prix": 0,
     "prix_detail": null,
     "informations": "Couleur: noire  \n+50 archerie  \n+25 esquive",
-    "obtention": "<a href=\"/wiki/quetes/stoneheim/autres/manteau_de_l_archer\" class=\"wikilink1\" title=\"quetes:stoneheim:autres:manteau_de_l_archer\" data-wiki-id=\"quetes:stoneheim:autres:manteau_de_l_archer\">Quête du Manteau de l'Archer</a> (Stonecrest, SH)"
+    "obtention": "<a href=\"https://www.t4c-neerya.com/wiki/quetes/stoneheim/autres/manteau_de_l_archer\" class=\"wikilink1\" title=\"quetes:stoneheim:autres:manteau_de_l_archer\" data-wiki-id=\"quetes:stoneheim:autres:manteau_de_l_archer\">Quête du Manteau de l'Archer</a> (Stonecrest, SH)"
   },
   {
     "_type": "robe",
@@ -417,7 +417,7 @@
     "prix": 0,
     "prix_detail": null,
     "informations": "Couleur: blanche  \n+25 sagesse  \n+10 toutes résistances  \n-25 esquive",
-    "obtention": "<a href=\"/wiki/quetes/stoneheim/autres/robe_celeste\" class=\"wikilink1\" title=\"quetes:stoneheim:autres:robe_celeste\" data-wiki-id=\"quetes:stoneheim:autres:robe_celeste\">Quête de la Robe Céleste</a> (Iles éthérées, SH)"
+    "obtention": "<a href=\"https://www.t4c-neerya.com/wiki/quetes/stoneheim/autres/robe_celeste\" class=\"wikilink1\" title=\"quetes:stoneheim:autres:robe_celeste\" data-wiki-id=\"quetes:stoneheim:autres:robe_celeste\">Quête de la Robe Céleste</a> (Iles éthérées, SH)"
   },
   {
     "_type": "robe",
@@ -462,7 +462,7 @@
     "prix": 0,
     "prix_detail": null,
     "informations": "Couleur: noire  \n+25 résistance feu  \n+25 résistance nécromancie  \n+25 intelligence  \n-15 puissance terre  \n-15 puissance lumière  \n-15 résistance eau  \n-25 esquive",
-    "obtention": "<a href=\"/wiki/quetes/stoneheim/autres/malachai\" class=\"wikilink1\" title=\"quetes:stoneheim:autres:malachai\" data-wiki-id=\"quetes:stoneheim:autres:malachai\">Quête de Malachai</a> (SH)"
+    "obtention": "<a href=\"https://www.t4c-neerya.com/wiki/quetes/stoneheim/autres/malachai\" class=\"wikilink1\" title=\"quetes:stoneheim:autres:malachai\" data-wiki-id=\"quetes:stoneheim:autres:malachai\">Quête de Malachai</a> (SH)"
   },
   {
     "_type": "robe",
@@ -507,7 +507,7 @@
     "prix": 0,
     "prix_detail": null,
     "informations": "Couleur: marron  \n+15 puissance air  \n+15 puissance terre  \n+25 sagesse  \n+10 intelligence  \n-25 esquive",
-    "obtention": "<a href=\"/wiki/quetes/grim_hawk/autres/chevalier_spectral\" class=\"wikilink1\" title=\"quetes:grim_hawk:autres:chevalier_spectral\" data-wiki-id=\"quetes:grim_hawk:autres:chevalier_spectral\">Quête du chevalier spectral (Rognar Mortes)</a> (Grim Hawk)"
+    "obtention": "<a href=\"https://www.t4c-neerya.com/wiki/quetes/grim_hawk/autres/chevalier_spectral\" class=\"wikilink1\" title=\"quetes:grim_hawk:autres:chevalier_spectral\" data-wiki-id=\"quetes:grim_hawk:autres:chevalier_spectral\">Quête du chevalier spectral (Rognar Mortes)</a> (Grim Hawk)"
   },
   {
     "_type": "robe",
