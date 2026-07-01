@@ -15,6 +15,7 @@
     "prix": 200625,
     "informations": "Élément : Lumière, type : Physique\nRequiert 250 en force.\nRégénère vos points de vie toutes les 6 secondes. Le nombre de points de vie rendus est force pure / 10.",
     "obtention": "Holzfaller (Ouest du camp des Druides, GH)",
+    "wiki_link": "https://www.t4c-neerya.com/wiki/quetes/grim_hawk/autres/fisher",
     "_type": "sort"
   },
   {
@@ -506,6 +507,7 @@
     "prix": 22057,
     "informations": "Élément : Nécromancie, type : Mental\nAbsorbe des points de vie de la cible.\nInfluencé par l'intelligence et la puissance Nécro du lanceur ainsi que la résistance Nécro de la cible.",
     "obtention": "L'Aveugle (Grotte de l'Aveugle, RD)",
+    "wiki_link": "https://www.t4c-neerya.com/wiki/quetes/arakas/autres/jarko",
     "_type": "sort"
   },
   {
@@ -697,6 +699,7 @@
     "prix": 42537,
     "informations": "Élément : Nécromancie, type : Physique\nRéduit de 25% le maximum de PV et de 50% la puissance Lumière de la cible durant 5 minutes.\nDes dégâts périodiques sont également ajoutés sur toute la durée du sort.",
     "obtention": "L'Aveugle (Grotte de l'Aveugle, RD)",
+    "wiki_link": "https://www.t4c-neerya.com/wiki/quetes/arakas/autres/jarko",
     "_type": "sort"
   },
   {
@@ -2112,6 +2115,7 @@
     "prix": 350000,
     "informations": "Élément : Lumière, type : Mental\nRégénère la vie d'une cible.\nInfluencé par la sagesse et la puissance Lumière du lanceur.",
     "obtention": "Malkéas (Tour des Mages de Spellshore)",
+    "wiki_link": "https://www.t4c-neerya.com/wiki/quetes/grim_hawk/autres/culte_de_l_oeil_noir",
     "_type": "sort"
   },
   {
@@ -2150,6 +2154,7 @@
     "prix": 350000,
     "informations": "Élément : Lumière, type : Physique\nAugmente intelligence, sagesse, force, dextérité, attaque, archerie et esquive de 5%.\nDurée : 5 minutes.",
     "obtention": "Yéti Solitaire (Grotte d'Agatha l'Ermite)",
+    "wiki_link": "https://www.t4c-neerya.com/wiki/quetes/grim_hawk/autres/yeti_solitaire",
     "_type": "sort"
   },
   {
@@ -2168,6 +2173,7 @@
     "pc": 0,
     "prix": "Rune de Forteresse solaire (transfert)\n(3 bons SH HM)",
     "informations": "Élément : Lumière, type : Physique\nAugmente attaque, archerie et esquive de 16%.\nAugmente intelligence, sagesse, force et dextérité de 5%.",
+    "wiki_link": "https://www.t4c-neerya.com/wiki/quetes/grim_hawk/autres/culte_de_l_oeil_noir",
     "_type": "sort",
     "obtention": "Maître des runes (Orkanis)"
   },
@@ -2188,6 +2194,7 @@
     "prix": 350000,
     "informations": "Élément : Eau, type : Physique\nAugmente intelligence, sagesse, force, dextérité, attaque, archerie et esquive de 5%.\nDurée : 5 minutes.",
     "obtention": "Malkéas (Tour des Mages de Spellshore)",
+    "wiki_link": "https://www.t4c-neerya.com/wiki/quetes/grim_hawk/autres/culte_de_l_oeil_noir",
     "_type": "sort"
   },
   {
@@ -2206,6 +2213,7 @@
     "pc": 38,
     "prix": "Rune de Forteresse lunaire (transfert)\n(3 bons SH HM)",
     "informations": "Élément : Eau, type : Physique\nAugmente intelligence, force, dextérité de 10%.\nLe bonus de 5% en sagesse, attaque, archerie et esquive est supprimé.",
+    "wiki_link": "https://www.t4c-neerya.com/wiki/quetes/grim_hawk/autres/culte_de_l_oeil_noir",
     "_type": "sort",
     "obtention": "Maître des runes (Orkanis)"
   },
@@ -2243,6 +2251,7 @@
     "prix": 384825,
     "informations": "Élément : Lumière, type : Mental\nToutes les cibles alliées bénéficient de vos soins dans une large zone.\nInfluencé par la sagesse et la puissance Lumière du lanceur.",
     "obtention": "Malkéas (Tour des Mages de Spellshore)",
+    "wiki_link": "https://www.t4c-neerya.com/wiki/quetes/grim_hawk/autres/culte_de_l_oeil_noir",
     "_type": "sort"
   },
   {
