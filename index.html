@@ -150,6 +150,7 @@
             <option value="melees">Armes de Mêlée</option>
             <option value="robes">Robes</option>
             <option value="capes">Capes</option>
+            <option value="armures">Armures</option>
             <option value="bijoux">Bijoux et Orbes</option>
         </select>
     </div>
@@ -185,12 +186,13 @@
         // Colonnes par catégorie (dans cet ordre)
         const categoryColumns = {
             sorts: ['element', 'nom', 'unique_neerya', 'niveau', ...statColumns, 'mana', 'prerequis', 'pc', 'prix', 'informations', 'obtention'],
-            competences: ['nom', 'unique_neerya', 'niveau', ...statColumns, 'prerequis', 'pc', 'prix', 'informations', 'obtention'],
+            competences: ['nom', 'unique_neerya', 'valeur_base', ...statColumns, 'conditions', 'description', 'apprentissage', 'entraînement'],
             arcs: ['sous_type', 'nom', 'unique_neerya', 'niveau', ...statColumns, 'degats_min', 'degats_max', 'vitesse', 'prix', 'bonus', 'obtention'],
             melees: ['classe', 'nom', 'unique_neerya', 'niveau', ...statColumns, 'degats_min', 'degats_max', 'vitesse', 'prix', 'informations', 'obtention'],
             robes: ['nom', 'unique_neerya', 'niveau', ...statColumns, 'armure', 'prix', 'informations', 'obtention'],
             capes: ['nom', 'unique_neerya', 'niveau', ...statColumns, 'armure', 'prix', 'informations', 'obtention'],
-            bijoux: ['nom', 'unique_neerya', 'niveau', ...statColumns, 'prix', 'informations', 'obtention']
+            armures: ['_type', 'nom', 'unique_neerya', ...statColumns, 'poids', 'prix', 'informations', 'obtention'],
+            bijoux: ['type', 'nom', 'unique_neerya', ...statColumns, 'ca', 'ile', 'informations', 'obtention']
         };
 
         // Libellés d'affichage des colonnes
@@ -216,7 +218,17 @@
             vitesse: 'Vitesse',
             bonus: 'Bonus',
             classe: 'Classe',
-            armure: 'CA'
+            armure: 'CA',
+            _type: 'Emplacement',
+            poids: 'Poids',
+            ca: 'CA',
+            ile: 'Île',
+            type: 'Type',
+            valeur_base: 'Valeur de base',
+            conditions: 'Conditions',
+            description: 'Description',
+            apprentissage: 'Apprentissage',
+            'entraînement': 'Entraînement'
         };
 
         // Charger les données
