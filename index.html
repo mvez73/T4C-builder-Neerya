@@ -135,8 +135,7 @@
         }
 
         .stats-group {
-            display: grid;
-            grid-template-columns: repeat(9, 1fr);
+            display: flex;
             gap: 12px;
             padding: 25px;
         }
@@ -145,10 +144,17 @@
             display: flex;
             flex-direction: column;
             gap: 6px;
+            flex: 1 1 0;
+            min-width: 0;
         }
 
         .stat-input:first-child {
-            grid-column: span 2;
+            flex: 2 1 0;
+        }
+
+        .stat-input input,
+        .stat-input select {
+            width: 100%;
         }
 
         .stat-input label {
@@ -203,6 +209,8 @@
 
         .category-group select {
             padding: 8px 10px;
+            width: 250px;
+            max-width: 100%;
             background: #2a2a2a;
             border: 1px solid rgba(0, 102, 204, 0.3);
             border-radius: 4px;
