@@ -447,7 +447,7 @@
         const categoryColumns = {
             sorts: ['element', 'nom', 'unique_neerya', 'niveau', ...statColumns, 'mana', 'prerequis', 'pc', 'prix', 'informations', 'obtention'],
             competences: ['nom', 'unique_neerya', 'niveau', ...statColumns, 'conditions', 'description', 'apprentissage', 'entraînement'],
-            arcs: ['sous_type', 'nom', 'unique_neerya', 'niveau', ...statColumns, 'degats_min', 'degats_max', 'vitesse', 'prix', 'bonus', 'obtention'],
+            arcs: ['sous_type', 'nom', 'unique_neerya', ...statColumns, 'degats_min', 'degats_max', 'vitesse', 'prix', 'bonus', 'obtention'],
             melees: ['classe', 'nom', 'unique_neerya', 'niveau', ...statColumns, 'degats_min', 'degats_max', 'vitesse', 'prix', 'informations', 'obtention'],
             robes: ['nom', 'unique_neerya', 'niveau', ...statColumns, 'armure', 'prix', 'informations', 'obtention'],
             capes: ['nom', 'unique_neerya', 'niveau', ...statColumns, 'armure', 'prix', 'informations', 'obtention'],
@@ -480,7 +480,6 @@
             classe: 'Classe',
             armure: 'CA',
             _type: 'Emplacement',
-            poids: 'Poids',
             ca: 'CA',
             ile: 'Île',
             type: 'Type',
