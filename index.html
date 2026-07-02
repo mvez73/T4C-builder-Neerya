@@ -119,27 +119,41 @@
             border-bottom: 1px solid rgba(0, 102, 204, 0.3);
         }
 
-        .stats-group {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
-            gap: 15px;
+        .stats-container {
+            max-width: 900px;
             margin: 0 auto 35px;
-            padding: 25px;
             background: rgba(255, 255, 255, 0.03);
             border: 1px solid rgba(0, 102, 204, 0.2);
             border-radius: 8px;
-            max-width: 800px;
+            overflow: hidden;
+        }
+
+        .stats-container h2 {
+            margin: 0;
+            padding: 20px 25px;
+            border-bottom: 1px solid rgba(0, 102, 204, 0.3);
+        }
+
+        .stats-group {
+            display: grid;
+            grid-template-columns: repeat(9, 1fr);
+            gap: 12px;
+            padding: 25px;
         }
 
         .stat-input {
             display: flex;
             flex-direction: column;
-            gap: 8px;
+            gap: 6px;
+        }
+
+        .stat-input:first-child {
+            grid-column: span 2;
         }
 
         .stat-input label {
             font-weight: 600;
-            font-size: 13px;
+            font-size: 11px;
             text-transform: uppercase;
             letter-spacing: 0.5px;
             color: #b0b0b0;
@@ -147,12 +161,12 @@
 
         .stat-input input,
         .stat-input select {
-            padding: 10px 12px;
+            padding: 8px 10px;
             background: #2a2a2a;
             border: 1px solid rgba(0, 102, 204, 0.3);
             border-radius: 4px;
             color: #ffffff;
-            font-size: 15px;
+            font-size: 13px;
             transition: all 0.2s;
         }
 
@@ -170,39 +184,30 @@
             cursor: default;
         }
 
-        /* Category Tabs */
-        .category-section {
-            margin-bottom: 35px;
-        }
-
         .category-group {
-            padding: 25px;
-            background: rgba(255, 255, 255, 0.03);
-            border: 1px solid rgba(0, 102, 204, 0.2);
-            border-radius: 8px;
-            max-width: 800px;
-            margin: 0 auto;
+            padding: 0 25px 25px 25px;
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+            max-width: 900px;
+            margin: 0 auto 35px;
         }
 
         .category-group label {
-            display: block;
-            margin-bottom: 12px;
             font-weight: 600;
-            font-size: 13px;
+            font-size: 11px;
             text-transform: uppercase;
             letter-spacing: 0.5px;
             color: #b0b0b0;
         }
 
         .category-group select {
-            padding: 12px 15px;
-            width: 100%;
-            max-width: 400px;
+            padding: 8px 10px;
             background: #2a2a2a;
             border: 1px solid rgba(0, 102, 204, 0.3);
             border-radius: 4px;
             color: #ffffff;
-            font-size: 15px;
+            font-size: 13px;
             transition: all 0.2s;
             cursor: pointer;
         }
@@ -333,7 +338,7 @@
 
     <main class="container">
 
-        <section>
+        <div class="stats-container">
             <h2 class="section-title">Personnage</h2>
             <div class="stats-group">
                 <div class="stat-input">
@@ -373,25 +378,22 @@
                     <input type="text" id="points_restants" readonly>
                 </div>
             </div>
-        </section>
+        </div>
 
-        <section class="category-section">
-            <h2 class="section-title">Sélectionner une catégorie</h2>
-            <div class="category-group">
-                <label for="category">Catégorie</label>
-                <select id="category">
-                    <option value="">-- Sélectionner une catégorie --</option>
-                    <option value="sorts">Sorts</option>
-                    <option value="competences">Compétences</option>
-                    <option value="arcs">Arc et Flèches</option>
-                    <option value="melees">Armes de Mêlée</option>
-                    <option value="robes">Robes</option>
-                    <option value="capes">Capes</option>
-                    <option value="armures">Armures</option>
-                    <option value="bijoux">Bijoux et Orbes</option>
-                </select>
-            </div>
-        </section>
+        <div class="category-group">
+            <label for="category">Catégorie</label>
+            <select id="category">
+                <option value="">-- Sélectionner une catégorie --</option>
+                <option value="sorts">Sorts</option>
+                <option value="competences">Compétences</option>
+                <option value="arcs">Arc et Flèches</option>
+                <option value="melees">Armes de Mêlée</option>
+                <option value="robes">Robes</option>
+                <option value="capes">Capes</option>
+                <option value="armures">Armures</option>
+                <option value="bijoux">Bijoux et Orbes</option>
+            </select>
+        </div>
 
         <div id="results"></div>
     </main>
