@@ -396,6 +396,18 @@
                     <input type="text" id="points_restants" readonly>
                 </div>
             </div>
+            <div class="stats-group">
+                <div class="stat-input">
+                    <label for="quete_anwynn">
+                        <input type="checkbox" id="quete_anwynn">
+                        Purification des ruines d'Anwynn (+5 points)
+                    </label>
+                </div>
+                <div class="stat-input">
+                    <label for="quete_ebon_hold">Quêtes Ebon Hold complétées (+1 point chacune)</label>
+                    <input type="number" id="quete_ebon_hold" min="0" max="5" value="0">
+                </div>
+            </div>
         </div>
 
         <div class="category-group">
@@ -428,6 +440,9 @@
             sagesse: document.getElementById('sagesse_req'),
             intelligence: document.getElementById('intelligence_req')
         };
+
+        const queteAnwynnInput = document.getElementById('quete_anwynn');
+        const queteEbonHoldInput = document.getElementById('quete_ebon_hold');
 
         const categorySelect = document.getElementById('category');
         const capesOption = document.getElementById('option-capes');
@@ -520,10 +535,16 @@
             };
         }
 
-        function computeLevelInfo(stats, classe) {
+        function getQuestBonusPoints() {
+            const anwynnBonus = queteAnwynnInput.checked ? 5 : 0;
+            const ebonHoldCount = Math.min(5, Math.max(0, parseInt(queteEbonHoldInput.value) || 0));
+            return anwynnBonus + ebonHoldCount;
+        }
+
+        function computeLevelInfo(stats, classe, bonusPoints = 0) {
             const classConfig = classes[classe];
             const statValues = Object.values(stats);
-            const total = statValues.reduce((a, b) => a + b, 0);
+            const total = statValues.reduce((a, b) => a + b, 0) + bonusPoints;
 
             // 5 points de stat au-dessus de la base = 1 niveau (le 1er point excédentaire fait déjà monter de niveau)
             const excess = Math.max(0, total - classConfig.base * statValues.length);
@@ -538,7 +559,8 @@
         function calculateLevel() {
             const classe = classeSelect.value;
             const stats = getStats();
-            const { level, remainder } = computeLevelInfo(stats, classe);
+            const bonusPoints = getQuestBonusPoints();
+            const { level, remainder } = computeLevelInfo(stats, classe, bonusPoints);
             niveauInput.value = level;
             pointsRestantsInput.value = remainder;
         }
@@ -623,7 +645,7 @@
             }
 
             const stats = getStats();
-            const playerLevel = computeLevelInfo(stats, classeSelect.value).level;
+            const playerLevel = computeLevelInfo(stats, classeSelect.value, getQuestBonusPoints()).level;
 
             const filtered = data.filter(item => doesMeetRequirements(item, stats, playerLevel));
 
@@ -675,6 +697,17 @@
 
         // Event listeners
         Object.values(statsInputs).forEach(input => {
+            input.addEventListener('change', () => {
+                calculateLevel();
+                updateResults();
+            });
+            input.addEventListener('input', () => {
+                calculateLevel();
+                updateResults();
+            });
+        });
+
+        [queteAnwynnInput, queteEbonHoldInput].forEach(input => {
             input.addEventListener('change', () => {
                 calculateLevel();
                 updateResults();
