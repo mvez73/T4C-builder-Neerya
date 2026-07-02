@@ -6,156 +6,369 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>T4C/Neerya - Filtreur d'Items</title>
     <style>
-        body {
-            width: 95%;
-            margin: 0 auto;
-            padding: 20px;
+        * {
+            margin: 0;
+            padding: 0;
             box-sizing: border-box;
-            font-family: Arial, sans-serif;
+        }
+
+        body {
+            background: linear-gradient(135deg, #0f0f0f 0%, #1a1a1a 100%);
+            color: #e0e0e0;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            min-height: 100vh;
+            position: relative;
+        }
+
+        body::before {
+            content: '';
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-image:
+                repeating-linear-gradient(
+                    90deg,
+                    transparent,
+                    transparent 2px,
+                    rgba(255, 255, 255, 0.02) 2px,
+                    rgba(255, 255, 255, 0.02) 4px
+                );
+            pointer-events: none;
+            z-index: -1;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        /* Header */
+        header {
+            background: rgba(0, 0, 0, 0.4);
+            border-bottom: 2px solid #0066cc;
+            padding: 20px 0;
+            margin-bottom: 30px;
+            backdrop-filter: blur(10px);
+        }
+
+        .header-content {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            justify-content: space-between;
+        }
+
+        .logo {
+            font-size: 24px;
+            font-weight: bold;
+            color: #0066cc;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        .logo-mark {
+            color: #fff;
+            font-size: 28px;
+            display: inline-block;
+            margin-right: 8px;
+        }
+
+        /* Main content */
+        main {
+            animation: fadeIn 0.4s ease-in;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        /* Stats Section */
+        .section-title {
+            font-size: 14px;
+            font-weight: 600;
+            text-transform: uppercase;
+            color: #0066cc;
+            letter-spacing: 1px;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid rgba(0, 102, 204, 0.3);
         }
 
         .stats-group {
-            display: flex;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
             gap: 15px;
-            margin-bottom: 20px;
-            flex-wrap: wrap;
-            justify-content: center;
+            margin-bottom: 35px;
+            padding: 25px;
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(0, 102, 204, 0.2);
+            border-radius: 8px;
         }
 
         .stat-input {
             display: flex;
             flex-direction: column;
-            gap: 5px;
+            gap: 8px;
         }
 
         .stat-input label {
-            font-weight: bold;
-            font-size: 14px;
+            font-weight: 600;
+            font-size: 13px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            color: #b0b0b0;
         }
 
-        .stat-input input {
-            width: 80px;
-            padding: 8px;
-            font-size: 16px;
-        }
-
+        .stat-input input,
         .stat-input select {
-            width: 180px;
-            padding: 8px;
-            font-size: 16px;
+            padding: 10px 12px;
+            background: rgba(255, 255, 255, 0.08);
+            border: 1px solid rgba(0, 102, 204, 0.3);
+            border-radius: 4px;
+            color: #e0e0e0;
+            font-size: 15px;
+            transition: all 0.2s;
+        }
+
+        .stat-input input:focus,
+        .stat-input select:focus {
+            outline: none;
+            background: rgba(255, 255, 255, 0.12);
+            border-color: #0066cc;
+            box-shadow: 0 0 0 2px rgba(0, 102, 204, 0.1);
+        }
+
+        .stat-input input[readonly] {
+            background: rgba(0, 102, 204, 0.15);
+            color: #0099ff;
+            cursor: default;
+        }
+
+        /* Category Tabs */
+        .category-section {
+            margin-bottom: 35px;
         }
 
         .category-group {
-            margin-bottom: 20px;
-            text-align: center;
+            padding: 25px;
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(0, 102, 204, 0.2);
+            border-radius: 8px;
         }
 
         .category-group label {
-            font-weight: bold;
-            margin-right: 10px;
+            display: block;
+            margin-bottom: 12px;
+            font-weight: 600;
+            font-size: 13px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            color: #b0b0b0;
         }
 
         .category-group select {
-            padding: 8px;
-            font-size: 16px;
-            min-width: 200px;
+            padding: 12px 15px;
+            width: 100%;
+            max-width: 400px;
+            background: rgba(255, 255, 255, 0.08);
+            border: 1px solid rgba(0, 102, 204, 0.3);
+            border-radius: 4px;
+            color: #e0e0e0;
+            font-size: 15px;
+            transition: all 0.2s;
+            cursor: pointer;
+        }
+
+        .category-group select:hover {
+            border-color: #0066cc;
+        }
+
+        .category-group select:focus {
+            outline: none;
+            border-color: #0066cc;
+            box-shadow: 0 0 0 2px rgba(0, 102, 204, 0.1);
+        }
+
+        /* Results */
+        #results {
+            margin-top: 35px;
         }
 
         table {
             width: 100%;
             border-collapse: collapse;
-            margin-top: 20px;
             font-size: 13px;
+            background: rgba(255, 255, 255, 0.02);
+            border: 1px solid rgba(0, 102, 204, 0.2);
+            border-radius: 6px;
+            overflow: hidden;
         }
 
         table thead {
-            background-color: #f0f0f0;
+            background: rgba(0, 102, 204, 0.15);
             position: sticky;
             top: 0;
-        }
-
-        table th,
-        table td {
-            border: 1px solid #ddd;
-            padding: 10px;
-            text-align: left;
+            z-index: 10;
         }
 
         table th {
-            font-weight: bold;
+            padding: 14px 12px;
+            text-align: left;
+            font-weight: 600;
+            color: #0099ff;
+            text-transform: uppercase;
+            font-size: 11px;
+            letter-spacing: 0.5px;
+            border-bottom: 1px solid rgba(0, 102, 204, 0.3);
+        }
+
+        table tbody tr {
+            border-bottom: 1px solid rgba(0, 102, 204, 0.1);
+            transition: background 0.15s;
+        }
+
+        table tbody tr:nth-child(odd) {
+            background: rgba(255, 255, 255, 0.01);
         }
 
         table tbody tr:hover {
-            background-color: #f9f9f9;
+            background: rgba(0, 102, 204, 0.1);
         }
 
+        table td {
+            padding: 12px;
+            color: #d0d0d0;
+        }
+
+        table td:first-child {
+            padding-left: 16px;
+        }
+
+        table td:last-child {
+            padding-right: 16px;
+        }
+
+        /* Status messages */
         .message {
             margin-top: 20px;
-            padding: 10px;
-            background-color: #f9f9f9;
-            border-left: 4px solid #999;
+            padding: 16px 20px;
+            background: rgba(0, 102, 204, 0.1);
+            border: 1px solid rgba(0, 102, 204, 0.3);
+            border-radius: 6px;
+            color: #0099ff;
+            text-align: center;
+            font-size: 14px;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .stats-group {
+                grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+                padding: 20px;
+            }
+
+            .header-content {
+                flex-direction: column;
+                text-align: center;
+                gap: 10px;
+            }
+
+            .logo {
+                font-size: 20px;
+            }
+
+            table {
+                font-size: 12px;
+            }
+
+            table th,
+            table td {
+                padding: 10px 8px;
+            }
         }
     </style>
 </head>
 
 <body>
-    <h1 style="text-align: center;">T4C builder Neerya</h1>
+    <header>
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    <span class="logo-mark">⚔️</span>T4C Neerya
+                </div>
+                <span style="color: #666; font-size: 12px;">FILTREUR D'ITEMS</span>
+            </div>
+        </div>
+    </header>
 
-    <div class="stats-group">
-        <div class="stat-input">
-            <label for="classe">Renaissance</label>
-            <select id="classe">
-                <option value="humain">Humain</option>
-                <option value="renaissance1">Renaissance 1</option>
-                <option value="renaissance2">Renaissance 2</option>
-            </select>
-        </div>
-        <div class="stat-input">
-            <label for="force">Force</label>
-            <input type="number" id="force_req" min="0" value="0">
-        </div>
-        <div class="stat-input">
-            <label for="endurance">Endurance</label>
-            <input type="number" id="endurance_req" min="0" value="0">
-        </div>
-        <div class="stat-input">
-            <label for="dexterite">Dextérité</label>
-            <input type="number" id="dexterite_req" min="0" value="0">
-        </div>
-        <div class="stat-input">
-            <label for="sagesse">Sagesse</label>
-            <input type="number" id="sagesse_req" min="0" value="0">
-        </div>
-        <div class="stat-input">
-            <label for="intelligence">Intelligence</label>
-            <input type="number" id="intelligence_req" min="0" value="0">
-        </div>
-        <div class="stat-input">
-            <label for="niveau">Niveau</label>
-            <input type="text" id="niveau" readonly style="background-color: #f0f0f0; cursor: default;">
-        </div>
-        <div class="stat-input">
-            <label for="points_restants">Points restants</label>
-            <input type="text" id="points_restants" readonly style="background-color: #f0f0f0; cursor: default;">
-        </div>
-    </div>
+    <main class="container">
 
-    <div class="category-group">
-        <label for="category">Catégorie</label>
-        <select id="category">
-            <option value="">-- Sélectionner une catégorie --</option>
-            <option value="sorts">Sorts</option>
-            <option value="competences">Compétences</option>
-            <option value="arcs">Arc et Flèches</option>
-            <option value="melees">Armes de Mêlée</option>
-            <option value="robes">Robes</option>
-            <option value="capes">Capes</option>
-            <option value="armures">Armures</option>
-            <option value="bijoux">Bijoux et Orbes</option>
-        </select>
-    </div>
+        <section>
+            <h2 class="section-title">Personnage</h2>
+            <div class="stats-group">
+                <div class="stat-input">
+                    <label for="classe">Renaissance</label>
+                    <select id="classe">
+                        <option value="humain">Humain</option>
+                        <option value="renaissance1">Renaissance 1</option>
+                        <option value="renaissance2">Renaissance 2</option>
+                    </select>
+                </div>
+                <div class="stat-input">
+                    <label for="force">Force</label>
+                    <input type="number" id="force_req" min="0" value="0">
+                </div>
+                <div class="stat-input">
+                    <label for="endurance">Endurance</label>
+                    <input type="number" id="endurance_req" min="0" value="0">
+                </div>
+                <div class="stat-input">
+                    <label for="dexterite">Dextérité</label>
+                    <input type="number" id="dexterite_req" min="0" value="0">
+                </div>
+                <div class="stat-input">
+                    <label for="sagesse">Sagesse</label>
+                    <input type="number" id="sagesse_req" min="0" value="0">
+                </div>
+                <div class="stat-input">
+                    <label for="intelligence">Intelligence</label>
+                    <input type="number" id="intelligence_req" min="0" value="0">
+                </div>
+                <div class="stat-input">
+                    <label for="niveau">Niveau</label>
+                    <input type="text" id="niveau" readonly>
+                </div>
+                <div class="stat-input">
+                    <label for="points_restants">Points restants</label>
+                    <input type="text" id="points_restants" readonly>
+                </div>
+            </div>
+        </section>
 
-    <div id="results"></div>
+        <section class="category-section">
+            <h2 class="section-title">Sélectionner une catégorie</h2>
+            <div class="category-group">
+                <label for="category">Catégorie</label>
+                <select id="category">
+                    <option value="">-- Sélectionner une catégorie --</option>
+                    <option value="sorts">Sorts</option>
+                    <option value="competences">Compétences</option>
+                    <option value="arcs">Arc et Flèches</option>
+                    <option value="melees">Armes de Mêlée</option>
+                    <option value="robes">Robes</option>
+                    <option value="capes">Capes</option>
+                    <option value="armures">Armures</option>
+                    <option value="bijoux">Bijoux et Orbes</option>
+                </select>
+            </div>
+        </section>
+
+        <div id="results"></div>
+    </main>
 
     <script>
         const classeSelect = document.getElementById('classe');
