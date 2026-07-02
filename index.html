@@ -28,13 +28,11 @@
             right: 0;
             bottom: 0;
             background-image:
-                repeating-linear-gradient(
-                    90deg,
+                repeating-linear-gradient(90deg,
                     transparent,
                     transparent 2px,
                     rgba(255, 255, 255, 0.02) 2px,
-                    rgba(255, 255, 255, 0.02) 4px
-                );
+                    rgba(255, 255, 255, 0.02) 4px);
             pointer-events: none;
             z-index: -1;
         }
@@ -103,8 +101,15 @@
         }
 
         @keyframes fadeIn {
-            from { opacity: 0; transform: translateY(10px); }
-            to { opacity: 1; transform: translateY(0); }
+            from {
+                opacity: 0;
+                transform: translateY(10px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
         }
 
         /* Stats Section */
@@ -446,7 +451,7 @@
             melees: ['classe', 'nom', 'unique_neerya', 'niveau', ...statColumns, 'degats_min', 'degats_max', 'vitesse', 'prix', 'informations', 'obtention'],
             robes: ['nom', 'unique_neerya', 'niveau', ...statColumns, 'armure', 'prix', 'informations', 'obtention'],
             capes: ['nom', 'unique_neerya', 'niveau', ...statColumns, 'armure', 'prix', 'informations', 'obtention'],
-            armures: ['_type', 'nom', 'unique_neerya', ...statColumns, 'poids', 'prix', 'informations', 'obtention'],
+            armures: ['_type', 'nom', 'unique_neerya', ...statColumns, 'ca', 'prix', 'informations', 'obtention'],
             bijoux: ['type', 'nom', 'unique_neerya', ...statColumns, 'ca', 'ile', 'informations', 'obtention']
         };
 
