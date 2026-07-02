@@ -402,7 +402,7 @@
                 <option value="arcs">Arc et Flèches</option>
                 <option value="melees">Armes de Mêlée</option>
                 <option value="robes">Robes</option>
-                <option value="capes">Capes</option>
+                <option value="capes" id="option-capes">Capes</option>
                 <option value="armures">Armures</option>
                 <option value="bijoux">Bijoux et Orbes</option>
             </select>
@@ -425,6 +425,7 @@
         };
 
         const categorySelect = document.getElementById('category');
+        const capesOption = document.getElementById('option-capes');
         const resultsDiv = document.getElementById('results');
 
         // Configuration des classes
@@ -546,8 +547,20 @@
                 input.value = baseValue;
             });
 
+            updateCapesAvailability();
             calculateLevel();
             updateResults();
+        }
+
+        function updateCapesAvailability() {
+            const classe = classeSelect.value;
+            const hasAiles = classe === 'renaissance1' || classe === 'renaissance2';
+
+            capesOption.disabled = hasAiles;
+
+            if (hasAiles && categorySelect.value === 'capes') {
+                categorySelect.value = '';
+            }
         }
 
         function doesMeetRequirements(item, stats, playerLevel) {
