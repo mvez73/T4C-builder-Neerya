@@ -40,9 +40,8 @@
         }
 
         .container {
-            max-width: 1400px;
+            width: 90%;
             margin: 0 auto;
-            padding: 0 20px;
         }
 
         /* Links */
@@ -630,6 +629,13 @@
 
             html += '</tbody></table>';
             resultsDiv.innerHTML = html;
+
+            // Ajouter target="_blank" à tous les liens
+            const links = resultsDiv.querySelectorAll('a');
+            links.forEach(link => {
+                link.setAttribute('target', '_blank');
+                link.setAttribute('rel', 'noopener noreferrer');
+            });
         }
 
         // Event listeners
