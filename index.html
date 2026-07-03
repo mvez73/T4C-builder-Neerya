@@ -561,7 +561,7 @@
         function computeLevelInfo(stats, classe, bonusPoints = 0) {
             const classConfig = classes[classe];
             const statValues = Object.values(stats);
-            const total = statValues.reduce((a, b) => a + b, 0) + bonusPoints;
+            const total = statValues.reduce((a, b) => a + b, 0) - bonusPoints;
 
             // 5 points de stat au-dessus de la base = 1 niveau (le 1er point excédentaire fait déjà monter de niveau)
             const excess = Math.max(0, total - classConfig.base * statValues.length);
