@@ -196,6 +196,25 @@
             cursor: default;
         }
 
+        .quest-input {
+            flex-direction: row;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .quest-input label {
+            white-space: normal;
+            text-transform: none;
+            font-size: 13px;
+            color: #ffffff;
+            font-weight: 400;
+        }
+
+        .quest-input input[type="checkbox"] {
+            width: auto;
+            flex: none;
+        }
+
         .category-group {
             padding: 0 25px 25px 25px;
             display: flex;
@@ -397,11 +416,9 @@
                 </div>
             </div>
             <div class="stats-group">
-                <div class="stat-input">
-                    <label for="quete_anwynn">
-                        <input type="checkbox" id="quete_anwynn">
-                        Purification des ruines d'Anwynn (+5 points)
-                    </label>
+                <div class="stat-input quest-input">
+                    <input type="checkbox" id="quete_anwynn">
+                    <label for="quete_anwynn">Purification des ruines d'Anwynn (+5 points)</label>
                 </div>
                 <div class="stat-input">
                     <label for="quete_ebon_hold">Quêtes Ebon Hold complétées (+1 point chacune)</label>
