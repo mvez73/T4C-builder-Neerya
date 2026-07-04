@@ -368,7 +368,7 @@
                 <div class="logo">
                     <span class="logo-mark">⚔️</span>T4C Neerya
                 </div>
-                <span style="color: #666; font-size: 12px;">CRÉATEUR DE PERSONNAGE <span style="color: #b8860b;">Beta 0.031</span></span>
+                <span style="color: #666; font-size: 12px;">CRÉATEUR DE PERSONNAGE <span style="color: #b8860b;">Beta 0.032</span></span>
             </div>
         </div>
     </header>
@@ -573,9 +573,26 @@
             return { level, remainder };
         }
 
+        function updateEbonHoldAvailability() {
+            const classe = classeSelect.value;
+            const stats = getStats();
+            const anwynnBonus = queteAnwynnInput.checked ? 5 : 0;
+            const baseLevel = computeLevelInfo(stats, classe, anwynnBonus).level;
+            const eligible = baseLevel >= 75;
+
+            queteEbonHoldInput.disabled = !eligible;
+            queteEbonHoldInput.title = eligible ? '' : 'Nécessite un niveau de 75 ou plus';
+            if (!eligible) {
+                queteEbonHoldInput.value = 0;
+            }
+        }
+
         function calculateLevel() {
             const classe = classeSelect.value;
             const stats = getStats();
+
+            updateEbonHoldAvailability();
+
             const bonusPoints = getQuestBonusPoints();
             const { level, remainder } = computeLevelInfo(stats, classe, bonusPoints);
             niveauInput.value = level;
