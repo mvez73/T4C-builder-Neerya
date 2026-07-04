@@ -2461,7 +2461,7 @@
       "Ajoute (4.5 * dégâts des flèches) aux dégâts de l'arc",
       "+30% archerie"
     ],
-    "obtention": "Drop coffre Una (Tour blanche, ZE) | Drop Les prisonniers du temps (Boss 180+) | Un artisan aventurier (Côte des berserkers, DS)"
+    "obtention": "Drop <em>coffre Una</em> (Tour blanche, ZE) | Drop <em>Les prisonniers du temps</em> (Boss 180+) | <em>Un artisan aventurier</em> (Côte des berserkers, DS)"
   },
   {
     "_type": "arc",

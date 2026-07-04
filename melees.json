@@ -393,7 +393,7 @@
     "prix": 0,
     "prix_detail": null,
     "informations": "Cap dex : 280 <br> +50% attaque <br> +50 transpercer armure <br> +35 coup puissant <br> +30 coup assommant <br> +30 dextérité <br> <br> <strong>Draine la vie ainsi que la mana de votre cible.</strong> <br> <br> Lance aussi le sort <strong>fléau des mages</strong> :<br> Effet : -33% de l'intel boostée de la cible <br> Durée : 30 secondes",
-    "obtention": "L'Arcaniste (Draconis Sanctum)"
+    "obtention": "L'Arcaniste (Draconis Sanctum) <br> <br> Prix : <br> Claymore brûlesprit <br> 100 larmes de dragon <br> 15 000 000 pièces d'or"
   },
   {
     "_type": "arme_melee",
@@ -411,7 +411,7 @@
     "prix": 0,
     "prix_detail": null,
     "informations": "Cap dex : 280 <br> +50% attaque <br> +30 dextérité <br> +10 coup puissant <br> +40 transpercer armure<br> +20 parade <br> +10 CA <br> <br> <strong>Draine la vie ainsi que la mana de votre cible.</strong>",
-    "obtention": "L'Arcaniste (Draconis Sanctum)"
+    "obtention": "L'Arcaniste (Draconis Sanctum) <br> <br> Prix : <br> Claymore brûlesprit <br> 100 larmes de dragon <br> 15 000 000 pièces d'or"
   },
   {
     "_type": "arme_melee",
@@ -465,7 +465,7 @@
     "prix": 0,
     "prix_detail": null,
     "informations": "Cap dex : 280 <br> 50% d'attaque <br> +15 coup puissant",
-    "obtention": "Instance BG, Tafrara"
+    "obtention": "Instance BG, Tafrara <br> <br> Prix : 50 ticket"
   },
   {
     "_type": "arme_melee",
@@ -879,7 +879,7 @@
     "prix": 0,
     "prix_detail": null,
     "informations": "Cap dex : 280 <br> 50% d'attaque <br> Peut lancer (~15%?) un sort mental qui gèle la peau (skin glacier). Influencé par les puissances et résistances, et la force et l'endurance du lanceur (=force boostée/5+endu boostée/15?)",
-    "obtention": "Instance BG, Tafrara"
+    "obtention": "Instance BG, Tafrara <br> <br> Prix : 50 ticket"
   },
   {
     "_type": "arme_melee",
@@ -915,7 +915,7 @@
     "prix": 0,
     "prix_detail": null,
     "informations": "Cap dex : 280",
-    "obtention": "Instance BG, Tafrara"
+    "obtention": "Instance BG, Tafrara <br> <br> Prix : Gain"
   },
   {
     "_type": "arme_melee",
@@ -987,7 +987,7 @@
     "prix": 0,
     "prix_detail": null,
     "informations": "Cap dex : 300 <br> +60% attaque <br> +45 dextérité <br> +50 transpercer l'armure <br> +40 coup puissant",
-    "obtention": "L'Arcaniste (Draconis Sanctum)"
+    "obtention": "L'Arcaniste (Draconis Sanctum) <br> <br> Prix : <br> Flamberge des hautes terres <br> 100 larmes de dragon <br> 15 000 000 pièces d'or"
   },
   {
     "_type": "arme_melee",
@@ -1005,7 +1005,7 @@
     "prix": 0,
     "prix_detail": null,
     "informations": "Cap dex : 300 <br> +50% attaque <br> +45 dextérité <br> +300 esquive <br> +80 coup assommant",
-    "obtention": "L'Arcaniste (Draconis Sanctum)"
+    "obtention": "L'Arcaniste (Draconis Sanctum) <br> <br> Prix : <br> Flamberge des hautes terres <br> 100 larmes de dragon <br> 15 000 000 pièces d'or"
   },
   {
     "_type": "arme_melee",
@@ -1023,7 +1023,7 @@
     "prix": 0,
     "prix_detail": null,
     "informations": "Cap dex : 300 <br> +50% attaque <br> +45 dextérité <br> <br> <strong>Fureur nordique : lorsque le berserker sent sa glorieuse fin venir au combat, il décuple sa rage pour emporter dans sa tombe ses ennemis.</strong>",
-    "obtention": "L'Arcaniste (Draconis Sanctum)"
+    "obtention": "L'Arcaniste (Draconis Sanctum) <br> <br> Prix : <br> Flamberge des hautes terres <br> 100 larmes de dragon <br> 15 000 000 pièces d'or"
   },
   {
     "_type": "arme_melee",
@@ -1059,7 +1059,7 @@
     "prix": 0,
     "prix_detail": null,
     "informations": "+50 transpercer l'armure <br> +15 coup puissant",
-    "obtention": "instance Raven's Dust"
+    "obtention": "instance Raven's Dust <br> <br> Prix : <br> Ticket d'amélioration Francisque de fer ancien <br> 5 points d'instance SH HM"
   },
   {
     "_type": "arme_melee",
@@ -2567,7 +2567,7 @@
     "sagesse_req": 23,
     "degats_min": 26,
     "degats_max": 44,
-    "vitesse": 0,
+    "vitesse": 1.125,
     "prix": 25000,
     "prix_detail": null,
     "informations": "+5 Force",
@@ -2697,7 +2697,7 @@
     "prix": 0,
     "prix_detail": null,
     "informations": "Cap dex : 216 <br> +50% attaque <br> +15 coup puissant <br> +3 parade",
-    "obtention": "L'Arcaniste (Draconis Sanctum)"
+    "obtention": "L'Arcaniste (Draconis Sanctum) <br> <br> Prix : <br> Spatha barbaresque <br> 100 larmes de dragon <br> 15 000 000 pièces d'or"
   },
   {
     "_type": "arme_melee",
@@ -2715,7 +2715,7 @@
     "prix": 0,
     "prix_detail": null,
     "informations": "Cap dex : 216 <br> +60% attaque <br> +40 force <br> +15 coup puissant <br> +10 coup assommant",
-    "obtention": "L'Arcaniste (Draconis Sanctum)"
+    "obtention": "L'Arcaniste (Draconis Sanctum) <br> <br> Prix : <br> Spatha barbaresque <br> 100 larmes de dragon <br> 15 000 000 pièces d'or"
   },
   {
     "_type": "arme_melee",
@@ -2733,7 +2733,7 @@
     "prix": 0,
     "prix_detail": null,
     "informations": "Cap dex : 216 <br> +50% attaque <br> +15 coup puissant <br> +10 coup assommant",
-    "obtention": "L'Arcaniste (Draconis Sanctum)"
+    "obtention": "L'Arcaniste (Draconis Sanctum) <br> <br> Prix : <br> Spatha barbaresque <br> 100 larmes de dragon <br> 15 000 000 pièces d'or"
   },
   {
     "_type": "arme_melee",
@@ -2787,7 +2787,7 @@
     "prix": 0,
     "prix_detail": null,
     "informations": "Cap dex : 300 <br> +50% en Attaque <br> +45 dextérité <br> Lance un sort qui aspire la vie de la cible : influencé par la force, l'endurance et la puissance nécro du lanceur et la résistance nécro de la cible.",
-    "obtention": "PNJ (Entrée de l'instance SH)"
+    "obtention": "PNJ (Entrée de l'instance SH) <br> <br> Prix : X points d'instance SH HM"
   },
   {
     "_type": "arme_melee",
@@ -5288,8 +5288,8 @@
     "vitesse": 0.835,
     "prix": 0,
     "prix_detail": null,
-    "informations": "Cap dex : 216<br>+15% attaque<br> +5% intelligence",
-    "obtention": "S'obtient via la quête de la <br> Indropable"
+    "informations": "Cap dex : 216 <br> +15% attaque <br> +5% intelligence",
+    "obtention": "S'obtient via la quête de la <a href=\"https://www.t4c-neerya.com/wiki/quetes/beyond_the_kingdom/secondaire/lame_de_saphir\">Lame de Saphir</a> <br> Indropable"
   },
   {
     "_type": "arme_melee",
@@ -5739,7 +5739,7 @@
     "prix": 0,
     "prix_detail": null,
     "informations": "+20 en intelligence <br> +20 en sagesse",
-    "obtention": ": Mage rôdeur (Raven's Dust)"
+    "obtention": "<a href=\"https://www.t4c-neerya.com/wiki/quetes/beyond_the_kingdom/principales/accueil\">Quête BtK</a> : Mage rôdeur (Raven's Dust)"
   },
   {
     "_type": "arme_melee",
@@ -5991,7 +5991,7 @@
     "prix": 0,
     "prix_detail": null,
     "informations": "+5 en intelligence",
-    "obtention": ""
+    "obtention": "<a href=\"https://www.t4c-neerya.com/wiki/quetes/arakas/autres/ailes_de_chauve_souris\">Quête des ailes de chauve-souris</a>"
   },
   {
     "_type": "arme_melee",

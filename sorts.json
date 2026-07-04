@@ -1071,7 +1071,7 @@
     "pc": 33,
     "prix": 99632,
     "informations": "Élément : Lumière, type : Physique\nProtège le lanceur de sorts de toutes blessures mortelles durant 1 minute.\nAttention au contrecoup vous empêchant de lancer des sorts.\n+25 000 CA et +50 000 toutes résistances",
-    "obtention": "Évêque Crowbanner (Île du Roy, RD)",
+    "obtention": "Évêque Crowbanner (Île du Roy, RD - accès via <em>Un marin</em> au port de SS)",
     "_type": "sort"
   },
   {
@@ -1163,7 +1163,7 @@
     "pc": 35,
     "prix": 110825,
     "informations": "Élément : Lumière, type : Mental\nSoigne la cible d'importantes blessures.\nLe soin dépend de la sagesse et de la puissance Lumière du lanceur.",
-    "obtention": "Évêque Crowbanner (Île du Roy, RD)",
+    "obtention": "Évêque Crowbanner (Île du Roy, RD - accès via <em>Un marin</em> au port de SS)",
     "_type": "sort"
   },
   {
@@ -1673,7 +1673,7 @@
     ],
     "pc": 0,
     "prix": "Rune de Transe curative (résilience)\n(récompense instance AR)",
-    "informations": "Élément : Lumière, type : Physique\nPendant la durée du sort, vous obtenez des chances d'être guéris d'un montant de points de vie égal à votre endurance boostée.\nNécessite 250 en endurance pour être appris en plus de ses stats initiales.",
+    "informations": "Élément : Lumière, type : Physique\nPendant la durée du sort, vous obtenez [4 + la valeur boostée en compétence guérison rapide divisée par 100%] de chances lorsque vous êtes touchés d'être guéris d'un montant de points de vie égal à votre endurance boostée.\n<strong>Nécessite 250 en endurance pour être appris en plus de ses stats initiales.</strong>",
     "_type": "sort",
     "obtention": "Maître des runes (Orkanis)"
   },
@@ -2071,7 +2071,7 @@
     ],
     "pc": 0,
     "prix": "Rune de Bourrasque (perçemagie)\n(récompense AR HM)",
-    "informations": "Élément : Air, type : Mental\nInvoque une puissante rafale d'air qui emporte votre ennemi.\nLa rune perçemagie donne 10% de chance de retirer 10% de résistance air à votre cible en l'attaquant.",
+    "informations": "Élément : Air, type : Mental\nInvoque une puissante rafale d'air qui emporte votre ennemi.\nLa rune perçemagie <strong>donne 10% de chance de retirer 10% de résistance air</strong> à votre cible en l'attaquant.",
     "_type": "sort",
     "obtention": "Maître des runes (Orkanis)"
   },
@@ -2148,7 +2148,7 @@
     ],
     "pc": 38,
     "prix": 350000,
-    "informations": "Élément : Lumière, type : Physique\nAugmente intelligence, sagesse, force, dextérité, attaque, archerie et esquive de 5%.\nDurée : 5 minutes.",
+    "informations": "Élément : Lumière, type : Physique\nAugmente intelligence, sagesse, force, dextérité, attaque, archerie et esquive de 5%.\nDurée : 5 minutes.\n<strong>Apprentissage possible de forteresse solaire <em>et</em> lunaire mais <em>seul un sort peut être actif</em> : vous avez la possibilité d'échanger à volonté la version <em>non runée</em> (sans l'amélioration <em>transfert</em>) de l'un ou l'autre sort auprès de Malkéas à Grim Hawk (50,797,6).</strong>",
     "obtention": "Yéti Solitaire (Grotte d'Agatha l'Ermite)",
     "_type": "sort"
   },
@@ -2167,7 +2167,7 @@
     ],
     "pc": 0,
     "prix": "Rune de Forteresse solaire (transfert)\n(3 bons SH HM)",
-    "informations": "Élément : Lumière, type : Physique\nAugmente attaque, archerie et esquive de 16%.\nAugmente intelligence, sagesse, force et dextérité de 5%.",
+    "informations": "Élément : Lumière, type : Physique\nAugmente attaque, archerie et esquive de 16%.\nAugmente intelligence, sagesse, force et dextérité de 5%.\n<strong>L'échange entre les sorts 'forteresse solaire' et 'forteresse lunaire' ne fonctionne que sur les versions <em>non runées</em> de ces derniers. Soyez donc vigilants dans votre choix d'apprentissage avant d'améliorer votre sort de forteresse.</strong>",
     "_type": "sort",
     "obtention": "Maître des runes (Orkanis)"
   },
@@ -2186,7 +2186,7 @@
     ],
     "pc": 38,
     "prix": 350000,
-    "informations": "Élément : Eau, type : Physique\nAugmente intelligence, sagesse, force, dextérité, attaque, archerie et esquive de 5%.\nDurée : 5 minutes.",
+    "informations": "Élément : Eau, type : Physique\nAugmente intelligence, sagesse, force, dextérité, attaque, archerie et esquive de 5%.\nDurée : 5 minutes.\n<strong>Apprentissage possible de forteresse solaire <em>et</em> lunaire mais <em>seul un sort peut être actif</em> : vous avez la possibilité d'échanger à volonté la version <em>non runée</em> (sans l'amélioration <em>transfert</em>) de l'un ou l'autre sort auprès de Malkéas à Grim Hawk (50,795,6).</strong>",
     "obtention": "Malkéas (Tour des Mages de Spellshore)",
     "_type": "sort"
   },
@@ -2205,7 +2205,7 @@
     ],
     "pc": 38,
     "prix": "Rune de Forteresse lunaire (transfert)\n(3 bons SH HM)",
-    "informations": "Élément : Eau, type : Physique\nAugmente intelligence, force, dextérité de 10%.\nLe bonus de 5% en sagesse, attaque, archerie et esquive est supprimé.",
+    "informations": "Élément : Eau, type : Physique\nAugmente intelligence, force, dextérité de 10%.\nLe bonus de 5% en sagesse, attaque, archerie et esquive est supprimé.\n<strong>L'échange entre les sorts 'forteresse solaire' et 'forteresse lunaire' ne fonctionne que sur les versions <em>non runées</em> de ces derniers. Soyez donc vigilants dans votre choix d'apprentissage avant d'améliorer votre sort de forteresse.</strong>",
     "_type": "sort",
     "obtention": "Maître des runes (Orkanis)"
   },
@@ -2259,7 +2259,7 @@
     ],
     "pc": 25,
     "prix": 368254,
-    "informations": "Élément : Nécromancie, type : Mental\nLance une messe noire qui sacrifie initialement une portion de vos points de vie (-25% PV)\nVous rend très vulnérable à la Lumière (-95% résistance lumière) et au Feu\nDurée : 10 minutes",
+    "informations": "Élément : Nécromancie, type : Mental\nLance une messe noire qui sacrifie initialement une portion de vos points de vie (-25% PV)\nVous rend très vulnérable à la Lumière (-95% résistance lumière) et au Feu\nVous perdez -25% puissance lumière et -25% puissance feu\nBonus à votre puissance et résistance nécro basé sur votre intelligence/35\nDurée : 10 minutes",
     "obtention": "La Goule (Les égouts de Spellshore)",
     "_type": "sort"
   },
@@ -2472,7 +2472,7 @@
     "prerequis": [],
     "pc": 45,
     "prix": 515572,
-    "informations": "Élément : Nécromancie, type : Physique\nManipulation de votre sang pour rechercher de la puissance au prix d'un saignement continu.\nNécessite 170 en endurance pour être appris en plus de ses stats initiales.",
+    "informations": "Élément : Nécromancie, type : Physique\nManipulation de votre sang pour rechercher de la puissance au prix d'un saignement continu.\n(perte régulière de points de vie égale au boost d'intelligence)\nGain :\n* 20% de votre endurance boostée en intelligence si endurance entre 170 et 199\n* 33% de votre endurance boostée en intelligence si endurance entre 200 et 249\n* 50% de votre endurance boostée en intelligence si endurance entre 250 et 400\nDurée : 2 minutes\n<strong>Nécessite 170 en endurance pour être appris en plus de ses stats initiales.</strong>",
     "obtention": "Yazîd l'anachorète (Blackgold)",
     "_type": "sort"
   },

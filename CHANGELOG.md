@@ -2,6 +2,9 @@
 
 Toutes les modifications notables de ce projet sont documentées ici.
 
+## Beta 0.039
+- Audit complet des fichiers de données (`arcs`, `armures`, `bijoux`, `mêlée`, `robes`, `sorts`, `compétences`, `capes`) contre leurs sources wiki : restauration de mise en forme (`<strong>`/`<em>`) et de liens de quête manquants, correction de valeurs de colonnes et de champs "Obtention" tronqués (matériaux d'amélioration, clauses de sorts, formules).
+
 ## Beta 0.038
 - Le lien "Changelog" de l'en-tête pointe maintenant vers `CHANGELOG.md` au lieu de l'historique des commits.
 

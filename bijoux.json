@@ -491,7 +491,7 @@
     "intelligence_req": 20,
     "sagesse_req": 25,
     "ca": 5.0,
-    "informations": "Nécessite 500 attaque +100 attaque +40 coup puissant",
+    "informations": "<em>Nécessite 500 attaque</em> +100 attaque +40 coup puissant",
     "obtention": "Champion centaure (Stoneheim)"
   },
   {
@@ -761,7 +761,7 @@
     "intelligence_req": 280,
     "sagesse_req": 280,
     "ca": 3.0,
-    "informations": "+15 puissance lumière +15 puissance nécromancie +20 sagesse +20 intelligence Lance un sort lorsque vous êtes touché. Pouvoir de l'éclipse : Élément : lumière Pendant un court instant, votre sagesse et votre puissance lumière augmentent au détriment de votre intelligence et de votre puissance nécromancie.",
+    "informations": "+15 puissance lumière +15 puissance nécromancie +20 sagesse +20 intelligence Lance un sort lorsque vous êtes touché. Pouvoir de l'éclipse : <em>Élément : lumière</em> Pendant un court instant, votre sagesse et votre puissance lumière augmentent au détriment de votre intelligence et de votre puissance nécromancie.",
     "obtention": "L'Arcaniste (Draconis Sanctum) Prix : Anneau d'orichalque 4 000 000 pièces d'or 35 larmes de dragon 4 potion de focalisation"
   },
   {
@@ -986,7 +986,7 @@
     "intelligence_req": 30,
     "sagesse_req": 30,
     "ca": 5.0,
-    "informations": "Nécessite 300 attaque +5 dégâts 6% chance de lancer une guérion de 100 points de vie. Prérequis (pour le proc de guérison) : - Endurance : inférieur à 125 (124 ou moins) - Personnage : niveau 100 et plus",
+    "informations": "<strong>Nécessite 300 attaque</strong> +5 dégâts 6% chance de lancer une guérion de 100 points de vie. Prérequis (pour le proc de guérison) : - Endurance : inférieur à 125 (124 ou moins) - Personnage : niveau 100 et plus",
     "obtention": "Amélioration d'instance Lieux : Raven's Dust Mode : Normal Prix : Torque terni 2 crédits instance RD NM"
   },
   {
@@ -1076,7 +1076,7 @@
     "intelligence_req": 40,
     "sagesse_req": 40,
     "ca": 10.0,
-    "informations": "Nécessite 500 attaque +50 attaque +50 archerie +40 coup assommant +15 coup puissant +40 transpercer l'armure +10 guérison rapide +10 parade",
+    "informations": "<strong>Nécessite 500 attaque</strong> +50 attaque +50 archerie +40 coup assommant +15 coup puissant +40 transpercer l'armure +10 guérison rapide +10 parade",
     "obtention": "Lord Stonecrest (Stoneheim) Thokam (Firesky)"
   },
   {
@@ -1451,7 +1451,7 @@
     "intelligence_req": 0,
     "sagesse_req": 0,
     "ca": 10.0,
-    "informations": "Nécessite 300 attaque +30 résistance air -15 résistance terre",
+    "informations": "<em>Nécessite 300 attaque</em> +30 résistance air -15 résistance terre",
     "obtention": "Assassin obsidien (Stoneheim)"
   },
   {
@@ -1466,7 +1466,7 @@
     "intelligence_req": 0,
     "sagesse_req": 0,
     "ca": 10.0,
-    "informations": "Nécessite 300 attaque +30 résistance terre -15 résistance Air",
+    "informations": "<em>Nécessite 300 attaque</em> +30 résistance terre -15 résistance Air",
     "obtention": "Protecteur temporel (Zone Oracle)"
   },
   {
@@ -1481,7 +1481,7 @@
     "intelligence_req": 0,
     "sagesse_req": 0,
     "ca": 10.0,
-    "informations": "Nécessite 300 attaque +30 résistance feu -15 résistance eau",
+    "informations": "<em>Nécessite 300 attaque</em> +30 résistance feu -15 résistance eau",
     "obtention": "Gecko sulfureux (Stoneheim)"
   },
   {
@@ -1496,7 +1496,7 @@
     "intelligence_req": 0,
     "sagesse_req": 0,
     "ca": 10.0,
-    "informations": "Nécessite 300 attaque +30 résistance à l'eau -15 résistance au feu",
+    "informations": "<em>Nécessite 300 attaque</em> +30 résistance à l'eau -15 résistance au feu",
     "obtention": "Rejeton du Chaos (Stoneheim)"
   },
   {
@@ -1511,7 +1511,7 @@
     "intelligence_req": 30,
     "sagesse_req": 30,
     "ca": 10.0,
-    "informations": "Nécessite 400 attaque +10 résistance terre +10 résistance eau +10 résistance feu +10 résistance air -20 résistance nécromancie",
+    "informations": "<em>Nécessite 400 attaque</em> +10 résistance terre +10 résistance eau +10 résistance feu +10 résistance air -20 résistance nécromancie",
     "obtention": "Loup Fenris (Stoneheim)"
   },
   {
@@ -1751,7 +1751,7 @@
     "intelligence_req": 60,
     "sagesse_req": 60,
     "ca": 0.0,
-    "informations": "Nécessite 200 attaque +10 dommages +40 transpercer l'armure +5 coup puissant Lorsque le porteur est attaqué, le bracelet lance des enchevêtrements durant 5 secondes",
+    "informations": "<em>Nécessite 200 attaque</em> +10 dommages +40 transpercer l'armure +5 coup puissant Lorsque le porteur est attaqué, le bracelet lance des enchevêtrements durant 5 secondes",
     "obtention": "Coffre Ebon Hold (Grim Hawk)"
   },
   {
@@ -1766,7 +1766,7 @@
     "intelligence_req": 80,
     "sagesse_req": 65,
     "ca": 2.0,
-    "informations": "+1 toutes puissances +15 intelligence +15 sagesse Gemme des cultistes: Encombrement: 1 Une fois les gemmes mises en macro et activées (ou par double clic dans le sac), confère, pour une durée de 2 minutes: +1 à toutes les puissances magiques par gemme dans l'inventaire (avec un maximum de 20 gemmes prises en compte pour un total de +20 à toutes les puissances magiques). Consomme une gemme par activation. Le bracelet des cultistes doit être équipé.",
+    "informations": "+1 toutes puissances +15 intelligence +15 sagesse <strong>Gemme des cultistes</strong>: Encombrement: 1 Une fois les gemmes mises en macro et activées (ou par double clic dans le sac), confère, pour une durée de 2 minutes: +1 à toutes les puissances magiques par gemme dans l'inventaire (avec un maximum de 20 gemmes prises en compte pour un total de +20 à toutes les puissances magiques). Consomme une gemme par activation. Le bracelet des cultistes doit être équipé.",
     "obtention": "Coffres des Égouts de Spellshore (Grim Hawk)"
   },
   {
@@ -2021,7 +2021,7 @@
     "intelligence_req": 0,
     "sagesse_req": 0,
     "ca": 0.0,
-    "informations": "Nécessite 100 attaque +15 guérison rapide Donne un buff de régénération de points de vie.",
+    "informations": "<strong>Nécessite 100 attaque</strong> +15 guérison rapide Donne un buff de régénération de points de vie.",
     "obtention": "Monstres d'instance RD NM"
   },
   {
@@ -2036,7 +2036,7 @@
     "intelligence_req": 0,
     "sagesse_req": 0,
     "ca": 0.0,
-    "informations": "Nécessite 100 attaque +15 guérison rapide Donne un buff de régénération de points de vie (amélioré).",
+    "informations": "<strong>Nécessite 100 attaque</strong> +15 guérison rapide Donne un buff de régénération de points de vie (amélioré).",
     "obtention": "5 bons instance RD HM"
   },
   {
@@ -2051,7 +2051,7 @@
     "intelligence_req": 0,
     "sagesse_req": 0,
     "ca": 0.0,
-    "informations": "Réunion de gemmes de soutien : Vent ardent + étincelle ardente + givre ardent + fétiche de vitalité Mêmes bonus que les Ardents (entre +2 et +15 à chaque résistance et entre +20 et +150 points de vie). Le jet aléatoire se fait au lancement de la gemme. Le PNJ prendra vos gemmes et vous donnera un Kaléidoscope enchanté (poids de 5) Durée : 2m30s Cooldown : 5m00s",
+    "informations": "Réunion de gemmes de soutien : Vent ardent + étincelle ardente + givre ardent + fétiche de vitalité Mêmes bonus que les Ardents (entre +2 et +15 à chaque résistance et entre +20 et +150 points de vie). Le jet aléatoire se fait au lancement de la gemme. Le PNJ prendra vos gemmes et vous donnera un <em>Kaléidoscope enchanté</em> (poids de 5) Durée : 2m30s Cooldown : 5m00s",
     "obtention": "Instance de Stoneheim 5 points d'instance SH HM Attention : ce n'est pas une orbe"
   },
   {
@@ -2321,7 +2321,7 @@
     "intelligence_req": 0,
     "sagesse_req": 0,
     "ca": 0.0,
-    "informations": "Fonctionne si l'armure est complètement équipée : Durée du bonus : 2 minutes Bonus (s'active lorsque vous attaquez) : +50 force +50 dextérité +250 attaque +10 toutes résistances +20 coup puissant +15 chance +2.5% PV régénéré",
+    "informations": "<strong>Fonctionne si l'armure est complètement équipée :</strong> Durée du bonus : 2 minutes Bonus (s'active lorsque vous attaquez) : +50 force +50 dextérité +250 attaque +10 toutes résistances +20 coup puissant +15 chance +2.5% PV régénéré",
     "obtention": "Coffres (Ebon Hold)"
   },
   {
@@ -2336,7 +2336,7 @@
     "intelligence_req": 0,
     "sagesse_req": 0,
     "ca": 0.0,
-    "informations": "Fonctionne si l'armure est complètement équipée : Durée du bonus : 2 minutes Bonus (s'active lorsque vous attaquez) : +50 force +50 dextérité +250 archerie +15 toutes résistances +20 coup puissant +15 chance +2.5% PV régénéré",
+    "informations": "<strong>Fonctionne si l'armure est complètement équipée :</strong> Durée du bonus : 2 minutes Bonus (s'active lorsque vous attaquez) : +50 force +50 dextérité +250 archerie +15 toutes résistances +20 coup puissant +15 chance +2.5% PV régénéré",
     "obtention": "Coffres (Ebon Hold)"
   },
   {
@@ -2351,7 +2351,7 @@
     "intelligence_req": 174,
     "sagesse_req": 0,
     "ca": 0.0,
-    "informations": "Fonctionne lorsque sont équipés botte, gant, jambière, ceinture (heaume et plastron non requis) : Durée du bonus : 2 minutes Bonus (s'active lorsque vous attaquez) : +50 intelligence ou sagesse (selon stat pur la + haute) +20 toutes puissances +10 chance +3% PM régénère",
+    "informations": "<strong>Fonctionne lorsque sont équipés botte, gant, jambière, ceinture (heaume et plastron non requis) :</strong> Durée du bonus : 2 minutes Bonus (s'active lorsque vous attaquez) : +50 intelligence ou sagesse (selon stat pur la + haute) +20 toutes puissances +10 chance +3% PM régénère",
     "obtention": "Coffres (Ebon Hold)"
   },
   {

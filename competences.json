@@ -9,7 +9,7 @@
     "intelligence_req": 0,
     "sagesse_req": 0,
     "conditions": null,
-    "description": "Compétence passive Détermine si une flèche atteint ou non sa cible. Cette compétence n'a aucune limite maximale d'entraînement.",
+    "description": "<em>Compétence passive</em> Détermine si une flèche atteint ou non sa cible. Cette compétence n'a aucune limite maximale d'entraînement.",
     "apprentissage": "Innée",
     "entraînement": "Karl (WH) Baldric Iraelis (SS) Morindin Tenglow (Bois de RD) Steelblade Delnar (SC) Ealmund Swiftblade (SSH) Prix : 15 pièces d'or par point",
     "niveau": 1
@@ -24,7 +24,7 @@
     "intelligence_req": 0,
     "sagesse_req": 0,
     "conditions": null,
-    "description": "Compétence passive Détermine si une attaque physique faite avec une arme de mêlée atteint ou non sa cible. Cette compétence n'a aucune limite maximale d'entraînement.",
+    "description": "<em>Compétence passive</em> Détermine si une attaque physique faite avec une arme de mêlée atteint ou non sa cible. Cette compétence n'a aucune limite maximale d'entraînement.",
     "apprentissage": "Innée",
     "entraînement": "Murmuntag, Ortanalas (LH) Karl, Garnir (WH) Darren Ironstrife, Doremas (SS) Eldrig, Steelblade Delnar (SC) Ealmund Swiftblade (SSH) Prix : 10 pièces d'or par point",
     "niveau": 1
@@ -39,7 +39,7 @@
     "intelligence_req": 25,
     "sagesse_req": 0,
     "conditions": null,
-    "description": "Compétence active, 100 points maximum Permet de détecter les objets et personnes invisibles ou cachés. Influencée par la sagesse et l'intelligence",
+    "description": "<em>Compétence active, 100 points maximum</em> Permet de détecter les objets et personnes invisibles ou cachés. Influencée par la sagesse et l'intelligence",
     "apprentissage": "Chryseida Yolangda (SC) Prix : 2 500 pièces d'or",
     "entraînement": "Chryseida Yolangda (SC) Prix : 250 pièces d'or par point",
     "niveau": 20
@@ -54,7 +54,7 @@
     "intelligence_req": 0,
     "sagesse_req": 0,
     "conditions": null,
-    "description": "Compétence passive, 100 points maximum Capacité à immobiliser sa cible quelques fractions de seconde à chaque coup réussi d'une attaque physique Chance de coup assommant = (0.1% par points) x (vitesse d'arme en ms /1000)",
+    "description": "<em>Compétence passive, 100 points maximum</em> Capacité à immobiliser sa cible quelques fractions de seconde à chaque coup réussi d'une attaque physique Chance de coup assommant = (0.1% par points) x (vitesse d'arme en ms /1000)",
     "apprentissage": "Jagar Kar (LH) Arganor Iargh (WH) Prix : 150 pièces d'or",
     "entraînement": "Ortanalas (LH) Garnir (WH) Ealmund Swiftblade (SSH) Prix : 20 pièces d'or par point",
     "niveau": 3
@@ -69,7 +69,7 @@
     "intelligence_req": 0,
     "sagesse_req": 0,
     "conditions": null,
-    "description": "Compétence active, 100 points maximum Permet de fouiller dans le sac d'autres personnes. Vous pouvez être pris(e) la main dans le sac! Influencée par la dextérité et la différence de niveaux entre la cible et vous",
+    "description": "<em>Compétence active, 100 points maximum</em> Permet de fouiller dans le sac d'autres personnes. Vous pouvez être pris(e) la main dans le sac! Influencée par la dextérité et la différence de niveaux entre la cible et vous",
     "apprentissage": "Jagar Kar (LH) Arganor Iargh (WH) Prix : 150 pièces d'or",
     "entraînement": "Ortanalas (LH) Garnir (WH) Prix : 20 pièces d'or par point",
     "niveau": 5
@@ -84,7 +84,7 @@
     "intelligence_req": 0,
     "sagesse_req": 0,
     "conditions": null,
-    "description": "Compétence passive, 100 points maximum Rend chaque attaque physique réussie plus puissante. Influencée par la dextérité et la force Augmente les dégâts de chaque coup infligé de 0.2% par points dans la compétence",
+    "description": "<em>Compétence passive, 100 points maximum</em> Rend chaque attaque physique réussie plus puissante. Influencée par la dextérité et la force Augmente les dégâts de chaque coup infligé de 0.2% par points dans la compétence",
     "apprentissage": "Jagar Kar (LH) Arganor Iargh (WH) Prix : 2 500 pièces d'or",
     "entraînement": "Oranalas (LH) Garnir (WH) Ealmund Swiftblade (SSH) Prix : 50 pièces d'or par point",
     "niveau": 15
@@ -99,7 +99,7 @@
     "intelligence_req": 0,
     "sagesse_req": 0,
     "conditions": null,
-    "description": "Compétence active, 100 points maximum Capacité à ouvrir un coffre, une porte ou tout autre objet verrouillé. Inutilisable sur les coffres de quêtes, influencée par la dextérité",
+    "description": "<em>Compétence active, 100 points maximum</em> Capacité à ouvrir un coffre, une porte ou tout autre objet verrouillé. Inutilisable sur les coffres de quêtes, influencée par la dextérité",
     "apprentissage": "Lyria (Ville des voleurs, AR) Prix : 1 600 pièces d'or",
     "entraînement": "Lyria (Ville des voleurs, AR) Le Fouineur (WH) Prix : 100 pièces d'or par point",
     "niveau": 12
@@ -114,7 +114,7 @@
     "intelligence_req": 20,
     "sagesse_req": 0,
     "conditions": null,
-    "description": "Compétence active, 100 points maximum La nuit cette compétence rend invisible à condition de rester immobile. Peut être utilisée conjointement à Se faufiler pour pouvoir se déplacer discrètement. Elle permet de cacher des objets dans son inventaire et à terre! Influencée par la dextérité et le milieu extérieur",
+    "description": "<em>Compétence active, 100 points maximum</em> La nuit cette compétence rend invisible à condition de rester immobile. Peut être utilisée conjointement à <em>Se faufiler</em> pour pouvoir se déplacer discrètement. Elle permet de cacher des objets dans son inventaire et à terre! Influencée par la dextérité et le milieu extérieur",
     "apprentissage": "Meltar Winterstorm (Afin d'activer le dialogue avec Meltar Winterstorm, il faut préalablement avoir dit le mot-clef “se cacher” à la marchande de potions de Stonecrest) (Repaire des voleurs de SC) Prix : 1 325 pièces d'or",
     "entraînement": "Morindin Tenglow (Bois de RD) Roen Greenleaf (SH) Prix : 25 pièces d'or par point",
     "niveau": 50
@@ -129,7 +129,7 @@
     "intelligence_req": 0,
     "sagesse_req": 0,
     "conditions": null,
-    "description": "Compétence passive Détermine si une attaque en mêlée ou alignée sera évitée ou non. Cette compétence n'a aucune limite maximale d'entraînement.",
+    "description": "<em>Compétence passive</em> Détermine si une attaque en mêlée ou alignée sera évitée ou non. Cette compétence n'a aucune limite maximale d'entraînement.",
     "apprentissage": "Innée",
     "entraînement": "Kalastor (LH) Le Fouineur (WH) Doremas, Baldric Iraelis (SS) Morindin Tenglow (Bois de RD) Mirywen Featherfoot, Steelblade Delnar (SC) Ealmund Swiftblade (SSH) Prix : 10 pièces d'or par point",
     "niveau": 1
@@ -144,7 +144,7 @@
     "intelligence_req": 0,
     "sagesse_req": 0,
     "conditions": null,
-    "description": "Compétence passive, 100 points maximum Augmente la vitesse de récupération des points de vie. Influencée par l'endurance (par paliers de 160). Augmente le taux du déclenchement du soin de Transe curative (résilience). Guérison rapide = un jet de dé de l'​endurance * 0.15% par point toutes les 5 secondes. Pour un personnage avec 160 en endurance et guérison rapide à 54 la formule sera : 1 dé de : (160 x 0.15%) x 0.54 = 1D13 points de vie gagnés toutes les 5 secondes.",
+    "description": "<em>Compétence passive, 100 points maximum</em> Augmente la vitesse de récupération des points de vie. Influencée par l'endurance (par paliers de 160). Augmente le taux du déclenchement du soin de Transe curative (résilience). Guérison rapide = un jet de dé de l'​endurance * 0.15% par point toutes les 5 secondes. Pour un personnage avec 160 en endurance et guérison rapide à 54 la formule sera : 1 dé de : (160 x 0.15%) x 0.54 = 1D13 points de vie gagnés toutes les 5 secondes.",
     "apprentissage": "Mhorgwloth le Troll (AR) Worgwolth Trugg (SH, Camp skraug vert) Prix : 5 000 pièces d'or",
     "entraînement": "Mhorgwloth le Troll (AR) Worgwolth Trugg (SH, Camp skraug vert) Prix : 200 pièces d'or par point",
     "niveau": 30
@@ -159,7 +159,7 @@
     "intelligence_req": 30,
     "sagesse_req": 30,
     "conditions": null,
-    "description": "Compétence active, 100 points maximum Augmente la vitesse de récupération de mana. La compétence s'arrête dès que vous bougez. Influencée par la sagesse et l'intelligence (par paliers de 160 points)",
+    "description": "<em>Compétence active, 100 points maximum</em> Augmente la vitesse de récupération de mana. La compétence s'arrête dès que vous bougez. Influencée par la sagesse et l'intelligence (par paliers de 160 points)",
     "apprentissage": "Lantalir Glawtar (Druides, AR) Prix : 3 000 pièces d'or",
     "entraînement": "Lantalir Glawtar (Druides, AR) Prix : 100 pièces d'or par point",
     "niveau": 16
@@ -174,7 +174,7 @@
     "intelligence_req": 20,
     "sagesse_req": 0,
     "conditions": null,
-    "description": "Compétence passive, 100 points maximum Permet à un personnage de dévier les attaques physiques en parant avec son arme et/ou son bouclier. Influencée par la surface de l'arme et la présence d'un bouclier Chance de parade = (0.5% par point) x (% de parade arme + % de parade bouclier)",
+    "description": "<em>Compétence passive, 100 points maximum</em> Permet à un personnage de dévier les attaques physiques en parant avec son arme et/ou son bouclier. Influencée par la surface de l'arme et la présence d'un bouclier Chance de parade = (0.5% par point) x (% de parade arme + % de parade bouclier)",
     "apprentissage": "Arganor Iargh (WH) Morindin Tenglow (Bois de RD) Prix : 900 pièces d'or",
     "entraînement": "Garnir (WH) Doremas (SS) Morindin Tenglow (Bois de RD) Ealmund Swiftblade (SSH) Prix : 75 pièces d'or par point",
     "niveau": 10
@@ -189,7 +189,7 @@
     "intelligence_req": 0,
     "sagesse_req": 0,
     "conditions": "<a href=\"https://www.t4c-neerya.com/wiki/quetes/grim_hawk/autres/fitz_oeil_de_nuit\" class=\"wikilink1\" title=\"quetes:grim_hawk:autres:fitz_oeil_de_nuit\">Quête de Fitz Oeil-de-Nuit (GH)</a>",
-    "description": "Compétence active, 100 points maximum Pille la tombe d'un joueur mort (et donne une chance d'avoir un objet aléatoire qu'il possédait dans son inventaire). Influencée par l'écart de niveau entre les 2 joueurs",
+    "description": "<em>Compétence active, 100 points maximum</em> Pille la tombe d'un joueur mort (et donne une chance d'avoir un objet aléatoire qu'il possédait dans son inventaire). Influencée par l'écart de niveau entre les 2 joueurs",
     "apprentissage": "Fitz Oeil-de-Nuit (GH) Prix : 12 500 pièces d'or",
     "entraînement": "Fitz Oeil-de-Nuit (GH) Prix : 125 pièces d'or par point",
     "niveau": 1
@@ -204,7 +204,7 @@
     "intelligence_req": 20,
     "sagesse_req": 20,
     "conditions": null,
-    "description": "Compétence active, 100 points maximum Capacité à soigner certaines blessures à condition d'avoir des bandelettes de momies dans l'inventaire. La réussite n'est pas systématique et la tentative peut aggraver la blessure",
+    "description": "<em>Compétence active, 100 points maximum</em> Capacité à soigner certaines blessures à condition d'avoir des bandelettes de momies dans l'inventaire. La réussite n'est pas systématique et la tentative peut aggraver la blessure",
     "apprentissage": "Morindin Tenglow (Bois de RD) Roen Greenleaf (SH) Prix : 1 000 pièces d'or",
     "entraînement": "Morindin Tenglow (Bois de RD) Roen Greenleaf (SH) Prix : 30 pièces d'or par point",
     "niveau": 25
@@ -219,7 +219,7 @@
     "intelligence_req": 0,
     "sagesse_req": 50,
     "conditions": "<a href=\"https://www.t4c-neerya.com/wiki/quetes/grim_hawk/karma/agatha_l_ermite\" class=\"wikilink1\" title=\"quetes:grim_hawk:karma:agatha_l_ermite\">Quête d'Agatha l'Ermite (GH)</a>",
-    "description": "Compétence active, 100 points maximum Ramène à la vie le joueur ciblé. Cette compétence permet de récupérer l'or perdu (dont une partie va à l'utilisateur de la compétence). Immobilisation entre 5 à 10 secondes. Influencée par la sagesse et l'écart de niveaux entre les 2 joueurs",
+    "description": "<em>Compétence active, 100 points maximum</em> Ramène à la vie le joueur ciblé. Cette compétence permet de récupérer l'or perdu (dont une partie va à l'utilisateur de la compétence). Immobilisation entre 5 à 10 secondes. Influencée par la sagesse et l'écart de niveaux entre les 2 joueurs",
     "apprentissage": "Agatha l'Ermite (GH) Prix : 25 000 pièces d'or",
     "entraînement": "Agatha l'Ermite (GH) Prix : 250 pièces d'or par point",
     "niveau": 75
@@ -234,7 +234,7 @@
     "intelligence_req": 0,
     "sagesse_req": 0,
     "conditions": null,
-    "description": "Compétence active, 100 points maximum Utilisé conjointement avec Dissimulation, cette compétence permet de se déplacer sans être repéré(e). Influencée par la dextérité et le milieu extérieur",
+    "description": "<em>Compétence active, 100 points maximum</em> Utilisé conjointement avec <em>Dissimulation</em>, cette compétence permet de se déplacer sans être repéré(e). Influencée par la dextérité et le milieu extérieur",
     "apprentissage": "Dantalir le barde (Repaire des voleurs de SC) Prix : 2 500 pièces d'or",
     "entraînement": "Dantalir le barde (Repaire des voleurs de SC) Prix : 100 pièces d'or par point",
     "niveau": 50
@@ -249,7 +249,7 @@
     "intelligence_req": 30,
     "sagesse_req": 0,
     "conditions": null,
-    "description": "Compétence passive, 100 points maximum La CA de votre cible est moins prise en compte lors du calcul des dégâts infligés par une attaque physique. Influencée par la dextérité et la force Diminue la prise en compte de la CA de la cible de 0.25% par point. Au delà de 400 points, annule complètement la CA de la cible et augmente les dégâts infligés de 0.25% de la CA de la cible.",
+    "description": "<em>Compétence passive, 100 points maximum</em> La CA de votre cible est moins prise en compte lors du calcul des dégâts infligés par une attaque physique. Influencée par la dextérité et la force Diminue la prise en compte de la CA de la cible de 0.25% par point. Au delà de 400 points, annule complètement la CA de la cible et augmente les dégâts infligés de 0.25% de la CA de la cible.",
     "apprentissage": "Adriana (SS) Prix : 7 500 pièces d'or",
     "entraînement": "Adriana (SS) Rablek Swiftblade (Repaire des voleurs de SC) Ealmund Swiftblade (SSH) Prix : 300 pièces d'or par point",
     "niveau": 25
@@ -264,7 +264,7 @@
     "intelligence_req": 0,
     "sagesse_req": 0,
     "conditions": "25 coup d'oeil",
-    "description": "Compétence active, 100 points maximum Le vol d’objets est interdit par la charte. Cependant, la compétence reste utilisable pour subtiliser des pièces d’or. Permet de dérober un objet dans le sac d'une personne. Vous pouvez être pris(e) la main dans le sac! Influencée par la dextérité et la différence de niveaux entre la cible et vous.",
+    "description": "<em>Compétence active, 100 points maximum</em> <strong>Le vol d’objets est interdit par la charte. Cependant, la compétence reste utilisable pour subtiliser des pièces d’or.</strong> Permet de dérober un objet dans le sac d'une personne. Vous pouvez être pris(e) la main dans le sac! Influencée par la dextérité et la différence de niveaux entre la cible et vous.",
     "apprentissage": "Baldric Iraelis (SS) Prix : 5 000 pièces d'or",
     "entraînement": "Baldric Iraelis (SS) Lightfoot Daran (SC) Prix : 250 pièces d'or par point",
     "niveau": 25
