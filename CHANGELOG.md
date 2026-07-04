@@ -2,6 +2,10 @@
 
 Toutes les modifications notables de ce projet sont documentées ici.
 
+## Beta 0.037
+- Amélioration de l'affichage responsive sur petits écrans (mobile).
+- Ajout d'une règle dans `.gitignore` pour exclure les fichiers de sauvegarde d'`index.html`.
+
 ## Beta 0.036
 - Ajout du README.md et du présent CHANGELOG.md.
 
