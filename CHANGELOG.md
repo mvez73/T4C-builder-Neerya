@@ -2,6 +2,9 @@
 
 Toutes les modifications notables de ce projet sont documentées ici.
 
+## Beta 0.038
+- Le lien "Changelog" de l'en-tête pointe maintenant vers `CHANGELOG.md` au lieu de l'historique des commits.
+
 ## Beta 0.037
 - Amélioration de l'affichage responsive sur petits écrans (mobile).
 - Ajout d'une règle dans `.gitignore` pour exclure les fichiers de sauvegarde d'`index.html`.
