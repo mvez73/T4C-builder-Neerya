@@ -373,7 +373,14 @@
                 <div class="logo">
                     <span class="logo-mark">⚔️</span>T4C Neerya
                 </div>
-                <span style="color: #666; font-size: 12px;">CRÉATEUR DE PERSONNAGE <span style="color: #b8860b;">Beta 0.034</span></span>
+                <div style="text-align: right;">
+                    <span style="color: #666; font-size: 12px;">CRÉATEUR DE PERSONNAGE <span style="color: #b8860b;">Beta 0.035</span></span>
+                    <div style="font-size: 11px; margin-top: 4px;">
+                        <a href="https://github.com/mvez73/T4C-builder-Neerya" target="_blank" rel="noopener noreferrer" style="color: #0099ff; text-decoration: none;">Projet GitHub</a>
+                        <span style="color: #444;"> · </span>
+                        <a href="https://github.com/mvez73/T4C-builder-Neerya/commits/main" target="_blank" rel="noopener noreferrer" style="color: #0099ff; text-decoration: none;">Changelog</a>
+                    </div>
+                </div>
             </div>
         </div>
     </header>
@@ -426,8 +433,8 @@
                     <label for="quete_anwynn">Purification des ruines d'Anwynn (+5 points)</label>
                 </div>
                 <div class="stat-input">
-                    <label for="quete_ebon_hold">Quêtes Ebon Hold complétées (+1 point chacune, niveau 75+)</label>
-                    <input type="number" id="quete_ebon_hold" min="0" max="5" value="0">
+                    <label for="quete_ebon_hold">Quêtes Ebon Hold complétées (+1 point chacune)</label>
+                    <input type="number" id="quete_ebon_hold" min="0" max="5" value="0" placeholder="0">
                 </div>
             </div>
         </div>
@@ -586,9 +593,11 @@
             const eligible = baseLevel >= 75;
 
             queteEbonHoldInput.disabled = !eligible;
-            queteEbonHoldInput.title = eligible ? '' : 'Nécessite un niveau de 75 ou plus';
             if (!eligible) {
-                queteEbonHoldInput.value = 0;
+                queteEbonHoldInput.value = '';
+                queteEbonHoldInput.placeholder = 'Niveau 75+ requis';
+            } else if (queteEbonHoldInput.placeholder !== '0') {
+                queteEbonHoldInput.placeholder = '0';
             }
         }
 
