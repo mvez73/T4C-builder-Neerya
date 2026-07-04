@@ -339,9 +339,13 @@
 
         /* Responsive */
         @media (max-width: 768px) {
-            .stats-group {
-                grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
-                padding: 20px;
+            .container {
+                width: 94%;
+            }
+
+            header {
+                padding: 15px 0;
+                margin-bottom: 20px;
             }
 
             .header-content {
@@ -350,17 +354,84 @@
                 gap: 10px;
             }
 
+            .header-content>div[style] {
+                text-align: center !important;
+            }
+
             .logo {
                 font-size: 20px;
             }
 
+            .stats-container h2 {
+                padding: 16px 18px;
+            }
+
+            .stats-group {
+                flex-wrap: wrap;
+                padding: 18px;
+                gap: 14px;
+            }
+
+            .stat-input,
+            .stat-input:first-child {
+                flex: 1 1 130px;
+            }
+
+            .category-group {
+                padding: 0 18px 20px;
+            }
+
+            .category-group select {
+                width: 100%;
+            }
+
+            #results {
+                overflow-x: auto;
+                -webkit-overflow-scrolling: touch;
+            }
+
             table {
+                min-width: 640px;
                 font-size: 12px;
             }
 
             table th,
             table td {
                 padding: 10px 8px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .logo-mark {
+                font-size: 22px;
+            }
+
+            .stats-container h2 {
+                padding: 14px 16px;
+                font-size: 13px;
+            }
+
+            .stats-group {
+                gap: 10px;
+                padding: 14px;
+            }
+
+            .stat-input,
+            .stat-input:first-child {
+                flex: 1 1 calc(50% - 5px);
+            }
+
+            .stats-container .stats-group:nth-of-type(2) {
+                flex-direction: column;
+                align-items: stretch;
+            }
+
+            .stats-container .stats-group:nth-of-type(2) .stat-input {
+                flex: 1 1 auto;
+            }
+
+            .category-group {
+                padding: 0 14px 18px;
             }
         }
     </style>
@@ -374,11 +445,14 @@
                     <span class="logo-mark">⚔️</span>T4C Neerya
                 </div>
                 <div style="text-align: right;">
-                    <span style="color: #666; font-size: 12px;">CRÉATEUR DE PERSONNAGE <span style="color: #b8860b;">Beta 0.036</span></span>
+                    <span style="color: #666; font-size: 12px;">CRÉATEUR DE PERSONNAGE <span
+                            style="color: #b8860b;">Beta 0.037</span></span>
                     <div style="font-size: 11px; margin-top: 4px;">
-                        <a href="https://github.com/mvez73/T4C-builder-Neerya" target="_blank" rel="noopener noreferrer" style="color: #0099ff; text-decoration: none;">Projet GitHub</a>
+                        <a href="https://github.com/mvez73/T4C-builder-Neerya" target="_blank" rel="noopener noreferrer"
+                            style="color: #0099ff; text-decoration: none;">Projet GitHub</a>
                         <span style="color: #444;"> · </span>
-                        <a href="https://github.com/mvez73/T4C-builder-Neerya/commits/main" target="_blank" rel="noopener noreferrer" style="color: #0099ff; text-decoration: none;">Changelog</a>
+                        <a href="https://github.com/mvez73/T4C-builder-Neerya/commits/main" target="_blank"
+                            rel="noopener noreferrer" style="color: #0099ff; text-decoration: none;">Changelog</a>
                     </div>
                 </div>
             </div>
