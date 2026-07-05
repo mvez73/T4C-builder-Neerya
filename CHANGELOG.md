@@ -2,6 +2,9 @@
 
 Toutes les modifications notables de ce projet sont documentées ici.
 
+## Beta 0.041
+- Le champ "Recherche" adopte maintenant le même style visuel (fond sombre, bordure bleue, focus) que les autres champs du formulaire, au lieu d'un fond blanc par défaut.
+
 ## Beta 0.040
 - Ajout d'un champ "Recherche" au-dessus du tableau permettant de filtrer par n'importe quelle information (nom, conditions, description, obtention, bonus, etc.), avec support des opérateurs ET (espace) et OU (virgule).
 
