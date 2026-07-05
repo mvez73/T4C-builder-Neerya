@@ -331,16 +331,27 @@
 
         table th.sortable:hover {
             color: #33aaff;
+            text-decoration: underline;
         }
 
-        table th .sort-icon {
-            font-size: 9px;
-            opacity: 0.6;
-            margin-left: 2px;
+        table th.sorted-asc,
+        table th.sorted-desc {
+            color: #ffffff;
+            background: rgba(0, 102, 204, 0.35);
         }
 
-        table th.sortable:hover .sort-icon {
-            opacity: 1;
+        table th.sorted-asc::after {
+            content: ' \25B2';
+        }
+
+        table th.sorted-desc::after {
+            content: ' \25BC';
+        }
+
+        .sort-hint {
+            font-size: 12px;
+            color: #b0b0b0;
+            margin-bottom: 10px;
         }
 
         table tbody tr {
@@ -496,7 +507,7 @@
                 </div>
                 <div style="text-align: right;">
                     <span style="color: #666; font-size: 12px;">CRÉATEUR DE PERSONNAGE <span
-                            style="color: #b8860b;">Beta 0.042</span></span>
+                            style="color: #b8860b;">Beta 0.043</span></span>
                     <div style="font-size: 11px; margin-top: 4px;">
                         <a href="https://github.com/mvez73/T4C-builder-Neerya" target="_blank" rel="noopener noreferrer"
                             style="color: #0099ff; text-decoration: none;">Projet GitHub</a>
@@ -908,17 +919,16 @@
                 });
             }
 
-            let html = '<table><thead><tr>';
+            let html = '<div class="sort-hint">Cliquez sur un titre de colonne pour trier (croissant, puis décroissant)</div>';
+            html += '<table><thead><tr>';
             columns.forEach(col => {
                 const label = columnLabels[col] || col;
                 if (nonSortableColumns.includes(col)) {
                     html += `<th>${label}</th>`;
                 } else {
-                    let icon = '⇅';
-                    if (sortColumn === col) {
-                        icon = sortDirection === 'asc' ? '▲' : '▼';
-                    }
-                    html += `<th class="sortable" data-col="${col}">${label} <span class="sort-icon">${icon}</span></th>`;
+                    const isActive = sortColumn === col;
+                    const dirClass = isActive ? (sortDirection === 'asc' ? ' sorted-asc' : ' sorted-desc') : '';
+                    html += `<th class="sortable${dirClass}" data-col="${col}">${label}</th>`;
                 }
             });
             html += '</tr></thead><tbody>';

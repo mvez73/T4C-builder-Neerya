@@ -2,6 +2,9 @@
 
 Toutes les modifications notables de ce projet sont documentées ici.
 
+## Beta 0.043
+- Remplacement de la petite icône de tri (illisible à zoom normal) par un titre de colonne directement cliquable, avec surlignage de la colonne triée et une note explicative au-dessus du tableau.
+
 ## Beta 0.042
 - Ajout du tri par colonne (icône cliquable dans l'en-tête, ordre croissant/décroissant) sur toutes les colonnes sauf Informations, Obtention, Description, Apprentissage et Entraînement.
 
