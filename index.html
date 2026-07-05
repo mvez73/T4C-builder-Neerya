@@ -446,7 +446,7 @@
                 </div>
                 <div style="text-align: right;">
                     <span style="color: #666; font-size: 12px;">CRÉATEUR DE PERSONNAGE <span
-                            style="color: #b8860b;">Beta 0.039</span></span>
+                            style="color: #b8860b;">Beta 0.040</span></span>
                     <div style="font-size: 11px; margin-top: 4px;">
                         <a href="https://github.com/mvez73/T4C-builder-Neerya" target="_blank" rel="noopener noreferrer"
                             style="color: #0099ff; text-decoration: none;">Projet GitHub</a>
@@ -528,6 +528,12 @@
             </select>
         </div>
 
+        <div class="category-group" id="search-group" style="display:none;">
+            <label for="search-input">Recherche</label>
+            <input type="text" id="search-input" placeholder="Ex: puissance lumière, puissance terre">
+            <small>Sépare les mots par un espace (ET). Sépare les groupes par une virgule (OU).</small>
+        </div>
+
         <div id="results"></div>
     </main>
 
@@ -550,6 +556,8 @@
         const categorySelect = document.getElementById('category');
         const capesOption = document.getElementById('option-capes');
         const resultsDiv = document.getElementById('results');
+        const searchGroup = document.getElementById('search-group');
+        const searchInput = document.getElementById('search-input');
 
         // Configuration des classes
         const classes = {
@@ -750,13 +758,46 @@
             return normalized;
         }
 
+        function normalizeText(text) {
+            return text
+                .toString()
+                .toLowerCase()
+                .normalize('NFD')
+                .replace(/[̀-ͯ]/g, '');
+        }
+
+        function getItemSearchText(item) {
+            return normalizeText(Object.values(item)
+                .map(v => Array.isArray(v) ? v.join(' ') : v)
+                .join(' '));
+        }
+
+        function matchesSearch(item, searchValue) {
+            const query = searchValue.trim();
+            if (!query) return true;
+
+            const itemText = getItemSearchText(item);
+
+            // Virgule = OU entre groupes ; espace à l'intérieur d'un groupe = ET
+            const groups = query.split(',').map(g => g.trim()).filter(g => g);
+            if (groups.length === 0) return true;
+
+            return groups.some(group => {
+                const words = normalizeText(group).split(/\s+/).filter(w => w);
+                return words.every(word => itemText.includes(word));
+            });
+        }
+
         async function updateResults() {
             const category = categorySelect.value;
 
             if (!category) {
                 resultsDiv.innerHTML = '';
+                searchGroup.style.display = 'none';
                 return;
             }
+
+            searchGroup.style.display = '';
 
             const data = await loadData(category);
             if (!data) return;
@@ -769,10 +810,11 @@
             const stats = getStats();
             const playerLevel = computeLevelInfo(stats, classeSelect.value, getQuestBonusPoints()).level;
 
-            const filtered = data.filter(item => doesMeetRequirements(item, stats, playerLevel));
+            const searchValue = searchInput.value;
+            const filtered = data.filter(item => doesMeetRequirements(item, stats, playerLevel) && matchesSearch(item, searchValue));
 
             if (filtered.length === 0) {
-                resultsDiv.innerHTML = '<div class="message">Aucun item trouvé avec ces statistiques et ce niveau.</div>';
+                resultsDiv.innerHTML = '<div class="message">Aucun item trouvé avec ces statistiques, ce niveau et cette recherche.</div>';
                 return;
             }
 
@@ -845,6 +887,7 @@
         });
 
         categorySelect.addEventListener('change', updateResults);
+        searchInput.addEventListener('input', updateResults);
 
         // Initialiser avec les valeurs de base d'Humain
         fillStatsWithBase();

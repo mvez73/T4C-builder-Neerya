@@ -2,6 +2,9 @@
 
 Toutes les modifications notables de ce projet sont documentées ici.
 
+## Beta 0.040
+- Ajout d'un champ "Recherche" au-dessus du tableau permettant de filtrer par n'importe quelle information (nom, conditions, description, obtention, bonus, etc.), avec support des opérateurs ET (espace) et OU (virgule).
+
 ## Beta 0.039
 - Audit complet des fichiers de données (`arcs`, `armures`, `bijoux`, `mêlée`, `robes`, `sorts`, `compétences`, `capes`) contre leurs sources wiki : restauration de mise en forme (`<strong>`/`<em>`) et de liens de quête manquants, correction de valeurs de colonnes et de champs "Obtention" tronqués (matériaux d'amélioration, clauses de sorts, formules).
 
