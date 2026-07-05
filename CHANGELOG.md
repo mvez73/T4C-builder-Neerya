@@ -2,6 +2,9 @@
 
 Toutes les modifications notables de ce projet sont documentées ici.
 
+## Beta 0.042
+- Ajout du tri par colonne (icône cliquable dans l'en-tête, ordre croissant/décroissant) sur toutes les colonnes sauf Informations, Obtention, Description, Apprentissage et Entraînement.
+
 ## Beta 0.041
 - Le champ "Recherche" adopte maintenant le même style visuel (fond sombre, bordure bleue, focus) que les autres champs du formulaire, au lieu d'un fond blanc par défaut.
 

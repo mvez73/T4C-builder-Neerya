@@ -321,6 +321,26 @@
             font-size: 11px;
             letter-spacing: 0.5px;
             border-bottom: 1px solid rgba(0, 102, 204, 0.3);
+            white-space: nowrap;
+        }
+
+        table th.sortable {
+            cursor: pointer;
+            user-select: none;
+        }
+
+        table th.sortable:hover {
+            color: #33aaff;
+        }
+
+        table th .sort-icon {
+            font-size: 9px;
+            opacity: 0.6;
+            margin-left: 2px;
+        }
+
+        table th.sortable:hover .sort-icon {
+            opacity: 1;
         }
 
         table tbody tr {
@@ -476,7 +496,7 @@
                 </div>
                 <div style="text-align: right;">
                     <span style="color: #666; font-size: 12px;">CRÉATEUR DE PERSONNAGE <span
-                            style="color: #b8860b;">Beta 0.041</span></span>
+                            style="color: #b8860b;">Beta 0.042</span></span>
                     <div style="font-size: 11px; margin-top: 4px;">
                         <a href="https://github.com/mvez73/T4C-builder-Neerya" target="_blank" rel="noopener noreferrer"
                             style="color: #0099ff; text-decoration: none;">Projet GitHub</a>
@@ -788,6 +808,36 @@
             return normalized;
         }
 
+        // Colonnes non triables (texte libre trop long / peu pertinent à trier)
+        const nonSortableColumns = ['informations', 'obtention', 'description', 'apprentissage', 'entraînement'];
+
+        let sortColumn = null;
+        let sortDirection = 'asc';
+
+        function isNumeric(value) {
+            if (typeof value === 'number') return true;
+            if (typeof value !== 'string' || value.trim() === '') return false;
+            return !isNaN(Number(value.trim()));
+        }
+
+        function compareValues(a, b) {
+            const aEmpty = a === '' || a === null || a === undefined;
+            const bEmpty = b === '' || b === null || b === undefined;
+            if (aEmpty && bEmpty) return 0;
+            if (aEmpty) return 1;
+            if (bEmpty) return -1;
+
+            if (typeof a === 'boolean' || typeof b === 'boolean') {
+                return (a === b) ? 0 : (a ? -1 : 1);
+            }
+
+            if (isNumeric(a) && isNumeric(b)) {
+                return Number(a) - Number(b);
+            }
+
+            return normalizeText(a).localeCompare(normalizeText(b), 'fr');
+        }
+
         function normalizeText(text) {
             return text
                 .toString()
@@ -851,9 +901,25 @@
             // Créer le tableau avec les colonnes de la catégorie
             const columns = categoryColumns[category] || statColumns;
 
+            if (sortColumn && columns.includes(sortColumn)) {
+                filtered.sort((a, b) => {
+                    const result = compareValues(a[sortColumn], b[sortColumn]);
+                    return sortDirection === 'asc' ? result : -result;
+                });
+            }
+
             let html = '<table><thead><tr>';
             columns.forEach(col => {
-                html += `<th>${columnLabels[col] || col}</th>`;
+                const label = columnLabels[col] || col;
+                if (nonSortableColumns.includes(col)) {
+                    html += `<th>${label}</th>`;
+                } else {
+                    let icon = '⇅';
+                    if (sortColumn === col) {
+                        icon = sortDirection === 'asc' ? '▲' : '▼';
+                    }
+                    html += `<th class="sortable" data-col="${col}">${label} <span class="sort-icon">${icon}</span></th>`;
+                }
             });
             html += '</tr></thead><tbody>';
 
@@ -916,8 +982,26 @@
             fillStatsWithBase();
         });
 
-        categorySelect.addEventListener('change', updateResults);
+        categorySelect.addEventListener('change', () => {
+            sortColumn = null;
+            sortDirection = 'asc';
+            updateResults();
+        });
         searchInput.addEventListener('input', updateResults);
+
+        resultsDiv.addEventListener('click', (e) => {
+            const th = e.target.closest('th.sortable');
+            if (!th) return;
+
+            const col = th.dataset.col;
+            if (sortColumn === col) {
+                sortDirection = sortDirection === 'asc' ? 'desc' : 'asc';
+            } else {
+                sortColumn = col;
+                sortDirection = 'asc';
+            }
+            updateResults();
+        });
 
         // Initialiser avec les valeurs de base d'Humain
         fillStatsWithBase();
