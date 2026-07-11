@@ -858,8 +858,9 @@
         }
 
         function getItemSearchText(item) {
-            return normalizeText(Object.values(item)
-                .map(v => Array.isArray(v) ? v.join(' ') : v)
+            return normalizeText(Object.entries(item)
+                .filter(([k]) => k !== '_type')
+                .map(([, v]) => Array.isArray(v) ? v.join(' ') : v)
                 .join(' '));
         }
 
