@@ -2,6 +2,9 @@
 
 Toutes les modifications notables de ce projet sont documentées ici.
 
+## Beta 0.046
+- La quête Ebon Hold utilise maintenant une case à cocher (+5 points) au lieu d'un compteur de quêtes complétées (+1 point chacune), comme la purification d'Anwynn. Changement appliqué sur les deux pages (créateur de personnage et recherche inversée).
+
 ## Beta 0.045
 - Ajout d'une page "Recherche inversée" (`recherche-inversee.html`) : sélectionne plusieurs sorts/items via des cases à cocher (catégories en cases à cocher, résultats cochables) et calcule le niveau et les statistiques minimales requises pour tous les équiper simultanément, en tenant compte de la Renaissance, de la purification d'Anwynn et des quêtes Ebon Hold.
 

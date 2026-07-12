@@ -546,9 +546,9 @@
                     <input type="checkbox" id="quete_anwynn">
                     <label for="quete_anwynn">Purification des ruines d'Anwynn (+5 points)</label>
                 </div>
-                <div class="stat-input">
-                    <label for="quete_ebon_hold">Quêtes Ebon Hold complétées (+1 point chacune)</label>
-                    <input type="number" id="quete_ebon_hold" min="0" max="5" value="0" placeholder="0">
+                <div class="stat-input quest-input">
+                    <input type="checkbox" id="quete_ebon_hold">
+                    <label for="quete_ebon_hold">Quêtes Ebon Hold complétées (+5 points)</label>
                 </div>
             </div>
         </div>
@@ -669,8 +669,8 @@
 
         function getQuestBonusPoints() {
             const anwynnBonus = queteAnwynnInput.checked ? 5 : 0;
-            const ebonHoldCount = Math.min(5, Math.max(0, parseInt(queteEbonHoldInput.value) || 0));
-            return anwynnBonus + ebonHoldCount;
+            const ebonHoldBonus = queteEbonHoldInput.checked ? 5 : 0;
+            return anwynnBonus + ebonHoldBonus;
         }
 
         // Sélection courante : clé __id -> item
@@ -840,7 +840,6 @@
 
         classeSelect.addEventListener('change', refresh);
         queteAnwynnInput.addEventListener('change', updateSummary);
-        queteEbonHoldInput.addEventListener('input', updateSummary);
         queteEbonHoldInput.addEventListener('change', updateSummary);
         categoryCheckboxes.forEach(cb => cb.addEventListener('change', updateResults));
         searchInput.addEventListener('input', updateResults);
