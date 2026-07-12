@@ -1,0 +1,882 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>T4C/Neerya - Recherche Inversée</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background: linear-gradient(135deg, #0f0f0f 0%, #1a1a1a 100%);
+            color: #e0e0e0;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            min-height: 100vh;
+            position: relative;
+        }
+
+        body::before {
+            content: '';
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-image:
+                repeating-linear-gradient(90deg,
+                    transparent,
+                    transparent 2px,
+                    rgba(255, 255, 255, 0.02) 2px,
+                    rgba(255, 255, 255, 0.02) 4px);
+            pointer-events: none;
+            z-index: -1;
+        }
+
+        .container {
+            width: 90%;
+            margin: 0 auto;
+        }
+
+        a {
+            color: #0099ff;
+            text-decoration: none;
+            transition: all 0.2s;
+            border-bottom: 1px solid rgba(0, 153, 255, 0.3);
+        }
+
+        a:hover {
+            color: #00ccff;
+            border-bottom-color: #00ccff;
+        }
+
+        a:visited {
+            color: #6699ff;
+            border-bottom-color: rgba(102, 153, 255, 0.3);
+        }
+
+        a:active {
+            color: #0066cc;
+        }
+
+        header {
+            background: rgba(0, 0, 0, 0.4);
+            border-bottom: 2px solid #0066cc;
+            padding: 20px 0;
+            margin-bottom: 30px;
+            backdrop-filter: blur(10px);
+        }
+
+        .header-content {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            justify-content: space-between;
+        }
+
+        .logo {
+            font-size: 24px;
+            font-weight: bold;
+            color: #0066cc;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        .logo-mark {
+            color: #fff;
+            font-size: 28px;
+            display: inline-block;
+            margin-right: 8px;
+        }
+
+        main {
+            animation: fadeIn 0.4s ease-in;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(10px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .section-title {
+            font-size: 14px;
+            font-weight: 600;
+            text-transform: uppercase;
+            color: #0066cc;
+            letter-spacing: 1px;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid rgba(0, 102, 204, 0.3);
+        }
+
+        .stats-container {
+            max-width: 1100px;
+            margin: 0 auto 35px;
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(0, 102, 204, 0.2);
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        .stats-container h2 {
+            margin: 0;
+            padding: 20px 25px;
+            border-bottom: 1px solid rgba(0, 102, 204, 0.3);
+        }
+
+        .stats-group {
+            display: flex;
+            gap: 12px;
+            padding: 25px;
+            flex-wrap: wrap;
+        }
+
+        .stat-input {
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+            flex: 1 1 0;
+            min-width: 0;
+        }
+
+        .stat-input input,
+        .stat-input select {
+            width: 100%;
+        }
+
+        .stat-input label {
+            font-weight: 600;
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            color: #b0b0b0;
+            white-space: nowrap;
+        }
+
+        .stat-input input,
+        .stat-input select {
+            padding: 8px 10px;
+            background: #2a2a2a;
+            border: 1px solid rgba(0, 102, 204, 0.3);
+            border-radius: 4px;
+            color: #ffffff;
+            font-size: 13px;
+            transition: all 0.2s;
+        }
+
+        .stat-input input:focus,
+        .stat-input select:focus {
+            outline: none;
+            background: #333333;
+            border-color: #0066cc;
+            box-shadow: 0 0 0 2px rgba(0, 102, 204, 0.1);
+        }
+
+        .stat-input input[readonly] {
+            background: rgba(0, 102, 204, 0.15);
+            color: #0099ff;
+            cursor: default;
+        }
+
+        .quest-input {
+            flex-direction: row;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .quest-input label {
+            white-space: normal;
+            text-transform: none;
+            font-size: 13px;
+            color: #ffffff;
+            font-weight: 400;
+        }
+
+        .quest-input input[type="checkbox"] {
+            width: auto;
+            flex: none;
+        }
+
+        .category-group {
+            padding: 0 25px 25px 25px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 6px;
+            max-width: 1100px;
+            margin: 0 auto 35px;
+        }
+
+        .category-group>label.group-title {
+            font-weight: 600;
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            color: #b0b0b0;
+        }
+
+        .category-checkboxes {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px 18px;
+            justify-content: center;
+            padding: 6px 0 0;
+        }
+
+        .category-checkbox {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            font-size: 13px;
+            color: #ffffff;
+            cursor: pointer;
+        }
+
+        .category-checkbox input {
+            width: auto;
+            cursor: pointer;
+        }
+
+        .category-checkbox input:disabled+span {
+            color: #666;
+        }
+
+        .category-group input[type="text"] {
+            padding: 8px 10px;
+            width: 400px;
+            max-width: 100%;
+            background: #2a2a2a;
+            border: 1px solid rgba(0, 102, 204, 0.3);
+            border-radius: 4px;
+            color: #ffffff;
+            font-size: 13px;
+            transition: all 0.2s;
+        }
+
+        .category-group input[type="text"]:hover {
+            border-color: #0066cc;
+            background: #333333;
+        }
+
+        .category-group input[type="text"]:focus {
+            outline: none;
+            border-color: #0066cc;
+            background: #333333;
+            box-shadow: 0 0 0 2px rgba(0, 102, 204, 0.1);
+        }
+
+        .category-group small {
+            color: #b0b0b0;
+            font-size: 11px;
+        }
+
+        #summary {
+            max-width: 1100px;
+            margin: 0 auto 35px;
+        }
+
+        .summary-container {
+            background: rgba(0, 102, 204, 0.08);
+            border: 1px solid rgba(0, 102, 204, 0.3);
+            border-radius: 8px;
+            padding: 20px 25px;
+        }
+
+        .summary-empty {
+            color: #b0b0b0;
+            font-size: 13px;
+        }
+
+        .selected-list {
+            list-style: none;
+            margin: 10px 0 20px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+
+        .selected-chip {
+            background: rgba(0, 102, 204, 0.2);
+            border: 1px solid rgba(0, 102, 204, 0.4);
+            border-radius: 14px;
+            padding: 5px 10px 5px 12px;
+            font-size: 12px;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .selected-chip button {
+            background: none;
+            border: none;
+            color: #ff6666;
+            cursor: pointer;
+            font-size: 13px;
+            font-weight: bold;
+            line-height: 1;
+            padding: 0;
+        }
+
+        .summary-grid {
+            display: flex;
+            gap: 12px;
+            flex-wrap: wrap;
+        }
+
+        .summary-stat {
+            flex: 1 1 100px;
+            background: rgba(255, 255, 255, 0.04);
+            border: 1px solid rgba(0, 102, 204, 0.2);
+            border-radius: 6px;
+            padding: 10px 12px;
+            text-align: center;
+        }
+
+        .summary-stat .label {
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            color: #b0b0b0;
+            margin-bottom: 4px;
+        }
+
+        .summary-stat .value {
+            font-size: 20px;
+            font-weight: 700;
+            color: #0099ff;
+        }
+
+        .summary-stat.niveau .value {
+            color: #ffcc66;
+        }
+
+        #results {
+            margin-top: 35px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 13px;
+            background: rgba(255, 255, 255, 0.02);
+            border: 1px solid rgba(0, 102, 204, 0.2);
+            border-radius: 6px;
+        }
+
+        table thead {
+            background: #1a2e42;
+            position: sticky;
+            top: 0;
+            z-index: 10;
+        }
+
+        table thead th {
+            background: #1a2e42;
+        }
+
+        table th {
+            padding: 14px 12px;
+            text-align: left;
+            font-weight: 600;
+            color: #0099ff;
+            text-transform: uppercase;
+            font-size: 11px;
+            letter-spacing: 0.5px;
+            border-bottom: 1px solid rgba(0, 102, 204, 0.3);
+            white-space: nowrap;
+        }
+
+        table tbody tr {
+            border-bottom: 1px solid rgba(0, 102, 204, 0.1);
+            transition: background 0.15s;
+        }
+
+        table tbody tr:nth-child(odd) {
+            background: rgba(255, 255, 255, 0.01);
+        }
+
+        table tbody tr:hover {
+            background: rgba(0, 102, 204, 0.1);
+        }
+
+        table tbody tr.is-selected {
+            background: rgba(0, 102, 204, 0.18);
+        }
+
+        table td {
+            padding: 12px;
+            color: #d0d0d0;
+        }
+
+        table td:first-child {
+            padding-left: 16px;
+            text-align: center;
+        }
+
+        table td:last-child {
+            padding-right: 16px;
+        }
+
+        table td input[type="checkbox"] {
+            width: 16px;
+            height: 16px;
+            cursor: pointer;
+        }
+
+        .message {
+            margin-top: 20px;
+            padding: 16px 20px;
+            background: rgba(0, 102, 204, 0.1);
+            border: 1px solid rgba(0, 102, 204, 0.3);
+            border-radius: 6px;
+            color: #0099ff;
+            text-align: center;
+            font-size: 14px;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                width: 94%;
+            }
+
+            header {
+                padding: 15px 0;
+                margin-bottom: 20px;
+            }
+
+            .header-content {
+                flex-direction: column;
+                text-align: center;
+                gap: 10px;
+            }
+
+            .header-content>div[style] {
+                text-align: center !important;
+            }
+
+            .logo {
+                font-size: 20px;
+            }
+
+            .stats-container h2 {
+                padding: 16px 18px;
+            }
+
+            .stats-group {
+                padding: 18px;
+                gap: 14px;
+            }
+
+            .category-group {
+                padding: 0 18px 20px;
+            }
+
+            .category-group input[type="text"] {
+                width: 100%;
+            }
+
+            #results {
+                overflow-x: auto;
+                -webkit-overflow-scrolling: touch;
+            }
+
+            table {
+                min-width: 640px;
+                font-size: 12px;
+            }
+
+            table th,
+            table td {
+                padding: 10px 8px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    <span class="logo-mark">⚔️</span>T4C Neerya
+                </div>
+                <div style="text-align: right;">
+                    <span style="color: #666; font-size: 12px;">RECHERCHE INVERSÉE <span
+                            style="color: #b8860b;">Beta 0.045</span></span>
+                    <div style="font-size: 11px; margin-top: 4px;">
+                        <a href="index.html">Créateur de personnage</a>
+                        <span style="color: #444;"> · </span>
+                        <a href="https://github.com/mvez73/T4C-builder-Neerya" target="_blank" rel="noopener noreferrer">Projet GitHub</a>
+                        <span style="color: #444;"> · </span>
+                        <a href="https://github.com/mvez73/T4C-builder-Neerya/blob/main/CHANGELOG.md" target="_blank"
+                            rel="noopener noreferrer">Changelog</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+
+        <div class="stats-container">
+            <h2 class="section-title">Personnage</h2>
+            <div class="stats-group">
+                <div class="stat-input">
+                    <label for="classe">Renaissance</label>
+                    <select id="classe">
+                        <option value="humain">Humain</option>
+                        <option value="renaissance1">Renaissance 1</option>
+                        <option value="renaissance2">Renaissance 2</option>
+                    </select>
+                </div>
+            </div>
+            <div class="stats-group">
+                <div class="stat-input quest-input">
+                    <input type="checkbox" id="quete_anwynn">
+                    <label for="quete_anwynn">Purification des ruines d'Anwynn (+5 points)</label>
+                </div>
+                <div class="stat-input">
+                    <label for="quete_ebon_hold">Quêtes Ebon Hold complétées (+1 point chacune)</label>
+                    <input type="number" id="quete_ebon_hold" min="0" max="5" value="0" placeholder="0">
+                </div>
+            </div>
+        </div>
+
+        <div class="category-group">
+            <label class="group-title">Catégories</label>
+            <div class="category-checkboxes" id="category-checkboxes">
+                <label class="category-checkbox"><input type="checkbox" value="sorts" checked><span>Sorts</span></label>
+                <label class="category-checkbox"><input type="checkbox" value="competences" checked><span>Compétences</span></label>
+                <label class="category-checkbox"><input type="checkbox" value="arcs" checked><span>Arc et Flèches</span></label>
+                <label class="category-checkbox"><input type="checkbox" value="melees" checked><span>Armes de Mêlée</span></label>
+                <label class="category-checkbox"><input type="checkbox" value="robes" checked><span>Robes</span></label>
+                <label class="category-checkbox"><input type="checkbox" value="capes" id="option-capes" checked><span>Capes</span></label>
+                <label class="category-checkbox"><input type="checkbox" value="armures" checked><span>Armures</span></label>
+                <label class="category-checkbox"><input type="checkbox" value="bijoux" checked><span>Bijoux et Orbes</span></label>
+            </div>
+        </div>
+
+        <div class="category-group">
+            <label for="search-input" class="group-title">Recherche</label>
+            <input type="text" id="search-input" placeholder="Ex: puissance lumière, puissance terre">
+            <small>Sépare les mots par un espace (ET). Sépare les groupes par une virgule (OU). Coche les sorts/items désirés dans les résultats.</small>
+        </div>
+
+        <div id="summary"></div>
+
+        <div id="results"></div>
+    </main>
+
+    <script>
+        const classeSelect = document.getElementById('classe');
+        const queteAnwynnInput = document.getElementById('quete_anwynn');
+        const queteEbonHoldInput = document.getElementById('quete_ebon_hold');
+        const categoryCheckboxes = Array.from(document.querySelectorAll('#category-checkboxes input[type="checkbox"]'));
+        const capesCheckbox = document.getElementById('option-capes');
+        const searchInput = document.getElementById('search-input');
+        const summaryDiv = document.getElementById('summary');
+        const resultsDiv = document.getElementById('results');
+
+        // Configuration des classes (identique à l'outil principal)
+        const classes = {
+            humain: { base: 20, nom: 'Humain' },
+            renaissance1: { base: 25, nom: 'Renaissance 1' },
+            renaissance2: { base: 30, nom: 'Renaissance 2' }
+        };
+
+        const statNames = ['force', 'endurance', 'dexterite', 'sagesse', 'intelligence'];
+        const statLabels = { force: 'For', endurance: 'End', dexterite: 'Dex', sagesse: 'Sag', intelligence: 'Int' };
+
+        const categoryLabels = {
+            sorts: 'Sort',
+            competences: 'Compétence',
+            arcs: 'Arc/Flèches',
+            melees: 'Arme de mêlée',
+            robes: 'Robe',
+            capes: 'Cape',
+            armures: 'Armure',
+            bijoux: 'Bijou/Orbe'
+        };
+
+        // Champs spécifiques par catégorie utilisés pour construire la colonne "Détails"
+        const detailFields = {
+            sorts: [['mana', 'Mana'], ['pc', 'PC'], ['prix', 'Prix']],
+            competences: [['conditions', 'Conditions']],
+            arcs: [['sous_type', 'Type'], ['degats_min', 'Dégâts min'], ['degats_max', 'Dégâts max'], ['vitesse', 'Vitesse'], ['bonus', 'Bonus'], ['prix', 'Prix']],
+            melees: [['classe', 'Classe'], ['degats_min', 'Dégâts min'], ['degats_max', 'Dégâts max'], ['vitesse', 'Vitesse'], ['prix', 'Prix']],
+            robes: [['armure', 'CA'], ['prix', 'Prix']],
+            capes: [['armure', 'CA'], ['prix', 'Prix']],
+            armures: [['_type', 'Emplacement'], ['ca', 'CA'], ['prix', 'Prix']],
+            bijoux: [['type', 'Type'], ['ca', 'CA'], ['ile', 'Île']]
+        };
+
+        function buildDetails(category, item) {
+            const fields = detailFields[category] || [];
+            return fields
+                .map(([key, label]) => {
+                    const value = item[key];
+                    if (value === undefined || value === null || value === '') return null;
+                    return `${label}: ${Array.isArray(value) ? value.join(', ') : value}`;
+                })
+                .filter(Boolean)
+                .join(' · ');
+        }
+
+        function getDescription(item) {
+            return item.informations || item.description || '';
+        }
+
+        function getObtention(item) {
+            return item.obtention || item.apprentissage || item['entraînement'] || '';
+        }
+
+        // Chargement des données, avec assignation d'un identifiant stable par item
+        const dataCache = {};
+
+        async function loadData(category) {
+            if (dataCache[category]) {
+                return dataCache[category];
+            }
+
+            try {
+                const response = await fetch(`${category}.json?t=${Date.now()}`, { cache: 'no-store' });
+                if (!response.ok) throw new Error(`Impossible de charger ${category}.json`);
+                const data = await response.json();
+                const items = Array.isArray(data) ? data : [data];
+                items.forEach((item, i) => {
+                    item.__id = `${category}#${i}`;
+                    item.__category = category;
+                });
+                dataCache[category] = items;
+                return items;
+            } catch (error) {
+                console.error(error);
+                resultsDiv.innerHTML = `<div class="message">Erreur : ${error.message}</div>`;
+                return null;
+            }
+        }
+
+        function getQuestBonusPoints() {
+            const anwynnBonus = queteAnwynnInput.checked ? 5 : 0;
+            const ebonHoldCount = Math.min(5, Math.max(0, parseInt(queteEbonHoldInput.value) || 0));
+            return anwynnBonus + ebonHoldCount;
+        }
+
+        // Sélection courante : clé __id -> item
+        const selectedItems = new Map();
+
+        function normalizeText(text) {
+            return text
+                .toString()
+                .toLowerCase()
+                .normalize('NFD')
+                .replace(/[̀-ͯ]/g, '');
+        }
+
+        function getItemSearchText(item) {
+            return normalizeText(Object.entries(item)
+                .filter(([k]) => k !== '_type' && k !== '__id' && k !== '__category')
+                .map(([, v]) => Array.isArray(v) ? v.join(' ') : v)
+                .join(' '));
+        }
+
+        function matchesSearch(item, searchValue) {
+            const query = searchValue.trim();
+            if (!query) return true;
+
+            const itemText = getItemSearchText(item);
+
+            const groups = query.split(',').map(g => g.trim()).filter(g => g);
+            if (groups.length === 0) return true;
+
+            return groups.some(group => {
+                const words = normalizeText(group).split(/\s+/).filter(w => w);
+                return words.every(word => itemText.includes(word));
+            });
+        }
+
+        function updateCapesAvailability() {
+            const classe = classeSelect.value;
+            const hasAiles = classe === 'renaissance1' || classe === 'renaissance2';
+
+            capesCheckbox.disabled = hasAiles;
+            if (hasAiles && capesCheckbox.checked) {
+                capesCheckbox.checked = false;
+            }
+        }
+
+        function getSelectedCategories() {
+            return categoryCheckboxes.filter(cb => cb.checked && !cb.disabled).map(cb => cb.value);
+        }
+
+        async function updateResults() {
+            const categories = getSelectedCategories();
+
+            if (categories.length === 0) {
+                resultsDiv.innerHTML = '<div class="message">Coche au moins une catégorie.</div>';
+                return;
+            }
+
+            const allData = await Promise.all(categories.map(loadData));
+            if (allData.some(d => !d)) return;
+
+            const combined = allData.flat();
+            const searchValue = searchInput.value;
+            const filtered = combined.filter(item => matchesSearch(item, searchValue));
+
+            if (filtered.length === 0) {
+                resultsDiv.innerHTML = '<div class="message">Aucun sort ou item trouvé avec cette recherche.</div>';
+                return;
+            }
+
+            let html = '<table><thead><tr>';
+            html += '<th></th><th>Catégorie</th><th>Nom</th><th>Unique Neerya</th><th>Niveau</th>';
+            statNames.forEach(s => html += `<th>${statLabels[s]}</th>`);
+            html += '<th>Détails</th><th>Informations</th><th>Obtention</th>';
+            html += '</tr></thead><tbody>';
+
+            filtered.forEach(item => {
+                const isSelected = selectedItems.has(item.__id);
+                const niveau = item.niveau || 0;
+                html += `<tr class="${isSelected ? 'is-selected' : ''}">`;
+                html += `<td><input type="checkbox" data-id="${item.__id}" ${isSelected ? 'checked' : ''}></td>`;
+                html += `<td>${categoryLabels[item.__category] || item.__category}</td>`;
+                html += `<td>${item.nom || '-'}</td>`;
+                html += `<td>${item.unique_neerya === true ? 'Oui' : 'Non'}</td>`;
+                html += `<td>${niveau || '-'}</td>`;
+                statNames.forEach(s => {
+                    const val = item[`${s}_req`];
+                    html += `<td>${val ? val : '-'}</td>`;
+                });
+                html += `<td>${buildDetails(item.__category, item) || '-'}</td>`;
+                html += `<td>${getDescription(item) || '-'}</td>`;
+                html += `<td>${getObtention(item) || '-'}</td>`;
+                html += '</tr>';
+            });
+
+            html += '</tbody></table>';
+            resultsDiv.innerHTML = html;
+
+            const links = resultsDiv.querySelectorAll('a');
+            links.forEach(link => {
+                link.setAttribute('target', '_blank');
+                link.setAttribute('rel', 'noopener noreferrer');
+            });
+        }
+
+        function computeRequiredLevel() {
+            const classe = classeSelect.value;
+            const base = classes[classe].base;
+            const bonusPoints = getQuestBonusPoints();
+
+            // Exigence maximale par stat et niveau maximal, sur tous les sorts/items sélectionnés
+            const maxStats = {};
+            statNames.forEach(s => maxStats[s] = 0);
+            let maxNiveau = 0;
+
+            selectedItems.forEach(item => {
+                statNames.forEach(s => {
+                    const req = item[`${s}_req`] || 0;
+                    if (req > maxStats[s]) maxStats[s] = req;
+                });
+                if ((item.niveau || 0) > maxNiveau) maxNiveau = item.niveau;
+            });
+
+            // Stats minimales pour respecter chaque exigence (jamais sous la base de la classe)
+            const minStats = {};
+            statNames.forEach(s => minStats[s] = Math.max(base, maxStats[s]));
+
+            const total = statNames.reduce((sum, s) => sum + minStats[s], 0) - bonusPoints;
+            const excess = Math.max(0, total - base * statNames.length);
+            const levelFromStats = 1 + Math.ceil(excess / 5);
+
+            const requiredLevel = Math.max(levelFromStats, maxNiveau, 1);
+
+            return { minStats, maxStats, requiredLevel };
+        }
+
+        function updateSummary() {
+            if (selectedItems.size === 0) {
+                summaryDiv.innerHTML = '<div class="summary-container"><div class="summary-empty">Coche un ou plusieurs sorts/items dans les résultats ci-dessous pour calculer le niveau et les statistiques requises.</div></div>';
+                return;
+            }
+
+            const { minStats, requiredLevel } = computeRequiredLevel();
+
+            let html = '<div class="summary-container">';
+            html += '<ul class="selected-list">';
+            selectedItems.forEach(item => {
+                html += `<li class="selected-chip">${categoryLabels[item.__category] || item.__category} : ${item.nom || '-'}<button data-remove-id="${item.__id}" title="Retirer">×</button></li>`;
+            });
+            html += '</ul>';
+
+            html += '<div class="summary-grid">';
+            html += `<div class="summary-stat niveau"><div class="label">Niveau requis</div><div class="value">${requiredLevel}</div></div>`;
+            statNames.forEach(s => {
+                html += `<div class="summary-stat"><div class="label">${statLabels[s]}</div><div class="value">${minStats[s]}</div></div>`;
+            });
+            html += '</div>';
+            html += '</div>';
+
+            summaryDiv.innerHTML = html;
+        }
+
+        function refresh() {
+            updateCapesAvailability();
+            updateSummary();
+            updateResults();
+        }
+
+        classeSelect.addEventListener('change', refresh);
+        queteAnwynnInput.addEventListener('change', updateSummary);
+        queteEbonHoldInput.addEventListener('input', updateSummary);
+        queteEbonHoldInput.addEventListener('change', updateSummary);
+        categoryCheckboxes.forEach(cb => cb.addEventListener('change', updateResults));
+        searchInput.addEventListener('input', updateResults);
+
+        resultsDiv.addEventListener('change', (e) => {
+            const checkbox = e.target.closest('input[type="checkbox"][data-id]');
+            if (!checkbox) return;
+
+            const id = checkbox.dataset.id;
+            const [category] = id.split('#');
+            const item = (dataCache[category] || []).find(it => it.__id === id);
+            if (!item) return;
+
+            if (checkbox.checked) {
+                selectedItems.set(id, item);
+            } else {
+                selectedItems.delete(id);
+            }
+
+            checkbox.closest('tr').classList.toggle('is-selected', checkbox.checked);
+            updateSummary();
+        });
+
+        summaryDiv.addEventListener('click', (e) => {
+            const btn = e.target.closest('button[data-remove-id]');
+            if (!btn) return;
+
+            const id = btn.dataset.removeId;
+            selectedItems.delete(id);
+            updateSummary();
+            updateResults();
+        });
+
+        // Initialisation
+        refresh();
+    </script>
+</body>
+
+</html>
