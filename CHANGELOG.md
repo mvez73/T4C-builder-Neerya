@@ -2,6 +2,9 @@
 
 Toutes les modifications notables de ce projet sont documentées ici.
 
+## Beta 0.047
+- Correction du rendu Safari (fond blanc + texte illisible pendant le rebond élastique iOS) : le dégradé sombre est maintenant appliqué à `html` en plus de `body` sur les deux pages.
+
 ## Beta 0.046
 - La quête Ebon Hold utilise maintenant une case à cocher (+5 points) au lieu d'un compteur de quêtes complétées (+1 point chacune), comme la purification d'Anwynn. Changement appliqué sur les deux pages (créateur de personnage et recherche inversée).
 
