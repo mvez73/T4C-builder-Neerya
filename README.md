@@ -1,4 +1,8 @@
-![GitHub deployments](https://img.shields.io/github/deployments/mvez73/T4C-builder-Neerya/github-pages) ![GitHub License](https://img.shields.io/github/license/mvez73/T4C-builder-Neerya) ![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fmvez73.github.io%2FT4C-builder-Neerya%2F) ![Top Language](https://img.shields.io/github/languages/top/mvez73/T4C-builder-Neerya)
+![GitHub deployments](https://img.shields.io/github/deployments/mvez73/T4C-builder-Neerya/github-pages) ![GitHub License](https://img.shields.io/github/license/mvez73/T4C-builder-Neerya) ![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fmvez73.github.io%2FT4C-builder-Neerya%2F) [![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Site-brightgreen?logo=googlechrome&logoColor=white)](https://mvez73.github.io/T4C-builder-Neerya/)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 
 # T4C Neerya - Créateur de personnage
