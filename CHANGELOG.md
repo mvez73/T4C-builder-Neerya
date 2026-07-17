@@ -2,6 +2,9 @@
 
 Toutes les modifications notables de ce projet sont documentées ici.
 
+## Beta 0.048
+- Correction de 5 erreurs de validation HTML (validator.nu) : les attributs `for` des labels de stats (Force, Endurance, Dextérité, Sagesse, Intelligence) pointaient vers un ID inexistant au lieu de l'ID réel des champs (`*_req`).
+
 ## Beta 0.047
 - Correction du rendu Safari (fond blanc + texte illisible pendant le rebond élastique iOS) : le dégradé sombre est maintenant appliqué à `html` en plus de `body` sur les deux pages.
 

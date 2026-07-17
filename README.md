@@ -1,3 +1,6 @@
+![GitHub deployments](https://img.shields.io/github/deployments/mvez73/T4C-builder-Neerya/github-pages) ![GitHub License](https://img.shields.io/github/license/mvez73/T4C-builder-Neerya) ![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fmvez73.github.io%2FT4C-builder-Neerya%2F)
+
+
 # T4C Neerya - Créateur de personnage
 
 Outil statique (page unique) pour **T4C-Neerya**, un serveur privé de The 4th Coming. On entre les statistiques de son personnage (Force, Endurance, Dextérité, Sagesse, Intelligence) et sa Renaissance, et l'outil calcule le niveau du personnage puis filtre une catégorie d'objets/sorts pour ne montrer que ce qui est utilisable actuellement.
